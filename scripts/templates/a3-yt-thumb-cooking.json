@@ -1,0 +1,276 @@
+{
+ "id": "a3-yt-thumb-cooking",
+ "title": "Warm Cooking Recipe Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "food"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "cooking",
+  "recipe",
+  "food",
+  "ramen",
+  "quick meals",
+  "kitchen"
+ ],
+ "styleTags": [
+  "warm",
+  "serif",
+  "appetising"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1994,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Fraunces",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#FFF1DE",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 590,
+     "y": 30,
+     "w": 760,
+     "h": 760,
+     "fill": "#F2B33D",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 626,
+     "y": 66,
+     "w": 688,
+     "h": 688,
+     "fill": "#FFFFFF",
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 656,
+     "y": 96,
+     "w": 628,
+     "h": 628,
+     "shape": "ellipse",
+     "name": "Dish photo",
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#F6D2A2",
+        0
+       ],
+       [
+        "#E39A55",
+        1
+       ]
+      ]
+     },
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 50,
+     "w": 600,
+     "h": 120,
+     "text": "Crispy",
+     "family": "Fraunces",
+     "size": 128,
+     "weight": 700,
+     "color": "#3A1E12",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 196,
+     "w": 600,
+     "h": 100,
+     "text": "Chilli Ramen",
+     "family": "Fraunces",
+     "size": 82,
+     "weight": 700,
+     "color": "#3A1E12",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 290,
+     "w": 600,
+     "h": 140,
+     "text": "15 min",
+     "family": "Fraunces",
+     "size": 140,
+     "weight": 700,
+     "color": "#E2492F",
+     "lineHeight": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 484,
+     "w": 46,
+     "h": 46,
+     "fill": "#3A1E12"
+    },
+    {
+     "kind": "icon",
+     "icon": "clock",
+     "x": 70,
+     "y": 494,
+     "w": 26,
+     "color": "#FFF1DE"
+    },
+    {
+     "kind": "text",
+     "x": 124,
+     "y": 484,
+     "w": 460,
+     "h": 46,
+     "text": "Ready before the water boils",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#3A1E12",
+     "lineHeight": 1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 546,
+     "w": 46,
+     "h": 46,
+     "fill": "#3A1E12"
+    },
+    {
+     "kind": "icon",
+     "icon": "flame",
+     "x": 70,
+     "y": 556,
+     "w": 26,
+     "color": "#FFF1DE"
+    },
+    {
+     "kind": "text",
+     "x": 124,
+     "y": 546,
+     "w": 460,
+     "h": 46,
+     "text": "One pan, six ingredients",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#3A1E12",
+     "lineHeight": 1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 608,
+     "w": 46,
+     "h": 46,
+     "fill": "#3A1E12"
+    },
+    {
+     "kind": "icon",
+     "icon": "coin",
+     "x": 70,
+     "y": 618,
+     "w": 26,
+     "color": "#FFF1DE"
+    },
+    {
+     "kind": "text",
+     "x": 124,
+     "y": 608,
+     "w": 460,
+     "h": 46,
+     "text": "$3.40 a bowl",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#3A1E12",
+     "lineHeight": 1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 560,
+     "y": 40,
+     "w": 170,
+     "h": 170,
+     "fill": "#E2492F"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 40,
+     "w": 170,
+     "h": 170,
+     "text": "NO\nOVEN",
+     "family": "DM Sans",
+     "size": 34,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.05,
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "One word"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "Up to 12 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline line 3",
+   "hint": "Time or promise"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Fact 1",
+   "hint": "Short line"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Fact 3",
+   "hint": "Price or serving"
+  }
+ ]
+}

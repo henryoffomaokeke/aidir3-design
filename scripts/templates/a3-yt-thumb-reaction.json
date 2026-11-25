@@ -1,0 +1,248 @@
+{
+ "id": "a3-yt-thumb-reaction",
+ "title": "Reaction YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "marketing"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "reaction",
+  "shocked",
+  "diy",
+  "gadget",
+  "experiment",
+  "arrow"
+ ],
+ "styleTags": [
+  "bold",
+  "yellow",
+  "high contrast"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1989,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Archivo",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#FFD60A",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 680,
+     "y": 0,
+     "w": 600,
+     "h": 720,
+     "shape": "rect",
+     "name": "Your shocked face",
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#F2C94C",
+        0
+       ],
+       [
+        "#E0A526",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       0
+      ],
+      [
+       810,
+       0
+      ],
+      [
+       710,
+       720
+      ],
+      [
+       0,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       800,
+       0
+      ],
+      [
+       880,
+       0
+      ],
+      [
+       780,
+       720
+      ],
+      [
+       700,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#111111"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 48,
+     "w": 640,
+     "h": 140,
+     "text": "IT ACTUALLY",
+     "family": "Anton",
+     "size": 136,
+     "weight": 400,
+     "color": "#111111",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 186,
+     "w": 720,
+     "h": 190,
+     "text": "WORKED?!",
+     "family": "Anton",
+     "size": 172,
+     "weight": 400,
+     "color": "#E5202E",
+     "lineHeight": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 64,
+     "y": 436,
+     "w": 236,
+     "h": 236,
+     "fill": "#E5202E"
+    },
+    {
+     "kind": "photo",
+     "x": 76,
+     "y": 448,
+     "w": 212,
+     "h": 212,
+     "shape": "ellipse",
+     "name": "Product photo",
+     "fill": "#FFF4C2"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 470,
+       "y": 420,
+       "cOut": {
+        "x": 470,
+        "y": 520
+       }
+      },
+      {
+       "x": 316,
+       "y": 548,
+       "cIn": {
+        "x": 400,
+        "y": 560
+       }
+      }
+     ],
+     "stroke": "#E5202E",
+     "strokeWidth": 16,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       292,
+       553
+      ],
+      [
+       340,
+       512
+      ],
+      [
+       344,
+       580
+      ]
+     ],
+     "closed": true,
+     "fill": "#E5202E"
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 612,
+     "w": 300,
+     "h": 60,
+     "fill": "#111111"
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 612,
+     "w": 300,
+     "h": 60,
+     "text": "$5 SOLAR KIT · DAY 30",
+     "family": "Archivo",
+     "size": 24,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.2,
+     "align": "center",
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "One or two words, caps"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline line 2 (shock)",
+   "hint": "One word plus ?! reads best"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Caption chip",
+   "hint": "Under 24 characters"
+  }
+ ]
+}

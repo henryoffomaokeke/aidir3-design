@@ -1,0 +1,160 @@
+{
+ "id": "a3-lib-card-reverse",
+ "title": "BasketGo: Business Card Front (Reversed Colour)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "reversed colour",
+  "grocery delivery",
+  "sale & offers"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#34D399",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 440,
+     "y": 126,
+     "w": 73,
+     "h": 73,
+     "stroke": "#04251C",
+     "strokeWidth": 13.9
+    },
+    {
+     "kind": "rect",
+     "x": 531,
+     "y": 120,
+     "w": 87,
+     "h": 87,
+     "fill": "#04251C",
+     "radius": 10.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 433,
+     "y": 217,
+     "w": 87,
+     "h": 87,
+     "fill": "#04251C"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       574.5,
+       217
+      ],
+      [
+       618,
+       304
+      ],
+      [
+       531,
+       304
+      ]
+     ],
+     "closed": true,
+     "fill": "#04251C",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 225,
+     "y": 319.5,
+     "w": 600,
+     "h": 61,
+     "text": "BasketGo",
+     "family": "Figtree",
+     "size": 50,
+     "weight": 700,
+     "color": "#04251C",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 309,
+     "y": 399.7,
+     "w": 432,
+     "h": 18,
+     "text": "Grocery delivery",
+     "family": "DM Sans",
+     "size": 15,
+     "weight": 700,
+     "color": "#04251C",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 225,
+     "y": 505.2,
+     "w": 600,
+     "h": 27,
+     "text": "basketgo.ng",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#04251C",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 4,
+     "upper": true,
+     "opacity": 0.85
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

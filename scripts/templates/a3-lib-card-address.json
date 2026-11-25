@@ -1,0 +1,184 @@
+{
+ "id": "a3-lib-card-address",
+ "title": "An-Noor Community: Business Card Back (Address & Hours)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card back",
+  "address & hours",
+  "ramadan & eid",
+  "faith & community"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bodoni Moda",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EAFBFB",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 170,
+     "w": 260,
+     "h": 260,
+     "fill": "#00A8A8",
+     "opacity": 0.14
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 130,
+     "y": 230,
+     "w": 140,
+     "h": 140,
+     "color": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 380,
+     "y": 106.5,
+     "w": 400,
+     "h": 25,
+     "text": "VISIT US",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#00A8A8",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 380,
+     "y": 152,
+     "w": 600,
+     "h": 52,
+     "text": "An-Noor Central Mosque",
+     "family": "Bodoni Moda",
+     "size": 42,
+     "weight": 800,
+     "color": "#0F2E33",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 380,
+     "y": 228.2,
+     "w": 600,
+     "h": 27,
+     "text": "Mon – Sat  ·  9am – 6pm",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#4F7377",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 380,
+     "y": 310,
+     "w": 28,
+     "h": 28,
+     "color": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 423,
+     "y": 297.9,
+     "w": 557,
+     "h": 45,
+     "text": "+234 804 555 4914",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#0F2E33",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 380,
+     "y": 366,
+     "w": 28,
+     "h": 28,
+     "color": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 423,
+     "y": 353.9,
+     "w": 557,
+     "h": 45,
+     "text": "annoor.org",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#0F2E33",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

@@ -1,0 +1,725 @@
+{
+ "id": "a3-lib-poster-conference",
+ "title": "AI Summit Poster",
+ "categories": [
+  "technology",
+  "print"
+ ],
+ "tags": [
+  "conference",
+  "ai",
+  "summit",
+  "poster",
+  "speakers",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1800,
+  2400
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 1612.02,
+       "y": 138.29,
+       "cIn": {
+        "x": 1566.88,
+        "y": 101.65
+       },
+       "cOut": {
+        "x": 1657.16,
+        "y": 174.93
+       }
+      },
+      {
+       "x": 1708.26,
+       "y": 270.54,
+       "cIn": {
+        "x": 1688.86,
+        "y": 219.9
+       },
+       "cOut": {
+        "x": 1727.66,
+        "y": 321.17
+       }
+      },
+      {
+       "x": 1713.11,
+       "y": 423.11,
+       "cIn": {
+        "x": 1734.75,
+        "y": 377.47
+       },
+       "cOut": {
+        "x": 1691.48,
+        "y": 468.75
+       }
+      },
+      {
+       "x": 1587.03,
+       "y": 533.71,
+       "cIn": {
+        "x": 1641.12,
+        "y": 503.73
+       },
+       "cOut": {
+        "x": 1532.94,
+        "y": 563.69
+       }
+      },
+      {
+       "x": 1414.69,
+       "y": 594,
+       "cIn": {
+        "x": 1475.12,
+        "y": 588.67
+       },
+       "cOut": {
+        "x": 1354.26,
+        "y": 599.33
+       }
+      },
+      {
+       "x": 1247.57,
+       "y": 550.03,
+       "cIn": {
+        "x": 1291.22,
+        "y": 585.01
+       },
+       "cOut": {
+        "x": 1203.93,
+        "y": 515.05
+       }
+      },
+      {
+       "x": 1172.22,
+       "y": 403.46,
+       "cIn": {
+        "x": 1179.68,
+        "y": 459.42
+       },
+       "cOut": {
+        "x": 1164.76,
+        "y": 347.49
+       }
+      },
+      {
+       "x": 1203.56,
+       "y": 246.22,
+       "cIn": {
+        "x": 1174.09,
+        "y": 291.19
+       },
+       "cOut": {
+        "x": 1233.03,
+        "y": 201.25
+       }
+      },
+      {
+       "x": 1334.49,
+       "y": 133.96,
+       "cIn": {
+        "x": 1282.64,
+        "y": 167.6
+       },
+       "cOut": {
+        "x": 1386.34,
+        "y": 100.31
+       }
+      },
+      {
+       "x": 1493.77,
+       "y": 74.66,
+       "cIn": {
+        "x": 1440.8,
+        "y": 66.67
+       },
+       "cOut": {
+        "x": 1546.74,
+        "y": 82.66
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#60A5FA",
+     "opacity": 0.3,
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133,
+     "y": 133,
+     "w": 100,
+     "h": 100,
+     "fill": "#1D4ED8"
+    },
+    {
+     "kind": "icon",
+     "icon": "device-desktop",
+     "x": 158,
+     "y": 158,
+     "w": 50,
+     "h": 50,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 263,
+     "y": 123.9,
+     "w": 870,
+     "h": 100,
+     "text": "AI Builders Africa",
+     "family": "Inter",
+     "size": 43,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 306.9,
+     "w": 1534,
+     "h": 53,
+     "text": "Annual conference",
+     "family": "Inter",
+     "size": 43,
+     "weight": 700,
+     "color": "#1D4ED8",
+     "lineHeight": 1.15,
+     "letterSpacing": 8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 367.2,
+     "w": 1534,
+     "h": 408,
+     "text": "AI Builders Summit 2027",
+     "family": "Space Grotesk",
+     "size": 200,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "icon",
+     "icon": "calendar",
+     "x": 133,
+     "y": 872,
+     "w": 58,
+     "h": 58,
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 223,
+     "y": 843.5,
+     "w": 677,
+     "h": 93,
+     "text": "18–19 March 2027",
+     "family": "Inter",
+     "size": 50,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 900,
+     "y": 872,
+     "w": 58,
+     "h": 58,
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 990,
+     "y": 843.5,
+     "w": 677,
+     "h": 93,
+     "text": "Nairobi + online",
+     "family": "Inter",
+     "size": 50,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1021.6,
+     "w": 1534,
+     "h": 67,
+     "text": "Speakers",
+     "family": "Inter",
+     "size": 40,
+     "weight": 700,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 7,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 413,
+     "y": 1130,
+     "w": 207,
+     "h": 207,
+     "shape": "ellipse",
+     "fill": "#DEDEDE",
+     "name": "Photo: african woman founder portrait"
+    },
+    {
+     "kind": "ellipse",
+     "x": 413,
+     "y": 1130,
+     "w": 207,
+     "h": 207,
+     "stroke": "#1D4ED8",
+     "strokeWidth": 8,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1350.1,
+     "w": 767,
+     "h": 67,
+     "text": "Adaeze Okafor",
+     "family": "Inter",
+     "size": 47,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1419.6,
+     "w": 767,
+     "h": 57,
+     "text": "Founder, Kora Health",
+     "family": "Inter",
+     "size": 35,
+     "weight": 400,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 1180,
+     "y": 1130,
+     "w": 207,
+     "h": 207,
+     "shape": "ellipse",
+     "fill": "#DEDEDE",
+     "name": "Photo: african man tech executive portrait"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1180,
+     "y": 1130,
+     "w": 207,
+     "h": 207,
+     "stroke": "#60A5FA",
+     "strokeWidth": 8,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 900,
+     "y": 1350.1,
+     "w": 767,
+     "h": 67,
+     "text": "Kwame Mensah",
+     "family": "Inter",
+     "size": 47,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 900,
+     "y": 1419.6,
+     "w": 767,
+     "h": 57,
+     "text": "CTO, Orbit AI",
+     "family": "Inter",
+     "size": 35,
+     "weight": 400,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 413,
+     "y": 1504,
+     "w": 207,
+     "h": 207,
+     "shape": "ellipse",
+     "fill": "#DEDEDE",
+     "name": "Photo: middle eastern woman engineer portrait"
+    },
+    {
+     "kind": "ellipse",
+     "x": 413,
+     "y": 1504,
+     "w": 207,
+     "h": 207,
+     "stroke": "#1D4ED8",
+     "strokeWidth": 8,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1723.1,
+     "w": 767,
+     "h": 67,
+     "text": "Lina Haddad",
+     "family": "Inter",
+     "size": 47,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1792.6,
+     "w": 767,
+     "h": 57,
+     "text": "ML lead, Northwind",
+     "family": "Inter",
+     "size": 35,
+     "weight": 400,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 1180,
+     "y": 1504,
+     "w": 207,
+     "h": 207,
+     "shape": "ellipse",
+     "fill": "#DEDEDE",
+     "name": "Photo: latino man investor portrait"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1180,
+     "y": 1504,
+     "w": 207,
+     "h": 207,
+     "stroke": "#60A5FA",
+     "strokeWidth": 8,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 900,
+     "y": 1723.1,
+     "w": 767,
+     "h": 67,
+     "text": "Tomás Rivera",
+     "family": "Inter",
+     "size": 47,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 900,
+     "y": 1792.6,
+     "w": 767,
+     "h": 57,
+     "text": "Partner, Seedline VC",
+     "family": "Inter",
+     "size": 35,
+     "weight": 400,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 133,
+     "y": 1960,
+     "w": 489,
+     "h": 107,
+     "fill": "#1D4ED8",
+     "radius": 53.5,
+     "opacity": 0.12
+    },
+    {
+     "kind": "rect",
+     "x": 133,
+     "y": 1960,
+     "w": 489,
+     "h": 107,
+     "radius": 53.5,
+     "stroke": "#1D4ED8",
+     "strokeWidth": 2,
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1952.2,
+     "w": 489,
+     "h": 107,
+     "text": "Agents",
+     "family": "Inter",
+     "size": 37,
+     "weight": 500,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 655,
+     "y": 1960,
+     "w": 489,
+     "h": 107,
+     "fill": "#1D4ED8",
+     "radius": 53.5,
+     "opacity": 0.12
+    },
+    {
+     "kind": "rect",
+     "x": 655,
+     "y": 1960,
+     "w": 489,
+     "h": 107,
+     "radius": 53.5,
+     "stroke": "#1D4ED8",
+     "strokeWidth": 2,
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 655,
+     "y": 1952.2,
+     "w": 489,
+     "h": 107,
+     "text": "Safety",
+     "family": "Inter",
+     "size": 37,
+     "weight": 500,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1178,
+     "y": 1960,
+     "w": 489,
+     "h": 107,
+     "fill": "#1D4ED8",
+     "radius": 53.5,
+     "opacity": 0.12
+    },
+    {
+     "kind": "rect",
+     "x": 1178,
+     "y": 1960,
+     "w": 489,
+     "h": 107,
+     "radius": 53.5,
+     "stroke": "#1D4ED8",
+     "strokeWidth": 2,
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 1178,
+     "y": 1952.2,
+     "w": 489,
+     "h": 107,
+     "text": "Open models",
+     "family": "Inter",
+     "size": 37,
+     "weight": 500,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2167,
+     "w": 1800,
+     "h": 233,
+     "fill": "#0B1F3A"
+    },
+    {
+     "kind": "rect",
+     "x": 133,
+     "y": 2214,
+     "w": 633,
+     "h": 140,
+     "fill": "#1D4ED8",
+     "radius": 70
+    },
+    {
+     "kind": "text",
+     "x": 182,
+     "y": 2204.1,
+     "w": 507,
+     "h": 140,
+     "text": "Get tickets",
+     "family": "Inter",
+     "size": 47,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       692.04,
+       2283.5
+      ],
+      [
+       722.96,
+       2283.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 5.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       707.5,
+       2268.04
+      ],
+      [
+       722.96,
+       2283.5
+      ],
+      [
+       707.5,
+       2298.96
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 5.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 800,
+     "y": 2156.5,
+     "w": 867,
+     "h": 233,
+     "text": "aibuilders.africa",
+     "family": "Inter",
+     "size": 50,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n41",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

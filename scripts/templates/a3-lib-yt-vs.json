@@ -1,0 +1,382 @@
+{
+ "id": "a3-lib-yt-vs",
+ "title": "TV Series Reviews: VS Battle YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "tv series reviews",
+  "series review",
+  "versus",
+  "comparison"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Bebas Neue",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#032B18",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1A0000",
+        0
+       ],
+       [
+        "#C00000",
+        1
+       ]
+      ]
+     },
+     "name": "Right side"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       0
+      ],
+      [
+       742.4,
+       0
+      ],
+      [
+       537.6,
+       720
+      ],
+      [
+       0,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#032B18",
+        0
+       ],
+       [
+        "#13B45D",
+        1
+       ]
+      ]
+     },
+     "name": "Left side"
+    },
+    {
+     "kind": "photo",
+     "x": 38,
+     "y": 334,
+     "w": 538,
+     "h": 407,
+     "shape": "rect",
+     "fill": "#217C4C",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 732,
+     "y": 70,
+     "w": 534,
+     "h": 684,
+     "shape": "rect",
+     "fill": "#7A1717",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-d335c35e-2d56-4452-977c-a78e8a1297e1-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/d335c35e-2d56-4452-977c-a78e8a1297e1-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Man Celebrating",
+       "author": "Bruce Mars",
+       "url": "https://stocksnap.io/photo/man-celebrating-RMOCSAQNUG",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true,
+      "flipX": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       652.62,
+       86
+      ],
+      [
+       604.14,
+       362.27
+      ],
+      [
+       638.48,
+       362.27
+      ],
+      [
+       620.3,
+       604
+      ],
+      [
+       680.9,
+       293.2
+      ],
+      [
+       644.54,
+       293.2
+      ],
+      [
+       670.8,
+       86
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFE600",
+     "stroke": "#000000",
+     "strokeWidth": 5,
+     "cap": "round",
+     "join": "round",
+     "name": "Lightning"
+    },
+    {
+     "kind": "text",
+     "x": 34.8,
+     "y": 18,
+     "w": 563,
+     "h": 130,
+     "text": "HYPE",
+     "family": "Bebas Neue",
+     "size": 122,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 0.98,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 690.8,
+     "y": 18.3,
+     "w": 563,
+     "h": 130,
+     "text": "REALITY",
+     "family": "Bebas Neue",
+     "size": 122,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 0.98,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       627.12,
+       284.47
+      ],
+      [
+       643.08,
+       333.24
+      ],
+      [
+       667.03,
+       287.87
+      ],
+      [
+       660.25,
+       338.73
+      ],
+      [
+       701.52,
+       308.24
+      ],
+      [
+       673.34,
+       351.12
+      ],
+      [
+       723.75,
+       341.56
+      ],
+      [
+       679.76,
+       367.96
+      ],
+      [
+       729.33,
+       381.22
+      ],
+      [
+       678.23,
+       385.92
+      ],
+      [
+       717.14,
+       419.37
+      ],
+      [
+       669.06,
+       401.44
+      ],
+      [
+       689.6,
+       448.46
+      ],
+      [
+       654.07,
+       411.44
+      ],
+      [
+       652.18,
+       462.72
+      ],
+      [
+       636.22,
+       413.95
+      ],
+      [
+       612.27,
+       459.33
+      ],
+      [
+       619.05,
+       408.47
+      ],
+      [
+       577.78,
+       438.96
+      ],
+      [
+       605.96,
+       396.08
+      ],
+      [
+       555.55,
+       405.64
+      ],
+      [
+       599.54,
+       379.24
+      ],
+      [
+       549.97,
+       365.98
+      ],
+      [
+       601.07,
+       361.28
+      ],
+      [
+       562.16,
+       327.82
+      ],
+      [
+       610.24,
+       345.76
+      ],
+      [
+       589.7,
+       298.74
+      ],
+      [
+       625.23,
+       335.75
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFE600",
+     "stroke": "#000000",
+     "strokeWidth": 5,
+     "join": "miter",
+     "name": "Badge"
+    },
+    {
+     "kind": "text",
+     "x": 589.5,
+     "y": 308.3,
+     "w": 101,
+     "h": 101,
+     "text": "VS",
+     "family": "Bebas Neue",
+     "size": 76,
+     "weight": 400,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

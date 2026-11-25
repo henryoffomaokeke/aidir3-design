@@ -1,0 +1,470 @@
+{
+ "id": "a3-hr-hiring-social-post",
+ "title": "We Are Hiring: Remote Role Post",
+ "categories": [
+  "hr",
+  "social",
+  "marketing"
+ ],
+ "tags": [
+  "hiring",
+  "we are hiring",
+  "job post",
+  "remote job",
+  "recruiting",
+  "careers",
+  "linkedin",
+  "instagram"
+ ],
+ "styleTags": [
+  "bold",
+  "lime",
+  "playful"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": -975,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bricolage Grotesque",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Post",
+   "bg": "#D4F25A",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 62,
+     "w": 286,
+     "h": 62,
+     "fill": "#15171C",
+     "radius": 31
+    },
+    {
+     "kind": "ellipse",
+     "x": 86,
+     "y": 84,
+     "w": 18,
+     "h": 18,
+     "fill": "#FF5A3D"
+    },
+    {
+     "kind": "text",
+     "x": 116,
+     "y": 60,
+     "w": 224,
+     "h": 62,
+     "text": "We are hiring",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 800,
+     "color": "#D4F25A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 76,
+     "w": 300,
+     "h": 36,
+     "text": "Juniper Labs",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#15171C",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 150,
+     "w": 790,
+     "h": 460,
+     "text": "Staff\nFrontend\nEngineer",
+     "family": "Bricolage Grotesque",
+     "size": 158,
+     "weight": 800,
+     "color": "#15171C",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "ellipse",
+     "x": 857,
+     "y": 137,
+     "w": 168,
+     "h": 168,
+     "fill": "#D4F25A"
+    },
+    {
+     "kind": "photo",
+     "x": 866,
+     "y": 146,
+     "w": 150,
+     "h": 150,
+     "shape": "ellipse",
+     "fill": "#FF5A3D",
+     "name": "Team photo 1"
+    },
+    {
+     "kind": "ellipse",
+     "x": 857,
+     "y": 257,
+     "w": 168,
+     "h": 168,
+     "fill": "#D4F25A"
+    },
+    {
+     "kind": "photo",
+     "x": 866,
+     "y": 266,
+     "w": 150,
+     "h": 150,
+     "shape": "ellipse",
+     "fill": "#15171C",
+     "name": "Team photo 2"
+    },
+    {
+     "kind": "ellipse",
+     "x": 857,
+     "y": 377,
+     "w": 168,
+     "h": 168,
+     "fill": "#D4F25A"
+    },
+    {
+     "kind": "photo",
+     "x": 866,
+     "y": 386,
+     "w": 150,
+     "h": 150,
+     "shape": "ellipse",
+     "fill": "#FFFFFF",
+     "name": "Team photo 3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 857,
+     "y": 497,
+     "w": 168,
+     "h": 168,
+     "fill": "#D4F25A"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#EAF9A8",
+     "stroke": "#15171C",
+     "strokeWidth": 5,
+     "dash": [
+      14,
+      11
+     ],
+     "name": "Open seat",
+     "points": [
+      {
+       "x": 941,
+       "y": 509,
+       "cIn": {
+        "x": 901.2344,
+        "y": 509
+       },
+       "cOut": {
+        "x": 980.7656,
+        "y": 509
+       }
+      },
+      {
+       "x": 1013,
+       "y": 581,
+       "cIn": {
+        "x": 1013,
+        "y": 541.2344
+       },
+       "cOut": {
+        "x": 1013,
+        "y": 620.7656
+       }
+      },
+      {
+       "x": 941,
+       "y": 653,
+       "cIn": {
+        "x": 980.7656,
+        "y": 653
+       },
+       "cOut": {
+        "x": 901.2344,
+        "y": 653
+       }
+      },
+      {
+       "x": 869,
+       "y": 581,
+       "cIn": {
+        "x": 869,
+        "y": 620.7656
+       },
+       "cOut": {
+        "x": 869,
+        "y": 541.2344
+       }
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 866,
+     "y": 506,
+     "w": 150,
+     "h": 150,
+     "text": "You?",
+     "family": "Bricolage Grotesque",
+     "size": 40,
+     "weight": 800,
+     "color": "#15171C",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 684,
+     "w": 304,
+     "h": 196,
+     "fill": "#FFFFFF",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 708,
+     "w": 80,
+     "h": 34,
+     "text": "01",
+     "family": "Bricolage Grotesque",
+     "size": 26,
+     "weight": 800,
+     "color": "#FF5A3D"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 746,
+     "w": 260,
+     "h": 40,
+     "text": "Four-day week",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 800,
+     "color": "#15171C"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 792,
+     "w": 260,
+     "h": 64,
+     "text": "32 hours at full pay.\nFridays are yours.",
+     "family": "Figtree",
+     "size": 23,
+     "weight": 500,
+     "color": "#3A3E46",
+     "lineHeight": 1.32
+    },
+    {
+     "kind": "rect",
+     "x": 388,
+     "y": 684,
+     "w": 304,
+     "h": 196,
+     "fill": "#FFFFFF",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 708,
+     "w": 80,
+     "h": 34,
+     "text": "02",
+     "family": "Bricolage Grotesque",
+     "size": 26,
+     "weight": 800,
+     "color": "#FF5A3D"
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 746,
+     "w": 260,
+     "h": 40,
+     "text": "Async by default",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 800,
+     "color": "#15171C"
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 792,
+     "w": 260,
+     "h": 64,
+     "text": "Six meetings a week\nat most. Write first.",
+     "family": "Figtree",
+     "size": 23,
+     "weight": 500,
+     "color": "#3A3E46",
+     "lineHeight": 1.32
+    },
+    {
+     "kind": "rect",
+     "x": 712,
+     "y": 684,
+     "w": 304,
+     "h": 196,
+     "fill": "#FFFFFF",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 740,
+     "y": 708,
+     "w": 80,
+     "h": 34,
+     "text": "03",
+     "family": "Bricolage Grotesque",
+     "size": 26,
+     "weight": 800,
+     "color": "#FF5A3D"
+    },
+    {
+     "kind": "text",
+     "x": 740,
+     "y": 746,
+     "w": 260,
+     "h": 40,
+     "text": "Real ownership",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 800,
+     "color": "#15171C"
+    },
+    {
+     "kind": "text",
+     "x": 740,
+     "y": 792,
+     "w": 260,
+     "h": 64,
+     "text": "A team of six with\nits own roadmap.",
+     "family": "Figtree",
+     "size": 23,
+     "weight": 500,
+     "color": "#3A3E46",
+     "lineHeight": 1.32
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 908,
+     "w": 600,
+     "h": 50,
+     "text": "£95k – £115k + equity",
+     "family": "Bricolage Grotesque",
+     "size": 42,
+     "weight": 800,
+     "color": "#15171C"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 966,
+     "w": 600,
+     "h": 36,
+     "text": "Remote  ·  UTC−1 to UTC+3  ·  Full-time",
+     "family": "Figtree",
+     "size": 25,
+     "weight": 600,
+     "color": "#56661A"
+    },
+    {
+     "kind": "button",
+     "x": 716,
+     "y": 906,
+     "w": 300,
+     "h": 88,
+     "label": "Apply now",
+     "fill": "#FF5A3D",
+     "color": "#15171C",
+     "family": "Figtree",
+     "size": 33,
+     "weight": 800
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 1000,
+     "w": 300,
+     "h": 28,
+     "text": "juniperlabs.example/jobs",
+     "family": "Figtree",
+     "size": 20,
+     "weight": 600,
+     "color": "#56661A",
+     "align": "center"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Role title",
+   "hint": "Three short lines, up to 9 characters each"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Company",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "First reason",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Second reason",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Third reason",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Pay range",
+   "hint": "Up to 24 characters"
+  }
+ ]
+}

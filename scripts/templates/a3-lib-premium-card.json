@@ -1,0 +1,542 @@
+{
+ "id": "a3-lib-premium-card",
+ "title": "Jumu'ah Mubarak / Happy Friday: Celebration Card",
+ "categories": [
+  "celebrations",
+  "flyers",
+  "events",
+  "print"
+ ],
+ "tags": [
+  "jumuah mubarak",
+  "friday",
+  "happy friday",
+  "islamic greeting",
+  "jummah",
+  "flyer",
+  "card",
+  "faith & community"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EAFBFB",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 1754,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#EAFBFB",
+        0
+       ],
+       [
+        "#FFFFFF",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 218,
+     "y": -332,
+     "w": 804,
+     "h": 804,
+     "fill": "#00A8A8",
+     "opacity": 0.08,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 218,
+     "y": 1317,
+     "w": 804,
+     "h": 804,
+     "fill": "#FFB547",
+     "opacity": 0.1,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 46,
+     "y": 46,
+     "w": 1148,
+     "h": 1662,
+     "stroke": "#00A8A8",
+     "strokeWidth": 3,
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 67,
+     "y": 67,
+     "w": 1107,
+     "h": 1621,
+     "stroke": "#00A8A8",
+     "strokeWidth": 1,
+     "opacity": 0.35
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       66.5,
+       46
+      ],
+      [
+       71.92,
+       59.04
+      ],
+      [
+       86,
+       60.17
+      ],
+      [
+       75.27,
+       69.35
+      ],
+      [
+       78.55,
+       83.08
+      ],
+      [
+       66.5,
+       75.72
+      ],
+      [
+       54.45,
+       83.08
+      ],
+      [
+       57.73,
+       69.35
+      ],
+      [
+       47,
+       60.17
+      ],
+      [
+       61.08,
+       59.04
+      ]
+     ],
+     "closed": true,
+     "fill": "#00A8A8",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 27,
+     "y": 27,
+     "w": 80,
+     "h": 80,
+     "stroke": "#00A8A8",
+     "strokeWidth": 2,
+     "opacity": 0.6
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1172.5,
+       46
+      ],
+      [
+       1177.92,
+       59.04
+      ],
+      [
+       1192,
+       60.17
+      ],
+      [
+       1181.27,
+       69.35
+      ],
+      [
+       1184.55,
+       83.08
+      ],
+      [
+       1172.5,
+       75.72
+      ],
+      [
+       1160.45,
+       83.08
+      ],
+      [
+       1163.73,
+       69.35
+      ],
+      [
+       1153,
+       60.17
+      ],
+      [
+       1167.08,
+       59.04
+      ]
+     ],
+     "closed": true,
+     "fill": "#00A8A8",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1133,
+     "y": 27,
+     "w": 80,
+     "h": 80,
+     "stroke": "#00A8A8",
+     "strokeWidth": 2,
+     "opacity": 0.6
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       66.5,
+       1666
+      ],
+      [
+       71.92,
+       1679.04
+      ],
+      [
+       86,
+       1680.17
+      ],
+      [
+       75.27,
+       1689.35
+      ],
+      [
+       78.55,
+       1703.08
+      ],
+      [
+       66.5,
+       1695.73
+      ],
+      [
+       54.45,
+       1703.08
+      ],
+      [
+       57.73,
+       1689.35
+      ],
+      [
+       47,
+       1680.17
+      ],
+      [
+       61.08,
+       1679.04
+      ]
+     ],
+     "closed": true,
+     "fill": "#00A8A8",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 27,
+     "y": 1647,
+     "w": 80,
+     "h": 80,
+     "stroke": "#00A8A8",
+     "strokeWidth": 2,
+     "opacity": 0.6
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1172.5,
+       1666
+      ],
+      [
+       1177.92,
+       1679.04
+      ],
+      [
+       1192,
+       1680.17
+      ],
+      [
+       1181.27,
+       1689.35
+      ],
+      [
+       1184.55,
+       1703.08
+      ],
+      [
+       1172.5,
+       1695.73
+      ],
+      [
+       1160.45,
+       1703.08
+      ],
+      [
+       1163.73,
+       1689.35
+      ],
+      [
+       1153,
+       1680.17
+      ],
+      [
+       1167.08,
+       1679.04
+      ]
+     ],
+     "closed": true,
+     "fill": "#00A8A8",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1133,
+     "y": 1647,
+     "w": 80,
+     "h": 80,
+     "stroke": "#00A8A8",
+     "strokeWidth": 2,
+     "opacity": 0.6
+    },
+    {
+     "kind": "icon",
+     "icon": "moon",
+     "x": 586,
+     "y": 115,
+     "w": 69,
+     "h": 69,
+     "color": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 188.7,
+     "w": 964,
+     "h": 41,
+     "text": "BLESSED FRIDAY",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#4F7377",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 490.7,
+     "w": 964,
+     "h": 336,
+     "text": "Jumu'ah Mubarak",
+     "family": "Instrument Serif",
+     "size": 141,
+     "weight": 400,
+     "color": "#00A8A8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 882.5,
+     "w": 964,
+     "h": 101,
+     "text": "A day of mercy",
+     "family": "Figtree",
+     "size": 87,
+     "weight": 800,
+     "color": "#0F2E33",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.08,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 425,
+     "y": 1037,
+     "w": 138,
+     "h": 3,
+     "fill": "#00A8A8"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       619.5,
+       1018
+      ],
+      [
+       624.92,
+       1031.04
+      ],
+      [
+       639,
+       1032.17
+      ],
+      [
+       628.27,
+       1041.35
+      ],
+      [
+       631.55,
+       1055.08
+      ],
+      [
+       619.5,
+       1047.72
+      ],
+      [
+       607.45,
+       1055.08
+      ],
+      [
+       610.73,
+       1041.35
+      ],
+      [
+       600,
+       1032.17
+      ],
+      [
+       614.08,
+       1031.04
+      ]
+     ],
+     "closed": true,
+     "fill": "#00A8A8",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 677,
+     "y": 1037,
+     "w": 138,
+     "h": 3,
+     "fill": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 1066.1,
+     "w": 964,
+     "h": 111,
+     "text": "Wishing you a blessed Friday full of peace, prayer and gratitude. Jumu'ah Mubarak.",
+     "family": "Figtree",
+     "size": 37,
+     "weight": 400,
+     "color": "#4F7377",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 1517.7,
+     "w": 964,
+     "h": 46,
+     "text": "SHARE THE BLESSING  ·  Jumu'ah prayer 1:30pm",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#00A8A8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 1560.3,
+     "w": 964,
+     "h": 80,
+     "text": "An-Noor Community",
+     "family": "Instrument Serif",
+     "size": 62,
+     "weight": 400,
+     "color": "#0F2E33",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 100 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

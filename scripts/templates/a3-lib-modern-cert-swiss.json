@@ -1,0 +1,328 @@
+{
+ "id": "a3-lib-modern-cert-swiss",
+ "title": "Alumni Association Certificate: Swiss Grid Certificate",
+ "categories": [
+  "certificates"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "membership",
+  "club",
+  "association",
+  "alumni",
+  "swiss grid certificate",
+  "certificates & awards"
+ ],
+ "styleTags": [
+  "light",
+  "swiss"
+ ],
+ "size": [
+  2000,
+  1414
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Manrope",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F2F3FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 51,
+     "h": 1414,
+     "fill": "#3A2BFF",
+     "name": "Colour edge"
+    },
+    {
+     "kind": "rect",
+     "x": 557,
+     "y": 113,
+     "w": 1,
+     "h": 1188,
+     "fill": "#0A0B2E",
+     "opacity": 0.1,
+     "name": "Grid line"
+    },
+    {
+     "kind": "rect",
+     "x": 1000,
+     "y": 113,
+     "w": 1,
+     "h": 1188,
+     "fill": "#0A0B2E",
+     "opacity": 0.1,
+     "name": "Grid line"
+    },
+    {
+     "kind": "rect",
+     "x": 1444,
+     "y": 113,
+     "w": 1,
+     "h": 1188,
+     "fill": "#0A0B2E",
+     "opacity": 0.1,
+     "name": "Grid line"
+    },
+    {
+     "kind": "rect",
+     "x": 113,
+     "y": 113,
+     "w": 1774,
+     "h": 7,
+     "fill": "#0A0B2E"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 133.3,
+     "w": 887,
+     "h": 62,
+     "text": "Greenfield Old Students",
+     "family": "Manrope",
+     "size": 40,
+     "weight": 700,
+     "color": "#0A0B2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 133.3,
+     "w": 887,
+     "h": 62,
+     "text": "No. MBR-2026-6422",
+     "family": "Manrope",
+     "size": 40,
+     "weight": 700,
+     "color": "#3A2BFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 282.2,
+     "w": 1419,
+     "h": 282,
+     "text": "Alumni Association Certificate",
+     "family": "Manrope",
+     "size": 138,
+     "weight": 800,
+     "color": "#0A0B2E",
+     "vAlign": "middle",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 641.9,
+     "w": 1774,
+     "h": 62,
+     "text": "This certifies that",
+     "family": "Manrope",
+     "size": 42,
+     "weight": 400,
+     "color": "#535878",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 716.9,
+     "w": 1242,
+     "h": 180,
+     "text": "Tunde Adeyemi",
+     "family": "Manrope",
+     "size": 155,
+     "weight": 800,
+     "color": "#3A2BFF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 943.7,
+     "w": 1064,
+     "h": 121,
+     "text": "is a life member of the Greenfield College Old Students' Association.",
+     "family": "Manrope",
+     "size": 42,
+     "weight": 400,
+     "color": "#0A0B2E",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 1604,
+     "y": 806,
+     "w": 283,
+     "h": 283,
+     "fill": "#3A2BFF",
+     "name": "Seal"
+    },
+    {
+     "kind": "text",
+     "x": 1647,
+     "y": 844.4,
+     "w": 198,
+     "h": 198,
+     "text": "Life\nmember",
+     "family": "Manrope",
+     "size": 39,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 113,
+     "y": 1131,
+     "w": 1774,
+     "h": 4,
+     "fill": "#0A0B2E"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 1151.9,
+     "w": 563,
+     "h": 57,
+     "text": "30 April 2027",
+     "family": "Manrope",
+     "size": 37,
+     "weight": 700,
+     "color": "#0A0B2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 1213,
+     "w": 563,
+     "h": 48,
+     "text": "Date",
+     "family": "Manrope",
+     "size": 31,
+     "weight": 400,
+     "color": "#535878",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 704,
+     "y": 1151.9,
+     "w": 563,
+     "h": 57,
+     "text": "Engr. Bode Ade",
+     "family": "Manrope",
+     "size": 37,
+     "weight": 700,
+     "color": "#0A0B2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 704,
+     "y": 1213,
+     "w": 563,
+     "h": 48,
+     "text": "National President",
+     "family": "Manrope",
+     "size": 31,
+     "weight": 400,
+     "color": "#535878",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1296,
+     "y": 1151.9,
+     "w": 563,
+     "h": 57,
+     "text": "Dr. Ify Obi",
+     "family": "Manrope",
+     "size": 37,
+     "weight": 700,
+     "color": "#0A0B2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1296,
+     "y": 1213,
+     "w": 563,
+     "h": 48,
+     "text": "Secretary General",
+     "family": "Manrope",
+     "size": 31,
+     "weight": 400,
+     "color": "#535878",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 85 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

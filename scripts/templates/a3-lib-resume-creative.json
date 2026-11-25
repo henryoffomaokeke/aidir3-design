@@ -1,0 +1,764 @@
+{
+ "id": "a3-lib-resume-creative",
+ "title": "Fresh Graduate Resume: Creative Colour Block",
+ "categories": [
+  "resumes",
+  "hr"
+ ],
+ "tags": [
+  "resume",
+  "cv",
+  "curriculum vitae",
+  "job application",
+  "graduate",
+  "entry level",
+  "first job",
+  "student"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Epilogue",
+   "weight": 900
+  },
+  {
+   "role": "body",
+   "family": "Host Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFE8D9",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 470,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "ellipse",
+     "x": 900,
+     "y": -100,
+     "w": 340,
+     "h": 340,
+     "fill": "#5C3D99",
+     "opacity": 0.9,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 300,
+     "w": 120,
+     "h": 120,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 4,
+     "opacity": 0.5
+    },
+    {
+     "kind": "photo",
+     "x": 870,
+     "y": 320,
+     "w": 290,
+     "h": 290,
+     "shape": "ellipse",
+     "fill": "#B89789",
+     "name": "Photo: professional woman headshot smiling"
+    },
+    {
+     "kind": "ellipse",
+     "x": 870,
+     "y": 320,
+     "w": 290,
+     "h": 290,
+     "stroke": "#FFE8D9",
+     "strokeWidth": 10,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 94,
+     "w": 740,
+     "h": 100,
+     "text": "Zainab Bello",
+     "family": "Epilogue",
+     "size": 88,
+     "weight": 900,
+     "color": "#FFFFFF",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 215.2,
+     "w": 740,
+     "h": 32,
+     "text": "Economics Graduate",
+     "family": "Host Grotesk",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.25,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 80,
+     "y": 511,
+     "w": 24,
+     "h": 24,
+     "color": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 503.9,
+     "w": 318,
+     "h": 28,
+     "text": "+234 806 555 0119",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 500,
+     "color": "#33201A",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 462,
+     "y": 511,
+     "w": 24,
+     "h": 24,
+     "color": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 502,
+     "y": 503.9,
+     "w": 318,
+     "h": 28,
+     "text": "zainab.b@mail.com",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 500,
+     "color": "#33201A",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 80,
+     "y": 551,
+     "w": 24,
+     "h": 24,
+     "color": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 543.9,
+     "w": 318,
+     "h": 28,
+     "text": "Kano, Nigeria",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 500,
+     "color": "#33201A",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 462,
+     "y": 551,
+     "w": 24,
+     "h": 24,
+     "color": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 502,
+     "y": 543.9,
+     "w": 318,
+     "h": 28,
+     "text": "in/zainabbello",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 500,
+     "color": "#33201A",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 681,
+     "w": 1080,
+     "h": 68,
+     "text": "First-class economics graduate with internship experience in research and data. Quick learner, confident presenter and eager to grow in an analyst or graduate trainee role.",
+     "family": "Host Grotesk",
+     "size": 22,
+     "weight": 400,
+     "color": "#8A6656",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 790,
+     "w": 8,
+     "h": 28,
+     "fill": "#FF7A45",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 776.6,
+     "w": 1056,
+     "h": 40,
+     "text": "Experience",
+     "family": "Epilogue",
+     "size": 32,
+     "weight": 900,
+     "color": "#33201A",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 835.3,
+     "w": 834,
+     "h": 34,
+     "text": "Research Intern",
+     "family": "Host Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#33201A",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 930,
+     "y": 840.4,
+     "w": 230,
+     "h": 25,
+     "text": "Jun – Sep 2025",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 500,
+     "color": "#8A6656",
+     "align": "right",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 874.9,
+     "w": 1080,
+     "h": 28,
+     "text": "Northgate Economic Institute",
+     "family": "Host Grotesk",
+     "size": 22,
+     "weight": 500,
+     "color": "#FF7A45",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 929,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 910.5,
+     "w": 1056,
+     "h": 32,
+     "text": "Cleaned and analysed survey data from 2,000 households",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 967,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 948.5,
+     "w": 1056,
+     "h": 32,
+     "text": "Co-wrote a policy brief on food prices",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1009.3,
+     "w": 834,
+     "h": 34,
+     "text": "Student Ambassador",
+     "family": "Host Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#33201A",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 930,
+     "y": 1014.4,
+     "w": 230,
+     "h": 25,
+     "text": "2023 – 2025",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 500,
+     "color": "#8A6656",
+     "align": "right",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1048.9,
+     "w": 1080,
+     "h": 28,
+     "text": "Bayero University",
+     "family": "Host Grotesk",
+     "size": 22,
+     "weight": 500,
+     "color": "#FF7A45",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 1103,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 1084.5,
+     "w": 1056,
+     "h": 32,
+     "text": "Led campus tours for 500+ visitors",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 1141,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 1122.5,
+     "w": 1056,
+     "h": 32,
+     "text": "Organised a careers fair with 30 employers",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 1206,
+     "w": 8,
+     "h": 28,
+     "fill": "#FF7A45",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 1192.6,
+     "w": 316,
+     "h": 40,
+     "text": "Education",
+     "family": "Epilogue",
+     "size": 32,
+     "weight": 900,
+     "color": "#33201A",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1251.5,
+     "w": 340,
+     "h": 31,
+     "text": "BSc Economics, First Class",
+     "family": "Host Grotesk",
+     "size": 23,
+     "weight": 700,
+     "color": "#33201A",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1284.4,
+     "w": 340,
+     "h": 56,
+     "text": "Bayero University Kano · 2021 – 2025",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#8A6656",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 450,
+     "y": 1206,
+     "w": 8,
+     "h": 28,
+     "fill": "#FF7A45",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 474,
+     "y": 1192.6,
+     "w": 316,
+     "h": 40,
+     "text": "Skills",
+     "family": "Epilogue",
+     "size": 32,
+     "weight": 900,
+     "color": "#33201A",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 1268,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 1251.4,
+     "w": 318,
+     "h": 29,
+     "text": "Excel",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 1305,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 1288.4,
+     "w": 318,
+     "h": 29,
+     "text": "Stata",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 1342,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 1325.4,
+     "w": 318,
+     "h": 29,
+     "text": "Research",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 1379,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 1362.4,
+     "w": 318,
+     "h": 29,
+     "text": "Report writing",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 1416,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 1399.4,
+     "w": 318,
+     "h": 29,
+     "text": "Public speaking",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 1453,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 1436.4,
+     "w": 318,
+     "h": 29,
+     "text": "Teamwork",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 820,
+     "y": 1206,
+     "w": 8,
+     "h": 28,
+     "fill": "#FF7A45",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 844,
+     "y": 1192.6,
+     "w": 316,
+     "h": 40,
+     "text": "Languages",
+     "family": "Epilogue",
+     "size": 32,
+     "weight": 900,
+     "color": "#33201A",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 1249.9,
+     "w": 340,
+     "h": 32,
+     "text": "English",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 1285.9,
+     "w": 340,
+     "h": 32,
+     "text": "Hausa",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 1321.9,
+     "w": 340,
+     "h": 32,
+     "text": "Arabic",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 820,
+     "y": 1382,
+     "w": 8,
+     "h": 28,
+     "fill": "#FF7A45",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 844,
+     "y": 1368.6,
+     "w": 316,
+     "h": 40,
+     "text": "Awards",
+     "family": "Epilogue",
+     "size": 32,
+     "weight": 900,
+     "color": "#33201A",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 821,
+     "y": 1444,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 842,
+     "y": 1427.4,
+     "w": 318,
+     "h": 29,
+     "text": "Dean's List, 4 years",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 821,
+     "y": 1481,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF7A45"
+    },
+    {
+     "kind": "text",
+     "x": 842,
+     "y": 1464.4,
+     "w": 318,
+     "h": 29,
+     "text": "Best Final-Year Project",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#33201A",
+     "lineHeight": 1.35
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n37",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n51",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

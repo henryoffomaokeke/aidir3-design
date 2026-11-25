@@ -1,0 +1,119 @@
+{
+ "id": "a3-lib-logomark-badge",
+ "title": "AI Startup Badge Logo",
+ "categories": [
+  "branding",
+  "technology"
+ ],
+ "tags": [
+  "logo",
+  "ai",
+  "startup",
+  "badge",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 330,
+     "y": 210,
+     "w": 340,
+     "h": 340,
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#FF6EC7",
+        0
+       ],
+       [
+        "#5EF2FF",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "icon",
+     "icon": "satellite",
+     "x": 410,
+     "y": 290,
+     "w": 180,
+     "h": 180,
+     "color": "#2A1468"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 585.2,
+     "w": 800,
+     "h": 110,
+     "text": "Orbit AI",
+     "family": "Space Grotesk",
+     "size": 96,
+     "weight": 700,
+     "color": "#2A1468",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 714.5,
+     "w": 800,
+     "h": 40,
+     "text": "Intelligent automation",
+     "family": "Inter",
+     "size": 26,
+     "weight": 500,
+     "color": "#6B5FA0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 8,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

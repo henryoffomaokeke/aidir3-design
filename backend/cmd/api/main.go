@@ -53,6 +53,7 @@ import (
 	"hycanvas/backend/internal/storage"
 	"hycanvas/backend/internal/storagecli"
 	"hycanvas/backend/internal/templates"
+	"hycanvas/backend/internal/templates/legacy"
 	"hycanvas/backend/internal/uploads"
 	"hycanvas/backend/internal/webui"
 	"hycanvas/backend/internal/whiteboard"
@@ -340,6 +341,19 @@ func main() {
 	// Templates: catalog (embedded seed + DB), apply (deep-copy -> new design),
 	// save-as-template, collections. The adapter bridges the persistence service.
 	templatesSvc := templates.NewService(pool, acct, templatesPersist{persist})
+	// Template pictures (ported library): embedded ones, else fetched once from
+	// Openverse with the uploads SSRF policy and cached in object storage. On
+	// apply they are copied into the workspace library, so a design made from a
+	// template is an ordinary design.
+	templatePhotos := &legacy.Photos{
+		Fetch: uploadsSvc.FetchImage,
+		Get:   store.Get,
+		Put:   func(key string, data []byte) error { _, err := store.Put(key, data); return err },
+	}
+	templatesSvc.WithAssetImporter(legacy.Importer(templatePhotos, func(ctx context.Context, ws, owner, name string, data []byte) (string, string, error) {
+		a, err := uploadsSvc.StoreBuiltin(ctx, ws, owner, name, data)
+		return a.ID, a.URL, err
+	}))
 	// Stock: embedded catalog search + favorites/recents + allowlisted proxy.
 	stockSvc := stock.NewService(pool)
 	// Bulk create / autofill: data merge over a template or design's fillable
@@ -391,7 +405,11 @@ func main() {
 		}
 		authPolicy.OidcLogin, authPolicy.OidcSignup = false, false
 	}
-	if !authPolicy.PasswordLogin && !authPolicy.MagicLinkLogin && !authPolicy.OidcLogin {
+	// aidir3 fork: sign-in through aidir3.com counts as a login method. With it
+	// configured, the studio's own password sign-in can be switched off
+	// completely, so the only credentials are the ones in the site's database.
+	aidir3SSO := len(strings.TrimSpace(os.Getenv("AIDIR3_SSO_SECRET"))) >= 32 && strings.TrimSpace(os.Getenv("AIDIR3_SITE_URL")) != ""
+	if !authPolicy.PasswordLogin && !authPolicy.MagicLinkLogin && !authPolicy.OidcLogin && !aidir3SSO {
 		logger.Error("auth config disables every login method; forcing password login on to avoid lockout")
 		authPolicy.PasswordLogin = true
 	}
@@ -428,6 +446,7 @@ func main() {
 			Realtime:      rtHub,
 			Audience:      audienceSvc,
 			Templates:     templatesSvc,
+			TemplatePhotos: templatePhotos,
 			Stock:         stockSvc,
 			OIDC:          oidcSvc,
 			Push:          pushSvc,

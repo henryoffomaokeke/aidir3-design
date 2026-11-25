@@ -1,0 +1,1440 @@
+{
+ "id": "a3-pm-customer-journey-map",
+ "title": "Customer Journey Map",
+ "categories": [
+  "product",
+  "presentations",
+  "marketing"
+ ],
+ "tags": [
+  "journey map",
+  "customer journey",
+  "ux research",
+  "service design",
+  "pain points",
+  "onboarding",
+  "slide"
+ ],
+ "styleTags": [
+  "light",
+  "diagram",
+  "structured"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -995,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Manrope",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Journey map",
+   "bg": "#F4F6FA",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 56,
+     "w": 900,
+     "h": 24,
+     "text": "Ledgerly · Customer journey map",
+     "family": "Manrope",
+     "size": 16,
+     "weight": 700,
+     "color": "#EE6A1F",
+     "letterSpacing": 2.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 86,
+     "w": 1220,
+     "h": 70,
+     "text": "From sign-up to the first paid invoice",
+     "family": "Manrope",
+     "size": 52,
+     "weight": 800,
+     "color": "#14213D",
+     "lineHeight": 1.15,
+     "letterSpacing": -0.8
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 64,
+     "w": 120,
+     "h": 20,
+     "text": "Persona",
+     "family": "Manrope",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#75809A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1520,
+     "y": 62,
+     "w": 328,
+     "h": 24,
+     "text": "Sole trader, new to invoicing",
+     "family": "Manrope",
+     "size": 17.5,
+     "weight": 600,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 95,
+     "w": 120,
+     "h": 20,
+     "text": "Scenario",
+     "family": "Manrope",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#75809A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1520,
+     "y": 93,
+     "w": 328,
+     "h": 24,
+     "text": "Sending a first invoice",
+     "family": "Manrope",
+     "size": 17.5,
+     "weight": 600,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 126,
+     "w": 120,
+     "h": 20,
+     "text": "Evidence",
+     "family": "Manrope",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#75809A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1520,
+     "y": 124,
+     "w": 328,
+     "h": 24,
+     "text": "18 interviews, 240 recordings",
+     "family": "Manrope",
+     "size": 17.5,
+     "weight": 600,
+     "color": "#14213D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       288,
+       190
+      ],
+      [
+       576,
+       190
+      ],
+      [
+       602,
+       222
+      ],
+      [
+       576,
+       254
+      ],
+      [
+       288,
+       254
+      ]
+     ],
+     "closed": true,
+     "fill": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 310,
+     "y": 190,
+     "w": 40,
+     "h": 62,
+     "text": "01",
+     "family": "Manrope",
+     "size": 16,
+     "weight": 700,
+     "color": "#8FA3D4",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 348,
+     "y": 190,
+     "w": 210,
+     "h": 62,
+     "text": "Discover",
+     "family": "Manrope",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       602,
+       190
+      ],
+      [
+       890,
+       190
+      ],
+      [
+       916,
+       222
+      ],
+      [
+       890,
+       254
+      ],
+      [
+       602,
+       254
+      ],
+      [
+       628,
+       222
+      ]
+     ],
+     "closed": true,
+     "fill": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 190,
+     "w": 40,
+     "h": 62,
+     "text": "02",
+     "family": "Manrope",
+     "size": 16,
+     "weight": 700,
+     "color": "#8FA3D4",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 686,
+     "y": 190,
+     "w": 210,
+     "h": 62,
+     "text": "Sign up",
+     "family": "Manrope",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       916,
+       190
+      ],
+      [
+       1204,
+       190
+      ],
+      [
+       1230,
+       222
+      ],
+      [
+       1204,
+       254
+      ],
+      [
+       916,
+       254
+      ],
+      [
+       942,
+       222
+      ]
+     ],
+     "closed": true,
+     "fill": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 962,
+     "y": 190,
+     "w": 40,
+     "h": 62,
+     "text": "03",
+     "family": "Manrope",
+     "size": 16,
+     "weight": 700,
+     "color": "#8FA3D4",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 190,
+     "w": 210,
+     "h": 62,
+     "text": "Set up",
+     "family": "Manrope",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1230,
+       190
+      ],
+      [
+       1518,
+       190
+      ],
+      [
+       1544,
+       222
+      ],
+      [
+       1518,
+       254
+      ],
+      [
+       1230,
+       254
+      ],
+      [
+       1256,
+       222
+      ]
+     ],
+     "closed": true,
+     "fill": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 1276,
+     "y": 190,
+     "w": 40,
+     "h": 62,
+     "text": "04",
+     "family": "Manrope",
+     "size": 16,
+     "weight": 700,
+     "color": "#8FA3D4",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1314,
+     "y": 190,
+     "w": 210,
+     "h": 62,
+     "text": "First invoice",
+     "family": "Manrope",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1544,
+       190
+      ],
+      [
+       1848,
+       190
+      ],
+      [
+       1848,
+       254
+      ],
+      [
+       1544,
+       254
+      ],
+      [
+       1570,
+       222
+      ]
+     ],
+     "closed": true,
+     "fill": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 1590,
+     "y": 190,
+     "w": 40,
+     "h": 62,
+     "text": "05",
+     "family": "Manrope",
+     "size": 16,
+     "weight": 700,
+     "color": "#8FA3D4",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1628,
+     "y": 190,
+     "w": 210,
+     "h": 62,
+     "text": "Get paid",
+     "family": "Manrope",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       600,
+       189
+      ],
+      [
+       626,
+       222
+      ],
+      [
+       600,
+       255
+      ]
+     ],
+     "stroke": "#F4F6FA",
+     "strokeWidth": 6,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       914,
+       189
+      ],
+      [
+       940,
+       222
+      ],
+      [
+       914,
+       255
+      ]
+     ],
+     "stroke": "#F4F6FA",
+     "strokeWidth": 6,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1228,
+       189
+      ],
+      [
+       1254,
+       222
+      ],
+      [
+       1228,
+       255
+      ]
+     ],
+     "stroke": "#F4F6FA",
+     "strokeWidth": 6,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1542,
+       189
+      ],
+      [
+       1568,
+       222
+      ],
+      [
+       1542,
+       255
+      ]
+     ],
+     "stroke": "#F4F6FA",
+     "strokeWidth": 6,
+     "cap": "butt"
+    },
+    {
+     "kind": "icon",
+     "x": 72,
+     "y": 286,
+     "w": 28,
+     "h": 28,
+     "icon": "clipboard",
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 320,
+     "w": 200,
+     "h": 28,
+     "text": "Actions",
+     "family": "Manrope",
+     "size": 21,
+     "weight": 800,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 348,
+     "w": 200,
+     "h": 22,
+     "text": "What they do",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 500,
+     "color": "#75809A"
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 270,
+     "w": 304,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#D5DCE8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 306,
+     "y": 286,
+     "w": 274,
+     "h": 90,
+     "text": "Searches for an invoicing tool after a client asks for one.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 400,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 270,
+     "w": 304,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#D5DCE8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 620,
+     "y": 286,
+     "w": 274,
+     "h": 90,
+     "text": "Creates an account by email and skips the product tour.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 400,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 916,
+     "y": 270,
+     "w": 304,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#D5DCE8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 934,
+     "y": 286,
+     "w": 274,
+     "h": 90,
+     "text": "Adds a logo, bank details and a tax number, then hunts for VAT.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 400,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1230,
+     "y": 270,
+     "w": 304,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#D5DCE8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 1248,
+     "y": 286,
+     "w": 274,
+     "h": 90,
+     "text": "Builds an invoice from a blank form and sends it by email.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 400,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1544,
+     "y": 270,
+     "w": 304,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#D5DCE8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 1562,
+     "y": 286,
+     "w": 274,
+     "h": 90,
+     "text": "Checks the dashboard daily and phones the client to chase.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 400,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 72,
+     "y": 410,
+     "w": 28,
+     "h": 28,
+     "icon": "message",
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 444,
+     "w": 200,
+     "h": 28,
+     "text": "Thoughts",
+     "family": "Manrope",
+     "size": 21,
+     "weight": 800,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 472,
+     "w": 200,
+     "h": 22,
+     "text": "What they say",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 500,
+     "color": "#75809A"
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 394,
+     "w": 304,
+     "h": 116,
+     "fill": "#E6ECF8",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 306,
+     "y": 410,
+     "w": 274,
+     "h": 90,
+     "text": "“I just need something that looks professional by Friday.”",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 600,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 394,
+     "w": 304,
+     "h": 116,
+     "fill": "#E6ECF8",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 620,
+     "y": 410,
+     "w": 274,
+     "h": 90,
+     "text": "“Why do you want my card when the plan is free?”",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 600,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 916,
+     "y": 394,
+     "w": 304,
+     "h": 116,
+     "fill": "#E6ECF8",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 934,
+     "y": 410,
+     "w": 274,
+     "h": 90,
+     "text": "“Have I filled in enough for this to be legal?”",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 600,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1230,
+     "y": 394,
+     "w": 304,
+     "h": 116,
+     "fill": "#E6ECF8",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1248,
+     "y": 410,
+     "w": 274,
+     "h": 90,
+     "text": "“Did it actually send? I really can’t tell.”",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 600,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1544,
+     "y": 394,
+     "w": 304,
+     "h": 116,
+     "fill": "#E6ECF8",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1562,
+     "y": 410,
+     "w": 274,
+     "h": 90,
+     "text": "“That was it? I should have done this years ago.”",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 600,
+     "color": "#14213D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 72,
+     "y": 534,
+     "w": 28,
+     "h": 28,
+     "icon": "heart",
+     "color": "#EE6A1F"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 568,
+     "w": 200,
+     "h": 28,
+     "text": "Feelings",
+     "family": "Manrope",
+     "size": 21,
+     "weight": 800,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 596,
+     "w": 200,
+     "h": 22,
+     "text": "How it feels",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 500,
+     "color": "#75809A"
+    },
+    {
+     "kind": "icon",
+     "x": 72,
+     "y": 732,
+     "w": 28,
+     "h": 28,
+     "icon": "alert-triangle",
+     "color": "#A61F3D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 766,
+     "w": 200,
+     "h": 28,
+     "text": "Pain points",
+     "family": "Manrope",
+     "size": 21,
+     "weight": 800,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 794,
+     "w": 200,
+     "h": 22,
+     "text": "Where it hurts",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 500,
+     "color": "#75809A"
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 716,
+     "w": 304,
+     "h": 116,
+     "fill": "#FCE9EC",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 306,
+     "y": 732,
+     "w": 274,
+     "h": 90,
+     "text": "Comparison pages sell features, not getting paid.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#A61F3D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 716,
+     "w": 304,
+     "h": 116,
+     "fill": "#FCE9EC",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 620,
+     "y": 732,
+     "w": 274,
+     "h": 90,
+     "text": "A card prompt on the free plan: 22% abandon at this step.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#A61F3D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 916,
+     "y": 716,
+     "w": 304,
+     "h": 116,
+     "fill": "#FCE9EC",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 934,
+     "y": 732,
+     "w": 274,
+     "h": 90,
+     "text": "No guidance on tax or bank fields. Setup takes 14 minutes.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#A61F3D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1230,
+     "y": 716,
+     "w": 304,
+     "h": 116,
+     "fill": "#FCE9EC",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1248,
+     "y": 732,
+     "w": 274,
+     "h": 90,
+     "text": "Nothing confirms the invoice was delivered or opened.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#A61F3D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1544,
+     "y": 716,
+     "w": 304,
+     "h": 116,
+     "fill": "#FCE9EC",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1562,
+     "y": 732,
+     "w": 274,
+     "h": 90,
+     "text": "Paid status lags the bank by a day; clients get chased twice.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#A61F3D",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 72,
+     "y": 856,
+     "w": 28,
+     "h": 28,
+     "icon": "bulb",
+     "color": "#17683C"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 890,
+     "w": 200,
+     "h": 28,
+     "text": "Opportunities",
+     "family": "Manrope",
+     "size": 21,
+     "weight": 800,
+     "color": "#14213D"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 918,
+     "w": 200,
+     "h": 22,
+     "text": "What we could do",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 500,
+     "color": "#75809A"
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 840,
+     "w": 304,
+     "h": 116,
+     "fill": "#E3F4EA",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 306,
+     "y": 856,
+     "w": 274,
+     "h": 90,
+     "text": "Lead with a template gallery and a “paid in 6 days” claim.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#17683C",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 840,
+     "w": 304,
+     "h": 116,
+     "fill": "#E3F4EA",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 620,
+     "y": 856,
+     "w": 274,
+     "h": 90,
+     "text": "Drop the card step from free sign-up altogether.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#17683C",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 916,
+     "y": 840,
+     "w": 304,
+     "h": 116,
+     "fill": "#E3F4EA",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 934,
+     "y": 856,
+     "w": 274,
+     "h": 90,
+     "text": "Country presets and a three-field quick setup.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#17683C",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1230,
+     "y": 840,
+     "w": 304,
+     "h": 116,
+     "fill": "#E3F4EA",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1248,
+     "y": 856,
+     "w": 274,
+     "h": 90,
+     "text": "Show sent, delivered and viewed receipts on each one.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#17683C",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1544,
+     "y": 840,
+     "w": 304,
+     "h": 116,
+     "fill": "#E3F4EA",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1562,
+     "y": 856,
+     "w": 274,
+     "h": 90,
+     "text": "Match bank feeds instantly and send a gentle auto-reminder.",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 500,
+     "color": "#17683C",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 518,
+     "w": 1560,
+     "h": 190,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#D5DCE8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       304,
+       613
+      ],
+      [
+       1832,
+       613
+      ]
+     ],
+     "stroke": "#D5DCE8",
+     "strokeWidth": 2,
+     "dash": [
+      8,
+      8
+     ],
+     "cap": "butt"
+    },
+    {
+     "kind": "text",
+     "x": 304,
+     "y": 530,
+     "w": 120,
+     "h": 18,
+     "text": "Positive",
+     "family": "Manrope",
+     "size": 12,
+     "weight": 700,
+     "color": "#75809A",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 304,
+     "y": 678,
+     "w": 120,
+     "h": 18,
+     "text": "Negative",
+     "family": "Manrope",
+     "size": 12,
+     "weight": 700,
+     "color": "#75809A",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "name": "Emotion line",
+     "points": [
+      {
+       "x": 440,
+       "y": 589.2,
+       "cOut": {
+        "x": 560,
+        "y": 589.2
+       }
+      },
+      {
+       "x": 754,
+       "y": 623.2,
+       "cIn": {
+        "x": 634,
+        "y": 623.2
+       },
+       "cOut": {
+        "x": 874,
+        "y": 623.2
+       }
+      },
+      {
+       "x": 1068,
+       "y": 667.4,
+       "cIn": {
+        "x": 948,
+        "y": 667.4
+       },
+       "cOut": {
+        "x": 1188,
+        "y": 667.4
+       }
+      },
+      {
+       "x": 1382,
+       "y": 640.2,
+       "cIn": {
+        "x": 1262,
+        "y": 640.2
+       },
+       "cOut": {
+        "x": 1502,
+        "y": 640.2
+       }
+      },
+      {
+       "x": 1696,
+       "y": 551.8,
+       "cIn": {
+        "x": 1576,
+        "y": 551.8
+       }
+      }
+     ],
+     "stroke": "#EE6A1F",
+     "strokeWidth": 5,
+     "cap": "round"
+    },
+    {
+     "kind": "ellipse",
+     "x": 429,
+     "y": 578.2,
+     "w": 22,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "stroke": "#EE6A1F",
+     "strokeWidth": 5
+    },
+    {
+     "kind": "text",
+     "x": 350,
+     "y": 543.2,
+     "w": 180,
+     "h": 26,
+     "text": "Hopeful",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 800,
+     "color": "#14213D",
+     "align": "center"
+    },
+    {
+     "kind": "ellipse",
+     "x": 743,
+     "y": 612.2,
+     "w": 22,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "stroke": "#EE6A1F",
+     "strokeWidth": 5
+    },
+    {
+     "kind": "text",
+     "x": 664,
+     "y": 577.2,
+     "w": 180,
+     "h": 26,
+     "text": "Wary",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 800,
+     "color": "#14213D",
+     "align": "center"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1057,
+     "y": 656.4,
+     "w": 22,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "stroke": "#EE6A1F",
+     "strokeWidth": 5
+    },
+    {
+     "kind": "text",
+     "x": 978,
+     "y": 621.4,
+     "w": 180,
+     "h": 26,
+     "text": "Overwhelmed",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 800,
+     "color": "#14213D",
+     "align": "center"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1371,
+     "y": 629.2,
+     "w": 22,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "stroke": "#EE6A1F",
+     "strokeWidth": 5
+    },
+    {
+     "kind": "text",
+     "x": 1292,
+     "y": 658.2,
+     "w": 180,
+     "h": 26,
+     "text": "Anxious",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 800,
+     "color": "#14213D",
+     "align": "center"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1685,
+     "y": 540.8,
+     "w": 22,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "stroke": "#EE6A1F",
+     "strokeWidth": 5
+    },
+    {
+     "kind": "text",
+     "x": 1606,
+     "y": 569.8,
+     "w": 180,
+     "h": 26,
+     "text": "Relieved",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 800,
+     "color": "#14213D",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 928,
+     "y": 685.4,
+     "w": 280,
+     "h": 20,
+     "text": "Lowest point: 31% leave during setup",
+     "family": "Manrope",
+     "size": 14,
+     "weight": 700,
+     "color": "#EE6A1F",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 980,
+     "w": 1776,
+     "h": 1,
+     "fill": "#D5DCE8"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 996,
+     "w": 1200,
+     "h": 22,
+     "text": "Read each column top to bottom. The emotion line plots the average sentiment score from session notes, on a scale of -2 to +2.",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 400,
+     "color": "#75809A"
+    },
+    {
+     "kind": "text",
+     "x": 1448,
+     "y": 996,
+     "w": 400,
+     "h": 22,
+     "text": "Ledgerly Research · November 2026 · v2",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 400,
+     "color": "#75809A",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Kicker",
+   "hint": "Product and document type"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Map title",
+   "hint": "The journey being mapped, up to 40 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "First stage name",
+   "hint": "Up to 14 characters"
+  },
+  {
+   "node": "p0-n31",
+   "kind": "text",
+   "label": "First action",
+   "hint": "What the customer does at this stage"
+  },
+  {
+   "node": "p0-n60",
+   "kind": "text",
+   "label": "First pain point",
+   "hint": "One sentence, with a number if you have one"
+  }
+ ]
+}

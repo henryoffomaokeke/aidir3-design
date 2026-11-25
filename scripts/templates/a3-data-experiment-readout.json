@@ -1,0 +1,1377 @@
+{
+ "id": "a3-data-experiment-readout",
+ "title": "A/B Test Experiment Readout",
+ "categories": [
+  "data",
+  "product",
+  "documents"
+ ],
+ "tags": [
+  "ab test",
+  "experiment",
+  "readout",
+  "conversion",
+  "statistics",
+  "growth",
+  "a4"
+ ],
+ "styleTags": [
+  "analyst",
+  "light",
+  "structured"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -992,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Schibsted Grotesk",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Geist",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Geist Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Readout",
+   "bg": "#FBFBF8",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 42,
+     "w": 360,
+     "h": 14,
+     "text": "Experiment readout · Larkspur Outdoor",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#565B62",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 546,
+     "y": 42,
+     "w": 200,
+     "h": 14,
+     "text": "EXP-214",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#141414",
+     "align": "right",
+     "letterSpacing": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 64,
+     "w": 698,
+     "h": 2,
+     "fill": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 80,
+     "w": 500,
+     "h": 48,
+     "text": "One-page checkout",
+     "family": "Schibsted Grotesk",
+     "size": 38,
+     "weight": 800,
+     "color": "#141414",
+     "lineHeight": 1.1,
+     "letterSpacing": -0.5
+    },
+    {
+     "kind": "rect",
+     "x": 586,
+     "y": 90,
+     "w": 160,
+     "h": 30,
+     "fill": "#E4480B",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 586,
+     "y": 90,
+     "w": 160,
+     "h": 30,
+     "text": "Winner: variant B",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 134,
+     "w": 620,
+     "h": 20,
+     "text": "Does a single-page checkout convert more shoppers than our three-step flow?",
+     "family": "Geist",
+     "size": 14,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 172,
+     "w": 160,
+     "h": 12,
+     "text": "Owner",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#7B8087",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 188,
+     "w": 168,
+     "h": 18,
+     "text": "Dana Whitlock, Growth",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 224,
+     "y": 172,
+     "w": 160,
+     "h": 12,
+     "text": "Ran",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#7B8087",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 224,
+     "y": 188,
+     "w": 168,
+     "h": 18,
+     "text": "27 Oct to 9 Nov 2026",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 400,
+     "y": 172,
+     "w": 160,
+     "h": 12,
+     "text": "Traffic",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#7B8087",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 400,
+     "y": 188,
+     "w": 168,
+     "h": 18,
+     "text": "50 / 50, checkout starts",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 576,
+     "y": 172,
+     "w": 160,
+     "h": 12,
+     "text": "Primary metric",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#7B8087",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 576,
+     "y": 188,
+     "w": 168,
+     "h": 18,
+     "text": "Checkout conversion",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 222,
+     "w": 698,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 238,
+     "w": 40,
+     "h": 14,
+     "text": "01",
+     "family": "Geist Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 256,
+     "w": 150,
+     "h": 18,
+     "text": "Hypothesis",
+     "family": "Schibsted Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 278,
+     "w": 140,
+     "h": 30,
+     "text": "What we expected,\nand why",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 236,
+     "w": 534,
+     "h": 70,
+     "text": "If we collapse the three-step checkout into a single page, more shoppers who start checkout will finish it, because every extra page load is a chance to drop off, most of all on mobile.",
+     "family": "Geist",
+     "size": 15,
+     "weight": 400,
+     "color": "#141414",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 326,
+     "w": 698,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 342,
+     "w": 40,
+     "h": 14,
+     "text": "02",
+     "family": "Geist Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 360,
+     "w": 150,
+     "h": 18,
+     "text": "Variants",
+     "family": "Schibsted Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 382,
+     "w": 140,
+     "h": 30,
+     "text": "What each group saw",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 212,
+     "y": 340,
+     "w": 259,
+     "h": 130,
+     "fill": "#FFFFFF",
+     "radius": 6,
+     "stroke": "#DEDED8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "name": "Control screenshot",
+     "shape": "rect",
+     "x": 226,
+     "y": 354,
+     "w": 78,
+     "h": 102,
+     "radius": 4,
+     "fill": "#ECEDEE"
+    },
+    {
+     "kind": "rect",
+     "x": 318,
+     "y": 354,
+     "w": 92,
+     "h": 18,
+     "fill": "#A4A9AF",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 318,
+     "y": 354,
+     "w": 92,
+     "h": 18,
+     "text": "A · Control",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 0.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 318,
+     "y": 380,
+     "w": 148,
+     "h": 18,
+     "text": "Three-step checkout",
+     "family": "Schibsted Grotesk",
+     "size": 13,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 318,
+     "y": 401,
+     "w": 148,
+     "h": 14,
+     "text": "24,180 sessions",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "text",
+     "x": 318,
+     "y": 416,
+     "w": 148,
+     "h": 14,
+     "text": "2,926 orders",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "text",
+     "x": 318,
+     "y": 434,
+     "w": 80,
+     "h": 26,
+     "text": "12.10%",
+     "family": "Schibsted Grotesk",
+     "size": 20,
+     "weight": 800,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 398,
+     "y": 441,
+     "w": 64,
+     "h": 14,
+     "text": "converted",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087"
+    },
+    {
+     "kind": "rect",
+     "x": 487,
+     "y": 340,
+     "w": 259,
+     "h": 130,
+     "fill": "#FFFFFF",
+     "radius": 6,
+     "stroke": "#E4480B",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "photo",
+     "name": "Variant screenshot",
+     "shape": "rect",
+     "x": 501,
+     "y": 354,
+     "w": 78,
+     "h": 102,
+     "radius": 4,
+     "fill": "#FFEFE5"
+    },
+    {
+     "kind": "rect",
+     "x": 593,
+     "y": 354,
+     "w": 92,
+     "h": 18,
+     "fill": "#E4480B",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 354,
+     "w": 92,
+     "h": 18,
+     "text": "B · Variant",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 0.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 380,
+     "w": 148,
+     "h": 18,
+     "text": "Single-page checkout",
+     "family": "Schibsted Grotesk",
+     "size": 13,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 401,
+     "w": 148,
+     "h": 14,
+     "text": "24,236 sessions",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 416,
+     "w": 148,
+     "h": 14,
+     "text": "3,272 orders",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 434,
+     "w": 80,
+     "h": 26,
+     "text": "13.50%",
+     "family": "Schibsted Grotesk",
+     "size": 20,
+     "weight": 800,
+     "color": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 673,
+     "y": 441,
+     "w": 64,
+     "h": 14,
+     "text": "converted",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 488,
+     "w": 698,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 504,
+     "w": 40,
+     "h": 14,
+     "text": "03",
+     "family": "Geist Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 522,
+     "w": 150,
+     "h": 18,
+     "text": "Result",
+     "family": "Schibsted Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 544,
+     "w": 140,
+     "h": 30,
+     "text": "Primary metric,\n14 days of traffic",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 494,
+     "w": 220,
+     "h": 56,
+     "text": "+1.40 pts",
+     "family": "Schibsted Grotesk",
+     "size": 44,
+     "weight": 800,
+     "color": "#E4480B",
+     "lineHeight": 1.1,
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 550,
+     "w": 220,
+     "h": 16,
+     "text": "absolute lift in checkout conversion",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 570,
+     "w": 236,
+     "h": 14,
+     "text": "12.10% to 13.50% · +11.6% relative",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 456,
+     "y": 500,
+     "w": 282,
+     "h": 14,
+     "text": "95% confidence interval for the lift, in points",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "rect",
+     "x": 456,
+     "y": 556,
+     "w": 282,
+     "h": 1,
+     "fill": "#B9BBB6"
+    },
+    {
+     "kind": "rect",
+     "x": 503,
+     "y": 556,
+     "w": 1,
+     "h": 5,
+     "fill": "#8E918C"
+    },
+    {
+     "kind": "text",
+     "x": 483,
+     "y": 564,
+     "w": 40,
+     "h": 12,
+     "text": "0",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 597,
+     "y": 556,
+     "w": 1,
+     "h": 5,
+     "fill": "#8E918C"
+    },
+    {
+     "kind": "text",
+     "x": 577,
+     "y": 564,
+     "w": 40,
+     "h": 12,
+     "text": "+1",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 691,
+     "y": 556,
+     "w": 1,
+     "h": 5,
+     "fill": "#8E918C"
+    },
+    {
+     "kind": "text",
+     "x": 671,
+     "y": 564,
+     "w": 40,
+     "h": 12,
+     "text": "+2",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "align": "center"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       503,
+       522
+      ],
+      [
+       503,
+       556
+      ]
+     ],
+     "stroke": "#8E918C",
+     "strokeWidth": 1,
+     "dash": [
+      3,
+      3
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 461,
+     "y": 578,
+     "w": 84,
+     "h": 12,
+     "text": "no effect",
+     "family": "Geist",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 578.2,
+     "y": 538,
+     "w": 112.79999999999995,
+     "h": 8,
+     "fill": "#F6B596",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 577.2,
+     "y": 533,
+     "w": 2,
+     "h": 18,
+     "fill": "#E4480B"
+    },
+    {
+     "kind": "rect",
+     "x": 690,
+     "y": 533,
+     "w": 2,
+     "h": 18,
+     "fill": "#E4480B"
+    },
+    {
+     "kind": "ellipse",
+     "x": 628.6,
+     "y": 536,
+     "w": 12,
+     "h": 12,
+     "fill": "#E4480B",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 554.2,
+     "y": 516,
+     "w": 48,
+     "h": 12,
+     "text": "+0.80",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B62",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 610.6,
+     "y": 516,
+     "w": 48,
+     "h": 12,
+     "text": "+1.40",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#E4480B",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 667,
+     "y": 516,
+     "w": 48,
+     "h": 12,
+     "text": "+2.00",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B62",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 212,
+     "y": 596,
+     "w": 534,
+     "h": 76,
+     "fill": "#FFEFE5",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 212,
+     "y": 596,
+     "w": 3,
+     "h": 76,
+     "fill": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 230,
+     "y": 606,
+     "w": 498,
+     "h": 58,
+     "spans": [
+      {
+       "text": "In plain terms: ",
+       "weight": 700
+      },
+      {
+       "text": "we are 95% confident the true lift is between 0.8 and 2.0 points. If the two checkouts really performed the same, a gap this large would appear less than 1 time in 1,000."
+      }
+     ],
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#141414",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 688,
+     "w": 698,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 704,
+     "w": 40,
+     "h": 14,
+     "text": "04",
+     "family": "Geist Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 722,
+     "w": 150,
+     "h": 18,
+     "text": "By segment",
+     "family": "Schibsted Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 744,
+     "w": 140,
+     "h": 30,
+     "text": "Where the lift\ncame from",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 212,
+     "y": 700,
+     "w": 322,
+     "h": 198,
+     "fill": "#FFFFFF",
+     "radius": 6,
+     "stroke": "#DEDED8",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 226,
+     "y": 710,
+     "w": 200,
+     "h": 16,
+     "text": "Conversion by device",
+     "family": "Schibsted Grotesk",
+     "size": 12,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 420,
+     "y": 712,
+     "w": 100,
+     "h": 12,
+     "text": "% of sessions",
+     "family": "Geist Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7B8087",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "name": "Conversion by device",
+     "x": 218,
+     "y": 730,
+     "w": 310,
+     "h": 164,
+     "chartType": "barGrouped",
+     "fontSize": 10,
+     "valueLabels": true,
+     "legend": true,
+     "categories": [
+      "Mobile",
+      "Desktop",
+      "Other",
+      "All"
+     ],
+     "series": [
+      {
+       "name": "Control",
+       "values": [
+        9.6,
+        15.5,
+        11.4,
+        12.1
+       ],
+       "color": "#A4A9AF"
+      },
+      {
+       "name": "Variant",
+       "values": [
+        11.8,
+        15.9,
+        12.6,
+        13.5
+       ],
+       "color": "#E4480B"
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 700,
+     "w": 194,
+     "h": 14,
+     "text": "Guardrail metrics",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#141414",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 552,
+     "y": 722,
+     "w": 194,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 729,
+     "w": 120,
+     "h": 14,
+     "text": "Average order value",
+     "family": "Geist",
+     "size": 11,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 662,
+     "y": 729,
+     "w": 84,
+     "h": 14,
+     "text": "No change",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#565B62",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 744,
+     "w": 194,
+     "h": 13,
+     "text": "$86.40 to $85.90",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "rect",
+     "x": 552,
+     "y": 762,
+     "w": 194,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 769,
+     "w": 120,
+     "h": 14,
+     "text": "Refund rate",
+     "family": "Geist",
+     "size": 11,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 662,
+     "y": 769,
+     "w": 84,
+     "h": 14,
+     "text": "No change",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#565B62",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 784,
+     "w": 194,
+     "h": 13,
+     "text": "3.1% to 3.0%",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "rect",
+     "x": 552,
+     "y": 802,
+     "w": 194,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 809,
+     "w": 120,
+     "h": 14,
+     "text": "Page load, p75",
+     "family": "Geist",
+     "size": 11,
+     "weight": 600,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 662,
+     "y": 809,
+     "w": 84,
+     "h": 14,
+     "text": "Better",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#1A7F4B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 824,
+     "w": 194,
+     "h": 13,
+     "text": "2.9 s to 2.1 s",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "rect",
+     "x": 552,
+     "y": 842,
+     "w": 194,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 852,
+     "w": 194,
+     "h": 48,
+     "text": "The lift is a mobile story: +2.2 points on mobile, +0.4 on desktop, which is not significant on its own.",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B62",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 914,
+     "w": 698,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 930,
+     "w": 40,
+     "h": 14,
+     "text": "05",
+     "family": "Geist Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#E4480B"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 948,
+     "w": 150,
+     "h": 18,
+     "text": "Decision",
+     "family": "Schibsted Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#141414"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 970,
+     "w": 140,
+     "h": 30,
+     "text": "What happens now",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 212,
+     "y": 926,
+     "w": 259,
+     "h": 112,
+     "fill": "#141414",
+     "radius": 6
+    },
+    {
+     "kind": "text",
+     "x": 228,
+     "y": 938,
+     "w": 220,
+     "h": 12,
+     "text": "Decision",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#FF9B6B",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 228,
+     "y": 957,
+     "w": 228,
+     "h": 44,
+     "text": "Ship variant B to all traffic on 30 November.",
+     "family": "Schibsted Grotesk",
+     "size": 15.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "text",
+     "x": 228,
+     "y": 1008,
+     "w": 228,
+     "h": 14,
+     "text": "Roll back if conversion stays under 12.5% for 3 days.",
+     "family": "Geist",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#C9CBCE"
+    },
+    {
+     "kind": "rect",
+     "x": 487,
+     "y": 926,
+     "w": 259,
+     "h": 112,
+     "fill": "#FFFFFF",
+     "radius": 6,
+     "stroke": "#141414",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 503,
+     "y": 938,
+     "w": 220,
+     "h": 12,
+     "text": "Next test · EXP-221",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#E4480B",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 503,
+     "y": 957,
+     "w": 228,
+     "h": 44,
+     "text": "Express-pay buttons above the form on mobile.",
+     "family": "Schibsted Grotesk",
+     "size": 15.5,
+     "weight": 700,
+     "color": "#141414",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "text",
+     "x": 503,
+     "y": 1008,
+     "w": 228,
+     "h": 14,
+     "text": "Starts 7 December · 19,000 sessions per arm",
+     "family": "Geist",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B62"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 1062,
+     "w": 698,
+     "h": 1,
+     "fill": "#DEDED8"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 1073,
+     "w": 460,
+     "h": 14,
+     "text": "Larkspur Outdoor · Growth experiments · Readout v1, 11 Nov 2026",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#7B8087"
+    },
+    {
+     "kind": "text",
+     "x": 546,
+     "y": 1073,
+     "w": 200,
+     "h": 14,
+     "text": "Page 1 of 1",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#7B8087",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Experiment name",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Question tested",
+   "hint": "One line"
+  },
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Hypothesis",
+   "hint": "Two to three lines"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Headline lift",
+   "hint": "For example +1.40 pts"
+  },
+  {
+   "node": "p0-n68",
+   "kind": "text",
+   "label": "Confidence statement",
+   "hint": "Say it without jargon"
+  },
+  {
+   "node": "p0-n98",
+   "kind": "text",
+   "label": "Decision",
+   "hint": "One sentence"
+  }
+ ]
+}

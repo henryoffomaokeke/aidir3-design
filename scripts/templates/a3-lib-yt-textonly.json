@@ -1,0 +1,809 @@
+{
+ "id": "a3-lib-yt-textonly",
+ "title": "Health Tips: Bold Text (no Face) YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "health tips",
+  "doctor",
+  "faceless",
+  "text only"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Sora",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#7ED600",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 119,
+      "stops": [
+       [
+        "#7ED600",
+        0
+       ],
+       [
+        "#D4FF3A",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       3200,
+       360
+      ],
+      [
+       3184,
+       647
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       3136,
+       930
+      ],
+      [
+       3056,
+       1206
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       2946,
+       1471
+      ],
+      [
+       2808,
+       1722
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       2641,
+       1956
+      ],
+      [
+       2450,
+       2170
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       2236,
+       2361
+      ],
+      [
+       2002,
+       2528
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       1751,
+       2666
+      ],
+      [
+       1486,
+       2776
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       1210,
+       2856
+      ],
+      [
+       927,
+       2904
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       640,
+       2920
+      ],
+      [
+       353,
+       2904
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       70,
+       2856
+      ],
+      [
+       -206,
+       2776
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -471,
+       2666
+      ],
+      [
+       -722,
+       2528
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -956,
+       2361
+      ],
+      [
+       -1170,
+       2170
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1361,
+       1956
+      ],
+      [
+       -1528,
+       1722
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1666,
+       1471
+      ],
+      [
+       -1776,
+       1206
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1856,
+       930
+      ],
+      [
+       -1904,
+       647
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1920,
+       360
+      ],
+      [
+       -1904,
+       73
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1856,
+       -210
+      ],
+      [
+       -1776,
+       -486
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1666,
+       -751
+      ],
+      [
+       -1528,
+       -1002
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -1361,
+       -1236
+      ],
+      [
+       -1170,
+       -1450
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -956,
+       -1641
+      ],
+      [
+       -722,
+       -1808
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       -471,
+       -1946
+      ],
+      [
+       -206,
+       -2056
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       70,
+       -2136
+      ],
+      [
+       353,
+       -2184
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       640,
+       -2200
+      ],
+      [
+       927,
+       -2184
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       1210,
+       -2136
+      ],
+      [
+       1486,
+       -2056
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       1751,
+       -1946
+      ],
+      [
+       2002,
+       -1808
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       2236,
+       -1641
+      ],
+      [
+       2450,
+       -1450
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       2641,
+       -1236
+      ],
+      [
+       2808,
+       -1002
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       2946,
+       -751
+      ],
+      [
+       3056,
+       -486
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       360
+      ],
+      [
+       3136,
+       -210
+      ],
+      [
+       3184,
+       73
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.1,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 26,
+     "y": 59,
+     "w": 108,
+     "h": 108,
+     "rotation": -12,
+     "fill": "#FFFFFF",
+     "radius": 20,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 51,
+     "y": 75,
+     "w": 65,
+     "h": 65,
+     "rotation": -12,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 1134,
+     "y": 53,
+     "w": 108,
+     "h": 108,
+     "rotation": 10,
+     "fill": "#5A00D6",
+     "radius": 20,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 1151,
+     "y": 78,
+     "w": 65,
+     "h": 65,
+     "rotation": 10,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 515,
+     "w": 108,
+     "h": 108,
+     "rotation": 8,
+     "fill": "#FFFFFF",
+     "radius": 20,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "pill",
+     "x": 75,
+     "y": 540,
+     "w": 65,
+     "h": 65,
+     "rotation": 8,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 278,
+     "y": 142,
+     "w": 700,
+     "h": 231,
+     "rotation": -3,
+     "fill": "#5A00D6",
+     "radius": 14,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 198.6,
+     "y": 110.7,
+     "w": 870,
+     "h": 197,
+     "text": "SLEEP",
+     "family": "Sora",
+     "size": 172,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 211.1,
+     "y": 332.6,
+     "w": 870,
+     "h": 217,
+     "text": "IS KEY",
+     "family": "Sora",
+     "size": 190,
+     "weight": 800,
+     "color": "#111111",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n37",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n36",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

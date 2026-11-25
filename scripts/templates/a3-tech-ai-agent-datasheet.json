@@ -1,0 +1,909 @@
+{
+ "id": "a3-tech-ai-agent-datasheet",
+ "title": "AI Agent Platform Data Sheet",
+ "categories": [
+  "technology",
+  "marketing",
+  "print"
+ ],
+ "tags": [
+  "ai agents",
+  "data sheet",
+  "product",
+  "specifications",
+  "saas",
+  "enterprise",
+  "a4"
+ ],
+ "styleTags": [
+  "green",
+  "marketing",
+  "modern"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -980,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bricolage Grotesque",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Data sheet",
+   "bg": "#F5F3EA",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 794,
+     "h": 338,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 595,
+     "y": -145,
+     "w": 330,
+     "h": 330,
+     "stroke": "#1F6650",
+     "strokeWidth": 1.5,
+     "opacity": 0.9,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 525,
+     "y": -215,
+     "w": 470,
+     "h": 470,
+     "stroke": "#1F6650",
+     "strokeWidth": 1.5,
+     "opacity": 0.7,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 455,
+     "y": -285,
+     "w": 610,
+     "h": 610,
+     "stroke": "#1F6650",
+     "strokeWidth": 1.5,
+     "opacity": 0.5,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 338,
+     "w": 794,
+     "h": 5,
+     "fill": "#C5F26B"
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 46,
+     "w": 24,
+     "h": 24,
+     "icon": "leaf",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 43,
+     "w": 200,
+     "h": 30,
+     "text": "Canopy",
+     "family": "Bricolage Grotesque",
+     "size": 21,
+     "weight": 700,
+     "color": "#F5F3EA",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 108,
+     "w": 400,
+     "h": 14,
+     "text": "Agent platform · Product data sheet",
+     "family": "Manrope",
+     "size": 10,
+     "weight": 800,
+     "color": "#C5F26B",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 132,
+     "w": 486,
+     "h": 94,
+     "text": "AI agents that finish the job and show their work.",
+     "family": "Bricolage Grotesque",
+     "size": 37,
+     "weight": 700,
+     "color": "#F5F3EA",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 242,
+     "w": 450,
+     "h": 46,
+     "text": "Canopy runs governed AI agents across your business systems, with approvals, audit trails and spend limits built in.",
+     "family": "Manrope",
+     "size": 13,
+     "weight": 500,
+     "color": "#CFE3D6",
+     "lineHeight": 1.55
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 104,
+     "w": 178,
+     "h": 1,
+     "fill": "#2A6B55"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 114,
+     "w": 178,
+     "h": 38,
+     "text": "94%",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#C5F26B",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 151,
+     "w": 178,
+     "h": 16,
+     "text": "of tasks finished unassisted",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#CFE3D6"
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 176,
+     "w": 178,
+     "h": 1,
+     "fill": "#2A6B55"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 186,
+     "w": 178,
+     "h": 38,
+     "text": "3.2x",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#C5F26B",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 223,
+     "w": 178,
+     "h": 16,
+     "text": "faster ticket resolution",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#CFE3D6"
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 248,
+     "w": 178,
+     "h": 1,
+     "fill": "#2A6B55"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 258,
+     "w": 178,
+     "h": 38,
+     "text": "120+",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#C5F26B",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 295,
+     "w": 178,
+     "h": 16,
+     "text": "pre-built tool connectors",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#CFE3D6"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 372,
+     "w": 300,
+     "h": 14,
+     "text": "What it does",
+     "family": "Manrope",
+     "size": 10,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 392,
+     "w": 560,
+     "h": 30,
+     "text": "Built for work that spans many systems",
+     "family": "Bricolage Grotesque",
+     "size": 21,
+     "weight": 700,
+     "color": "#10201A"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 440,
+     "w": 214,
+     "h": 1.5,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 456,
+     "w": 34,
+     "h": 34,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 64,
+     "y": 464,
+     "w": 18,
+     "h": 18,
+     "icon": "compass",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 455,
+     "w": 180,
+     "h": 34,
+     "text": "Multi-step planning",
+     "family": "Bricolage Grotesque",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 500,
+     "w": 212,
+     "h": 36,
+     "text": "Breaks a goal into steps, retries failures and knows when to stop.",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#4E6157",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 290,
+     "y": 440,
+     "w": 214,
+     "h": 1.5,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 290,
+     "y": 456,
+     "w": 34,
+     "h": 34,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 298,
+     "y": 464,
+     "w": 18,
+     "h": 18,
+     "icon": "puzzle",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 336,
+     "y": 455,
+     "w": 180,
+     "h": 34,
+     "text": "Tools over MCP",
+     "family": "Bricolage Grotesque",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 500,
+     "w": 212,
+     "h": 36,
+     "text": "Connects to 120+ systems through the Model Context Protocol.",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#4E6157",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 524,
+     "y": 440,
+     "w": 214,
+     "h": 1.5,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 524,
+     "y": 456,
+     "w": 34,
+     "h": 34,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 532,
+     "y": 464,
+     "w": 18,
+     "h": 18,
+     "icon": "thumb-up",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 455,
+     "w": 180,
+     "h": 34,
+     "text": "Human approvals",
+     "family": "Bricolage Grotesque",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 500,
+     "w": 212,
+     "h": 36,
+     "text": "Routes risky actions to a person before anything changes.",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#4E6157",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 554,
+     "w": 214,
+     "h": 1.5,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 570,
+     "w": 34,
+     "h": 34,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 64,
+     "y": 578,
+     "w": 18,
+     "h": 18,
+     "icon": "file-text",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 569,
+     "w": 180,
+     "h": 34,
+     "text": "Full audit trail",
+     "family": "Bricolage Grotesque",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 614,
+     "w": 212,
+     "h": 36,
+     "text": "Every prompt, tool call and result is logged and replayable.",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#4E6157",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 290,
+     "y": 554,
+     "w": 214,
+     "h": 1.5,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 290,
+     "y": 570,
+     "w": 34,
+     "h": 34,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 298,
+     "y": 578,
+     "w": 18,
+     "h": 18,
+     "icon": "gauge",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 336,
+     "y": 569,
+     "w": 180,
+     "h": 34,
+     "text": "Spend guardrails",
+     "family": "Bricolage Grotesque",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 614,
+     "w": 212,
+     "h": 36,
+     "text": "Per-agent budgets and step limits, enforced at run time.",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#4E6157",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 524,
+     "y": 554,
+     "w": 214,
+     "h": 1.5,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 524,
+     "y": 570,
+     "w": 34,
+     "h": 34,
+     "fill": "#0C3B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 532,
+     "y": 578,
+     "w": 18,
+     "h": 18,
+     "icon": "settings",
+     "color": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 569,
+     "w": 180,
+     "h": 34,
+     "text": "Bring your own model",
+     "family": "Bricolage Grotesque",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 614,
+     "w": 212,
+     "h": 36,
+     "text": "Use hosted or self-hosted models and switch without rewrites.",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#4E6157",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 680,
+     "w": 300,
+     "h": 14,
+     "text": "Technical specifications",
+     "family": "Manrope",
+     "size": 10,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 678,
+     "w": 300,
+     "h": 16,
+     "text": "Canopy 5.2 · November 2026",
+     "family": "Manrope",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#4E6157",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 702,
+     "w": 682,
+     "h": 2,
+     "fill": "#10201A"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 704,
+     "w": 682,
+     "h": 41,
+     "fill": "#ECEADC"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 703,
+     "w": 150,
+     "h": 41,
+     "text": "Models supported",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 232,
+     "y": 703,
+     "w": 494,
+     "h": 41,
+     "text": "Any chat-completions-compatible endpoint, hosted or self-hosted",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 744,
+     "w": 150,
+     "h": 41,
+     "text": "Tool protocol",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 232,
+     "y": 744,
+     "w": 494,
+     "h": 41,
+     "text": "Model Context Protocol (MCP), OpenAPI 3.1 and signed webhooks",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 786,
+     "w": 682,
+     "h": 41,
+     "fill": "#ECEADC"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 785,
+     "w": 150,
+     "h": 41,
+     "text": "Deployment options",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 232,
+     "y": 785,
+     "w": 494,
+     "h": 41,
+     "text": "Canopy Cloud (EU and US), private VPC, or on-premises with air-gapped install",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 826,
+     "w": 150,
+     "h": 41,
+     "text": "Identity and access",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 232,
+     "y": 826,
+     "w": 494,
+     "h": 41,
+     "text": "SAML 2.0 and OIDC single sign-on, SCIM provisioning, role-based access",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 868,
+     "w": 682,
+     "h": 41,
+     "fill": "#ECEADC"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 867,
+     "w": 150,
+     "h": 41,
+     "text": "Compliance",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 232,
+     "y": 867,
+     "w": 494,
+     "h": 41,
+     "text": "SOC 2 Type II, ISO 27001 and GDPR, with regional data residency",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 908,
+     "w": 150,
+     "h": 41,
+     "text": "Observability",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 800,
+     "color": "#0C3B2E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 232,
+     "y": 908,
+     "w": 494,
+     "h": 41,
+     "text": "OpenTelemetry traces, step-by-step run replay and cost per task",
+     "family": "Manrope",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#10201A",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 950,
+     "w": 682,
+     "h": 1,
+     "fill": "#D6D5C6"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 985,
+     "w": 794,
+     "h": 138,
+     "fill": "#C5F26B"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1008,
+     "w": 460,
+     "h": 30,
+     "text": "See Canopy run on your own workflows",
+     "family": "Bricolage Grotesque",
+     "size": 21,
+     "weight": 700,
+     "color": "#072A20"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1042,
+     "w": 470,
+     "h": 18,
+     "text": "Book a 45-minute technical walkthrough with a solutions engineer.",
+     "family": "Manrope",
+     "size": 12,
+     "weight": 600,
+     "color": "#23412F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1076,
+     "w": 500,
+     "h": 16,
+     "text": "canopy.example/demo   ·   hello@canopy.example   ·   +44 20 7946 0142",
+     "family": "Manrope",
+     "size": 11,
+     "weight": 800,
+     "color": "#072A20"
+    },
+    {
+     "kind": "button",
+     "x": 566,
+     "y": 1022,
+     "w": 172,
+     "h": 48,
+     "label": "Request a demo",
+     "fill": "#072A20",
+     "color": "#C5F26B",
+     "family": "Bricolage Grotesque",
+     "size": 15,
+     "weight": 700
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Product name",
+   "hint": "Short name"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Hero statement",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Hero supporting line",
+   "hint": "Two lines"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Lead statistic",
+   "hint": "A number with its unit"
+  },
+  {
+   "node": "p0-n71",
+   "kind": "text",
+   "label": "Call to action",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n73",
+   "kind": "text",
+   "label": "Contact line",
+   "hint": "Website, email, phone"
+  }
+ ]
+}

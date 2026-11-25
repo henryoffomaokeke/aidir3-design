@@ -1,0 +1,265 @@
+{
+ "id": "a3-lib-bizcard-two-sided",
+ "title": "Two-sided Realtor Card",
+ "categories": [
+  "branding",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "real estate",
+  "navy",
+  "two sided"
+ ],
+ "styleTags": [
+  "dark",
+  "multi-page"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E1A3D",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 425,
+     "y": 110,
+     "w": 200,
+     "h": 200,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3,
+     "opacity": 0.35
+    },
+    {
+     "kind": "icon",
+     "icon": "home",
+     "x": 475,
+     "y": 160,
+     "w": 100,
+     "h": 100,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 335.8,
+     "w": 900,
+     "h": 72,
+     "text": "Oak & Stone",
+     "family": "Playfair Display",
+     "size": 58,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 425.2,
+     "w": 900,
+     "h": 36,
+     "text": "Homes worth coming back to",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true,
+     "opacity": 0.8
+    }
+   ]
+  },
+  {
+   "name": "Page 2",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 16,
+     "h": 600,
+     "fill": "#C99A2E"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 61.4,
+     "w": 620,
+     "h": 66,
+     "text": "Tunde Bakare",
+     "family": "Playfair Display",
+     "size": 54,
+     "weight": 700,
+     "color": "#0E1A3D",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 134.8,
+     "w": 620,
+     "h": 36,
+     "text": "Principal Realtor",
+     "family": "Albert Sans",
+     "size": 24,
+     "weight": 500,
+     "color": "#5A6380",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 80,
+     "y": 258,
+     "w": 25,
+     "h": 25,
+     "color": "#C99A2E"
+    },
+    {
+     "kind": "text",
+     "x": 119,
+     "y": 245.2,
+     "w": 581,
+     "h": 40,
+     "text": "+234 812 000 4455",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#0E1A3D",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 80,
+     "y": 306,
+     "w": 25,
+     "h": 25,
+     "color": "#C99A2E"
+    },
+    {
+     "kind": "text",
+     "x": 119,
+     "y": 293.2,
+     "w": 581,
+     "h": 40,
+     "text": "tunde@oakandstone.ng",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#0E1A3D",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 80,
+     "y": 354,
+     "w": 25,
+     "h": 25,
+     "color": "#C99A2E"
+    },
+    {
+     "kind": "text",
+     "x": 119,
+     "y": 341.2,
+     "w": 581,
+     "h": 40,
+     "text": "oakandstone.ng",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#0E1A3D",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 80,
+     "y": 402,
+     "w": 25,
+     "h": 25,
+     "color": "#C99A2E"
+    },
+    {
+     "kind": "text",
+     "x": 119,
+     "y": 389.2,
+     "w": 581,
+     "h": 40,
+     "text": "Ikoyi, Lagos",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#0E1A3D",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 750,
+     "y": 190,
+     "w": 220,
+     "h": 220,
+     "fill": "#C99A2E",
+     "opacity": 0.12
+    },
+    {
+     "kind": "icon",
+     "icon": "home",
+     "x": 810,
+     "y": 250,
+     "w": 100,
+     "h": 100,
+     "color": "#C99A2E"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

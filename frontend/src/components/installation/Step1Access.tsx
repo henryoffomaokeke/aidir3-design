@@ -86,7 +86,7 @@ export function Step1Access() {
           label={proxied ? tr("installation.external_url_the_domain_your_proxy_serves") : tr("installation.public_url")}
           type="url"
           required
-          placeholder={proxied ? "https://hycanvas.art" : "https://canvas.example.com"}
+          placeholder={proxied ? "https://design.aidir3.com" : "https://canvas.example.com"}
           value={appUrl}
           onChange={(e) => setAppUrl(e.target.value)}
         />

@@ -1,0 +1,316 @@
+{
+ "id": "a3-lib-brand-banner",
+ "title": "Adire House: Facebook Cover",
+ "categories": [
+  "branding",
+  "social"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "fashion boutique",
+  "monogram logo",
+  "beauty & fashion",
+  "fashion",
+  "boutique"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1640,
+  624
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF1F2",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 1156,
+     "y": -78,
+     "w": 780,
+     "h": 780,
+     "fill": "#E11D48",
+     "opacity": 0.14,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 1422,
+     "y": 343,
+     "w": 374,
+     "h": 374,
+     "fill": "#FDA4AF",
+     "opacity": 0.35,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": -94,
+     "y": -125,
+     "w": 437,
+     "h": 437,
+     "fill": "#E11D48",
+     "opacity": 0.1,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 1047,
+     "y": 75,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1085,
+     "y": 75,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1122,
+     "y": 75,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1160,
+     "y": 75,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1197,
+     "y": 75,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1047,
+     "y": 112,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1085,
+     "y": 112,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1122,
+     "y": 112,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1160,
+     "y": 112,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1197,
+     "y": 112,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1047,
+     "y": 150,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1085,
+     "y": 150,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1122,
+     "y": 150,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1160,
+     "y": 150,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1197,
+     "y": 150,
+     "w": 11,
+     "h": 11,
+     "fill": "#E11D48",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 75,
+     "y": 343,
+     "w": 200,
+     "h": 200,
+     "stroke": "#E11D48",
+     "strokeWidth": 5,
+     "opacity": 0.5
+    },
+    {
+     "kind": "rect",
+     "x": 497,
+     "y": 142,
+     "w": 165,
+     "h": 165,
+     "fill": "#3F1D25",
+     "radius": 39.5
+    },
+    {
+     "kind": "text",
+     "x": 497,
+     "y": 131.6,
+     "w": 165,
+     "h": 165,
+     "text": "AH",
+     "family": "EB Garamond",
+     "size": 78,
+     "weight": 600,
+     "color": "#FFF1F2",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 628,
+     "y": 273,
+     "w": 29,
+     "h": 29,
+     "fill": "#E11D48"
+    },
+    {
+     "kind": "text",
+     "x": 712,
+     "y": 139.9,
+     "w": 508,
+     "h": 94,
+     "text": "Adire House",
+     "family": "EB Garamond",
+     "size": 78,
+     "weight": 600,
+     "color": "#3F1D25",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 712,
+     "y": 257.6,
+     "w": 508,
+     "h": 32,
+     "text": "Fashion boutique",
+     "family": "Red Hat Text",
+     "size": 26,
+     "weight": 700,
+     "color": "#8B5E66",
+     "lineHeight": 1.12,
+     "letterSpacing": 4.7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 420,
+     "y": 374.7,
+     "w": 800,
+     "h": 25,
+     "text": "Hand-dyed adire, ankara two-pieces and easy linens made by local artisans.",
+     "family": "Red Hat Text",
+     "size": 18,
+     "weight": 600,
+     "color": "#8B5E66",
+     "align": "center",
+     "lineHeight": 1.3
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 90 characters"
+  }
+ ]
+}

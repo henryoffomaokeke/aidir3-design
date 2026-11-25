@@ -1,0 +1,254 @@
+{
+ "id": "a3-lib-doc-sq-badge",
+ "title": "Skincare Brand Launch: Badge Ad",
+ "categories": [
+  "marketing"
+ ],
+ "tags": [
+  "skincare",
+  "launch",
+  "serum",
+  "beauty brand",
+  "new product",
+  "glow",
+  "display ad 300×250",
+  "badge ad"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  600,
+  500
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Lexend",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF0F6",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 325,
+     "y": 25,
+     "w": 250,
+     "h": 250,
+     "fill": "#FF3D8B"
+    },
+    {
+     "kind": "ellipse",
+     "x": 310,
+     "y": 10,
+     "w": 280,
+     "h": 280,
+     "stroke": "#FF3D8B",
+     "strokeWidth": 3,
+     "opacity": 0.4
+    },
+    {
+     "kind": "text",
+     "x": 350,
+     "y": 67.6,
+     "w": 200,
+     "h": 109,
+     "text": "₦14,500",
+     "family": "Lexend",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 355,
+     "y": 184,
+     "w": 190,
+     "h": 22,
+     "text": "LAUNCH PRICE",
+     "family": "Onest",
+     "size": 18,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 28,
+     "y": 28,
+     "w": 44,
+     "h": 44,
+     "fill": "#FF3D8B"
+    },
+    {
+     "kind": "icon",
+     "icon": "leaf",
+     "x": 39,
+     "y": 39,
+     "w": 22,
+     "h": 22,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 85,
+     "y": 23.1,
+     "w": 223,
+     "h": 44,
+     "text": "Glowroot",
+     "family": "Onest",
+     "size": 20,
+     "weight": 700,
+     "color": "#2D1630",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 91.5,
+     "w": 290,
+     "h": 160,
+     "text": "Clean\nskin,\nfinally",
+     "family": "Lexend",
+     "size": 50,
+     "weight": 700,
+     "color": "#2D1630",
+     "vAlign": "middle",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 408,
+     "w": 250,
+     "h": 64,
+     "fill": "#FF3D8B",
+     "radius": 32
+    },
+    {
+     "kind": "text",
+     "x": 54,
+     "y": 403.3,
+     "w": 192,
+     "h": 64,
+     "text": "Join the waitlist",
+     "family": "Onest",
+     "size": 19,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       248,
+       440
+      ],
+      [
+       262,
+       440
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       255,
+       433
+      ],
+      [
+       262,
+       440
+      ],
+      [
+       255,
+       447
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 403.1,
+     "w": 268,
+     "h": 64,
+     "text": "glowroot.co",
+     "family": "Onest",
+     "size": 20,
+     "weight": 700,
+     "color": "#FF3D8B",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

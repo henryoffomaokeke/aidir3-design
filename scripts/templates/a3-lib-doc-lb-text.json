@@ -1,0 +1,235 @@
+{
+ "id": "a3-lib-doc-lb-text",
+ "title": "Cleaning Services: Bold Text Ad",
+ "categories": [
+  "business",
+  "marketing"
+ ],
+ "tags": [
+  "cleaning",
+  "home services",
+  "laundry",
+  "maid",
+  "fumigation",
+  "leaderboard ad 728×90",
+  "bold text ad"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1456,
+  180
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Onest",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F0F7FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1456,
+     "h": 180,
+     "fill": "#2B7FFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 986,
+     "y": 30,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1020,
+     "y": 30,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1054,
+     "y": 30,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 986,
+     "y": 64,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1020,
+     "y": 64,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1054,
+     "y": 64,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 986,
+     "y": 98,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1020,
+     "y": 98,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1054,
+     "y": 98,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 986,
+     "y": 132,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1020,
+     "y": 132,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1054,
+     "y": 132,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 16.1,
+     "w": 980,
+     "h": 30,
+     "text": "HOME & OFFICE",
+     "family": "Onest",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 47.5,
+     "w": 980,
+     "h": 79,
+     "text": "Deep cleaning made easy",
+     "family": "Onest",
+     "size": 73,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 1076,
+     "y": 130,
+     "w": 320,
+     "h": 4,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1076,
+     "y": 20.2,
+     "w": 320,
+     "h": 90,
+     "text": "Book a clean →",
+     "family": "Onest",
+     "size": 40,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

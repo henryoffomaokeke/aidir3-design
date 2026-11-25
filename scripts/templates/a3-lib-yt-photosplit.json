@@ -1,0 +1,191 @@
+{
+ "id": "a3-lib-yt-photosplit",
+ "title": "Photography Business: Photo Card + Face YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "photography business",
+  "vlog",
+  "photo",
+  "linkedin video cover"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#4B00C2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#4B00C2",
+        0
+       ],
+       [
+        "#F72585",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "photo",
+     "x": 36,
+     "y": 83,
+     "w": 691,
+     "h": 446,
+     "rotation": -4,
+     "shape": "rect",
+     "fill": "#DCDEE1",
+     "name": "Photo: photographer with camera studio",
+     "image": {
+      "asset": "tplph-ov-40c9df8d-9a64-45ed-a4ba-9cb551264f08",
+      "url": "/api/v1/templates/photos/ov/40c9df8d-9a64-45ed-a4ba-9cb551264f08.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Classoc Camera",
+       "author": "Thijs van der Weide",
+       "url": "https://stocksnap.io/photo/classoc-camera-TNZ49BLWXH",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Classoc Camera",
+      "fit": "cover",
+      "crop": {
+       "x": 0,
+       "y": 0.04,
+       "width": 1,
+       "height": 0.8
+      }
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 83,
+     "w": 691,
+     "h": 446,
+     "rotation": -4,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 10,
+     "name": "Photo border"
+    },
+    {
+     "kind": "photo",
+     "x": 742,
+     "y": 277,
+     "w": 512,
+     "h": 466,
+     "shape": "rect",
+     "fill": "#A928AC",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-c22cf43a-6510-496a-a466-4826f151f92c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/c22cf43a-6510-496a-a466-4826f151f92c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Authentic Stock",
+       "url": "https://stocksnap.io/photo/smiling-woman-YANJF5SZTU",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 28,
+     "y": 438,
+     "w": 380,
+     "h": 151,
+     "rotation": -3,
+     "fill": "#00F5D4",
+     "radius": 9,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 49.9,
+     "y": 417.2,
+     "w": 750,
+     "h": 129,
+     "text": "STUDIO",
+     "family": "Anton",
+     "size": 115,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 38.8,
+     "y": 564.8,
+     "w": 768,
+     "h": 129,
+     "text": "TOUR",
+     "family": "Anton",
+     "size": 115,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

@@ -1,0 +1,718 @@
+{
+ "id": "a3-lib-modern-aurora",
+ "title": "CSR & Foundation: Aurora Gradient",
+ "categories": [
+  "business",
+  "social"
+ ],
+ "tags": [
+  "csr",
+  "foundation",
+  "sustainability",
+  "community",
+  "impact",
+  "esg",
+  "enterprise",
+  "story / reel / tiktok"
+ ],
+ "styleTags": [
+  "dark",
+  "aurora"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#070B1F",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": -603,
+     "y": -418,
+     "w": 1620,
+     "h": 1404,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#6044E0",
+        0
+       ],
+       [
+        "#553DC8",
+        0.1
+       ],
+       [
+        "#4A36B0",
+        0.2
+       ],
+       [
+        "#3F2F98",
+        0.3
+       ],
+       [
+        "#342881",
+        0.4
+       ],
+       [
+        "#2B226D",
+        0.5
+       ],
+       [
+        "#241D5D",
+        0.6
+       ],
+       [
+        "#1D194F",
+        0.69
+       ],
+       [
+        "#16143F",
+        0.79
+       ],
+       [
+        "#0F102F",
+        0.89
+       ],
+       [
+        "#070B1F",
+        0.99
+       ],
+       [
+        "#070B1F",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 76,
+     "y": 900,
+     "w": 1728,
+     "h": 1404,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#1DABC5",
+        0
+       ],
+       [
+        "#1A97B0",
+        0.1
+       ],
+       [
+        "#17849C",
+        0.2
+       ],
+       [
+        "#157088",
+        0.3
+       ],
+       [
+        "#125C73",
+        0.4
+       ],
+       [
+        "#104C62",
+        0.5
+       ],
+       [
+        "#0E3F55",
+        0.6
+       ],
+       [
+        "#0C3247",
+        0.7
+       ],
+       [
+        "#0A253A",
+        0.8
+       ],
+       [
+        "#09182C",
+        0.9
+       ],
+       [
+        "#070B1F",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 369.1,
+     "y": -113.3,
+     "w": 945.7,
+     "h": 840.6,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 382.3,
+     "y": -101.6,
+     "w": 919.5,
+     "h": 817.3,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 395.4,
+     "y": -90,
+     "w": 893.2,
+     "h": 793.9,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 408.5,
+     "y": -78.3,
+     "w": 866.9,
+     "h": 770.6,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 421.7,
+     "y": -66.6,
+     "w": 840.6,
+     "h": 747.2,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 434.8,
+     "y": -54.9,
+     "w": 814.4,
+     "h": 723.9,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 447.9,
+     "y": -43.3,
+     "w": 788.1,
+     "h": 700.5,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 461.1,
+     "y": -31.6,
+     "w": 761.8,
+     "h": 677.2,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 474.2,
+     "y": -19.9,
+     "w": 735.6,
+     "h": 653.8,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 487.4,
+     "y": -8.2,
+     "w": 709.3,
+     "h": 630.5,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 500.5,
+     "y": 3.4,
+     "w": 683,
+     "h": 607.1,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 513.6,
+     "y": 15.1,
+     "w": 656.8,
+     "h": 583.8,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 526.8,
+     "y": 26.8,
+     "w": 630.5,
+     "h": 560.4,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 539.9,
+     "y": 38.5,
+     "w": 604.2,
+     "h": 537.1,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 553,
+     "y": 50.1,
+     "w": 577.9,
+     "h": 513.7,
+     "fill": "#468FF2",
+     "opacity": 0.01,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 566.2,
+     "y": 61.8,
+     "w": 551.7,
+     "h": 490.4,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 579.3,
+     "y": 73.5,
+     "w": 525.4,
+     "h": 467,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 592.4,
+     "y": 85.2,
+     "w": 499.1,
+     "h": 443.7,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 605.6,
+     "y": 96.8,
+     "w": 472.9,
+     "h": 420.3,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 618.7,
+     "y": 108.5,
+     "w": 446.6,
+     "h": 397,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 631.8,
+     "y": 120.2,
+     "w": 420.3,
+     "h": 373.6,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 645,
+     "y": 131.9,
+     "w": 394.1,
+     "h": 350.3,
+     "fill": "#468FF2",
+     "opacity": 0.02,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 658.1,
+     "y": 143.5,
+     "w": 367.8,
+     "h": 326.9,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 671.2,
+     "y": 155.2,
+     "w": 341.5,
+     "h": 303.6,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 684.4,
+     "y": 166.9,
+     "w": 315.2,
+     "h": 280.2,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 697.5,
+     "y": 178.6,
+     "w": 289,
+     "h": 256.9,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 710.6,
+     "y": 190.2,
+     "w": 262.7,
+     "h": 233.5,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 723.8,
+     "y": 201.9,
+     "w": 236.4,
+     "h": 210.2,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 736.9,
+     "y": 213.6,
+     "w": 210.2,
+     "h": 186.8,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 750.1,
+     "y": 225.3,
+     "w": 183.9,
+     "h": 163.5,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 763.2,
+     "y": 236.9,
+     "w": 157.6,
+     "h": 140.1,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 776.3,
+     "y": 248.6,
+     "w": 131.4,
+     "h": 116.8,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 789.5,
+     "y": 260.3,
+     "w": 105.1,
+     "h": 93.4,
+     "fill": "#468FF2",
+     "opacity": 0.03,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 802.6,
+     "y": 272,
+     "w": 78.8,
+     "h": 70.1,
+     "fill": "#468FF2",
+     "opacity": 0.04,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 815.7,
+     "y": 283.6,
+     "w": 52.5,
+     "h": 46.7,
+     "fill": "#468FF2",
+     "opacity": 0.04,
+     "name": "Soft light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 828.9,
+     "y": 295.3,
+     "w": 26.3,
+     "h": 23.4,
+     "fill": "#468FF2",
+     "opacity": 0.04,
+     "name": "Soft light"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 51,
+     "h": 51,
+     "fill": "#F2F4FF",
+     "radius": 25.5,
+     "opacity": 0.12,
+     "name": "Logo chip"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 90,
+     "y": 90,
+     "w": 27,
+     "h": 27,
+     "color": "#F2F4FF"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 72.3,
+     "w": 332,
+     "h": 51,
+     "text": "Meridian Foundation",
+     "family": "Inter",
+     "size": 27,
+     "weight": 700,
+     "color": "#F2F4FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 550.7,
+     "w": 924,
+     "h": 34,
+     "text": "Community impact",
+     "family": "Inter",
+     "size": 25,
+     "weight": 700,
+     "color": "#F2F4FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true,
+     "opacity": 0.82
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 594.8,
+     "w": 924,
+     "h": 490,
+     "text": "Investing in tomorrow",
+     "family": "Space Grotesk",
+     "size": 154,
+     "weight": 700,
+     "color": "#F2F4FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1128.9,
+     "w": 924,
+     "h": 94,
+     "text": "Scholarships, clean water and digital skills programmes across 120 communities since 2015.",
+     "family": "Inter",
+     "size": 32,
+     "weight": 400,
+     "color": "#F2F4FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42,
+     "opacity": 0.82
+    },
+    {
+     "kind": "rect",
+     "x": 367,
+     "y": 1278,
+     "w": 347,
+     "h": 75,
+     "fill": "#FFFFFF",
+     "radius": 37.5,
+     "opacity": 0.13,
+     "name": "Button"
+    },
+    {
+     "kind": "rect",
+     "x": 367,
+     "y": 1278,
+     "w": 347,
+     "h": 75,
+     "radius": 37.5,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.26,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 367,
+     "y": 1271.7,
+     "w": 347,
+     "h": 75,
+     "text": "See our impact",
+     "family": "Inter",
+     "size": 30,
+     "weight": 700,
+     "color": "#F2F4FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1790.9,
+     "w": 924,
+     "h": 46,
+     "text": "meridianfoundation.org",
+     "family": "Inter",
+     "size": 24,
+     "weight": 500,
+     "color": "#F2F4FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "opacity": 0.82
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n42",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n43",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 110 characters"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n40",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n41",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

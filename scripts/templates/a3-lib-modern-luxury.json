@@ -1,0 +1,265 @@
+{
+ "id": "a3-lib-modern-luxury",
+ "title": "Basketball League: Minimal Luxury",
+ "categories": [
+  "events",
+  "print"
+ ],
+ "tags": [
+  "basketball",
+  "league",
+  "hoops",
+  "tournament",
+  "streetball",
+  "sports",
+  "invitation",
+  "minimal luxury"
+ ],
+ "styleTags": [
+  "dark",
+  "luxury",
+  "photo"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2A0F18",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 42,
+     "y": 42,
+     "w": 1416,
+     "h": 2016,
+     "stroke": "#A4243B",
+     "strokeWidth": 3,
+     "opacity": 0.7,
+     "name": "Hairline frame"
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 1380,
+     "h": 1980,
+     "stroke": "#A4243B",
+     "strokeWidth": 1,
+     "opacity": 0.35,
+     "name": "Hairline frame"
+    },
+    {
+     "kind": "ellipse",
+     "x": 660,
+     "y": 183,
+     "w": 180,
+     "h": 180,
+     "stroke": "#A4243B",
+     "strokeWidth": 3,
+     "name": "Monogram ring"
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 166.1,
+     "w": 180,
+     "h": 180,
+     "text": "LC",
+     "family": "Instrument Serif",
+     "size": 72,
+     "weight": 400,
+     "color": "#FBEEE8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 435,
+     "y": 438,
+     "w": 630,
+     "h": 714,
+     "shape": "rect",
+     "fill": "#41383B",
+     "name": "Photo: basketball game arena"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       433.5,
+       436.5
+      ],
+      [
+       750,
+       436.5
+      ],
+      {
+       "x": 750,
+       "y": 438,
+       "cOut": {
+        "x": 576.03,
+        "y": 438
+       }
+      },
+      {
+       "x": 435,
+       "y": 753,
+       "cIn": {
+        "x": 435,
+        "y": 579.03
+       }
+      },
+      [
+       433.5,
+       753
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A0F18",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1066.5,
+       436.5
+      ],
+      [
+       750,
+       436.5
+      ],
+      {
+       "x": 750,
+       "y": 438,
+       "cOut": {
+        "x": 923.97,
+        "y": 438
+       }
+      },
+      {
+       "x": 1065,
+       "y": 753,
+       "cIn": {
+        "x": 1065,
+        "y": 579.03
+       }
+      },
+      [
+       1066.5,
+       753
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A0F18",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "text",
+     "x": 168,
+     "y": 1229,
+     "w": 1164,
+     "h": 45,
+     "text": "Game night",
+     "family": "Inter",
+     "size": 33,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 168,
+     "y": 1288.2,
+     "w": 1164,
+     "h": 322,
+     "text": "Tip-off is Friday",
+     "family": "Instrument Serif",
+     "size": 149,
+     "weight": 400,
+     "color": "#FBEEE8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "text",
+     "x": 168,
+     "y": 1665.8,
+     "w": 1164,
+     "h": 120,
+     "text": "Eight city teams, one trophy. Live DJ, half-time shows and food trucks on Fridays.",
+     "family": "Inter",
+     "size": 41,
+     "weight": 400,
+     "color": "#C9A8AE",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 559,
+     "y": 1846.8,
+     "w": 383,
+     "h": 98,
+     "text": "Get tickets  →",
+     "family": "Inter",
+     "size": 39,
+     "weight": 700,
+     "color": "#FBEEE8",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 100 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

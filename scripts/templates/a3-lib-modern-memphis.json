@@ -1,0 +1,1181 @@
+{
+ "id": "a3-lib-modern-memphis",
+ "title": "Girls' Education Fund: Memphis Revival",
+ "categories": [
+  "business",
+  "social"
+ ],
+ "tags": [
+  "girls education",
+  "scholarship",
+  "charity",
+  "school fees",
+  "donate",
+  "nonprofit",
+  "instagram portrait",
+  "memphis revival"
+ ],
+ "styleTags": [
+  "light",
+  "memphis"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFE3F3",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 40,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 68,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 96,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 124,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 152,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 180,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 208,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 777,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 861,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 889,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 945,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 973,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1001,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1029,
+     "y": 236,
+     "w": 10.1,
+     "h": 10.1,
+     "fill": "#2B0B3A",
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 46.38,
+       "y": 1254.03,
+       "cOut": {
+        "x": 56.79,
+        "y": 1207
+       }
+      },
+      {
+       "x": 96.46,
+       "y": 1246.99,
+       "cIn": {
+        "x": 73.49,
+        "y": 1204.66
+       },
+       "cOut": {
+        "x": 119.44,
+        "y": 1289.33
+       }
+      },
+      {
+       "x": 146.55,
+       "y": 1239.95,
+       "cIn": {
+        "x": 136.14,
+        "y": 1286.98
+       },
+       "cOut": {
+        "x": 156.97,
+        "y": 1192.93
+       }
+      },
+      {
+       "x": 196.64,
+       "y": 1232.91,
+       "cIn": {
+        "x": 173.66,
+        "y": 1190.58
+       },
+       "cOut": {
+        "x": 219.62,
+        "y": 1275.25
+       }
+      },
+      {
+       "x": 246.73,
+       "y": 1225.87,
+       "cIn": {
+        "x": 236.31,
+        "y": 1272.9
+       },
+       "cOut": {
+        "x": 257.14,
+        "y": 1178.85
+       }
+      },
+      {
+       "x": 313.51,
+       "y": 1216.49,
+       "cIn": {
+        "x": 273.84,
+        "y": 1176.5
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#5EE7FF",
+     "strokeWidth": 10,
+     "cap": "round",
+     "join": "round",
+     "name": "Squiggle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       957.59,
+       1116.6
+      ],
+      [
+       997,
+       1293.38
+      ],
+      [
+       839.81,
+       1254.19
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF2FB3",
+     "name": "Triangle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 62,
+     "y": 62,
+     "w": 119,
+     "h": 119,
+     "fill": "#FFD23F",
+     "name": "Circle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 29,
+     "y": 29,
+     "w": 184,
+     "h": 184,
+     "stroke": "#2B0B3A",
+     "strokeWidth": 5,
+     "name": "Ring"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       410,
+       1278.5
+      ],
+      [
+       425,
+       1269.5
+      ],
+      [
+       440,
+       1278.5
+      ],
+      [
+       455,
+       1269.5
+      ],
+      [
+       470,
+       1278.5
+      ],
+      [
+       485,
+       1269.5
+      ],
+      [
+       500,
+       1278.5
+      ],
+      [
+       515,
+       1269.5
+      ],
+      [
+       530,
+       1278.5
+      ],
+      [
+       545,
+       1269.5
+      ],
+      [
+       560,
+       1278.5
+      ],
+      [
+       575,
+       1269.5
+      ],
+      [
+       590,
+       1278.5
+      ],
+      [
+       605,
+       1269.5
+      ],
+      [
+       620,
+       1278.5
+      ],
+      [
+       635,
+       1269.5
+      ],
+      [
+       650,
+       1278.5
+      ],
+      [
+       665,
+       1269.5
+      ],
+      [
+       669,
+       1278.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF2FB3",
+     "strokeWidth": 3,
+     "name": "Pattern (zigzag)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       410,
+       1308.5
+      ],
+      [
+       425,
+       1299.5
+      ],
+      [
+       440,
+       1308.5
+      ],
+      [
+       455,
+       1299.5
+      ],
+      [
+       470,
+       1308.5
+      ],
+      [
+       485,
+       1299.5
+      ],
+      [
+       500,
+       1308.5
+      ],
+      [
+       515,
+       1299.5
+      ],
+      [
+       530,
+       1308.5
+      ],
+      [
+       545,
+       1299.5
+      ],
+      [
+       560,
+       1308.5
+      ],
+      [
+       575,
+       1299.5
+      ],
+      [
+       590,
+       1308.5
+      ],
+      [
+       605,
+       1299.5
+      ],
+      [
+       620,
+       1308.5
+      ],
+      [
+       635,
+       1299.5
+      ],
+      [
+       650,
+       1308.5
+      ],
+      [
+       665,
+       1299.5
+      ],
+      [
+       669,
+       1308.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF2FB3",
+     "strokeWidth": 3,
+     "name": "Pattern (zigzag)"
+    },
+    {
+     "kind": "rect",
+     "x": 911,
+     "y": 594,
+     "w": 130,
+     "h": 130,
+     "fill": "#5EE7FF",
+     "name": "Square"
+    },
+    {
+     "kind": "rect",
+     "x": 93,
+     "y": 260,
+     "w": 928,
+     "h": 837,
+     "fill": "#2B0B3A",
+     "radius": 32,
+     "name": "Card shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 76,
+     "y": 243,
+     "w": 928,
+     "h": 837,
+     "fill": "#FFF5FB",
+     "radius": 32,
+     "stroke": "#2B0B3A",
+     "strokeWidth": 5,
+     "name": "Card"
+    },
+    {
+     "kind": "text",
+     "x": 130,
+     "y": 375.9,
+     "w": 820,
+     "h": 34,
+     "text": "Every girl in school",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#FF2FB3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 130,
+     "y": 420.1,
+     "w": 820,
+     "h": 271,
+     "text": "Fees, books, futures",
+     "family": "Outfit",
+     "size": 130,
+     "weight": 800,
+     "color": "#2B0B3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 130,
+     "y": 725.1,
+     "w": 820,
+     "h": 94,
+     "text": "₦60,000 covers a girl's fees, uniform and books for a full school year.",
+     "family": "Outfit",
+     "size": 32,
+     "weight": 500,
+     "color": "#6E4A78",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 376,
+     "y": 867,
+     "w": 329,
+     "h": 75,
+     "fill": "#FF2FB3",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 376,
+     "y": 860.9,
+     "w": 329,
+     "h": 75,
+     "text": "Sponsor a girl",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#2B0B3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n90",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n91",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n93",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n89",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

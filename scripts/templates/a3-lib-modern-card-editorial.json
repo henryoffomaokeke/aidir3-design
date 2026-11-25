@@ -1,0 +1,193 @@
+{
+ "id": "a3-lib-modern-card-editorial",
+ "title": "Banking & Fintech: Editorial Business Card",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "bank",
+  "banking",
+  "fintech",
+  "payments",
+  "corporate banking",
+  "enterprise",
+  "business card",
+  "editorial business card"
+ ],
+ "styleTags": [
+  "dark",
+  "editorial",
+  "photo"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#10231B",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 651,
+     "y": 0,
+     "w": 399,
+     "h": 600,
+     "shape": "rect",
+     "fill": "#3A413E",
+     "name": "Photo: bank building",
+     "image": {
+      "asset": "tplph-ov-e12207b6-fb5e-4f19-90ee-72d43f39d801",
+      "url": "/api/v1/templates/photos/ov/e12207b6-fb5e-4f19-90ee-72d43f39d801.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Dupont National Bank building, Dupont",
+       "author": "libraryofcongress",
+       "url": "https://www.rawpixel.com/image/7007192/dupont-national-bank-building-near-dupont-circle-washington-dc",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Dupont National Bank building, Dupont",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 651,
+     "y": 0,
+     "w": 6,
+     "h": 600,
+     "fill": "#D8B45A",
+     "name": "Rule"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 43.1,
+     "w": 555,
+     "h": 63,
+     "text": "Atlas Bank",
+     "family": "Playfair Display",
+     "size": 58,
+     "weight": 700,
+     "color": "#F5EFDC",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 118,
+     "w": 555,
+     "h": 24,
+     "text": "BUSINESS BANKING",
+     "family": "Albert Sans",
+     "size": 14,
+     "weight": 700,
+     "color": "#D8B45A",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 432,
+     "w": 72,
+     "h": 2,
+     "fill": "#F5EFDC"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 446.3,
+     "w": 555,
+     "h": 29,
+     "text": "Corporate desk: 0700 285 2700",
+     "family": "Albert Sans",
+     "size": 17,
+     "weight": 500,
+     "color": "#F5EFDC",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 481.3,
+     "w": 555,
+     "h": 29,
+     "text": "atlasbank.com/business",
+     "family": "Albert Sans",
+     "size": 17,
+     "weight": 500,
+     "color": "#F5EFDC",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 516.3,
+     "w": 555,
+     "h": 29,
+     "text": "@atlasbank",
+     "family": "Albert Sans",
+     "size": 17,
+     "weight": 500,
+     "color": "#F5EFDC",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

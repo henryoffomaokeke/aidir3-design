@@ -1,0 +1,335 @@
+{
+ "id": "a3-lib-layout-stacked",
+ "title": "Housewarming: Colour Band",
+ "categories": [
+  "celebrations",
+  "events",
+  "print"
+ ],
+ "tags": [
+  "housewarming",
+  "new home",
+  "house blessing",
+  "moving in",
+  "party",
+  "invitation",
+  "colour band",
+  "events"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#DFF3FF",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 1500,
+     "h": 966,
+     "shape": "rect",
+     "fill": "#CAD1D5",
+     "name": "Photo: house keys new home",
+     "image": {
+      "asset": "tplph-ov-8effcf0e-d26d-4d7b-81fb-0f5791f9a02a",
+      "url": "/api/v1/templates/photos/ov/8effcf0e-d26d-4d7b-81fb-0f5791f9a02a.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Pediment One Historic Houses Key",
+       "author": "U.S. National Archives",
+       "url": "https://www.rawpixel.com/image/8803029/photo-image-art-vintage-sculpture",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Pediment One Historic Houses Key",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 966,
+     "w": 1500,
+     "h": 167,
+     "fill": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 955.7,
+     "w": 784,
+     "h": 167,
+     "text": "NEW KEYS, NEW MEMORIES",
+     "family": "Onest",
+     "size": 42,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 881,
+     "y": 954.4,
+     "w": 522,
+     "h": 167,
+     "text": "The Bankole\nfamily",
+     "family": "EB Garamond",
+     "size": 56,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 1184.3,
+     "w": 1306,
+     "h": 277,
+     "text": "Home sweet home",
+     "family": "EB Garamond",
+     "size": 133,
+     "weight": 600,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 98,
+     "y": 1535,
+     "w": 83,
+     "h": 83,
+     "fill": "#FF5D8F",
+     "opacity": 0.15
+    },
+    {
+     "kind": "icon",
+     "icon": "calendar",
+     "x": 114,
+     "y": 1551,
+     "w": 50,
+     "h": 50,
+     "color": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 203,
+     "y": 1526.6,
+     "w": 306,
+     "h": 89,
+     "text": "Sat, 28 Jun",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 542,
+     "y": 1535,
+     "w": 83,
+     "h": 83,
+     "fill": "#FF5D8F",
+     "opacity": 0.15
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 559,
+     "y": 1551,
+     "w": 50,
+     "h": 50,
+     "color": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 1526.6,
+     "w": 306,
+     "h": 89,
+     "text": "Gwarinpa, Abuja",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 987,
+     "y": 1535,
+     "w": 83,
+     "h": 83,
+     "fill": "#FF5D8F",
+     "opacity": 0.15
+    },
+    {
+     "kind": "icon",
+     "icon": "chef-hat",
+     "x": 1003,
+     "y": 1551,
+     "w": 50,
+     "h": 50,
+     "color": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 1092,
+     "y": 1526.6,
+     "w": 306,
+     "h": 89,
+     "text": "Barbecue & drinks",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 1881,
+     "w": 500,
+     "h": 122,
+     "fill": "#0B2239",
+     "radius": 61
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 1872.1,
+     "w": 390,
+     "h": 122,
+     "text": "RSVP now",
+     "family": "Onest",
+     "size": 36,
+     "weight": 700,
+     "color": "#DFF3FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       532.58,
+       1942
+      ],
+      [
+       559.42,
+       1942
+      ]
+     ],
+     "closed": false,
+     "stroke": "#DFF3FF",
+     "strokeWidth": 4.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       546,
+       1928.58
+      ],
+      [
+       559.42,
+       1942
+      ],
+      [
+       546,
+       1955.42
+      ]
+     ],
+     "closed": false,
+     "stroke": "#DFF3FF",
+     "strokeWidth": 4.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 639,
+     "y": 1872.9,
+     "w": 764,
+     "h": 122,
+     "text": "RSVP: 0809 333 7070",
+     "family": "Onest",
+     "size": 33,
+     "weight": 600,
+     "color": "#4E6A85",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n18",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

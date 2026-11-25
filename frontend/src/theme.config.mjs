@@ -1,4 +1,4 @@
-// HyCanvas brand theme: the SINGLE SOURCE OF TRUTH for product/app colors.
+// aidir3 Design brand theme (a fork of HyCanvas): the SINGLE SOURCE OF TRUTH for product/app colors.
 //
 // To rebrand the whole app, edit the values here and run `npm run gen:theme`
 // (the frontend build runs it automatically). The generator writes the CSS
@@ -12,48 +12,54 @@
 // can import it. Hex values are sRGB. Scales follow Tailwind's 50..950 steps.
 
 export const theme = {
-  name: "HyCanvas",
+  name: "aidir3 Design",
 
-  // Primary brand accent. brand-600 is the main interactive color (buttons,
-  // active states); brand-500 drives focus rings. Currently: Plum.
+  // Primary brand accent: aidir3 ember. brand-600 is the main interactive color
+  // (buttons, active states) and is the site's #ff5a1f; brand-500 is the lighter
+  // "hi" step used for hover and focus rings. Text ON the accent is near-black
+  // ink (see onBrand), never white: white on #ff5a1f is only 3.1:1.
   brand: {
-    50: "#FBEFF7",
-    100: "#F6DDEE",
-    200: "#EDBBDC",
-    300: "#E195C7",
-    400: "#CF67A8",
-    500: "#B73E88",
-    600: "#9B2C72",
-    700: "#7E2059",
-    800: "#681A49",
-    900: "#54163B",
-    950: "#3E1030",
+    50: "#FFF4EE",
+    100: "#FFE8DC",
+    200: "#FFD3BD",
+    300: "#FFB894",
+    400: "#FF9A66",
+    500: "#FF7A3D",
+    600: "#FF5A1F",
+    700: "#C2410C",
+    800: "#9A3412",
+    900: "#7C2D12",
+    950: "#431407",
   },
 
-  // Secondary accent (used sparingly + as the gradient end). Currently fuchsia.
+  // Text and icons drawn on top of the accent (buttons, active chips).
+  onBrand: "#0B0C0E",
+
+  // Secondary accent (used sparingly + as the gradient end). Amber, the warm
+  // end of the aidir3 sheen.
   accent: {
-    50: "#FCEAF4",
-    100: "#FAD5E9",
-    200: "#F4AFD3",
-    300: "#EE8FC2",
-    400: "#E07AB8",
-    500: "#D6409A",
-    600: "#B82F80",
-    700: "#8E2563",
-    800: "#6B1C4A",
-    900: "#4F1537",
-    950: "#350D24",
+    50: "#FFF7ED",
+    100: "#FFEDD5",
+    200: "#FED7AA",
+    300: "#FDBA74",
+    400: "#FFAE6B",
+    500: "#FB923C",
+    600: "#F97316",
+    700: "#C2410C",
+    800: "#9A3412",
+    900: "#7C2D12",
+    950: "#431407",
   },
 
   // Identity gradient stops, promoted to first-class tokens (neutral names so
   // they survive any rebrand). `mid` references the brand scale so it tracks the
   // primary automatically. start/end are bespoke so the sweep can be richer than
   // a single scale step. Currently: deep plum -> plum -> magenta.
-  gradient: {
+gradient: {
     angle: "135deg",
-    start: "#6D1E50",
-    mid: "var(--color-brand-600)",
-    end: "#C84B9A",
+    start: "#FF5A1F",
+    mid: "#FF7A3D",
+    end: "#FFAE6B",
   },
 
   // Dark mode for the APP CHROME only (design content is never themed; the
@@ -96,27 +102,27 @@ export const theme = {
   },
 
   dark: {
-    page: "#111114",
-    surface: "#1b1b20",
+    page: "#0A0B0D",
+    surface: "#101216",
     neutral: {
-      50: "#161619",
-      100: "#1e1e23",
-      200: "#2a2a31",
-      300: "#3a3a42",
-      400: "#8f8f9a",
-      500: "#a5a5b0",
-      600: "#c2c2cb",
-      700: "#d8d8de",
-      800: "#e8e8ed",
-      900: "#f4f4f6",
-      950: "#fbfbfc",
+      50: "#0E1013",
+      100: "#171A1F",
+      200: "#22262C",
+      300: "#313740",
+      400: "#8B93A0",
+      500: "#A6ADB8",
+      600: "#C3C8D0",
+      700: "#D9DCE1",
+      800: "#EDEEF0",
+      900: "#F5F6F7",
+      950: "#FBFBFC",
     },
     brand: {
-      50: "#2b1424",
-      100: "#3a1b30",
-      200: "#4e2340",
+      50: "#24130A",
+      100: "#33190B",
+      200: "#4A230E",
     },
-    brandInk: "#E195C7",
+    brandInk: "#FF8A55",
   },
 
   // High-contrast mode for the APP CHROME only (F38 FR-4), an axis orthogonal
@@ -142,7 +148,7 @@ export const theme = {
         900: "#000000",
         950: "#000000",
       },
-      brandInk: "#681A49",
+      brandInk: "#7C2D12",
     },
     dark: {
       page: "#000000",
@@ -160,7 +166,7 @@ export const theme = {
         900: "#ffffff",
         950: "#ffffff",
       },
-      brandInk: "#EDBBDC",
+      brandInk: "#FFD3BD",
     },
   },
 

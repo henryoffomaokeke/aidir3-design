@@ -1,0 +1,682 @@
+{
+ "id": "a3-lib-modern-infographic",
+ "title": "Enterprise Product Launch: Data Infographic",
+ "categories": [
+  "flyers",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "product launch",
+  "launch",
+  "announcement",
+  "new feature",
+  "enterprise",
+  "flyer",
+  "data infographic"
+ ],
+ "styleTags": [
+  "dark",
+  "data"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B1020",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 125.1,
+     "w": 1062,
+     "h": 39,
+     "text": "Introducing",
+     "family": "Outfit",
+     "size": 29,
+     "weight": 700,
+     "color": "#6D8BFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 180.3,
+     "w": 1062,
+     "h": 131,
+     "text": "Meet Vantage AI",
+     "family": "Outfit",
+     "size": 121,
+     "weight": 800,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 346.4,
+     "w": 1062,
+     "h": 109,
+     "text": "Ask questions of your operations data, draft reports and automate approvals in plain English.",
+     "family": "Outfit",
+     "size": 37,
+     "weight": 500,
+     "color": "#94A0C4",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 547,
+     "w": 478,
+     "h": 317,
+     "fill": "#141B33",
+     "radius": 35,
+     "name": "Card"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 547,
+     "w": 478,
+     "h": 317,
+     "radius": 35,
+     "stroke": "#EEF2FF",
+     "strokeWidth": 1,
+     "opacity": 0.08,
+     "name": "Card"
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 568.3,
+     "w": 404,
+     "h": 155,
+     "text": "5+",
+     "family": "Outfit",
+     "size": 150,
+     "weight": 800,
+     "color": "#6D8BFF",
+     "vAlign": "middle",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 744.1,
+     "w": 404,
+     "h": 75,
+     "text": "Natural-language search",
+     "family": "Outfit",
+     "size": 31,
+     "weight": 500,
+     "color": "#94A0C4",
+     "vAlign": "middle",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "rect",
+     "x": 592,
+     "y": 547,
+     "w": 559,
+     "h": 317,
+     "fill": "#141B33",
+     "radius": 35,
+     "name": "Card"
+    },
+    {
+     "kind": "rect",
+     "x": 592,
+     "y": 547,
+     "w": 559,
+     "h": 317,
+     "radius": 35,
+     "stroke": "#EEF2FF",
+     "strokeWidth": 1,
+     "opacity": 0.08,
+     "name": "Card"
+    },
+    {
+     "kind": "text",
+     "x": 629,
+     "y": 570.9,
+     "w": 485,
+     "h": 45,
+     "text": "Results",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#94A0C4",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 629,
+     "y": 641,
+     "w": 485,
+     "h": 186,
+     "fill": "#F5F7FA",
+     "radius": 9.3,
+     "name": "Chart card"
+    },
+    {
+     "kind": "chart",
+     "x": 638.3,
+     "y": 650.3,
+     "w": 466.4,
+     "h": 167.4,
+     "chartType": "donut",
+     "categories": [
+      "New",
+      "AI",
+      "Enterprise"
+     ],
+     "series": [
+      {
+       "name": "Share",
+       "values": [
+        52,
+        30,
+        18
+       ],
+       "color": "#6D8BFF"
+      },
+      {
+       "name": "b",
+       "values": [
+        30,
+        0,
+        0
+       ],
+       "color": "#A78BFA"
+      },
+      {
+       "name": "c",
+       "values": [
+        18,
+        0,
+        0
+       ],
+       "color": "#AEBFFF"
+      }
+     ],
+     "fontSize": 9,
+     "legend": false,
+     "valueLabels": true,
+     "name": "Chart"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 889,
+     "w": 1062,
+     "h": 359,
+     "fill": "#141B33",
+     "radius": 35,
+     "name": "Card"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 889,
+     "w": 1062,
+     "h": 359,
+     "radius": 35,
+     "stroke": "#EEF2FF",
+     "strokeWidth": 1,
+     "opacity": 0.08,
+     "name": "Card"
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 912.9,
+     "w": 988,
+     "h": 45,
+     "text": "Results",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#94A0C4",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 126,
+     "y": 983,
+     "w": 988,
+     "h": 228,
+     "fill": "#F5F7FA",
+     "radius": 11.4,
+     "name": "Chart card"
+    },
+    {
+     "kind": "chart",
+     "x": 137.4,
+     "y": 994.4,
+     "w": 965.2,
+     "h": 205.2,
+     "chartType": "line",
+     "categories": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4"
+     ],
+     "series": [
+      {
+       "name": "Sample",
+       "values": [
+        38,
+        50,
+        66,
+        86
+       ],
+       "color": "#6D8BFF"
+      }
+     ],
+     "fontSize": 10,
+     "legend": false,
+     "valueLabels": false,
+     "name": "Chart"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1273,
+     "w": 1062,
+     "h": 330,
+     "fill": "#141B33",
+     "radius": 30,
+     "name": "Table"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1273,
+     "w": 488.5,
+     "h": 82.5,
+     "fill": "#6D8BFF",
+     "name": "Table header"
+    },
+    {
+     "kind": "rect",
+     "x": 577.5,
+     "y": 1273,
+     "w": 286.7,
+     "h": 82.5,
+     "fill": "#6D8BFF",
+     "name": "Table header"
+    },
+    {
+     "kind": "rect",
+     "x": 864.3,
+     "y": 1273,
+     "w": 286.7,
+     "h": 82.5,
+     "fill": "#6D8BFF",
+     "name": "Table header"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1438,
+     "w": 488.5,
+     "h": 82.5,
+     "fill": "#EEF2FF",
+     "opacity": 0.04,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 577.5,
+     "y": 1438,
+     "w": 286.7,
+     "h": 82.5,
+     "fill": "#EEF2FF",
+     "opacity": 0.04,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 864.3,
+     "y": 1438,
+     "w": 286.7,
+     "h": 82.5,
+     "fill": "#EEF2FF",
+     "opacity": 0.04,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1272.5,
+     "w": 1062,
+     "h": 1,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1355,
+     "w": 1062,
+     "h": 1,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1437.5,
+     "w": 1062,
+     "h": 1,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1520,
+     "w": 1062,
+     "h": 1,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1602.5,
+     "w": 1062,
+     "h": 1,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 88.5,
+     "y": 1273,
+     "w": 1,
+     "h": 330,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 577,
+     "y": 1273,
+     "w": 1,
+     "h": 330,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 863.8,
+     "y": 1273,
+     "w": 1,
+     "h": 330,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 1150.5,
+     "y": 1273,
+     "w": 1,
+     "h": 330,
+     "fill": "#EEF2FF",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "text",
+     "x": 599.5,
+     "y": 1288.1,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "Before",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B1020",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table heading"
+    },
+    {
+     "kind": "text",
+     "x": 886.3,
+     "y": 1288.1,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "After",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B1020",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table heading"
+    },
+    {
+     "kind": "text",
+     "x": 111,
+     "y": 1370.6,
+     "w": 444.5,
+     "h": 38.5,
+     "text": "AI assistant",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 599.5,
+     "y": 1370.6,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "2 days",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 886.3,
+     "y": 1370.6,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "2 hours",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 111,
+     "y": 1453.1,
+     "w": 444.5,
+     "h": 38.5,
+     "text": "Auto approvals",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 599.5,
+     "y": 1453.1,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "Manual",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 886.3,
+     "y": 1453.1,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "Automatic",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 111,
+     "y": 1535.6,
+     "w": 444.5,
+     "h": 38.5,
+     "text": "Instant reports",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 599.5,
+     "y": 1535.6,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "3 tools",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 886.3,
+     "y": 1535.6,
+     "w": 242.7,
+     "h": 38.5,
+     "text": "1 place",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1623.5,
+     "w": 1062,
+     "h": 35,
+     "text": "Sample figures: replace with your own",
+     "family": "Outfit",
+     "size": 22,
+     "weight": 500,
+     "color": "#94A0C4",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 115 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

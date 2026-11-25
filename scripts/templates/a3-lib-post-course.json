@@ -1,0 +1,516 @@
+{
+ "id": "a3-lib-post-course",
+ "title": "LinkedIn Live Session",
+ "categories": [
+  "education",
+  "social"
+ ],
+ "tags": [
+  "webinar",
+  "linkedin live",
+  "hr",
+  "learning",
+  "linkedin post",
+  "education"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1200,
+  1200
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EFFAF5",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 1085.73,
+       "y": 84.13,
+       "cIn": {
+        "x": 1060.09,
+        "y": 63.5
+       },
+       "cOut": {
+        "x": 1111.36,
+        "y": 104.75
+       }
+      },
+      {
+       "x": 1140.38,
+       "y": 158.56,
+       "cIn": {
+        "x": 1129.37,
+        "y": 130.06
+       },
+       "cOut": {
+        "x": 1151.4,
+        "y": 187.06
+       }
+      },
+      {
+       "x": 1143.14,
+       "y": 244.44,
+       "cIn": {
+        "x": 1155.42,
+        "y": 218.75
+       },
+       "cOut": {
+        "x": 1130.85,
+        "y": 270.13
+       }
+      },
+      {
+       "x": 1071.53,
+       "y": 306.69,
+       "cIn": {
+        "x": 1102.25,
+        "y": 289.81
+       },
+       "cOut": {
+        "x": 1040.82,
+        "y": 323.56
+       }
+      },
+      {
+       "x": 973.66,
+       "y": 340.63,
+       "cIn": {
+        "x": 1007.98,
+        "y": 337.63
+       },
+       "cOut": {
+        "x": 939.34,
+        "y": 343.63
+       }
+      },
+      {
+       "x": 878.76,
+       "y": 315.88,
+       "cIn": {
+        "x": 903.54,
+        "y": 335.56
+       },
+       "cOut": {
+        "x": 853.97,
+        "y": 296.19
+       }
+      },
+      {
+       "x": 835.97,
+       "y": 233.38,
+       "cIn": {
+        "x": 840.2,
+        "y": 264.88
+       },
+       "cOut": {
+        "x": 831.73,
+        "y": 201.88
+       }
+      },
+      {
+       "x": 853.76,
+       "y": 144.88,
+       "cIn": {
+        "x": 837.03,
+        "y": 170.19
+       },
+       "cOut": {
+        "x": 870.5,
+        "y": 119.56
+       }
+      },
+      {
+       "x": 928.12,
+       "y": 81.69,
+       "cIn": {
+        "x": 898.67,
+        "y": 100.63
+       },
+       "cOut": {
+        "x": 957.56,
+        "y": 62.75
+       }
+      },
+      {
+       "x": 1018.57,
+       "y": 48.31,
+       "cIn": {
+        "x": 988.49,
+        "y": 43.81
+       },
+       "cOut": {
+        "x": 1048.66,
+        "y": 52.81
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#FFD166",
+     "opacity": 0.45,
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 89,
+     "y": 89,
+     "w": 71,
+     "h": 71,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "school",
+     "x": 107,
+     "y": 107,
+     "w": 35,
+     "h": 35,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 83.5,
+     "w": 597,
+     "h": 71,
+     "text": "LinkedIn Live",
+     "family": "Outfit",
+     "size": 27,
+     "weight": 700,
+     "color": "#14B87A",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 187.4,
+     "w": 1022,
+     "h": 182,
+     "text": "Hiring remote talent across Africa",
+     "family": "Outfit",
+     "size": 84,
+     "weight": 800,
+     "color": "#123026",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 415,
+     "w": 1022,
+     "h": 258,
+     "fill": "#FFFFFF",
+     "radius": 31,
+     "stroke": "#DBDBDB",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 129,
+     "y": 459,
+     "w": 35,
+     "h": 35,
+     "color": "#14B87A"
+    },
+    {
+     "kind": "text",
+     "x": 183,
+     "y": 441.9,
+     "w": 888,
+     "h": 56,
+     "text": "Compliant contracts in 5 countries",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 129,
+     "y": 523,
+     "w": 35,
+     "h": 35,
+     "color": "#14B87A"
+    },
+    {
+     "kind": "text",
+     "x": 183,
+     "y": 505.9,
+     "w": 888,
+     "h": 56,
+     "text": "Fair pay bands without guesswork",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 129,
+     "y": 587,
+     "w": 35,
+     "h": 35,
+     "color": "#14B87A"
+    },
+    {
+     "kind": "text",
+     "x": 183,
+     "y": 569.9,
+     "w": 888,
+     "h": 56,
+     "text": "Onboarding that works across time zones",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "calendar",
+     "x": 89,
+     "y": 716,
+     "w": 33,
+     "h": 33,
+     "color": "#14B87A"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 700.5,
+     "w": 290,
+     "h": 53,
+     "text": "Dec 10",
+     "family": "Outfit",
+     "size": 27,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "clock",
+     "x": 430,
+     "y": 716,
+     "w": 33,
+     "h": 33,
+     "color": "#14B87A"
+    },
+    {
+     "kind": "text",
+     "x": 481,
+     "y": 700.5,
+     "w": 290,
+     "h": 53,
+     "text": "2 PM WAT",
+     "family": "Outfit",
+     "size": 27,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 770,
+     "y": 716,
+     "w": 33,
+     "h": 33,
+     "color": "#14B87A"
+    },
+    {
+     "kind": "text",
+     "x": 821,
+     "y": 700.5,
+     "w": 290,
+     "h": 53,
+     "text": "Live",
+     "family": "Outfit",
+     "size": 27,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 89,
+     "y": 989,
+     "w": 122,
+     "h": 122,
+     "shape": "ellipse",
+     "fill": "#D4D7D6",
+     "name": "Photo: professional woman headshot smiling"
+    },
+    {
+     "kind": "ellipse",
+     "x": 89,
+     "y": 989,
+     "w": 122,
+     "h": 122,
+     "stroke": "#14B87A",
+     "strokeWidth": 4,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 233,
+     "y": 991.6,
+     "w": 444,
+     "h": 53,
+     "text": "Chiamaka Eze",
+     "family": "Outfit",
+     "size": 31,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 233,
+     "y": 1046.1,
+     "w": 444,
+     "h": 44,
+     "text": "Talent partner",
+     "family": "Outfit",
+     "size": 24,
+     "weight": 500,
+     "color": "#557566",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 711,
+     "y": 1002,
+     "w": 400,
+     "h": 96,
+     "fill": "#14B87A",
+     "radius": 48
+    },
+    {
+     "kind": "text",
+     "x": 745,
+     "y": 996.1,
+     "w": 314,
+     "h": 96,
+     "text": "Register",
+     "family": "Outfit",
+     "size": 29,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1060.5,
+       1050
+      ],
+      [
+       1081.5,
+       1050
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1071,
+       1039.5
+      ],
+      [
+       1081.5,
+       1050
+      ],
+      [
+       1071,
+       1060.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 45 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 45 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  }
+ ]
+}

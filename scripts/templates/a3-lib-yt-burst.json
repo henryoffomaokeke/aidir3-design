@@ -1,0 +1,1026 @@
+{
+ "id": "a3-lib-yt-burst",
+ "title": "Talk Shows & Interviews: Face + Burst YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "talk shows & interviews",
+  "interview",
+  "talk show",
+  "reaction face"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Bebas Neue",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#6A1B9A",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -81.5,
+     "y": -679.1,
+     "w": 2006.2,
+     "h": 2006.2,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FF512F",
+        0
+       ],
+       [
+        "#6A1B9A",
+        0.77
+       ],
+       [
+        "#6A1B9A",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       3482,
+       324
+      ],
+      [
+       3456,
+       688
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       3378,
+       1045
+      ],
+      [
+       3250,
+       1387
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       3075,
+       1708
+      ],
+      [
+       2856,
+       2000
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       2598,
+       2259
+      ],
+      [
+       2306,
+       2478
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       1985,
+       2653
+      ],
+      [
+       1643,
+       2780
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       1286,
+       2858
+      ],
+      [
+       922,
+       2884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       557,
+       2858
+      ],
+      [
+       200,
+       2780
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -142,
+       2653
+      ],
+      [
+       -462,
+       2478
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -755,
+       2259
+      ],
+      [
+       -1013,
+       2000
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -1232,
+       1708
+      ],
+      [
+       -1407,
+       1387
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -1535,
+       1045
+      ],
+      [
+       -1612,
+       688
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -1638,
+       324
+      ],
+      [
+       -1612,
+       -40
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -1535,
+       -397
+      ],
+      [
+       -1407,
+       -739
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -1232,
+       -1060
+      ],
+      [
+       -1013,
+       -1352
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -755,
+       -1611
+      ],
+      [
+       -462,
+       -1830
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       -142,
+       -2005
+      ],
+      [
+       200,
+       -2132
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       557,
+       -2210
+      ],
+      [
+       922,
+       -2236
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       1286,
+       -2210
+      ],
+      [
+       1643,
+       -2132
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       1985,
+       -2005
+      ],
+      [
+       2306,
+       -1830
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       2598,
+       -1611
+      ],
+      [
+       2856,
+       -1352
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       3075,
+       -1060
+      ],
+      [
+       3250,
+       -739
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       324
+      ],
+      [
+       3378,
+       -397
+      ],
+      [
+       3456,
+       -40
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.22,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 541.8,
+     "y": -20.2,
+     "w": 760.5,
+     "h": 760.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 551.5,
+     "y": -10.5,
+     "w": 741,
+     "h": 741,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 561.3,
+     "y": -0.8,
+     "w": 721.5,
+     "h": 721.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 571,
+     "y": 9,
+     "w": 702,
+     "h": 702,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 580.8,
+     "y": 18.8,
+     "w": 682.5,
+     "h": 682.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 590.5,
+     "y": 28.5,
+     "w": 663,
+     "h": 663,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 600.3,
+     "y": 38.3,
+     "w": 643.5,
+     "h": 643.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 610,
+     "y": 48,
+     "w": 624,
+     "h": 624,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 619.8,
+     "y": 57.7,
+     "w": 604.5,
+     "h": 604.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 629.5,
+     "y": 67.5,
+     "w": 585,
+     "h": 585,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 639.3,
+     "y": 77.3,
+     "w": 565.5,
+     "h": 565.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 649,
+     "y": 87,
+     "w": 546,
+     "h": 546,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 658.8,
+     "y": 96.8,
+     "w": 526.5,
+     "h": 526.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 668.5,
+     "y": 106.5,
+     "w": 507,
+     "h": 507,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 678.3,
+     "y": 116.2,
+     "w": 487.5,
+     "h": 487.5,
+     "fill": "#FFB199",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 688,
+     "y": 126,
+     "w": 468,
+     "h": 468,
+     "fill": "#FFB199",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 697.8,
+     "y": 135.7,
+     "w": 448.5,
+     "h": 448.5,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 707.5,
+     "y": 145.5,
+     "w": 429,
+     "h": 429,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 717.3,
+     "y": 155.3,
+     "w": 409.5,
+     "h": 409.5,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 727,
+     "y": 165,
+     "w": 390,
+     "h": 390,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 736.8,
+     "y": 174.8,
+     "w": 370.5,
+     "h": 370.5,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 746.5,
+     "y": 184.5,
+     "w": 351,
+     "h": 351,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 756.3,
+     "y": 194.2,
+     "w": 331.5,
+     "h": 331.5,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 766,
+     "y": 204,
+     "w": 312,
+     "h": 312,
+     "fill": "#FFB199",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 775.8,
+     "y": 213.8,
+     "w": 292.5,
+     "h": 292.5,
+     "fill": "#FFB199",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 785.5,
+     "y": 223.5,
+     "w": 273,
+     "h": 273,
+     "fill": "#FFB199",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 795.3,
+     "y": 233.3,
+     "w": 253.5,
+     "h": 253.5,
+     "fill": "#FFB199",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 805,
+     "y": 243,
+     "w": 234,
+     "h": 234,
+     "fill": "#FFB199",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 814.8,
+     "y": 252.8,
+     "w": 214.5,
+     "h": 214.5,
+     "fill": "#FFB199",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 824.5,
+     "y": 262.5,
+     "w": 195,
+     "h": 195,
+     "fill": "#FFB199",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 834.3,
+     "y": 272.3,
+     "w": 175.5,
+     "h": 175.5,
+     "fill": "#FFB199",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 844,
+     "y": 282,
+     "w": 156,
+     "h": 156,
+     "fill": "#FFB199",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 853.8,
+     "y": 291.8,
+     "w": 136.5,
+     "h": 136.5,
+     "fill": "#FFB199",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 863.5,
+     "y": 301.5,
+     "w": 117,
+     "h": 117,
+     "fill": "#FFB199",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 873.3,
+     "y": 311.3,
+     "w": 97.5,
+     "h": 97.5,
+     "fill": "#FFB199",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 883,
+     "y": 321,
+     "w": 78,
+     "h": 78,
+     "fill": "#FFB199",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 892.8,
+     "y": 330.8,
+     "w": 58.5,
+     "h": 58.5,
+     "fill": "#FFB199",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 902.5,
+     "y": 340.5,
+     "w": 39,
+     "h": 39,
+     "fill": "#FFB199",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 912.3,
+     "y": 350.3,
+     "w": 19.5,
+     "h": 19.5,
+     "fill": "#FFB199",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "photo",
+     "x": 735,
+     "y": -19,
+     "w": 450,
+     "h": 778,
+     "shape": "rect",
+     "fill": "#BF596E",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-63a01bc9-270c-4f69-a652-0dadf6d2a77c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/63a01bc9-270c-4f69-a652-0dadf6d2a77c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Female Doctor",
+       "author": "Direct Media",
+       "url": "https://stocksnap.io/photo/female-doctor-WINC1QDMT4",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 43,
+     "y": 78,
+     "w": 403,
+     "h": 431,
+     "rotation": -3,
+     "fill": "#FFE600",
+     "radius": 28,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 109.1,
+     "y": 25.1,
+     "w": 662,
+     "h": 365,
+     "text": "HE",
+     "family": "Bebas Neue",
+     "size": 344,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "lineHeight": 0.98,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 69,
+     "y": 473,
+     "w": 717,
+     "h": 135,
+     "text": "SAID WHAT?",
+     "family": "Bebas Neue",
+     "size": 127,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 0.98,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n65",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

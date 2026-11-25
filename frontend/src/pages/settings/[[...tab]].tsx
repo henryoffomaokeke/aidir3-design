@@ -40,7 +40,7 @@ export default function SettingsPage({ tab }: SettingsPageProps) {
     <>
       <Head>
         <meta key="viewport" name="viewport" content={VIEWPORT} />
-        <title>{`${settingsTabTitles[tab ?? "account"]} · HyCanvas`}</title>
+        <title>{`${settingsTabTitles[tab ?? "account"]} · aidir3 Design`}</title>
       </Head>
       <RequireAuth>
         <SettingsApp tab={tab} />

@@ -1,0 +1,992 @@
+{
+ "id": "a3-lib-yt-timer",
+ "title": "Boxing & MMA: Countdown Challenge YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "boxing & mma",
+  "boxing",
+  "mma",
+  "challenge"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B1026",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -732.7,
+     "y": -764.7,
+     "w": 2105.4,
+     "h": 2105.4,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#2338FF",
+        0
+       ],
+       [
+        "#0B1027",
+        0.73
+       ],
+       [
+        "#0B1026",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2867,
+       302
+      ],
+      [
+       2845,
+       637
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2780,
+       965
+      ],
+      [
+       2672,
+       1282
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2524,
+       1582
+      ],
+      [
+       2338,
+       1861
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2117,
+       2113
+      ],
+      [
+       1866,
+       2333
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       1587,
+       2519
+      ],
+      [
+       1287,
+       2668
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       970,
+       2775
+      ],
+      [
+       641,
+       2840
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       307,
+       2862
+      ],
+      [
+       -27,
+       2840
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -355,
+       2775
+      ],
+      [
+       -672,
+       2668
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -973,
+       2519
+      ],
+      [
+       -1251,
+       2333
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -1503,
+       2113
+      ],
+      [
+       -1724,
+       1861
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -1910,
+       1582
+      ],
+      [
+       -2058,
+       1282
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -2166,
+       965
+      ],
+      [
+       -2231,
+       637
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -2253,
+       302
+      ],
+      [
+       -2231,
+       -32
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -2166,
+       -360
+      ],
+      [
+       -2058,
+       -677
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -1910,
+       -978
+      ],
+      [
+       -1724,
+       -1256
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -1503,
+       -1508
+      ],
+      [
+       -1251,
+       -1729
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -973,
+       -1915
+      ],
+      [
+       -672,
+       -2063
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       -355,
+       -2170
+      ],
+      [
+       -27,
+       -2236
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       307,
+       -2258
+      ],
+      [
+       641,
+       -2236
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       970,
+       -2170
+      ],
+      [
+       1287,
+       -2063
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       1587,
+       -1915
+      ],
+      [
+       1866,
+       -1729
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2117,
+       -1508
+      ],
+      [
+       2338,
+       -1256
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2524,
+       -978
+      ],
+      [
+       2672,
+       -677
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       302
+      ],
+      [
+       2780,
+       -360
+      ],
+      [
+       2845,
+       -32
+      ]
+     ],
+     "closed": true,
+     "fill": "#4CC9FF",
+     "opacity": 0.14,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 98,
+     "y": 79,
+     "w": 418,
+     "h": 418,
+     "fill": "#FFFFFF",
+     "stroke": "#000000",
+     "strokeWidth": 10,
+     "name": "Clock"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       474.2,
+       288
+      ],
+      [
+       499.28,
+       288
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       451.84,
+       371.6
+      ],
+      [
+       473.57,
+       384.14
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       390.6,
+       432.84
+      ],
+      [
+       403.14,
+       454.57
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       455.2
+      ],
+      [
+       307,
+       480.28
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       223.4,
+       432.84
+      ],
+      [
+       210.86,
+       454.57
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       162.16,
+       371.6
+      ],
+      [
+       140.43,
+       384.14
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       139.8,
+       288
+      ],
+      [
+       114.72,
+       288
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       162.16,
+       204.4
+      ],
+      [
+       140.43,
+       191.86
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       223.4,
+       143.16
+      ],
+      [
+       210.86,
+       121.43
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       120.8
+      ],
+      [
+       307,
+       95.72
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       390.6,
+       143.16
+      ],
+      [
+       403.14,
+       121.43
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       451.84,
+       204.4
+      ],
+      [
+       473.57,
+       191.86
+      ]
+     ],
+     "closed": false,
+     "stroke": "#111111",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock ticks"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       288
+      ],
+      [
+       307,
+       158.42
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF3B1F",
+     "strokeWidth": 10,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock hands"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       307,
+       288
+      ],
+      [
+       407.32,
+       338.16
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF3B1F",
+     "strokeWidth": 10,
+     "cap": "round",
+     "join": "round",
+     "name": "Clock hands"
+    },
+    {
+     "kind": "ellipse",
+     "x": 294,
+     "y": 275,
+     "w": 26,
+     "h": 26,
+     "fill": "#111111",
+     "name": "Clock pin"
+    },
+    {
+     "kind": "text",
+     "x": 28.9,
+     "y": 490.3,
+     "w": 563,
+     "h": 162,
+     "text": "ROUND 1",
+     "family": "Anton",
+     "size": 144,
+     "weight": 400,
+     "color": "#FFE600",
+     "align": "center",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 806,
+     "y": 343,
+     "w": 435,
+     "h": 396,
+     "shape": "rect",
+     "fill": "#2F41A2",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-c22cf43a-6510-496a-a466-4826f151f92c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/c22cf43a-6510-496a-a466-4826f151f92c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Authentic Stock",
+       "url": "https://stocksnap.io/photo/smiling-woman-YANJF5SZTU",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 614,
+     "y": 126,
+     "w": 349,
+     "h": 107,
+     "rotation": 3,
+     "fill": "#FFE600",
+     "radius": 6,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 568.3,
+     "y": 134.5,
+     "w": 435,
+     "h": 91,
+     "text": "TRAINING",
+     "family": "Anton",
+     "size": 81,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "align": "center",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 560.1,
+     "y": 236.1,
+     "w": 435,
+     "h": 177,
+     "text": "CAMP",
+     "family": "Anton",
+     "size": 158,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n45",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n41",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n44",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

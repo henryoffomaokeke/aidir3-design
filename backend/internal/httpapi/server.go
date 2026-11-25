@@ -39,6 +39,7 @@ import (
 	"hycanvas/backend/internal/stock"
 	"hycanvas/backend/internal/storage"
 	"hycanvas/backend/internal/templates"
+	"hycanvas/backend/internal/templates/legacy"
 	"hycanvas/backend/internal/uploads"
 	"hycanvas/backend/internal/webui"
 	"hycanvas/backend/internal/whiteboard"
@@ -65,6 +66,8 @@ type Deps struct {
 	Realtime      *realtime.Hub
 	Audience      *audience.Service
 	Templates     *templates.Service
+	// TemplatePhotos serves the pictures of ported templates (optional).
+	TemplatePhotos *legacy.Photos
 	Stock         *stock.Service
 	OIDC          *oidc.Service
 	Push          *push.Service
@@ -153,6 +156,11 @@ func NewRouter(d Deps) http.Handler {
 		if d.Accounts != nil && d.OIDC != nil {
 			mountOIDC(api, d.OIDC, d.Accounts, d.Secure, d.Auth, d.CaptchaConfig)
 		}
+		if d.Accounts != nil {
+			// aidir3 fork: single sign-on from aidir3.com (off until configured)
+			// and the source-code offer the AGPL requires.
+			mountAidir3(api, d.Accounts, d.Secure)
+		}
 		if d.Accounts != nil && d.Persistence != nil {
 			mountPersistence(api, d.Persistence, d.Accounts, d.Sharing, d.Brand)
 			mountRender(api, d.Persistence, d.Accounts, d.Uploads)
@@ -221,6 +229,7 @@ func NewRouter(d Deps) http.Handler {
 		}
 		if d.Accounts != nil && d.Templates != nil {
 			mountTemplates(api, d.Templates, d.Accounts)
+			mountTemplateVariations(api, d.Templates, d.Accounts, d.TemplatePhotos)
 		}
 		if d.Accounts != nil && d.Stock != nil {
 			mountStock(api, d.Stock, d.Accounts)

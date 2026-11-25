@@ -5954,6 +5954,7 @@ export function PolishPanel() {
 // loads, so these only need the ids, URL flags, and defaults to stay usable.
 const FALLBACK_PRESETS: AiProviderPreset[] = [
   { id: "openai", label: "OpenAI", baseUrl: "", defaultModel: "gpt-4o-mini", defaultImageModel: "dall-e-3", capabilities: { text: true, image: true, describeImage: true, editImage: true } },
+  { id: "xai", label: "xAI (Grok)", baseUrl: "", defaultModel: "grok-4.20-0309-non-reasoning", defaultImageModel: "grok-imagine-image", capabilities: { text: true, image: true, describeImage: true, editImage: true } },
   { id: "anthropic", label: "Anthropic (Claude)", baseUrl: "", defaultModel: "claude-opus-5", capabilities: { text: true, image: false, describeImage: true, editImage: false } },
   { id: "deepseek", label: "DeepSeek", baseUrl: "", defaultModel: "deepseek-chat", capabilities: { text: true, image: false, describeImage: false, editImage: false } },
   { id: "moonshot", label: "Moonshot (Kimi)", baseUrl: "", defaultModel: "kimi-latest", capabilities: { text: true, image: false, describeImage: true, editImage: false } },
@@ -6050,6 +6051,9 @@ export function AiPanel({ workspaceId, designId = null }: { workspaceId: string 
   // `config`, which the admin form edits and must stay the workspace's own.
   const [personalConfig, setPersonalConfig] = useState<AiConfigView | null>(null);
   const [personalAllowed, setPersonalAllowed] = useState(true);
+  // aidir3 fork: the instance's built-in AI (never a key), which the server
+  // uses whenever neither the workspace nor the caller has a working provider.
+  const [builtinConfig, setBuiltinConfig] = useState<AiConfigView | null>(null);
   const [canAdminWorkspace, setCanAdminWorkspace] = useState(false);
   const [loading, setLoading] = useState(true);
   const [showConfig, setShowConfig] = useState(false);
@@ -6101,8 +6105,10 @@ export function AiPanel({ workspaceId, designId = null }: { workspaceId: string 
       setConfig(c);
       setPersonalConfig(mine);
       setPersonalAllowed(eff?.personalKeysAllowed ?? true);
+      const builtin = eff?.builtin?.hasKey ? eff.builtin : null;
+      setBuiltinConfig(builtin);
       setCanAdminWorkspace(role === "owner" || role === "admin");
-      setShowConfig(loaded.ok && !c?.hasKey && !mine);
+      setShowConfig(loaded.ok && !c?.hasKey && !mine && !builtin);
       setLoading(false);
     })();
     // Revalidate the provider catalog WITHOUT gating panel readiness on it
@@ -6121,7 +6127,8 @@ export function AiPanel({ workspaceId, designId = null }: { workspaceId: string 
   // The chat view fills the panel height (input pinned, messages scroll); the
   // setup/connect view scrolls normally.
   // The provider actually serving this workspace: its own, else the caller's.
-  const active = config?.hasKey ? config : personalConfig;
+  // aidir3 fork: else the instance's built-in AI.
+  const active = config?.hasKey ? config : personalConfig ?? builtinConfig;
   const chatView = !!workspaceId && !loading && !showConfig && !!active?.hasKey;
   // A brief waiting for a provider. Read on each render of the setup view (it
   // is not consumed here): the assistant claims it once the chat can serve it.
@@ -6129,10 +6136,12 @@ export function AiPanel({ workspaceId, designId = null }: { workspaceId: string 
   const waitingBrief = pendingReq?.kind === "prompt" ? pendingReq.text : null;
   // Whether the configured provider can generate images (gates AI imagery in
   // generated designs). DeepSeek/Anthropic are text-only; OpenAI/custom can.
-  const imageCapable = !!active?.capabilities?.image;
-  const editImageCapable = !!active?.capabilities?.editImage;
+  // aidir3 fork: the server hands what the provider cannot do to the built-in
+  // AI, so its capabilities count too.
+  const imageCapable = !!active?.capabilities?.image || !!builtinConfig?.capabilities?.image;
+  const editImageCapable = !!active?.capabilities?.editImage || !!builtinConfig?.capabilities?.editImage;
   // Whether the provider can read images: gates the look at a fresh deck.
-  const visionCapable = !!active?.capabilities?.describeImage;
+  const visionCapable = !!active?.capabilities?.describeImage || !!builtinConfig?.capabilities?.describeImage;
 
   return (
     <PanelShell title="AI" fill={chatView} roomy>
@@ -6212,8 +6221,16 @@ export function AiPanel({ workspaceId, designId = null }: { workspaceId: string 
           <div className="flex shrink-0 items-center justify-between rounded-lg bg-neutral-50 px-2.5 py-1.5 text-xs">
             <span className="flex items-center gap-1.5 text-neutral-500">
               <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
-              {active === personalConfig ? tr("editor.your_provider") : tr("editor.workspace_provider")}{" "}
-              <span className="font-medium text-neutral-700">{active?.provider}</span>
+              {active === builtinConfig ? (
+                <span className="font-medium text-neutral-700" title={tr("editor.builtin_ai_hint")}>
+                  {tr("editor.builtin_ai_label", { provider: builtinConfig?.provider === "xai" ? "Grok" : presets.find((p) => p.id === builtinConfig?.provider)?.label ?? builtinConfig?.provider ?? "" })}
+                </span>
+              ) : (
+                <>
+                  {active === personalConfig ? tr("editor.your_provider") : tr("editor.workspace_provider")}{" "}
+                  <span className="font-medium text-neutral-700">{active?.provider}</span>
+                </>
+              )}
             </span>
             <button onClick={() => setShowConfig(true)} title={tr("editor.ai_settings")} aria-label={tr("editor.ai_settings")} className="grid h-6 w-6 place-items-center rounded text-neutral-400 hover:bg-neutral-100 hover:text-neutral-700"><Settings2 size={15} /></button>
           </div>

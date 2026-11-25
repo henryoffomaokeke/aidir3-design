@@ -39,7 +39,7 @@ export default function DashboardPage({ view }: DashboardPageProps) {
     <>
       <Head>
         <meta key="viewport" name="viewport" content={VIEWPORT} />
-        <title>{`${dashboardTitles[view]} · HyCanvas`}</title>
+        <title>{`${dashboardTitles[view]} · aidir3 Design`}</title>
       </Head>
       <RequireAuth>
         <DashboardApp view={view} />

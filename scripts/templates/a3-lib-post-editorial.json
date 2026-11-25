@@ -1,0 +1,159 @@
+{
+ "id": "a3-lib-post-editorial",
+ "title": "Editorial Personal Story",
+ "categories": [
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "personal",
+  "story",
+  "editorial",
+  "blog",
+  "instagram portrait"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FBEEE8",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 114,
+     "y": 114,
+     "w": 900,
+     "h": 594,
+     "stroke": "#B85C5C",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "photo",
+     "x": 90,
+     "y": 90,
+     "w": 900,
+     "h": 594,
+     "shape": "rect",
+     "fill": "#D5D1CF",
+     "name": "Photo: woman writing in notebook at cafe",
+     "image": {
+      "asset": "tplph-ov-3a919a56-4208-4adb-acb5-6ede87ab86d4",
+      "url": "/api/v1/templates/photos/ov/3a919a56-4208-4adb-acb5-6ede87ab86d4.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Free woman writing notebook work",
+       "url": "https://www.rawpixel.com/image/5928327/photo-image-book-public-domain-notes",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Free woman writing notebook work",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "text",
+     "x": 90,
+     "y": 749.2,
+     "w": 900,
+     "h": 28,
+     "text": "Week 12 of the journey",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#B85C5C",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 90,
+     "y": 788.2,
+     "w": 900,
+     "h": 157,
+     "text": "What I learned building in public",
+     "family": "Playfair Display",
+     "size": 72,
+     "weight": 700,
+     "color": "#3D2A2A",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 90,
+     "y": 962.8,
+     "w": 900,
+     "h": 84,
+     "text": "Fewer launches, more conversations. The best feedback came from DMs, not dashboards.",
+     "family": "Albert Sans",
+     "size": 28,
+     "weight": 400,
+     "color": "#8A6F6A",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 90,
+     "y": 1176.8,
+     "w": 900,
+     "h": 70,
+     "text": "— Amara",
+     "family": "Instrument Serif",
+     "size": 54,
+     "weight": 400,
+     "color": "#3D2A2A",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 105 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

@@ -1,0 +1,953 @@
+{
+ "id": "a3-tech-api-launch-og",
+ "title": "API Launch Social Card",
+ "categories": [
+  "technology",
+  "social",
+  "marketing"
+ ],
+ "tags": [
+  "api",
+  "launch",
+  "open graph",
+  "developer",
+  "code",
+  "announcement",
+  "social card"
+ ],
+ "styleTags": [
+  "dark",
+  "graphite",
+  "orange",
+  "code"
+ ],
+ "size": [
+  1200,
+  630
+ ],
+ "rank": -989,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  },
+  {
+   "role": "code",
+   "family": "JetBrains Mono",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Card",
+   "bg": "#17181C",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 120,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 180,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 240,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 300,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 420,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 480,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 660,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 720,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 780,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 900,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 960,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 1020,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 1080,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 1140,
+     "y": 0,
+     "w": 1,
+     "h": 630,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 45,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 105,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 165,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 225,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 285,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 345,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 405,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 465,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 525,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 585,
+     "w": 1200,
+     "h": 1,
+     "fill": "#1D1F24"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 70,
+     "w": 30,
+     "h": 30,
+     "fill": "#FF6A1A",
+     "radius": 7
+    },
+    {
+     "kind": "rect",
+     "x": 73,
+     "y": 79,
+     "w": 12,
+     "h": 12,
+     "fill": "#17181C",
+     "radius": 2
+    },
+    {
+     "kind": "text",
+     "x": 106,
+     "y": 68,
+     "w": 220,
+     "h": 34,
+     "text": "Tallis",
+     "family": "Sora",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 154,
+     "w": 204,
+     "h": 32,
+     "radius": 16,
+     "stroke": "#FF6A1A",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 154,
+     "w": 204,
+     "h": 32,
+     "text": "New · Public beta",
+     "family": "JetBrains Mono",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FF6A1A",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 62,
+     "y": 204,
+     "w": 540,
+     "h": 84,
+     "text": "Vector Search",
+     "family": "Sora",
+     "size": 68,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1,
+     "letterSpacing": -1.5
+    },
+    {
+     "kind": "text",
+     "x": 62,
+     "y": 284,
+     "w": 540,
+     "h": 84,
+     "spans": [
+      {
+       "text": "API is "
+      },
+      {
+       "text": "live.",
+       "color": "#FF6A1A"
+      }
+     ],
+     "family": "Sora",
+     "size": 68,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1,
+     "letterSpacing": -1.5
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 392,
+     "w": 520,
+     "h": 62,
+     "text": "Index 10 million documents and query them in under 40 ms, from a single endpoint.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#B6BAC4",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "button",
+     "x": 64,
+     "y": 494,
+     "w": 196,
+     "h": 50,
+     "label": "Read the docs",
+     "fill": "#FF6A1A",
+     "color": "#17181C",
+     "family": "Sora",
+     "size": 17,
+     "weight": 700
+    },
+    {
+     "kind": "text",
+     "x": 280,
+     "y": 494,
+     "w": 300,
+     "h": 50,
+     "text": "docs.tallis.example/search",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#8B909C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 656,
+     "y": 104,
+     "w": 484,
+     "h": 444,
+     "fill": "#FF6A1A",
+     "radius": 14
+    },
+    {
+     "kind": "rect",
+     "x": 636,
+     "y": 84,
+     "w": 484,
+     "h": 444,
+     "fill": "#0E0F12",
+     "radius": 14
+    },
+    {
+     "kind": "rect",
+     "x": 636,
+     "y": 84,
+     "w": 484,
+     "h": 46,
+     "fill": "#1F2127",
+     "radius": 14
+    },
+    {
+     "kind": "ellipse",
+     "x": 654,
+     "y": 101,
+     "w": 12,
+     "h": 12,
+     "fill": "#FF6A1A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 674,
+     "y": 101,
+     "w": 12,
+     "h": 12,
+     "fill": "#444853"
+    },
+    {
+     "kind": "ellipse",
+     "x": 694,
+     "y": 101,
+     "w": 12,
+     "h": 12,
+     "fill": "#444853"
+    },
+    {
+     "kind": "rect",
+     "x": 728,
+     "y": 94,
+     "w": 118,
+     "h": 36,
+     "fill": "#0E0F12",
+     "radius": 6
+    },
+    {
+     "kind": "text",
+     "x": 728,
+     "y": 94,
+     "w": 118,
+     "h": 36,
+     "text": "search.py",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 84,
+     "w": 104,
+     "h": 46,
+     "text": "Python",
+     "family": "JetBrains Mono",
+     "size": 12,
+     "weight": 400,
+     "color": "#5C616D",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 150,
+     "w": 30,
+     "h": 24,
+     "text": "1",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 150,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "import ",
+       "color": "#FF6A1A"
+      },
+      {
+       "text": "tallis",
+       "color": "#FFFFFF"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 181,
+     "w": 30,
+     "h": 24,
+     "text": "2",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 212,
+     "w": 30,
+     "h": 24,
+     "text": "3",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 212,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "client ",
+       "color": "#FFFFFF"
+      },
+      {
+       "text": "= ",
+       "color": "#8B909C"
+      },
+      {
+       "text": "tallis.",
+       "color": "#FFFFFF"
+      },
+      {
+       "text": "Client",
+       "color": "#F5C98A"
+      },
+      {
+       "text": "()",
+       "color": "#8B909C"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 243,
+     "w": 30,
+     "h": 24,
+     "text": "4",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 274,
+     "w": 30,
+     "h": 24,
+     "text": "5",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 274,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "hits ",
+       "color": "#FFFFFF"
+      },
+      {
+       "text": "= ",
+       "color": "#8B909C"
+      },
+      {
+       "text": "client.",
+       "color": "#FFFFFF"
+      },
+      {
+       "text": "search",
+       "color": "#FF6A1A"
+      },
+      {
+       "text": "(",
+       "color": "#8B909C"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 305,
+     "w": 30,
+     "h": 24,
+     "text": "6",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 305,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "    index",
+       "color": "#A9B4C4"
+      },
+      {
+       "text": "=",
+       "color": "#8B909C"
+      },
+      {
+       "text": "\"support-docs\"",
+       "color": "#F5C98A"
+      },
+      {
+       "text": ",",
+       "color": "#8B909C"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 336,
+     "w": 30,
+     "h": 24,
+     "text": "7",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 336,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "    query",
+       "color": "#A9B4C4"
+      },
+      {
+       "text": "=",
+       "color": "#8B909C"
+      },
+      {
+       "text": "\"reset my password\"",
+       "color": "#F5C98A"
+      },
+      {
+       "text": ",",
+       "color": "#8B909C"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 367,
+     "w": 30,
+     "h": 24,
+     "text": "8",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 367,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "    top_k",
+       "color": "#A9B4C4"
+      },
+      {
+       "text": "=",
+       "color": "#8B909C"
+      },
+      {
+       "text": "5",
+       "color": "#FF6A1A"
+      },
+      {
+       "text": ",",
+       "color": "#8B909C"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 398,
+     "w": 30,
+     "h": 24,
+     "text": "9",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 398,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": ")",
+       "color": "#8B909C"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 648,
+     "y": 429,
+     "w": 30,
+     "h": 24,
+     "text": "10",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#4A4E59",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 429,
+     "w": 410,
+     "h": 24,
+     "spans": [
+      {
+       "text": "# 5 matches, ranked by relevance",
+       "color": "#5C616D"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 686,
+     "y": 142,
+     "w": 1,
+     "h": 326,
+     "fill": "#23252C"
+    },
+    {
+     "kind": "rect",
+     "x": 636,
+     "y": 484,
+     "w": 484,
+     "h": 44,
+     "fill": "#1F2127",
+     "radius": 14
+    },
+    {
+     "kind": "ellipse",
+     "x": 656,
+     "y": 502,
+     "w": 10,
+     "h": 10,
+     "fill": "#FF6A1A"
+    },
+    {
+     "kind": "text",
+     "x": 676,
+     "y": 484,
+     "w": 120,
+     "h": 44,
+     "text": "200 OK",
+     "family": "JetBrains Mono",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 856,
+     "y": 484,
+     "w": 246,
+     "h": 44,
+     "text": "38 ms · 5 results",
+     "family": "JetBrains Mono",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#8B909C",
+     "align": "right",
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n31",
+   "kind": "text",
+   "label": "Brand name",
+   "hint": "Company or product"
+  },
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "Up to 13 characters"
+  },
+  {
+   "node": "p0-n35",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "Up to 13 characters"
+  },
+  {
+   "node": "p0-n36",
+   "kind": "text",
+   "label": "Supporting line",
+   "hint": "Up to 80 characters"
+  },
+  {
+   "node": "p0-n38",
+   "kind": "text",
+   "label": "Docs link",
+   "hint": "Short URL"
+  },
+  {
+   "node": "p0-n59",
+   "kind": "text",
+   "label": "Code line: query",
+   "hint": "Keep under 38 characters"
+  }
+ ]
+}

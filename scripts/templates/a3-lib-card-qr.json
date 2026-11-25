@@ -1,0 +1,227 @@
+{
+ "id": "a3-lib-card-qr",
+ "title": "NovaPlays: Business Card Back (QR-ready)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card back",
+  "qr-ready",
+  "streamer & gaming creator",
+  "gaming"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Lexend",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#DFF3FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 70,
+     "y": 90,
+     "w": 300,
+     "h": 300,
+     "fill": "#FFFFFF",
+     "radius": 20
+    },
+    {
+     "kind": "rect",
+     "x": 70,
+     "y": 90,
+     "w": 300,
+     "h": 300,
+     "radius": 20,
+     "stroke": "#0B2239",
+     "strokeWidth": 2,
+     "opacity": 0.2
+    },
+    {
+     "kind": "icon",
+     "icon": "layout-grid",
+     "x": 110,
+     "y": 130,
+     "w": 220,
+     "h": 220,
+     "color": "#111111"
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 405.4,
+     "w": 320,
+     "h": 25,
+     "text": "Scan to save my contact",
+     "family": "Onest",
+     "size": 20,
+     "weight": 700,
+     "color": "#4E6A85",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 430,
+     "y": 90.3,
+     "w": 560,
+     "h": 56,
+     "text": "Femi Lawal",
+     "family": "Lexend",
+     "size": 46,
+     "weight": 700,
+     "color": "#0B2239",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 430,
+     "y": 157.6,
+     "w": 560,
+     "h": 23,
+     "text": "HEAD OF GROWTH",
+     "family": "Onest",
+     "size": 19,
+     "weight": 700,
+     "color": "#FF5D8F",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.4,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 430,
+     "y": 259,
+     "w": 30,
+     "h": 30,
+     "color": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 477,
+     "y": 244.6,
+     "w": 514,
+     "h": 48,
+     "text": "+234 809 555 5656",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 430,
+     "y": 319,
+     "w": 30,
+     "h": 30,
+     "color": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 477,
+     "y": 304.6,
+     "w": 514,
+     "h": 48,
+     "text": "femi@twitch.tv",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 430,
+     "y": 379,
+     "w": 30,
+     "h": 30,
+     "color": "#FF5D8F"
+    },
+    {
+     "kind": "text",
+     "x": 477,
+     "y": 364.6,
+     "w": 514,
+     "h": 48,
+     "text": "twitch.tv",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 560,
+     "w": 1050,
+     "h": 40,
+     "fill": "#FF5D8F"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "id": "a3-lib-yt-spot",
+ "title": "Motivation: Spotlight Rim Glow YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "motivation",
+  "self improvement",
+  "dark",
+  "spotlight"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Barlow Condensed",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Barlow Condensed",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#4B00C2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": "#07070A",
+     "name": "Background"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#DF2279",
+        0
+       ],
+       [
+        "#C01D75",
+        0.13
+       ],
+       [
+        "#A41871",
+        0.26
+       ],
+       [
+        "#88146B",
+        0.4
+       ],
+       [
+        "#711065",
+        0.53
+       ],
+       [
+        "#5C0D5E",
+        0.66
+       ],
+       [
+        "#490B57",
+        0.79
+       ],
+       [
+        "#38094E",
+        0.93
+       ],
+       [
+        "#300849",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Colour light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 402.5,
+     "y": -205.5,
+     "w": 987,
+     "h": 987,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 413,
+     "y": -195,
+     "w": 966,
+     "h": 966,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 423.5,
+     "y": -184.5,
+     "w": 945,
+     "h": 945,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 434,
+     "y": -174,
+     "w": 924,
+     "h": 924,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 444.5,
+     "y": -163.5,
+     "w": 903,
+     "h": 903,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 455,
+     "y": -153,
+     "w": 882,
+     "h": 882,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 465.5,
+     "y": -142.5,
+     "w": 861,
+     "h": 861,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 476,
+     "y": -132,
+     "w": 840,
+     "h": 840,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 486.5,
+     "y": -121.5,
+     "w": 819,
+     "h": 819,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 497,
+     "y": -111,
+     "w": 798,
+     "h": 798,
+     "fill": "#FF8FD0",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 507.5,
+     "y": -100.5,
+     "w": 777,
+     "h": 777,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 518,
+     "y": -90,
+     "w": 756,
+     "h": 756,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 528.5,
+     "y": -79.5,
+     "w": 735,
+     "h": 735,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 539,
+     "y": -69,
+     "w": 714,
+     "h": 714,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 549.5,
+     "y": -58.5,
+     "w": 693,
+     "h": 693,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 560,
+     "y": -48,
+     "w": 672,
+     "h": 672,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 570.5,
+     "y": -37.5,
+     "w": 651,
+     "h": 651,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 581,
+     "y": -27,
+     "w": 630,
+     "h": 630,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 591.5,
+     "y": -16.5,
+     "w": 609,
+     "h": 609,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 602,
+     "y": -6,
+     "w": 588,
+     "h": 588,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 612.5,
+     "y": 4.5,
+     "w": 567,
+     "h": 567,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 623,
+     "y": 15,
+     "w": 546,
+     "h": 546,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 633.5,
+     "y": 25.5,
+     "w": 525,
+     "h": 525,
+     "fill": "#FF8FD0",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 644,
+     "y": 36,
+     "w": 504,
+     "h": 504,
+     "fill": "#FF8FD0",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 654.5,
+     "y": 46.5,
+     "w": 483,
+     "h": 483,
+     "fill": "#FF8FD0",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 665,
+     "y": 57,
+     "w": 462,
+     "h": 462,
+     "fill": "#FF8FD0",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 675.5,
+     "y": 67.5,
+     "w": 441,
+     "h": 441,
+     "fill": "#FF8FD0",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 686,
+     "y": 78,
+     "w": 420,
+     "h": 420,
+     "fill": "#FF8FD0",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 696.5,
+     "y": 88.5,
+     "w": 399,
+     "h": 399,
+     "fill": "#FF8FD0",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 707,
+     "y": 99,
+     "w": 378,
+     "h": 378,
+     "fill": "#FF8FD0",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 717.5,
+     "y": 109.5,
+     "w": 357,
+     "h": 357,
+     "fill": "#FF8FD0",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 728,
+     "y": 120,
+     "w": 336,
+     "h": 336,
+     "fill": "#FF8FD0",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 738.5,
+     "y": 130.5,
+     "w": 315,
+     "h": 315,
+     "fill": "#FF8FD0",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 749,
+     "y": 141,
+     "w": 294,
+     "h": 294,
+     "fill": "#FF8FD0",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 759.5,
+     "y": 151.5,
+     "w": 273,
+     "h": 273,
+     "fill": "#FF8FD0",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 770,
+     "y": 162,
+     "w": 252,
+     "h": 252,
+     "fill": "#FF8FD0",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 780.5,
+     "y": 172.5,
+     "w": 231,
+     "h": 231,
+     "fill": "#FF8FD0",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 791,
+     "y": 183,
+     "w": 210,
+     "h": 210,
+     "fill": "#FF8FD0",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 801.5,
+     "y": 193.5,
+     "w": 189,
+     "h": 189,
+     "fill": "#FF8FD0",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 812,
+     "y": 204,
+     "w": 168,
+     "h": 168,
+     "fill": "#FF8FD0",
+     "opacity": 0.08,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 822.5,
+     "y": 214.5,
+     "w": 147,
+     "h": 147,
+     "fill": "#FF8FD0",
+     "opacity": 0.09,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 833,
+     "y": 225,
+     "w": 126,
+     "h": 126,
+     "fill": "#FF8FD0",
+     "opacity": 0.09,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 843.5,
+     "y": 235.5,
+     "w": 105,
+     "h": 105,
+     "fill": "#FF8FD0",
+     "opacity": 0.1,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 854,
+     "y": 246,
+     "w": 84,
+     "h": 84,
+     "fill": "#FF8FD0",
+     "opacity": 0.12,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 864.5,
+     "y": 256.5,
+     "w": 63,
+     "h": 63,
+     "fill": "#FF8FD0",
+     "opacity": 0.13,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 875,
+     "y": 267,
+     "w": 42,
+     "h": 42,
+     "fill": "#FF8FD0",
+     "opacity": 0.15,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 885.5,
+     "y": 277.5,
+     "w": 21,
+     "h": 21,
+     "fill": "#FF8FD0",
+     "opacity": 0.18,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "photo",
+     "x": 703,
+     "y": 2,
+     "w": 437,
+     "h": 756,
+     "shape": "rect",
+     "fill": "#A24F91",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-63a01bc9-270c-4f69-a652-0dadf6d2a77c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/63a01bc9-270c-4f69-a652-0dadf6d2a77c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Female Doctor",
+       "author": "Direct Media",
+       "url": "https://stocksnap.io/photo/female-doctor-WINC1QDMT4",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 51.9,
+     "y": 127,
+     "w": 666,
+     "h": 122,
+     "text": "DISCIPLINE",
+     "family": "Barlow Condensed",
+     "size": 107,
+     "weight": 700,
+     "color": "#00F5D4",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 60.2,
+     "y": 253.1,
+     "w": 666,
+     "h": 311,
+     "text": "WINS",
+     "family": "Barlow Condensed",
+     "size": 272,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n51",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n50",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

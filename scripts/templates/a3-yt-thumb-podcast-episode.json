@@ -1,0 +1,244 @@
+{
+ "id": "a3-yt-thumb-podcast-episode",
+ "title": "Podcast Episode Two Guest Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "business"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "podcast",
+  "episode",
+  "interview",
+  "guests",
+  "founders",
+  "quote"
+ ],
+ "styleTags": [
+  "navy",
+  "orange",
+  "editorial"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1990,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Bricolage Grotesque",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#0F1A3A",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 640,
+     "y": -120,
+     "w": 760,
+     "h": 760,
+     "fill": "#1A2A57",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 900,
+     "y": 214,
+     "w": 352,
+     "h": 352,
+     "fill": "#FF7A2F"
+    },
+    {
+     "kind": "photo",
+     "x": 912,
+     "y": 226,
+     "w": 328,
+     "h": 328,
+     "shape": "ellipse",
+     "name": "Guest 2 photo",
+     "fill": "#3A4A7A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 596,
+     "y": 66,
+     "w": 352,
+     "h": 352,
+     "fill": "#F6EBD9"
+    },
+    {
+     "kind": "photo",
+     "x": 608,
+     "y": 78,
+     "w": 328,
+     "h": 328,
+     "shape": "ellipse",
+     "name": "Guest 1 photo",
+     "fill": "#2D3B66"
+    },
+    {
+     "kind": "rect",
+     "x": 662,
+     "y": 392,
+     "w": 220,
+     "h": 52,
+     "radius": 26,
+     "fill": "#F6EBD9"
+    },
+    {
+     "kind": "text",
+     "x": 662,
+     "y": 392,
+     "w": 220,
+     "h": 52,
+     "text": "Dara Mensah",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 800,
+     "color": "#0F1A3A",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 966,
+     "y": 540,
+     "w": 220,
+     "h": 52,
+     "radius": 26,
+     "fill": "#FF7A2F"
+    },
+    {
+     "kind": "text",
+     "x": 966,
+     "y": 540,
+     "w": 220,
+     "h": 52,
+     "text": "Ilse Vandenberg",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 800,
+     "color": "#0F1A3A",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 44,
+     "w": 540,
+     "h": 180,
+     "text": "EP 142",
+     "family": "Bricolage Grotesque",
+     "size": 156,
+     "weight": 800,
+     "color": "#FF7A2F",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 250,
+     "w": 560,
+     "h": 270,
+     "text": "“We sold\nthe company\ntoo early”",
+     "family": "Bricolage Grotesque",
+     "size": 76,
+     "weight": 800,
+     "color": "#F6EBD9",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 600,
+     "w": 64,
+     "h": 64,
+     "fill": "#FF7A2F"
+    },
+    {
+     "kind": "icon",
+     "icon": "microphone",
+     "x": 76,
+     "y": 616,
+     "w": 32,
+     "color": "#0F1A3A"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 598,
+     "w": 440,
+     "h": 34,
+     "text": "SECOND DRAFT",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 800,
+     "color": "#F6EBD9",
+     "lineHeight": 1,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 634,
+     "w": 440,
+     "h": 30,
+     "text": "Founders on the decisions they'd undo",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#8E9AC0",
+     "lineHeight": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Episode number",
+   "hint": "EP and a number"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Pull quote",
+   "hint": "Three short lines"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Guest 1 name",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Guest 2 name",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Show name",
+   "hint": "Caps, up to 14 characters"
+  }
+ ]
+}

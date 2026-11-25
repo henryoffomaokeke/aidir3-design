@@ -1,0 +1,136 @@
+{
+ "id": "a3-lib-logo-letter",
+ "title": "Ledgerline Accountants: Letter in Letter Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "accounting & tax",
+  "letter in letter logo",
+  "finance",
+  "accounting",
+  "tax"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F6FBF7",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 328,
+     "y": 155.9,
+     "w": 343,
+     "h": 343,
+     "text": "L",
+     "family": "Plus Jakarta Sans",
+     "size": 293,
+     "weight": 800,
+     "color": "#008751",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "letterSpacing": 11.7,
+     "upper": true,
+     "opacity": 0.32
+    },
+    {
+     "kind": "text",
+     "x": 363,
+     "y": 284.8,
+     "w": 275,
+     "h": 137,
+     "text": "LA",
+     "family": "Plus Jakarta Sans",
+     "size": 117,
+     "weight": 800,
+     "color": "#0D2B1D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "letterSpacing": 4.7,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 459,
+     "y": 453,
+     "w": 82,
+     "h": 14,
+     "fill": "#008751",
+     "radius": 7
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 574.3,
+     "w": 780,
+     "h": 165,
+     "text": "Ledgerline\nAccountants",
+     "family": "Plus Jakarta Sans",
+     "size": 71,
+     "weight": 800,
+     "color": "#0D2B1D",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 219,
+     "y": 768.2,
+     "w": 562,
+     "h": 28,
+     "text": "Accounting & tax",
+     "family": "Red Hat Text",
+     "size": 23,
+     "weight": 700,
+     "color": "#4F6B5C",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 4.1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

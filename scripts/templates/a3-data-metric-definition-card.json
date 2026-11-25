@@ -1,0 +1,706 @@
+{
+ "id": "a3-data-metric-definition-card",
+ "title": "Metric Definition Card",
+ "categories": [
+  "data",
+  "social",
+  "business"
+ ],
+ "tags": [
+  "metric",
+  "definition",
+  "glossary",
+  "formula",
+  "nrr",
+  "data dictionary",
+  "wiki"
+ ],
+ "styleTags": [
+  "dark",
+  "editorial",
+  "technical"
+ ],
+ "size": [
+  1200,
+  627
+ ],
+ "rank": -974,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Fraunces",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Instrument Sans",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "JetBrains Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Card",
+   "bg": "#12141A",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 50,
+     "w": 10,
+     "h": 10,
+     "fill": "#7DE2B8"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 46,
+     "w": 420,
+     "h": 18,
+     "text": "Metric definition · Revenue glossary",
+     "family": "JetBrains Mono",
+     "size": 12.5,
+     "weight": 500,
+     "color": "#7DE2B8",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 844,
+     "y": 46,
+     "w": 300,
+     "h": 18,
+     "text": "v3 · reviewed 12 Nov 2026",
+     "family": "JetBrains Mono",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#9197A8",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 78,
+     "w": 660,
+     "h": 70,
+     "text": "Net Revenue Retention",
+     "family": "Fraunces",
+     "size": 54,
+     "weight": 600,
+     "color": "#F4EFE4",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 152,
+     "w": 660,
+     "h": 20,
+     "text": "NRR  ·  ratio, shown as %  ·  higher is better",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#9197A8"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 190,
+     "w": 652,
+     "h": 62,
+     "text": "The share of recurring revenue we keep and grow from customers we already had a year ago, before any new customers are counted.",
+     "family": "Instrument Sans",
+     "size": 19.5,
+     "weight": 400,
+     "color": "#C9C5BB",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 278,
+     "w": 652,
+     "h": 180,
+     "fill": "#1C1F29",
+     "radius": 10
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 278,
+     "w": 4,
+     "h": 180,
+     "fill": "#7DE2B8"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 296,
+     "w": 200,
+     "h": 14,
+     "text": "Formula",
+     "family": "JetBrains Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#7DE2B8",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 345,
+     "w": 96,
+     "h": 30,
+     "text": "NRR =",
+     "family": "JetBrains Mono",
+     "size": 22,
+     "weight": 600,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "text",
+     "x": 176,
+     "y": 326,
+     "w": 512,
+     "h": 26,
+     "text": "starting MRR + expansion − contraction − churn",
+     "family": "JetBrains Mono",
+     "size": 18,
+     "weight": 400,
+     "color": "#F4EFE4",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 176,
+     "y": 361,
+     "w": 512,
+     "h": 2,
+     "fill": "#F4EFE4"
+    },
+    {
+     "kind": "text",
+     "x": 176,
+     "y": 372,
+     "w": 512,
+     "h": 26,
+     "text": "starting MRR",
+     "family": "JetBrains Mono",
+     "size": 18,
+     "weight": 400,
+     "color": "#F4EFE4",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 416,
+     "w": 604,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 428,
+     "w": 604,
+     "h": 18,
+     "text": "e.g. (400K + 62K − 14K − 22K) / 400K = 106.5%",
+     "family": "JetBrains Mono",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#9197A8"
+    },
+    {
+     "kind": "rect",
+     "x": 740,
+     "y": 96,
+     "w": 1,
+     "h": 362,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 772,
+     "y": 97,
+     "w": 20,
+     "color": "#7DE2B8"
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 98,
+     "w": 300,
+     "h": 18,
+     "text": "Counts",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 600,
+     "color": "#7DE2B8",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 772,
+     "y": 170,
+     "w": 372,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       775,
+       148
+      ],
+      [
+       780,
+       153
+      ],
+      [
+       789,
+       143
+      ]
+     ],
+     "stroke": "#7DE2B8",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 136,
+     "w": 340,
+     "h": 26,
+     "text": "Upgrades and added seats",
+     "family": "Instrument Sans",
+     "size": 17.5,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "rect",
+     "x": 772,
+     "y": 214,
+     "w": 372,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       775,
+       192
+      ],
+      [
+       780,
+       197
+      ],
+      [
+       789,
+       187
+      ]
+     ],
+     "stroke": "#7DE2B8",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 180,
+     "w": 340,
+     "h": 26,
+     "text": "Downgrades and contraction",
+     "family": "Instrument Sans",
+     "size": 17.5,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "rect",
+     "x": 772,
+     "y": 258,
+     "w": 372,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       775,
+       236
+      ],
+      [
+       780,
+       241
+      ],
+      [
+       789,
+       231
+      ]
+     ],
+     "stroke": "#7DE2B8",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 224,
+     "w": 340,
+     "h": 26,
+     "text": "MRR lost to cancellations",
+     "family": "Instrument Sans",
+     "size": 17.5,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "ellipse",
+     "x": 773,
+     "y": 293,
+     "w": 18,
+     "h": 18,
+     "stroke": "#FF8E76",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 777,
+     "y": 301,
+     "w": 10,
+     "h": 2,
+     "fill": "#FF8E76"
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 294,
+     "w": 300,
+     "h": 18,
+     "text": "Does not count",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 600,
+     "color": "#FF8E76",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 772,
+     "y": 366,
+     "w": 372,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       776,
+       338
+      ],
+      [
+       788,
+       350
+      ]
+     ],
+     "stroke": "#FF8E76",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       788,
+       338
+      ],
+      [
+       776,
+       350
+      ]
+     ],
+     "stroke": "#FF8E76",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 332,
+     "w": 340,
+     "h": 26,
+     "text": "New customers won in the period",
+     "family": "Instrument Sans",
+     "size": 17.5,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "rect",
+     "x": 772,
+     "y": 410,
+     "w": 372,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       776,
+       382
+      ],
+      [
+       788,
+       394
+      ]
+     ],
+     "stroke": "#FF8E76",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       788,
+       382
+      ],
+      [
+       776,
+       394
+      ]
+     ],
+     "stroke": "#FF8E76",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 376,
+     "w": 340,
+     "h": 26,
+     "text": "One-off setup and service fees",
+     "family": "Instrument Sans",
+     "size": 17.5,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "rect",
+     "x": 772,
+     "y": 454,
+     "w": 372,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       776,
+       426
+      ],
+      [
+       788,
+       438
+      ]
+     ],
+     "stroke": "#FF8E76",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       788,
+       426
+      ],
+      [
+       776,
+       438
+      ]
+     ],
+     "stroke": "#FF8E76",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 802,
+     "y": 420,
+     "w": 340,
+     "h": 26,
+     "text": "Trials and paused accounts",
+     "family": "Instrument Sans",
+     "size": 17.5,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 490,
+     "w": 1088,
+     "h": 1,
+     "fill": "#2C303D"
+    },
+    {
+     "kind": "photo",
+     "name": "Owner photo",
+     "shape": "ellipse",
+     "x": 56,
+     "y": 516,
+     "w": 52,
+     "h": 52,
+     "fill": "#2A2F3C"
+    },
+    {
+     "kind": "text",
+     "x": 124,
+     "y": 520,
+     "w": 300,
+     "h": 14,
+     "text": "Owner",
+     "family": "JetBrains Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#9197A8",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 124,
+     "y": 541,
+     "w": 300,
+     "h": 24,
+     "text": "Ines Marchetti, Revenue Analytics",
+     "family": "Instrument Sans",
+     "size": 16.5,
+     "weight": 600,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 520,
+     "w": 250,
+     "h": 14,
+     "text": "Source of truth",
+     "family": "JetBrains Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#9197A8",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 541,
+     "w": 250,
+     "h": 24,
+     "text": "billing.mrr_movements",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "text",
+     "x": 772,
+     "y": 520,
+     "w": 170,
+     "h": 14,
+     "text": "Refreshed",
+     "family": "JetBrains Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#9197A8",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 772,
+     "y": 541,
+     "w": 170,
+     "h": 24,
+     "text": "Daily, 06:00 UTC",
+     "family": "Instrument Sans",
+     "size": 16.5,
+     "weight": 600,
+     "color": "#F4EFE4"
+    },
+    {
+     "kind": "text",
+     "x": 964,
+     "y": 520,
+     "w": 180,
+     "h": 14,
+     "text": "Reported in",
+     "family": "JetBrains Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#9197A8",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 964,
+     "y": 541,
+     "w": 180,
+     "h": 24,
+     "text": "Monthly board pack",
+     "family": "Instrument Sans",
+     "size": 16.5,
+     "weight": 600,
+     "color": "#F4EFE4"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Metric name",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Plain-language definition",
+   "hint": "Two or three lines"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Formula numerator",
+   "hint": "Monospace, one line"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "First item that counts",
+   "hint": "Short phrase"
+  },
+  {
+   "node": "p0-n45",
+   "kind": "text",
+   "label": "Metric owner",
+   "hint": "Name and team"
+  }
+ ]
+}

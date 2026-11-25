@@ -23,7 +23,7 @@ import (
 
 const (
 	mfaAudience     = "mfa"
-	mfaIssuer       = "HyCanvas"
+	mfaIssuer       = "aidir3 Design"
 	mfaChallengeTTL = 5 * time.Minute
 )
 

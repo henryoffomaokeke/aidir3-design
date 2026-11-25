@@ -1,0 +1,428 @@
+{
+ "id": "a3-gov-regulation-readiness-slide",
+ "title": "Regulation Readiness Board Slide",
+ "categories": [
+  "governance",
+  "presentations",
+  "business",
+  "data"
+ ],
+ "tags": [
+  "board slide",
+  "eu ai act",
+  "readiness",
+  "compliance",
+  "decisions",
+  "bar chart",
+  "16:9"
+ ],
+ "styleTags": [
+  "board",
+  "serif headline",
+  "dark green"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -952,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Geist",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Readiness",
+   "bg": "#0E3A2C",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 72,
+     "w": 1000,
+     "h": 26,
+     "text": "Board Risk Committee  ·  9 December 2026  ·  Item 6",
+     "family": "Geist",
+     "size": 20,
+     "weight": 600,
+     "color": "#C9F26C",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 116,
+     "w": 1400,
+     "h": 190,
+     "text": "We are 61% ready for the EU AI Act.\nThree decisions close most of the gap.",
+     "family": "Instrument Serif",
+     "size": 80,
+     "weight": 400,
+     "color": "#F4EFE1",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 1504,
+     "y": 124,
+     "w": 320,
+     "h": 24,
+     "text": "Internal deadline",
+     "family": "Geist",
+     "size": 18,
+     "weight": 600,
+     "color": "#B5C9BD",
+     "align": "right",
+     "letterSpacing": 2.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1464,
+     "y": 152,
+     "w": 360,
+     "h": 66,
+     "text": "30 June 2027",
+     "family": "Instrument Serif",
+     "size": 56,
+     "weight": 400,
+     "color": "#F4EFE1",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1504,
+     "y": 232,
+     "w": 320,
+     "h": 28,
+     "text": "203 days from today",
+     "family": "Geist",
+     "size": 22,
+     "weight": 500,
+     "color": "#C9F26C",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 344,
+     "w": 1056,
+     "h": 604,
+     "fill": "#F4EFE1",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 136,
+     "y": 374,
+     "w": 700,
+     "h": 38,
+     "text": "Readiness by obligation area",
+     "family": "Geist",
+     "size": 30,
+     "weight": 600,
+     "color": "#0E3A2C"
+    },
+    {
+     "kind": "text",
+     "x": 136,
+     "y": 420,
+     "w": 960,
+     "h": 26,
+     "text": "Share of required controls in place and evidenced, %, across our 14 high-risk systems",
+     "family": "Geist",
+     "size": 20,
+     "weight": 400,
+     "color": "#42574D"
+    },
+    {
+     "kind": "chart",
+     "x": 128,
+     "y": 468,
+     "w": 992,
+     "h": 456,
+     "chartType": "barGrouped",
+     "name": "Readiness chart",
+     "fontSize": 18,
+     "legend": true,
+     "valueLabels": true,
+     "categories": [
+      "Risk management",
+      "Data governance",
+      "Technical file",
+      "Record-keeping",
+      "Human oversight",
+      "Robustness"
+     ],
+     "series": [
+      {
+       "name": "In place today",
+       "values": [
+        72,
+        58,
+        41,
+        80,
+        66,
+        49
+       ],
+       "color": "#0E3A2C"
+      },
+      {
+       "name": "With the funded plan, June 2027",
+       "values": [
+        95,
+        90,
+        70,
+        100,
+        95,
+        75
+       ],
+       "color": "#9CCB3B"
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1208,
+     "y": 352,
+     "w": 616,
+     "h": 26,
+     "text": "Decisions requested today",
+     "family": "Geist",
+     "size": 20,
+     "weight": 600,
+     "color": "#C9F26C",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1208,
+     "y": 392,
+     "w": 90,
+     "h": 130,
+     "text": "1",
+     "family": "Instrument Serif",
+     "size": 120,
+     "weight": 400,
+     "color": "#C9F26C",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 412,
+     "w": 514,
+     "h": 40,
+     "text": "Fund the documentation plan",
+     "family": "Geist",
+     "size": 30,
+     "weight": 600,
+     "color": "#F4EFE1"
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 458,
+     "w": 500,
+     "h": 62,
+     "text": "Bring the technical files for all 14 systems to audit standard by June 2027.",
+     "family": "Geist",
+     "size": 21,
+     "weight": 400,
+     "color": "#B5C9BD",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 526,
+     "w": 514,
+     "h": 24,
+     "text": "£420,000  ·  Chief Technology Officer",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#C9F26C"
+    },
+    {
+     "kind": "rect",
+     "x": 1208,
+     "y": 570,
+     "w": 616,
+     "h": 2,
+     "fill": "#2C5A48"
+    },
+    {
+     "kind": "text",
+     "x": 1208,
+     "y": 576,
+     "w": 90,
+     "h": 130,
+     "text": "2",
+     "family": "Instrument Serif",
+     "size": 120,
+     "weight": 400,
+     "color": "#C9F26C",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 596,
+     "w": 514,
+     "h": 40,
+     "text": "Name one accountable executive",
+     "family": "Geist",
+     "size": 30,
+     "weight": 600,
+     "color": "#F4EFE1"
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 642,
+     "w": 500,
+     "h": 62,
+     "text": "Make the Chief Risk Officer the single owner of AI Act compliance.",
+     "family": "Geist",
+     "size": 21,
+     "weight": 400,
+     "color": "#B5C9BD",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 710,
+     "w": 514,
+     "h": 24,
+     "text": "No cost  ·  Effective 1 January 2027",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#C9F26C"
+    },
+    {
+     "kind": "rect",
+     "x": 1208,
+     "y": 754,
+     "w": 616,
+     "h": 2,
+     "fill": "#2C5A48"
+    },
+    {
+     "kind": "text",
+     "x": 1208,
+     "y": 760,
+     "w": 90,
+     "h": 130,
+     "text": "3",
+     "family": "Instrument Serif",
+     "size": 120,
+     "weight": 400,
+     "color": "#C9F26C",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 780,
+     "w": 514,
+     "h": 40,
+     "text": "Retire two legacy scoring models",
+     "family": "Geist",
+     "size": 30,
+     "weight": 600,
+     "color": "#F4EFE1"
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 826,
+     "w": 500,
+     "h": 62,
+     "text": "Fixing them would cost more than replacing them. Switch off by 31 March 2027.",
+     "family": "Geist",
+     "size": 21,
+     "weight": 400,
+     "color": "#B5C9BD",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 1310,
+     "y": 894,
+     "w": 514,
+     "h": 24,
+     "text": "Saves £180,000 a year  ·  Head of Credit",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#C9F26C"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 992,
+     "w": 1200,
+     "h": 24,
+     "text": "Source: AI Governance Office control assessment, 28 November 2026. Readiness is the unweighted mean of the six areas.",
+     "family": "Geist",
+     "size": 17,
+     "weight": 400,
+     "color": "#B5C9BD"
+    },
+    {
+     "kind": "text",
+     "x": 1424,
+     "y": 992,
+     "w": 400,
+     "h": 24,
+     "text": "Varden Group  ·  Confidential  ·  6",
+     "family": "Geist",
+     "size": 17,
+     "weight": 400,
+     "color": "#B5C9BD",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Two lines, up to 38 characters each"
+  },
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Meeting, date and agenda item",
+   "hint": "Up to 55 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Deadline date",
+   "hint": "For example 30 June 2027"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "First decision",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

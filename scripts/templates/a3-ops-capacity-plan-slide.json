@@ -1,0 +1,1901 @@
+{
+ "id": "a3-ops-capacity-plan-slide",
+ "title": "Capacity Plan Slide",
+ "categories": [
+  "devops",
+  "presentations",
+  "technology",
+  "data"
+ ],
+ "tags": [
+  "capacity planning",
+  "forecast",
+  "headroom",
+  "infrastructure",
+  "storage",
+  "sre",
+  "slide",
+  "purchase"
+ ],
+ "styleTags": [
+  "dark",
+  "lime accent",
+  "meters"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -996,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Martian Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Capacity plan",
+   "bg": "#0F1113",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 60,
+     "w": 900,
+     "h": 18,
+     "text": "Capacity plan · production cluster eu-1",
+     "family": "Martian Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#C6F135",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 90,
+     "w": 1400,
+     "h": 72,
+     "text": "Storage runs out of headroom in March",
+     "family": "Sora",
+     "size": 52,
+     "weight": 800,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1380,
+     "y": 60,
+     "w": 460,
+     "h": 18,
+     "text": "H1 2027 planning",
+     "family": "Martian Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1380,
+     "y": 86,
+     "w": 460,
+     "h": 24,
+     "text": "Infrastructure team · 24 Nov 2026",
+     "family": "Onest",
+     "size": 17,
+     "weight": 400,
+     "color": "#9CA4AA",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 198,
+     "w": 422,
+     "h": 250,
+     "fill": "#191C20",
+     "radius": 18,
+     "stroke": "#2B3037",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 222,
+     "w": 240,
+     "h": 28,
+     "text": "Compute",
+     "family": "Onest",
+     "size": 20,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 228,
+     "w": 140,
+     "h": 18,
+     "text": "Healthy",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 700,
+     "color": "#C6F135",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 254,
+     "w": 190,
+     "h": 78,
+     "text": "58%",
+     "family": "Sora",
+     "size": 60,
+     "weight": 800,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 296,
+     "w": 120,
+     "h": 26,
+     "text": "used",
+     "family": "Onest",
+     "size": 19,
+     "weight": 400,
+     "color": "#9CA4AA"
+    },
+    {
+     "kind": "rect",
+     "x": 108,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 123.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 138.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 154.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 169.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 184.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 200.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 215.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 231,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 246.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 261.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 277.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 292.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 307.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 323.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 338.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 354,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 369.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 384.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 400.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 415.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 430.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 446.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 461.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 399,
+     "y": 338,
+     "w": 2,
+     "h": 42,
+     "fill": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Free",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 411,
+     "w": 200,
+     "h": 24,
+     "text": "336 of 800 vCPU",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 312,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Runway",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 312,
+     "y": 411,
+     "w": 170,
+     "h": 24,
+     "text": "Over 12 months",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "rect",
+     "x": 526,
+     "y": 198,
+     "w": 422,
+     "h": 250,
+     "fill": "#191C20",
+     "radius": 18,
+     "stroke": "#2B3037",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 222,
+     "w": 240,
+     "h": 28,
+     "text": "Memory",
+     "family": "Onest",
+     "size": 20,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 780,
+     "y": 228,
+     "w": 140,
+     "h": 18,
+     "text": "Watch",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFB020",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 254,
+     "w": 190,
+     "h": 78,
+     "text": "74%",
+     "family": "Sora",
+     "size": 60,
+     "weight": 800,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 296,
+     "w": 120,
+     "h": 26,
+     "text": "used",
+     "family": "Onest",
+     "size": 19,
+     "weight": 400,
+     "color": "#9CA4AA"
+    },
+    {
+     "kind": "rect",
+     "x": 554,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 569.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 584.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 600.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 615.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 630.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 646.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 661.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 677,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 692.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 707.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 723.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 738.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 753.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 769.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 784.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 800,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 815.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FFB020",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 830.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 846.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 861.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 876.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 892.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 907.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 845,
+     "y": 338,
+     "w": 2,
+     "h": 42,
+     "fill": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Free",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 411,
+     "w": 200,
+     "h": 24,
+     "text": "0.83 of 3.2 TB",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 758,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Runway",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 758,
+     "y": 411,
+     "w": 170,
+     "h": 24,
+     "text": "7 months",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "rect",
+     "x": 972,
+     "y": 198,
+     "w": 422,
+     "h": 250,
+     "fill": "#191C20",
+     "radius": 18,
+     "stroke": "#FF5A4F",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 222,
+     "w": 240,
+     "h": 28,
+     "text": "Block storage",
+     "family": "Onest",
+     "size": 20,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1226,
+     "y": 228,
+     "w": 140,
+     "h": 18,
+     "text": "Act now",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 700,
+     "color": "#FF5A4F",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 254,
+     "w": 190,
+     "h": 78,
+     "text": "84%",
+     "family": "Sora",
+     "size": 60,
+     "weight": 800,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1162,
+     "y": 296,
+     "w": 120,
+     "h": 26,
+     "text": "used",
+     "family": "Onest",
+     "size": 19,
+     "weight": 400,
+     "color": "#9CA4AA"
+    },
+    {
+     "kind": "rect",
+     "x": 1000,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1015.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1030.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1046.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1061.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1076.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1092.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1107.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1123,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1138.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1153.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1169.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1184.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1199.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1215.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1230.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1246,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1261.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1276.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1292.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#FF5A4F",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1307.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1322.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1338.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1353.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1291,
+     "y": 338,
+     "w": 2,
+     "h": 42,
+     "fill": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Free",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 411,
+     "w": 200,
+     "h": 24,
+     "text": "32 of 200 TB",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1204,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Runway",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1204,
+     "y": 411,
+     "w": 170,
+     "h": 24,
+     "text": "15 weeks",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#FF5A4F"
+    },
+    {
+     "kind": "rect",
+     "x": 1418,
+     "y": 198,
+     "w": 422,
+     "h": 250,
+     "fill": "#191C20",
+     "radius": 18,
+     "stroke": "#2B3037",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 1446,
+     "y": 222,
+     "w": 240,
+     "h": 28,
+     "text": "Network egress",
+     "family": "Onest",
+     "size": 20,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1672,
+     "y": 228,
+     "w": 140,
+     "h": 18,
+     "text": "Healthy",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 700,
+     "color": "#C6F135",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1446,
+     "y": 254,
+     "w": 190,
+     "h": 78,
+     "text": "41%",
+     "family": "Sora",
+     "size": 60,
+     "weight": 800,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1608,
+     "y": 296,
+     "w": 120,
+     "h": 26,
+     "text": "used",
+     "family": "Onest",
+     "size": 19,
+     "weight": 400,
+     "color": "#9CA4AA"
+    },
+    {
+     "kind": "rect",
+     "x": 1446,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1461.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1476.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1492.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1507.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1522.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1538.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1553.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1569,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1584.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#C6F135",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1599.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1615.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1630.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1645.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1661.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1676.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1692,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1707.38,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1722.75,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1738.13,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1753.5,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1768.88,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1784.25,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1799.63,
+     "y": 344,
+     "w": 12.38,
+     "h": 30,
+     "fill": "#30353C",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1737,
+     "y": 338,
+     "w": 2,
+     "h": 42,
+     "fill": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1446,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Free",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1446,
+     "y": 411,
+     "w": 200,
+     "h": 24,
+     "text": "23.6 of 40 Gbit/s",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "text",
+     "x": 1650,
+     "y": 392,
+     "w": 150,
+     "h": 18,
+     "text": "Runway",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1650,
+     "y": 411,
+     "w": 170,
+     "h": 24,
+     "text": "Over 12 months",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#F5F6F3"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 476,
+     "w": 1116,
+     "h": 502,
+     "fill": "#F2F3EC",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 116,
+     "y": 504,
+     "w": 800,
+     "h": 36,
+     "text": "Block storage: demand against capacity",
+     "family": "Sora",
+     "size": 26,
+     "weight": 800,
+     "color": "#12150C"
+    },
+    {
+     "kind": "text",
+     "x": 116,
+     "y": 546,
+     "w": 900,
+     "h": 24,
+     "text": "Terabytes at month end. Forecast from December at 9 TB a month.",
+     "family": "Onest",
+     "size": 17,
+     "weight": 400,
+     "color": "#4B5140"
+    },
+    {
+     "kind": "chart",
+     "name": "Storage forecast",
+     "x": 100,
+     "y": 584,
+     "w": 800,
+     "h": 378,
+     "chartType": "line",
+     "fontSize": 19,
+     "valueLabels": false,
+     "legend": true,
+     "categories": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+     ],
+     "series": [
+      {
+       "name": "Capacity with purchase",
+       "values": [
+        200,
+        200,
+        200,
+        200,
+        200,
+        290,
+        290,
+        290,
+        290,
+        290
+       ],
+       "color": "#5E8A00"
+      },
+      {
+       "name": "Capacity today",
+       "values": [
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200
+       ],
+       "color": "#E5484D"
+      },
+      {
+       "name": "Demand",
+       "values": [
+        150,
+        159,
+        168,
+        177,
+        186,
+        195,
+        204,
+        213,
+        222,
+        231
+       ],
+       "color": "#12150C"
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 936,
+     "y": 608,
+     "w": 4,
+     "h": 78,
+     "fill": "#9A6700"
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 610,
+     "w": 200,
+     "h": 18,
+     "text": "Nov 2026",
+     "family": "Martian Mono",
+     "size": 13,
+     "weight": 700,
+     "color": "#9A6700",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 634,
+     "w": 214,
+     "h": 52,
+     "text": "Passed the 80% policy limit at 160 TB",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#12150C",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 936,
+     "y": 712,
+     "w": 4,
+     "h": 78,
+     "fill": "#4C7A00"
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 714,
+     "w": 200,
+     "h": 18,
+     "text": "Feb 2027",
+     "family": "Martian Mono",
+     "size": 13,
+     "weight": 700,
+     "color": "#4C7A00",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 738,
+     "w": 214,
+     "h": 52,
+     "text": "New nodes land: 290 TB, 67% used",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#12150C",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 936,
+     "y": 816,
+     "w": 4,
+     "h": 78,
+     "fill": "#C8281C"
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 818,
+     "w": 200,
+     "h": 18,
+     "text": "Mar 2027",
+     "family": "Martian Mono",
+     "size": 13,
+     "weight": 700,
+     "color": "#C8281C",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 842,
+     "w": 214,
+     "h": 52,
+     "text": "Without them, demand passes 200 TB",
+     "family": "Onest",
+     "size": 17,
+     "weight": 600,
+     "color": "#12150C",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 1220,
+     "y": 476,
+     "w": 620,
+     "h": 502,
+     "fill": "#C6F135",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 510,
+     "w": 400,
+     "h": 18,
+     "text": "Recommendation",
+     "family": "Martian Mono",
+     "size": 14,
+     "weight": 700,
+     "color": "#3D4A12",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 538,
+     "w": 550,
+     "h": 108,
+     "text": "Order three\nstorage nodes",
+     "family": "Sora",
+     "size": 46,
+     "weight": 800,
+     "color": "#12150C",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 656,
+     "w": 530,
+     "h": 58,
+     "text": "Adds 90 TB usable and brings block storage back to 67% used when it lands in February.",
+     "family": "Onest",
+     "size": 19,
+     "weight": 400,
+     "color": "#12150C",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1260,
+     "y": 734,
+     "w": 540,
+     "h": 1.5,
+     "fill": "#3D4A12"
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 754,
+     "w": 170,
+     "h": 18,
+     "text": "Cost",
+     "family": "Martian Mono",
+     "size": 13,
+     "weight": 700,
+     "color": "#3D4A12",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1430,
+     "y": 748,
+     "w": 370,
+     "h": 28,
+     "text": "$86,400, one-off",
+     "family": "Onest",
+     "size": 21,
+     "weight": 700,
+     "color": "#12150C"
+    },
+    {
+     "kind": "rect",
+     "x": 1260,
+     "y": 790,
+     "w": 540,
+     "h": 1.5,
+     "fill": "#3D4A12"
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 810,
+     "w": 170,
+     "h": 18,
+     "text": "Order by",
+     "family": "Martian Mono",
+     "size": 13,
+     "weight": 700,
+     "color": "#3D4A12",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1430,
+     "y": 804,
+     "w": 370,
+     "h": 28,
+     "text": "15 January 2027",
+     "family": "Onest",
+     "size": 21,
+     "weight": 700,
+     "color": "#12150C"
+    },
+    {
+     "kind": "rect",
+     "x": 1260,
+     "y": 846,
+     "w": 540,
+     "h": 1.5,
+     "fill": "#3D4A12"
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 866,
+     "w": 170,
+     "h": 18,
+     "text": "Lead time",
+     "family": "Martian Mono",
+     "size": 13,
+     "weight": 700,
+     "color": "#3D4A12",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1430,
+     "y": 860,
+     "w": 370,
+     "h": 28,
+     "text": "6 weeks to rack and join",
+     "family": "Onest",
+     "size": 21,
+     "weight": 700,
+     "color": "#12150C"
+    },
+    {
+     "kind": "rect",
+     "x": 1260,
+     "y": 902,
+     "w": 540,
+     "h": 1.5,
+     "fill": "#3D4A12"
+    },
+    {
+     "kind": "text",
+     "x": 1260,
+     "y": 916,
+     "w": 540,
+     "h": 46,
+     "text": "Alternative: tiering cold data frees 18 TB, which buys only two months.",
+     "family": "Onest",
+     "size": 16,
+     "weight": 400,
+     "color": "#3D4A12",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1006,
+     "w": 900,
+     "h": 18,
+     "text": "Brackenhall Infrastructure · Capacity review",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 1006,
+     "w": 700,
+     "h": 18,
+     "text": "White mark: 80% policy limit",
+     "family": "Martian Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#9CA4AA",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline finding",
+   "hint": "State the conclusion, not the topic"
+  },
+  {
+   "node": "p0-n73",
+   "kind": "text",
+   "label": "Constrained resource",
+   "hint": "The resource that needs action"
+  },
+  {
+   "node": "p0-n141",
+   "kind": "text",
+   "label": "Chart title",
+   "hint": "What the forecast shows"
+  },
+  {
+   "node": "p0-n155",
+   "kind": "text",
+   "label": "Recommendation",
+   "hint": "The purchase or action, in a few words"
+  }
+ ]
+}

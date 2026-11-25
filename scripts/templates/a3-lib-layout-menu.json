@@ -1,0 +1,409 @@
+{
+ "id": "a3-lib-layout-menu",
+ "title": "Home Care for Elderly: Price List",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "elderly care",
+  "home care",
+  "senior",
+  "caregiver",
+  "parents",
+  "health",
+  "instagram post",
+  "price list"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFE8D9",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 700,
+     "y": 52,
+     "w": 338,
+     "h": 338,
+     "fill": "#FF7A45",
+     "opacity": 0.9
+    },
+    {
+     "kind": "photo",
+     "x": 718,
+     "y": 70,
+     "w": 302,
+     "h": 302,
+     "shape": "ellipse",
+     "fill": "#AE8473",
+     "name": "Photo: elderly woman caregiver"
+    },
+    {
+     "kind": "ellipse",
+     "x": 718,
+     "y": 70,
+     "w": 302,
+     "h": 302,
+     "stroke": "#FFE8D9",
+     "strokeWidth": 10,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 74.6,
+     "w": 618,
+     "h": 36,
+     "text": "GOLDEN YEARS HOME CARE",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#FF7A45",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 126.2,
+     "w": 754,
+     "h": 183,
+     "text": "Gentle care at home",
+     "family": "Figtree",
+     "size": 86,
+     "weight": 800,
+     "color": "#33201A",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 406,
+     "w": 607,
+     "h": 52,
+     "text": "Day visit (4 hrs)",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 700,
+     "color": "#33201A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 687,
+     "y": 405.1,
+     "w": 313,
+     "h": 52,
+     "text": "₦15,000",
+     "family": "Figtree",
+     "size": 35,
+     "weight": 800,
+     "color": "#FF7A45",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 476,
+     "w": 920,
+     "h": 2,
+     "fill": "#33201A",
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 493,
+     "w": 607,
+     "h": 52,
+     "text": "Live-in care (month)",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 700,
+     "color": "#33201A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 687,
+     "y": 492.1,
+     "w": 313,
+     "h": 52,
+     "text": "₦380,000",
+     "family": "Figtree",
+     "size": 35,
+     "weight": 800,
+     "color": "#FF7A45",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 563,
+     "w": 920,
+     "h": 2,
+     "fill": "#33201A",
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 581,
+     "w": 607,
+     "h": 52,
+     "text": "Nurse check (weekly)",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 700,
+     "color": "#33201A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 687,
+     "y": 580.1,
+     "w": 313,
+     "h": 52,
+     "text": "₦20,000",
+     "family": "Figtree",
+     "size": 35,
+     "weight": 800,
+     "color": "#FF7A45",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 651,
+     "w": 920,
+     "h": 2,
+     "fill": "#33201A",
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 668,
+     "w": 607,
+     "h": 52,
+     "text": "Physio session",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 700,
+     "color": "#33201A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 687,
+     "y": 667.1,
+     "w": 313,
+     "h": 52,
+     "text": "₦18,000",
+     "family": "Figtree",
+     "size": 35,
+     "weight": 800,
+     "color": "#FF7A45",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 738,
+     "w": 920,
+     "h": 2,
+     "fill": "#33201A",
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 756,
+     "w": 607,
+     "h": 52,
+     "text": "Care assessment",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 700,
+     "color": "#33201A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 687,
+     "y": 755.1,
+     "w": 313,
+     "h": 52,
+     "text": "Free",
+     "family": "Figtree",
+     "size": 35,
+     "weight": 800,
+     "color": "#FF7A45",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 826,
+     "w": 920,
+     "h": 2,
+     "fill": "#33201A",
+     "opacity": 0.12
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 912,
+     "w": 360,
+     "h": 88,
+     "fill": "#FF7A45",
+     "radius": 44
+    },
+    {
+     "kind": "text",
+     "x": 111,
+     "y": 906.2,
+     "w": 281,
+     "h": 88,
+     "text": "Book a visit",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       393.88,
+       956.5
+      ],
+      [
+       413.13,
+       956.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       403.5,
+       946.88
+      ],
+      [
+       413.13,
+       956.5
+      ],
+      [
+       403.5,
+       966.13
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 906.6,
+     "w": 530,
+     "h": 88,
+     "text": "Call 0803 909 1515",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 500,
+     "color": "#8A6656",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

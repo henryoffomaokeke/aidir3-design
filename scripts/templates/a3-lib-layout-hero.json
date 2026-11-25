@@ -1,0 +1,643 @@
+{
+ "id": "a3-lib-layout-hero",
+ "title": "Lunar New Year: Photo Hero",
+ "categories": [
+  "celebrations",
+  "social",
+  "events"
+ ],
+ "tags": [
+  "lunar new year",
+  "chinese new year",
+  "spring festival",
+  "red envelope",
+  "year of the horse",
+  "facebook event cover",
+  "photo hero",
+  "holidays"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1920,
+  1005
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#123524",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 576,
+     "y": 0,
+     "w": 1344,
+     "h": 1005,
+     "shape": "rect",
+     "fill": "#284436",
+     "name": "Photo: chinese new year lanterns",
+     "image": {
+      "asset": "tplph-ov-9c5f3243-873d-4eab-a330-064f7fc9c6a3",
+      "url": "/api/v1/templates/photos/ov/9c5f3243-873d-4eab-a330-064f7fc9c6a3.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "CNY - red, red lanterns",
+       "url": "https://www.rawpixel.com/image/6075594/cny-red-red-lanterns",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: CNY - red, red lanterns",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.99,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 144,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.99,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 192,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.99,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 240,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.98,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.98,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 336,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.98,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 384,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.97,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 432,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.97,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 480,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.97,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.97,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 576,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.96,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 624,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.95,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 672,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.92,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 720,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.89,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 768,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.86,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 816,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.83,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 864,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.8,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 912,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.77,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 960,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.74,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1008,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.71,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1056,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.68,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1104,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.65,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1152,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.62,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.59,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1248,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.56,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1296,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.52,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1344,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.47,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1392,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.43,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1440,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.39,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1488,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.35,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1536,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.31,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1584,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.27,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1632,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.23,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1680,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.19,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1728,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.14,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1776,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.1,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1824,
+     "y": 0,
+     "w": 48.6,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.06,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1872,
+     "y": 0,
+     "w": 48,
+     "h": 1005,
+     "fill": "#123524",
+     "opacity": 0.02,
+     "name": "Scrim"
+    },
+    {
+     "kind": "ellipse",
+     "x": 86,
+     "y": 86,
+     "w": 64,
+     "h": 64,
+     "fill": "#FF9F1C"
+    },
+    {
+     "kind": "icon",
+     "icon": "sparkles",
+     "x": 102,
+     "y": 102,
+     "w": 32,
+     "h": 32,
+     "color": "#123524"
+    },
+    {
+     "kind": "text",
+     "x": 169,
+     "y": 79.6,
+     "w": 877,
+     "h": 64,
+     "text": "Golden Dragon Restaurant",
+     "family": "Red Hat Text",
+     "size": 29,
+     "weight": 700,
+     "color": "#FFFBEA",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 234,
+     "w": 960,
+     "h": 48,
+     "text": "Year of the Horse",
+     "family": "Red Hat Text",
+     "size": 27,
+     "weight": 700,
+     "color": "#FF9F1C",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 283.9,
+     "w": 960,
+     "h": 223,
+     "text": "Happy Lunar New Year",
+     "family": "Cormorant Garamond",
+     "size": 105,
+     "weight": 600,
+     "color": "#FFFBEA",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 544.2,
+     "w": 960,
+     "h": 98,
+     "text": "Welcome the Year of the Horse with dumplings, lion dancing and wishes for health and prosperity.",
+     "family": "Red Hat Text",
+     "size": 34,
+     "weight": 400,
+     "color": "#B8C9B4",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 86,
+     "y": 702,
+     "w": 399,
+     "h": 93,
+     "fill": "#FF9F1C",
+     "radius": 46.5
+    },
+    {
+     "kind": "text",
+     "x": 119,
+     "y": 695.3,
+     "w": 315,
+     "h": 93,
+     "text": "Book a table",
+     "family": "Red Hat Text",
+     "size": 30,
+     "weight": 700,
+     "color": "#123524",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       435.29,
+       748.5
+      ],
+      [
+       455.71,
+       748.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#123524",
+     "strokeWidth": 3.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       445.5,
+       738.29
+      ],
+      [
+       455.71,
+       748.5
+      ],
+      [
+       445.5,
+       758.71
+      ]
+     ],
+     "closed": false,
+     "stroke": "#123524",
+     "strokeWidth": 3.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n45",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 120 characters"
+  },
+  {
+   "node": "p0-n48",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n43",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n44",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

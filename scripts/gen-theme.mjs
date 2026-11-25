@@ -56,6 +56,8 @@ function colorsRegion() {
     "  --color-page: #ffffff;",
     "  --color-surface: #ffffff;",
     `  --color-brand-ink: ${theme.brand[700]};`,
+    "  /* Text and icons on top of the accent (aidir3: ink on ember, never white). */",
+    `  --color-on-brand: ${theme.onBrand ?? "#ffffff"};`,
     `  ${COLORS_END}`,
   ].join("\n");
 }

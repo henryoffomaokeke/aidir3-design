@@ -1,0 +1,121 @@
+{
+ "id": "a3-lib-modern-quiet",
+ "title": "White Wedding: Quietly Loud",
+ "categories": [
+  "celebrations",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "white wedding",
+  "church wedding",
+  "holy matrimony",
+  "bride",
+  "invitation",
+  "instagram portrait",
+  "quietly loud",
+  "weddings"
+ ],
+ "styleTags": [
+  "light",
+  "quiet"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E3B43",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1350,
+     "fill": "#F0EEE9",
+     "name": "Cloud Dancer ground"
+    },
+    {
+     "kind": "text",
+     "x": 130,
+     "y": 179.7,
+     "w": 820,
+     "h": 352,
+     "text": "VOWS",
+     "family": "Anton",
+     "size": 359,
+     "weight": 400,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 0.9
+    },
+    {
+     "kind": "text",
+     "x": 130,
+     "y": 1007.8,
+     "w": 820,
+     "h": 106,
+     "text": "Joined by love",
+     "family": "Anton",
+     "size": 89,
+     "weight": 400,
+     "color": "#1C1B19",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 130,
+     "y": 1146.5,
+     "w": 820,
+     "h": 36,
+     "text": "Ngozi & Emeka  ·  rsvp.ngozi-emeka.com",
+     "family": "Inter",
+     "size": 26,
+     "weight": 800,
+     "color": "#666562",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  }
+ ]
+}

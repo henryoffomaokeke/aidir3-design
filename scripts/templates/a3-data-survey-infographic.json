@@ -1,0 +1,716 @@
+{
+ "id": "a3-data-survey-infographic",
+ "title": "Survey Results Infographic",
+ "categories": [
+  "data",
+  "social",
+  "marketing"
+ ],
+ "tags": [
+  "survey",
+  "infographic",
+  "statistics",
+  "research",
+  "findings",
+  "data team",
+  "portrait"
+ ],
+ "styleTags": [
+  "bold",
+  "colourful",
+  "infographic"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": -965,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Infographic",
+   "bg": "#2140D9",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 58,
+     "w": 18,
+     "h": 18,
+     "fill": "#FFD43B"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 54,
+     "w": 420,
+     "h": 26,
+     "text": "Quorum Insights",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 54,
+     "w": 420,
+     "h": 26,
+     "text": "Data Team Survey 2026",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#D3DAFA",
+     "align": "right",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 108,
+     "w": 680,
+     "h": 330,
+     "text": "68%",
+     "family": "Anton",
+     "size": 320,
+     "weight": 400,
+     "color": "#FFD43B",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 740,
+     "y": 192,
+     "w": 284,
+     "h": 200,
+     "text": "of analysts don't fully trust at least one dashboard their company relies on.",
+     "family": "DM Sans",
+     "size": 32,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.18
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 462,
+     "w": 952,
+     "h": 16,
+     "fill": "#0E1B6B"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 462,
+     "w": 647,
+     "h": 16,
+     "fill": "#FFD43B"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 508,
+     "w": 952,
+     "h": 24,
+     "text": "Four more things 1,204 data people told us",
+     "family": "DM Sans",
+     "size": 18,
+     "weight": 700,
+     "color": "#FFD43B",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 556,
+     "w": 580,
+     "h": 320,
+     "fill": "#FFF5E1",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 582,
+     "w": 516,
+     "h": 34,
+     "text": "Where an analyst's week goes",
+     "family": "DM Sans",
+     "size": 26,
+     "weight": 700,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 638,
+     "w": 400,
+     "h": 26,
+     "text": "Cleaning and preparing data",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 500,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 667,
+     "w": 430,
+     "h": 18,
+     "fill": "#93A0E6",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 538,
+     "y": 661,
+     "w": 80,
+     "h": 26,
+     "text": "38%",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 700,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 695,
+     "w": 400,
+     "h": 26,
+     "text": "Building reports",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 500,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 724,
+     "w": 272,
+     "h": 18,
+     "fill": "#93A0E6",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 380,
+     "y": 718,
+     "w": 80,
+     "h": 26,
+     "text": "24%",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 700,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 752,
+     "w": 400,
+     "h": 26,
+     "text": "Meetings and requests",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 500,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 781,
+     "w": 238,
+     "h": 18,
+     "fill": "#93A0E6",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 346,
+     "y": 775,
+     "w": 80,
+     "h": 26,
+     "text": "21%",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 700,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 809,
+     "w": 400,
+     "h": 26,
+     "text": "Actual analysis",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 700,
+     "color": "#0B1033"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 838,
+     "w": 192,
+     "h": 18,
+     "fill": "#2140D9",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 832,
+     "w": 80,
+     "h": 26,
+     "text": "17%",
+     "family": "DM Sans",
+     "size": 19.5,
+     "weight": 700,
+     "color": "#2140D9"
+    },
+    {
+     "kind": "rect",
+     "x": 668,
+     "y": 556,
+     "w": 348,
+     "h": 320,
+     "fill": "#FFD43B",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 696,
+     "y": 570,
+     "w": 190,
+     "h": 190,
+     "text": "11",
+     "family": "Anton",
+     "size": 180,
+     "weight": 400,
+     "color": "#0B1033",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 828,
+     "y": 687,
+     "w": 130,
+     "h": 70,
+     "text": "hrs",
+     "family": "Anton",
+     "size": 62,
+     "weight": 400,
+     "color": "#0B1033",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 772,
+     "w": 292,
+     "h": 84,
+     "text": "a week lost to ad-hoc requests from other teams",
+     "family": "DM Sans",
+     "size": 23,
+     "weight": 600,
+     "color": "#0B1033",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 900,
+     "w": 452,
+     "h": 320,
+     "fill": "#0E1B6B",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 926,
+     "w": 380,
+     "h": 100,
+     "text": "7 in 10",
+     "family": "Anton",
+     "size": 88,
+     "weight": 400,
+     "color": "#FFD43B",
+     "lineHeight": 1
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 94,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 133.4,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 172.8,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 212.2,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 251.6,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 291,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 330.4,
+     "y": 1048,
+     "w": 36,
+     "color": "#FFD43B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 369.8,
+     "y": 1048,
+     "w": 36,
+     "color": "#4354B4"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 409.2,
+     "y": 1048,
+     "w": 36,
+     "color": "#4354B4"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 448.59999999999997,
+     "y": 1048,
+     "w": 36,
+     "color": "#4354B4"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 1110,
+     "w": 392,
+     "h": 90,
+     "text": "have rebuilt a report that already existed somewhere else",
+     "family": "DM Sans",
+     "size": 23,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 541.5,
+     "y": 901.5,
+     "w": 473,
+     "h": 317,
+     "radius": 20,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 926,
+     "w": 412,
+     "h": 34,
+     "text": "Biggest blockers, ranked",
+     "family": "DM Sans",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 982,
+     "w": 34,
+     "h": 42,
+     "text": "1",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD43B",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 614,
+     "y": 989,
+     "w": 290,
+     "h": 28,
+     "text": "Unclear metric definitions",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 500,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 904,
+     "y": 989,
+     "w": 80,
+     "h": 28,
+     "text": "54%",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFD43B",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 572,
+     "y": 1030,
+     "w": 412,
+     "h": 1,
+     "fill": "#FFFFFF",
+     "opacity": 0.28
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 1036,
+     "w": 34,
+     "h": 42,
+     "text": "2",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD43B",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 614,
+     "y": 1043,
+     "w": 290,
+     "h": 28,
+     "text": "Data scattered across tools",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 500,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 904,
+     "y": 1043,
+     "w": 80,
+     "h": 28,
+     "text": "47%",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFD43B",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 572,
+     "y": 1084,
+     "w": 412,
+     "h": 1,
+     "fill": "#FFFFFF",
+     "opacity": 0.28
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 1090,
+     "w": 34,
+     "h": 42,
+     "text": "3",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD43B",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 614,
+     "y": 1097,
+     "w": 290,
+     "h": 28,
+     "text": "No time for deep work",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 500,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 904,
+     "y": 1097,
+     "w": 80,
+     "h": 28,
+     "text": "41%",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFD43B",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 572,
+     "y": 1138,
+     "w": 412,
+     "h": 1,
+     "fill": "#FFFFFF",
+     "opacity": 0.28
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 1144,
+     "w": 34,
+     "h": 42,
+     "text": "4",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD43B",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 614,
+     "y": 1151,
+     "w": 290,
+     "h": 28,
+     "text": "Slow warehouse queries",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 500,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 904,
+     "y": 1151,
+     "w": 80,
+     "h": 28,
+     "text": "29%",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFD43B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 1256,
+     "w": 640,
+     "h": 24,
+     "text": "1,204 data professionals in 14 countries, surveyed 1 to 26 September 2026",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#D3DAFA"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 1256,
+     "w": 300,
+     "h": 24,
+     "text": "quoruminsights.example",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#FFD43B",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline statistic",
+   "hint": "A single number, up to 3 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline claim",
+   "hint": "Finishes the sentence the number starts"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "First finding title",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Big number",
+   "hint": "One or two digits"
+  },
+  {
+   "node": "p0-n56",
+   "kind": "text",
+   "label": "Method note",
+   "hint": "Sample size, place and dates"
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "id": "a3-lib-modern-torn",
+ "title": "Physiotherapy Clinic: Torn Paper",
+ "categories": [
+  "flyers",
+  "marketing",
+  "print"
+ ],
+ "tags": [
+  "physiotherapy",
+  "physio",
+  "back pain",
+  "rehab",
+  "sports injury",
+  "health",
+  "flyer",
+  "torn paper"
+ ],
+ "styleTags": [
+  "colourful",
+  "collage",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F7F3EC",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 962,
+     "shape": "rect",
+     "fill": "#6B665E",
+     "name": "Photo: physiotherapist patient",
+     "image": {
+      "asset": "tplph-ov-f73e5253-8bf9-43c8-86fe-ab288b8dcf1c",
+      "url": "/api/v1/templates/photos/ov/f73e5253-8bf9-43c8-86fe-ab288b8dcf1c.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Doctor Patient",
+       "author": "Direct Media",
+       "url": "https://stocksnap.io/photo/doctor-patient-WY8KTJHDJZ",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Doctor Patient",
+      "fit": "cover",
+      "crop": {
+       "x": 0,
+       "y": 0.04,
+       "width": 1,
+       "height": 0.8
+      }
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       987
+      ],
+      [
+       0,
+       952.5
+      ],
+      [
+       36.46,
+       898.97
+      ],
+      [
+       72.91,
+       905.35
+      ],
+      [
+       109.37,
+       900.2
+      ],
+      [
+       145.82,
+       956.65
+      ],
+      [
+       182.4,
+       941.75
+      ],
+      [
+       218.86,
+       960.01
+      ],
+      [
+       255.32,
+       946.68
+      ],
+      [
+       291.77,
+       929.99
+      ],
+      [
+       328.23,
+       925.4
+      ],
+      [
+       364.68,
+       945.22
+      ],
+      [
+       401.14,
+       944.89
+      ],
+      [
+       437.6,
+       897.96
+      ],
+      [
+       474.18,
+       898.74
+      ],
+      [
+       510.63,
+       934.7
+      ],
+      [
+       547.09,
+       938.62
+      ],
+      [
+       583.54,
+       938.06
+      ],
+      [
+       620,
+       963.48
+      ],
+      [
+       656.46,
+       944.1
+      ],
+      [
+       692.91,
+       959.9
+      ],
+      [
+       729.37,
+       956.65
+      ],
+      [
+       765.82,
+       919.13
+      ],
+      [
+       802.4,
+       962.14
+      ],
+      [
+       838.86,
+       922.04
+      ],
+      [
+       875.32,
+       910.06
+      ],
+      [
+       911.77,
+       958.66
+      ],
+      [
+       948.23,
+       921.48
+      ],
+      [
+       984.68,
+       954.52
+      ],
+      [
+       1021.14,
+       905.02
+      ],
+      [
+       1057.6,
+       935.26
+      ],
+      [
+       1094.18,
+       921.82
+      ],
+      [
+       1130.63,
+       897.85
+      ],
+      [
+       1167.09,
+       911.74
+      ],
+      [
+       1203.54,
+       921.59
+      ],
+      [
+       1240,
+       952.17
+      ],
+      [
+       1240,
+       987
+      ]
+     ],
+     "closed": true,
+     "fill": "#F7F3EC",
+     "name": "Torn edge"
+    },
+    {
+     "kind": "rect",
+     "x": 146,
+     "y": 875,
+     "w": 236,
+     "h": 69,
+     "rotation": -6,
+     "fill": "#D8C6AB",
+     "opacity": 0.8,
+     "name": "Tape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 905,
+     "y": 704,
+     "w": 273,
+     "h": 273,
+     "rotation": 10,
+     "fill": "#1A1814",
+     "name": "Sticker"
+    },
+    {
+     "kind": "text",
+     "x": 928.5,
+     "y": 763.9,
+     "w": 175,
+     "h": 175,
+     "text": "Book\ntoday",
+     "family": "Bebas Neue",
+     "size": 55,
+     "weight": 400,
+     "color": "#F7F3EC",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1028.4,
+     "w": 1062,
+     "h": 39,
+     "text": "Pain relief",
+     "family": "Manrope",
+     "size": 29,
+     "weight": 800,
+     "color": "#1A1814",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1071.6,
+     "w": 1062,
+     "h": 285,
+     "text": "Move without pain",
+     "family": "Bebas Neue",
+     "size": 137,
+     "weight": 400,
+     "color": "#1A1814",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1403.9,
+     "w": 1062,
+     "h": 109,
+     "text": "Physiotherapy for back and neck pain, sports injuries, stroke rehab and recovery after surgery.",
+     "family": "Manrope",
+     "size": 37,
+     "weight": 400,
+     "color": "#665F55",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1567,
+     "w": 425,
+     "h": 88,
+     "fill": "#1A1814",
+     "radius": 44,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1560.3,
+     "w": 425,
+     "h": 88,
+     "text": "Book assessment",
+     "family": "Manrope",
+     "size": 35,
+     "weight": 800,
+     "color": "#F7F3EC",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 115 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

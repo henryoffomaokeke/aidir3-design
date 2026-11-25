@@ -1,0 +1,302 @@
+{
+ "id": "a3-yt-shorts-cover",
+ "title": "YouTube Shorts Cover",
+ "categories": [
+  "social",
+  "thumbnails"
+ ],
+ "tags": [
+  "youtube",
+  "shorts",
+  "cover",
+  "vertical",
+  "fitness",
+  "gym",
+  "reels",
+  "9:16"
+ ],
+ "styleTags": [
+  "bold",
+  "black and yellow",
+  "condensed"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": -1996,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Big Shoulders Display",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Barlow",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Cover",
+   "bg": "#0B0B0B",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1920,
+     "shape": "rect",
+     "name": "Coach photo",
+     "fill": {
+      "angle": 180,
+      "stops": [
+       [
+        "#5B5B5B",
+        0
+       ],
+       [
+        "#2B2B2B",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       560
+      ],
+      [
+       1080,
+       470
+      ],
+      [
+       1080,
+       1290
+      ],
+      [
+       0,
+       1380
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B0B0B",
+     "opacity": 0.94
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       540
+      ],
+      [
+       1080,
+       450
+      ],
+      [
+       1080,
+       470
+      ],
+      [
+       0,
+       560
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFE600"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 140,
+     "w": 330,
+     "h": 72,
+     "fill": "#FFE600"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 140,
+     "w": 330,
+     "h": 72,
+     "text": "FORM CHECK #18",
+     "family": "Barlow",
+     "size": 32,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "lineHeight": 1.1,
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 2
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 590,
+     "w": 952,
+     "h": 270,
+     "text": "3 SQUAT",
+     "family": "Big Shoulders Display",
+     "size": 262,
+     "weight": 800,
+     "color": "#FFE600",
+     "lineHeight": 0.92
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 872,
+     "w": 952,
+     "h": 240,
+     "text": "MISTAKES",
+     "family": "Big Shoulders Display",
+     "size": 234,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 0.92
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 1140,
+     "w": 820,
+     "h": 70,
+     "text": "#2 is costing you depth",
+     "family": "Barlow",
+     "size": 50,
+     "weight": 700,
+     "color": "#BDBDBD",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 72,
+     "y": 330,
+     "w": 88,
+     "h": 88,
+     "fill": "#0B0B0B",
+     "stroke": "#FFE600",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 330,
+     "w": 88,
+     "h": 88,
+     "text": "1",
+     "family": "Big Shoulders Display",
+     "size": 60,
+     "weight": 800,
+     "color": "#FFE600",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 184,
+     "y": 330,
+     "w": 88,
+     "h": 88,
+     "fill": "#FFE600",
+     "stroke": "#FFE600",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 330,
+     "w": 88,
+     "h": 88,
+     "text": "2",
+     "family": "Big Shoulders Display",
+     "size": 60,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 296,
+     "y": 330,
+     "w": 88,
+     "h": 88,
+     "fill": "#0B0B0B",
+     "stroke": "#FFE600",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "text",
+     "x": 296,
+     "y": 330,
+     "w": 88,
+     "h": 88,
+     "text": "3",
+     "family": "Big Shoulders Display",
+     "size": 60,
+     "weight": 800,
+     "color": "#FFE600",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 420,
+     "y": 330,
+     "w": 560,
+     "h": 88,
+     "text": "Coach Amara · 60 s",
+     "family": "Barlow",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1,
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Series tag",
+   "hint": "Short, caps"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "Number + word"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "One word, up to 8 letters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Hook line",
+   "hint": "Under 26 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Coach line",
+   "hint": "Name and length"
+  }
+ ]
+}

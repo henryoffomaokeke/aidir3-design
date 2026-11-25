@@ -1,0 +1,221 @@
+{
+ "id": "a3-yt-video-intro-title",
+ "title": "Documentary Video Intro Title Card",
+ "categories": [
+  "social",
+  "presentations",
+  "education"
+ ],
+ "tags": [
+  "youtube",
+  "intro",
+  "title card",
+  "opening",
+  "documentary",
+  "cinematic",
+  "episode",
+  "series"
+ ],
+ "styleTags": [
+  "cinematic",
+  "serif",
+  "dark"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -1985,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "mono",
+   "family": "Geist Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Title card",
+   "bg": "#0D0D0B",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 1060,
+     "y": 0,
+     "w": 860,
+     "h": 1080,
+     "shape": "rect",
+     "name": "Opening still",
+     "fill": {
+      "angle": 200,
+      "stops": [
+       [
+        "#3C4A52",
+        0
+       ],
+       [
+        "#1B2226",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1920,
+     "h": 110,
+     "fill": "#000000"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 970,
+     "w": 1920,
+     "h": 110,
+     "fill": "#000000"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 300,
+     "w": 860,
+     "h": 30,
+     "text": "SLOW SIGNAL  —  EPISODE 03",
+     "family": "Geist Mono",
+     "size": 24,
+     "weight": 500,
+     "color": "#E8A23A",
+     "lineHeight": 1.2,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 350,
+     "w": 96,
+     "h": 3,
+     "fill": "#E8A23A"
+    },
+    {
+     "kind": "text",
+     "x": 134,
+     "y": 392,
+     "w": 900,
+     "h": 340,
+     "text": "The Last\nLighthouse Keepers",
+     "family": "Instrument Serif",
+     "size": 132,
+     "weight": 400,
+     "color": "#EFE8DA",
+     "lineHeight": 1.02,
+     "letterSpacing": -2
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 700,
+     "w": 820,
+     "h": 90,
+     "text": "Three keepers, one rock, and the night the\nlamp was switched to automatic.",
+     "family": "Geist Mono",
+     "size": 24,
+     "weight": 500,
+     "color": "#8F897C",
+     "lineHeight": 1.6
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 970,
+     "w": 1000,
+     "h": 110,
+     "text": "A film by Mara Okafor  ·  Shot on Fair Isle, 2025",
+     "family": "Geist Mono",
+     "size": 22,
+     "weight": 500,
+     "color": "#8F897C",
+     "lineHeight": 1.2,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1300,
+     "y": 970,
+     "w": 480,
+     "h": 110,
+     "text": "RUNTIME 48 MIN  ·  4K HDR",
+     "family": "Geist Mono",
+     "size": 22,
+     "weight": 500,
+     "color": "#5B574F",
+     "lineHeight": 1.2,
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1560,
+     "y": 140,
+     "w": 220,
+     "h": 120,
+     "text": "03",
+     "family": "Instrument Serif",
+     "size": 120,
+     "weight": 400,
+     "color": "#EFE8DA",
+     "lineHeight": 1,
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1560,
+     "y": 262,
+     "w": 220,
+     "h": 30,
+     "text": "OF 08",
+     "family": "Geist Mono",
+     "size": 22,
+     "weight": 500,
+     "color": "#E8A23A",
+     "lineHeight": 1.2,
+     "align": "right",
+     "letterSpacing": 4
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Series and episode",
+   "hint": "Caps"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Title",
+   "hint": "Two lines"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Logline",
+   "hint": "Two lines"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Credit line",
+   "hint": "One line"
+  }
+ ]
+}

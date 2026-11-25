@@ -1,0 +1,2006 @@
+{
+ "id": "a3-gov-model-card",
+ "title": "Model Card",
+ "categories": [
+  "governance",
+  "data",
+  "technology",
+  "documents"
+ ],
+ "tags": [
+  "model card",
+  "machine learning",
+  "evaluation",
+  "ai documentation",
+  "model risk",
+  "fairness",
+  "a4"
+ ],
+ "styleTags": [
+  "technical",
+  "datasheet",
+  "minimal"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -961,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "IBM Plex Sans",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "IBM Plex Sans",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "IBM Plex Mono",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Model card",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 40,
+     "w": 200,
+     "h": 14,
+     "text": "Model card",
+     "family": "IBM Plex Mono",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 398,
+     "y": 41,
+     "w": 340,
+     "h": 14,
+     "text": "MC-0142  ·  Rev 2.1  ·  18 Nov 2026",
+     "family": "IBM Plex Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 60,
+     "w": 682,
+     "h": 2,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 76,
+     "w": 490,
+     "h": 50,
+     "text": "Kestrel Triage 2.1",
+     "family": "IBM Plex Sans",
+     "size": 38,
+     "weight": 600,
+     "color": "#0E1116",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 128,
+     "w": 470,
+     "h": 40,
+     "text": "Gradient-boosted classifier that ranks new motor and property claims for manual fraud review.",
+     "family": "IBM Plex Sans",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#515B6B",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 570,
+     "y": 78,
+     "w": 168,
+     "h": 90,
+     "fill": "#F3F5F9"
+    },
+    {
+     "kind": "rect",
+     "x": 570,
+     "y": 78,
+     "w": 3,
+     "h": 90,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 586,
+     "y": 89,
+     "w": 140,
+     "h": 14,
+     "text": "Status",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 586,
+     "y": 103,
+     "w": 146,
+     "h": 26,
+     "text": "Approved",
+     "family": "IBM Plex Sans",
+     "size": 20,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 586,
+     "y": 131,
+     "w": 146,
+     "h": 32,
+     "text": "Production use, with\nhuman review of referrals",
+     "family": "IBM Plex Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#515B6B",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 186,
+     "w": 682,
+     "h": 1,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 232,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 278,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 226.5,
+     "y": 186,
+     "w": 1,
+     "h": 92,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 397,
+     "y": 186,
+     "w": 1,
+     "h": 92,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 567.5,
+     "y": 186,
+     "w": 1,
+     "h": 92,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 194,
+     "w": 150,
+     "h": 14,
+     "text": "Owner",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 208,
+     "w": 154,
+     "h": 16,
+     "text": "Claims Analytics team",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 240.5,
+     "y": 194,
+     "w": 150,
+     "h": 14,
+     "text": "Model type",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 240.5,
+     "y": 208,
+     "w": 154,
+     "h": 16,
+     "text": "Gradient-boosted trees",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 411,
+     "y": 194,
+     "w": 150,
+     "h": 14,
+     "text": "Released",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 411,
+     "y": 208,
+     "w": 154,
+     "h": 16,
+     "text": "4 November 2026",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 581.5,
+     "y": 194,
+     "w": 150,
+     "h": 14,
+     "text": "Next review",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 581.5,
+     "y": 208,
+     "w": 154,
+     "h": 16,
+     "text": "4 May 2027",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 240,
+     "w": 150,
+     "h": 14,
+     "text": "Inputs",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 254,
+     "w": 154,
+     "h": 16,
+     "text": "62 claim features",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 240.5,
+     "y": 240,
+     "w": 150,
+     "h": 14,
+     "text": "Output",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 240.5,
+     "y": 254,
+     "w": 154,
+     "h": 16,
+     "text": "Review priority, 0 to 1",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 411,
+     "y": 240,
+     "w": 150,
+     "h": 14,
+     "text": "Decision role",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 411,
+     "y": 254,
+     "w": 154,
+     "h": 16,
+     "text": "Advisory only",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 581.5,
+     "y": 240,
+     "w": 150,
+     "h": 14,
+     "text": "Contact",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#7A8494",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 581.5,
+     "y": 254,
+     "w": 154,
+     "h": 16,
+     "text": "mrm@wexcombe.example",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 296,
+     "w": 328,
+     "h": 1,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 309,
+     "w": 26,
+     "h": 14,
+     "text": "01",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 305,
+     "w": 300,
+     "h": 20,
+     "text": "Intended use",
+     "family": "IBM Plex Sans",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 410,
+     "y": 296,
+     "w": 328,
+     "h": 1,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 309,
+     "w": 26,
+     "h": 14,
+     "text": "02",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 305,
+     "w": 300,
+     "h": 20,
+     "text": "Out of scope",
+     "family": "IBM Plex Sans",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       57,
+       345
+      ],
+      [
+       61,
+       349
+      ],
+      [
+       68,
+       340
+      ]
+     ],
+     "stroke": "#1E3FCF",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 336,
+     "w": 300,
+     "h": 36,
+     "text": "Rank new motor and property claims so that investigators see the riskiest 8% first.",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       57,
+       386
+      ],
+      [
+       61,
+       390
+      ],
+      [
+       68,
+       381
+      ]
+     ],
+     "stroke": "#1E3FCF",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 377,
+     "w": 300,
+     "h": 36,
+     "text": "Support the handler's decision to refer, pay or query a claim. It never replaces it.",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       57,
+       427
+      ],
+      [
+       61,
+       431
+      ],
+      [
+       68,
+       422
+      ]
+     ],
+     "stroke": "#1E3FCF",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 418,
+     "w": 300,
+     "h": 36,
+     "text": "UK personal-lines claims lodged through the app, the website or by phone.",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       412,
+       340
+      ],
+      [
+       421,
+       349
+      ]
+     ],
+     "stroke": "#B42318",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       421,
+       340
+      ],
+      [
+       412,
+       349
+      ]
+     ],
+     "stroke": "#B42318",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 432,
+     "y": 336,
+     "w": 300,
+     "h": 36,
+     "text": "Declining, delaying or reducing a claim payment without a handler's review.",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       412,
+       381
+      ],
+      [
+       421,
+       390
+      ]
+     ],
+     "stroke": "#B42318",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       421,
+       381
+      ],
+      [
+       412,
+       390
+      ]
+     ],
+     "stroke": "#B42318",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 432,
+     "y": 377,
+     "w": 300,
+     "h": 36,
+     "text": "Commercial, travel and life claims, which the model has never seen.",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       412,
+       422
+      ],
+      [
+       421,
+       431
+      ]
+     ],
+     "stroke": "#B42318",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       421,
+       422
+      ],
+      [
+       412,
+       431
+      ]
+     ],
+     "stroke": "#B42318",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 432,
+     "y": 418,
+     "w": 300,
+     "h": 36,
+     "text": "Pricing, underwriting or marketing decisions of any kind.",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 468,
+     "w": 682,
+     "h": 1,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 481,
+     "w": 26,
+     "h": 14,
+     "text": "03",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 477,
+     "w": 300,
+     "h": 20,
+     "text": "Evaluation results",
+     "family": "IBM Plex Sans",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 398,
+     "y": 481,
+     "w": 340,
+     "h": 14,
+     "text": "Hold-out set of 48,200 claims, July to September 2026",
+     "family": "IBM Plex Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 504,
+     "w": 682,
+     "h": 24,
+     "fill": "#F3F5F9"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 511,
+     "w": 150,
+     "h": 14,
+     "text": "Slice",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 511,
+     "w": 70,
+     "h": 14,
+     "text": "Claims",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 511,
+     "w": 66,
+     "h": 14,
+     "text": "AUROC",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 511,
+     "w": 150,
+     "h": 14,
+     "text": "Recall at 0.62",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 511,
+     "w": 92,
+     "h": 14,
+     "text": "False pos.",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 511,
+     "w": 76,
+     "h": 14,
+     "text": "Calib. err",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 533,
+     "w": 190,
+     "h": 16,
+     "text": "All claims",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 534,
+     "w": 70,
+     "h": 14,
+     "text": "48,200",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 534,
+     "w": 66,
+     "h": 14,
+     "text": "0.912",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 534,
+     "w": 36,
+     "h": 14,
+     "text": "0.88",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 539,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 539,
+     "w": 76,
+     "h": 5,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 534,
+     "w": 92,
+     "h": 14,
+     "text": "6.4%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 534,
+     "w": 76,
+     "h": 14,
+     "text": "0.021",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 555,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 560,
+     "w": 190,
+     "h": 16,
+     "text": "Motor",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 561,
+     "w": 70,
+     "h": 14,
+     "text": "31,450",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 561,
+     "w": 66,
+     "h": 14,
+     "text": "0.921",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 561,
+     "w": 36,
+     "h": 14,
+     "text": "0.90",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 566,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 566,
+     "w": 80,
+     "h": 5,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 561,
+     "w": 92,
+     "h": 14,
+     "text": "5.9%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 561,
+     "w": 76,
+     "h": 14,
+     "text": "0.019",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 582,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 587,
+     "w": 190,
+     "h": 16,
+     "text": "Property",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 588,
+     "w": 70,
+     "h": 14,
+     "text": "16,750",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 588,
+     "w": 66,
+     "h": 14,
+     "text": "0.894",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 588,
+     "w": 36,
+     "h": 14,
+     "text": "0.85",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 593,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 593,
+     "w": 70,
+     "h": 5,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 588,
+     "w": 92,
+     "h": 14,
+     "text": "7.3%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 588,
+     "w": 76,
+     "h": 14,
+     "text": "0.026",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 609,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 614,
+     "w": 190,
+     "h": 16,
+     "text": "Digital channel",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 615,
+     "w": 70,
+     "h": 14,
+     "text": "36,900",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 615,
+     "w": 66,
+     "h": 14,
+     "text": "0.917",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 615,
+     "w": 36,
+     "h": 14,
+     "text": "0.89",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 620,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 620,
+     "w": 78,
+     "h": 5,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 615,
+     "w": 92,
+     "h": 14,
+     "text": "6.1%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 615,
+     "w": 76,
+     "h": 14,
+     "text": "0.020",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 636,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 641,
+     "w": 190,
+     "h": 16,
+     "text": "Phone channel",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 642,
+     "w": 70,
+     "h": 14,
+     "text": "11,300",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 642,
+     "w": 66,
+     "h": 14,
+     "text": "0.896",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 642,
+     "w": 36,
+     "h": 14,
+     "text": "0.86",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 647,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 647,
+     "w": 72,
+     "h": 5,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 642,
+     "w": 92,
+     "h": 14,
+     "text": "7.4%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 642,
+     "w": 76,
+     "h": 14,
+     "text": "0.027",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 663,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 671,
+     "w": 4,
+     "h": 10,
+     "fill": "#B42318"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 668,
+     "w": 190,
+     "h": 16,
+     "text": "Claimants aged 18 to 24",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 669,
+     "w": 70,
+     "h": 14,
+     "text": "4,180",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 669,
+     "w": 66,
+     "h": 14,
+     "text": "0.887",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 669,
+     "w": 36,
+     "h": 14,
+     "text": "0.84",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 674,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 674,
+     "w": 68,
+     "h": 5,
+     "fill": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 669,
+     "w": 92,
+     "h": 14,
+     "text": "9.8%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#B42318",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 669,
+     "w": 76,
+     "h": 14,
+     "text": "0.034",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 690,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 698,
+     "w": 4,
+     "h": 10,
+     "fill": "#B42318"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 695,
+     "w": 190,
+     "h": 16,
+     "text": "Claimants aged 70 and over",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 696,
+     "w": 70,
+     "h": 14,
+     "text": "5,260",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 696,
+     "w": 66,
+     "h": 14,
+     "text": "0.871",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#0E1116",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 696,
+     "w": 36,
+     "h": 14,
+     "text": "0.79",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#B42318"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 701,
+     "w": 100,
+     "h": 5,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 701,
+     "w": 58,
+     "h": 5,
+     "fill": "#B42318"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 696,
+     "w": 92,
+     "h": 14,
+     "text": "8.9%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#B42318",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 696,
+     "w": 76,
+     "h": 14,
+     "text": "0.041",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#B42318",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 717,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 717,
+     "w": 682,
+     "h": 26,
+     "fill": "#E9EDFC"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 722,
+     "w": 190,
+     "h": 16,
+     "text": "Acceptance limit",
+     "family": "IBM Plex Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 316,
+     "y": 723,
+     "w": 66,
+     "h": 14,
+     "text": "min 0.85",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 723,
+     "w": 150,
+     "h": 14,
+     "text": "min 0.82",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 723,
+     "w": 92,
+     "h": 14,
+     "text": "max 8.0%",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 723,
+     "w": 76,
+     "h": 14,
+     "text": "max 0.035",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "align": "right"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       516,
+       531
+      ],
+      [
+       516,
+       740
+      ]
+     ],
+     "stroke": "#0E1116",
+     "strokeWidth": 1,
+     "cap": "round",
+     "dash": [
+      3,
+      3
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 751,
+     "w": 682,
+     "h": 14,
+     "text": "Values outside the acceptance limit are shown in red. The dashed line marks the recall floor. Age is self-declared when the policy starts.",
+     "family": "IBM Plex Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#515B6B"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 781,
+     "w": 682,
+     "h": 1,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 794,
+     "w": 26,
+     "h": 14,
+     "text": "04",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 790,
+     "w": 300,
+     "h": 20,
+     "text": "Training data and provenance",
+     "family": "IBM Plex Sans",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 821,
+     "w": 200,
+     "h": 14,
+     "text": "Training set",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 838,
+     "w": 206,
+     "h": 52,
+     "text": "412,600 closed claims from the Wexcombe claims platform, January 2021 to March 2026.",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 821,
+     "w": 200,
+     "h": 14,
+     "text": "Labels",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 838,
+     "w": 206,
+     "h": 52,
+     "text": "Fraud outcome confirmed by the Special Investigations Unit. 3.1% of claims are positive.",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 821,
+     "w": 200,
+     "h": 14,
+     "text": "Excluded features",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#1E3FCF",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 838,
+     "w": 206,
+     "h": 52,
+     "text": "Postcode, gender, nationality and free-text notes are removed before training.",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 903,
+     "w": 682,
+     "h": 1,
+     "fill": "#0E1116"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 916,
+     "w": 26,
+     "h": 14,
+     "text": "05",
+     "family": "IBM Plex Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3FCF"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 912,
+     "w": 300,
+     "h": 20,
+     "text": "Limitations and risk notes",
+     "family": "IBM Plex Sans",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E1116"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 944,
+     "w": 62,
+     "h": 18,
+     "fill": "#B42318"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 943,
+     "w": 62,
+     "h": 18,
+     "text": "High",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 1,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 132,
+     "y": 942,
+     "w": 600,
+     "h": 32,
+     "text": "Recall for claimants aged 70 and over is 0.79, below the 0.82 floor. Until the model is retrained in Q1 2027, a handler reviews every low-scored claim in this group.",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 56.5,
+     "y": 981.5,
+     "w": 61,
+     "h": 17,
+     "stroke": "#B42318",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 980,
+     "w": 62,
+     "h": 18,
+     "text": "Medium",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#B42318",
+     "align": "center",
+     "letterSpacing": 1,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 132,
+     "y": 979,
+     "w": 600,
+     "h": 32,
+     "text": "Performance drifts when new repair-network codes appear. Checked weekly, with an alert when the population stability index passes 0.2.",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 56.5,
+     "y": 1018.5,
+     "w": 61,
+     "h": 17,
+     "stroke": "#7A8494",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1017,
+     "w": 62,
+     "h": 18,
+     "text": "Low",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 600,
+     "color": "#515B6B",
+     "align": "center",
+     "letterSpacing": 1,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 132,
+     "y": 1016,
+     "w": 600,
+     "h": 32,
+     "text": "Scores are not validated for claims above £50,000. These always go to a senior handler, whatever the score.",
+     "family": "IBM Plex Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#0E1116",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 1062,
+     "w": 682,
+     "h": 1,
+     "fill": "#D5DAE1"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1072,
+     "w": 500,
+     "h": 14,
+     "text": "Prepared by Model Risk Management. Approved by Ruth Halloran, Chief Risk Officer.",
+     "family": "IBM Plex Sans",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#515B6B"
+    },
+    {
+     "kind": "text",
+     "x": 558,
+     "y": 1073,
+     "w": 180,
+     "h": 14,
+     "text": "MC-0142  ·  Page 1 of 1",
+     "family": "IBM Plex Mono",
+     "size": 9,
+     "weight": 400,
+     "color": "#515B6B",
+     "align": "right",
+     "letterSpacing": 1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Model name and version",
+   "hint": "Up to 22 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "What the model does",
+   "hint": "One sentence, about 95 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Approval status",
+   "hint": "One word, for example Approved or Pilot"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Card reference and date",
+   "hint": "Reference, revision, date"
+  }
+ ]
+}

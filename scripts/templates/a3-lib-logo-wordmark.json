@@ -1,0 +1,109 @@
+{
+ "id": "a3-lib-logo-wordmark",
+ "title": "Corridor Freight: Wordmark Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "supply chain & logistics",
+  "wordmark logo",
+  "enterprise",
+  "logistics",
+  "supply chain"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1600,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#06283D",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 160,
+     "y": 233,
+     "w": 1280,
+     "h": 146,
+     "text": "Corridor Freight",
+     "family": "Bebas Neue",
+     "size": 129,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.05,
+     "letterSpacing": 7.7,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 639,
+     "y": 439,
+     "w": 296,
+     "h": 13,
+     "fill": "#47B5FF",
+     "radius": 6.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 944,
+     "y": 436,
+     "w": 19,
+     "h": 19,
+     "fill": "#DFF6FF"
+    },
+    {
+     "kind": "text",
+     "x": 352,
+     "y": 481,
+     "w": 896,
+     "h": 49,
+     "text": "Supply chain & logistics",
+     "family": "Albert Sans",
+     "size": 40,
+     "weight": 700,
+     "color": "#9FC3D9",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 7.2,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

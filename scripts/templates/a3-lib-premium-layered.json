@@ -1,0 +1,475 @@
+{
+ "id": "a3-lib-premium-layered",
+ "title": "Dance Fitness Classes: Layered Photos",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "dance fitness",
+  "afrobeats workout",
+  "zumba",
+  "cardio",
+  "dance class",
+  "fitness",
+  "instagram portrait",
+  "layered"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#1F0F2E",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 594,
+     "y": 0,
+     "w": 486,
+     "h": 837,
+     "fill": "#2C1640"
+    },
+    {
+     "kind": "ellipse",
+     "x": 860,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 886,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 912,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 938,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 964,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 990,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 860,
+     "y": 106,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 886,
+     "y": 106,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 912,
+     "y": 106,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 938,
+     "y": 106,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 964,
+     "y": 106,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 990,
+     "y": 106,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 860,
+     "y": 132,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 886,
+     "y": 132,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 912,
+     "y": 132,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 938,
+     "y": 132,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 964,
+     "y": 132,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 990,
+     "y": 132,
+     "w": 8,
+     "h": 8,
+     "fill": "#FF8A3D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 70,
+     "w": 56,
+     "h": 56,
+     "fill": "#FF8A3D"
+    },
+    {
+     "kind": "icon",
+     "icon": "headphones",
+     "x": 84,
+     "y": 84,
+     "w": 28,
+     "h": 28,
+     "color": "#1F0F2E"
+    },
+    {
+     "kind": "text",
+     "x": 143,
+     "y": 63.6,
+     "w": 491,
+     "h": 56,
+     "text": "AfroBurn Dance Fit",
+     "family": "Onest",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFF4E8",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 98,
+     "y": 188,
+     "w": 696,
+     "h": 540,
+     "stroke": "#FF8A3D",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "photo",
+     "x": 70,
+     "y": 160,
+     "w": 696,
+     "h": 540,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#403A46",
+     "name": "Photo: dance fitness class",
+     "image": {
+      "asset": "tplph-ov-32e3f318-1c99-40d6-b20d-8672614f8a43",
+      "url": "/api/v1/templates/photos/ov/32e3f318-1c99-40d6-b20d-8672614f8a43.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "African traditional dance",
+       "url": "https://www.rawpixel.com/image/8759397/photo-image-public-domain-people",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: African traditional dance",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "photo",
+     "x": 578,
+     "y": 592,
+     "w": 432,
+     "h": 270,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#49424F",
+     "name": "Photo: women dancing workout",
+     "image": {
+      "asset": "tplph-ov-73e54a2f-9c12-4a0b-887b-4a7b838ba8fa",
+      "url": "/api/v1/templates/photos/ov/73e54a2f-9c12-4a0b-887b-4a7b838ba8fa.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Couple Dancing",
+       "author": "Senior Living",
+       "url": "https://stocksnap.io/photo/couple-dancing-VWZOERRS7J",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Couple Dancing",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 578,
+     "y": 592,
+     "w": 432,
+     "h": 270,
+     "radius": 8,
+     "stroke": "#1F0F2E",
+     "strokeWidth": 12,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 903.1,
+     "w": 470,
+     "h": 34,
+     "text": "SWEAT TO THE BEAT",
+     "family": "Onest",
+     "size": 20,
+     "weight": 700,
+     "color": "#FF8A3D",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 975.8,
+     "w": 940,
+     "h": 84,
+     "text": "Afrobeats cardio party",
+     "family": "EB Garamond",
+     "size": 77,
+     "weight": 600,
+     "color": "#FFF4E8",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 1078,
+     "w": 940,
+     "h": 78,
+     "text": "High-energy Afrobeats and amapiano dance workouts. No experience needed.",
+     "family": "Onest",
+     "size": 27,
+     "weight": 400,
+     "color": "#D9B8C9",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 70,
+     "y": 1200,
+     "w": 340,
+     "h": 80,
+     "fill": "#FF8A3D",
+     "radius": 40
+    },
+    {
+     "kind": "text",
+     "x": 98,
+     "y": 1193.6,
+     "w": 268,
+     "h": 80,
+     "text": "Join a class",
+     "family": "Onest",
+     "size": 26,
+     "weight": 700,
+     "color": "#1F0F2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       367.25,
+       1240
+      ],
+      [
+       384.75,
+       1240
+      ]
+     ],
+     "closed": false,
+     "stroke": "#1F0F2E",
+     "strokeWidth": 3.1,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       376,
+       1231.25
+      ],
+      [
+       384.75,
+       1240
+      ],
+      [
+       376,
+       1248.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#1F0F2E",
+     "strokeWidth": 3.1,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 440,
+     "y": 1194.3,
+     "w": 570,
+     "h": 80,
+     "text": "afroburn.fit",
+     "family": "Onest",
+     "size": 23,
+     "weight": 600,
+     "color": "#D9B8C9",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n30",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

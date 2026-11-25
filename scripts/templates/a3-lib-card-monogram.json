@@ -1,0 +1,299 @@
+{
+ "id": "a3-lib-card-monogram",
+ "title": "MoveWell Physio: Business Card Front (Monogram Corner)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "monogram corner",
+  "physiotherapy clinic",
+  "health & wellness"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Onest",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#04251C",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 330,
+     "h": 600,
+     "fill": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 0,
+     "y": 119.2,
+     "w": 330,
+     "h": 300,
+     "text": "AM",
+     "family": "Cormorant Garamond",
+     "size": 170,
+     "weight": 600,
+     "color": "#04251C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 932,
+     "y": 472,
+     "w": 77,
+     "h": 77,
+     "stroke": "#34D399",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "ellipse",
+     "x": 938,
+     "y": 478,
+     "w": 64,
+     "h": 64,
+     "stroke": "#34D399",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 970,
+       "y": 486,
+       "cIn": {
+        "x": 956.75,
+        "y": 486
+       },
+       "cOut": {
+        "x": 983.25,
+        "y": 486
+       }
+      },
+      {
+       "x": 994,
+       "y": 510,
+       "cIn": {
+        "x": 994,
+        "y": 496.75
+       },
+       "cOut": {
+        "x": 994,
+        "y": 523.25
+       }
+      },
+      {
+       "x": 970,
+       "y": 534,
+       "cIn": {
+        "x": 983.25,
+        "y": 534
+       },
+       "cOut": {
+        "x": 956.75,
+        "y": 534
+       }
+      },
+      {
+       "x": 946,
+       "y": 510,
+       "cIn": {
+        "x": 946,
+        "y": 523.25
+       },
+       "cOut": {
+        "x": 946,
+        "y": 496.75
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#34D399",
+     "strokeWidth": 2,
+     "dash": [
+      1.6,
+      1.6
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.7,
+     "name": "Shape"
+    },
+    {
+     "kind": "icon",
+     "icon": "graph",
+     "x": 956,
+     "y": 496,
+     "w": 29,
+     "h": 29,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 390,
+     "y": 68.4,
+     "w": 520,
+     "h": 61,
+     "text": "Aisha Musa",
+     "family": "Onest",
+     "size": 50,
+     "weight": 700,
+     "color": "#ECFDF5",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 390,
+     "y": 142.4,
+     "w": 520,
+     "h": 25,
+     "text": "MANAGING DIRECTOR",
+     "family": "Onest",
+     "size": 20,
+     "weight": 700,
+     "color": "#34D399",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 390,
+     "y": 194,
+     "w": 70,
+     "h": 4,
+     "fill": "#34D399"
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 390,
+     "y": 238,
+     "w": 28,
+     "h": 28,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 433,
+     "y": 224.6,
+     "w": 477,
+     "h": 45,
+     "text": "0817 600 2323",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 390,
+     "y": 294,
+     "w": 28,
+     "h": 28,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 433,
+     "y": 280.6,
+     "w": 477,
+     "h": 45,
+     "text": "aisha@movewell.ng",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 390,
+     "y": 350,
+     "w": 28,
+     "h": 28,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 433,
+     "y": 336.6,
+     "w": 477,
+     "h": 45,
+     "text": "movewell.ng",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

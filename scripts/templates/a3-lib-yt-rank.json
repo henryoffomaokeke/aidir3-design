@@ -1,0 +1,736 @@
+{
+ "id": "a3-lib-yt-rank",
+ "title": "Forex & Trading: #1 Rank Badge YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "finance",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "forex & trading",
+  "forex",
+  "trading",
+  "top list"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Epilogue",
+   "weight": 900
+  },
+  {
+   "role": "body",
+   "family": "Epilogue",
+   "weight": 900
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#004E64",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -581.6,
+     "y": -605.6,
+     "w": 1931.2,
+     "h": 1931.2,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#00C2A8",
+        0
+       ],
+       [
+        "#004E64",
+        0.8
+       ],
+       [
+        "#004E64",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 101,
+     "w": 384,
+     "h": 94,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "opacity": 0.12,
+     "name": "List row"
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 245,
+     "w": 384,
+     "h": 94,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "opacity": 0.12,
+     "name": "List row"
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 389,
+     "w": 384,
+     "h": 94,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "opacity": 0.12,
+     "name": "List row"
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 533,
+     "w": 384,
+     "h": 94,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "opacity": 0.12,
+     "name": "List row"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       231.92,
+       95.21
+      ],
+      [
+       258.78,
+       168.56
+      ],
+      [
+       292.81,
+       98.25
+      ],
+      [
+       285.19,
+       175.99
+      ],
+      [
+       346.36,
+       127.41
+      ],
+      [
+       305.76,
+       194.14
+      ],
+      [
+       381.95,
+       176.91
+      ],
+      [
+       316.42,
+       219.42
+      ],
+      [
+       392.54,
+       236.96
+      ],
+      [
+       315.05,
+       246.83
+      ],
+      [
+       376.02,
+       295.65
+      ],
+      [
+       301.93,
+       270.92
+      ],
+      [
+       335.68,
+       341.36
+      ],
+      [
+       279.66,
+       286.94
+      ],
+      [
+       279.5,
+       365.05
+      ],
+      [
+       252.64,
+       291.7
+      ],
+      [
+       218.6,
+       362.01
+      ],
+      [
+       226.22,
+       284.27
+      ],
+      [
+       165.06,
+       332.85
+      ],
+      [
+       205.65,
+       266.12
+      ],
+      [
+       129.47,
+       283.34
+      ],
+      [
+       195,
+       240.83
+      ],
+      [
+       118.88,
+       223.3
+      ],
+      [
+       196.36,
+       213.43
+      ],
+      [
+       135.39,
+       164.61
+      ],
+      [
+       209.48,
+       189.34
+      ],
+      [
+       175.74,
+       118.89
+      ],
+      [
+       231.76,
+       173.32
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFE600",
+     "stroke": "#000000",
+     "strokeWidth": 8,
+     "join": "miter",
+     "name": "Badge"
+    },
+    {
+     "kind": "text",
+     "x": 179.1,
+     "y": 139.8,
+     "w": 153,
+     "h": 153,
+     "text": "#1",
+     "family": "Epilogue",
+     "size": 94,
+     "weight": 900,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 647,
+     "y": 9,
+     "w": 702,
+     "h": 702,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 656,
+     "y": 18,
+     "w": 684,
+     "h": 684,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 665,
+     "y": 27,
+     "w": 666,
+     "h": 666,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 674,
+     "y": 36,
+     "w": 648,
+     "h": 648,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 683,
+     "y": 45,
+     "w": 630,
+     "h": 630,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 692,
+     "y": 54,
+     "w": 612,
+     "h": 612,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 701,
+     "y": 63,
+     "w": 594,
+     "h": 594,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 710,
+     "y": 72,
+     "w": 576,
+     "h": 576,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 719,
+     "y": 81,
+     "w": 558,
+     "h": 558,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 728,
+     "y": 90,
+     "w": 540,
+     "h": 540,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 737,
+     "y": 99,
+     "w": 522,
+     "h": 522,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 746,
+     "y": 108,
+     "w": 504,
+     "h": 504,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 755,
+     "y": 117,
+     "w": 486,
+     "h": 486,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 764,
+     "y": 126,
+     "w": 468,
+     "h": 468,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 773,
+     "y": 135,
+     "w": 450,
+     "h": 450,
+     "fill": "#7CFFEA",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 782,
+     "y": 144,
+     "w": 432,
+     "h": 432,
+     "fill": "#7CFFEA",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 791,
+     "y": 153,
+     "w": 414,
+     "h": 414,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 800,
+     "y": 162,
+     "w": 396,
+     "h": 396,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 809,
+     "y": 171,
+     "w": 378,
+     "h": 378,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 818,
+     "y": 180,
+     "w": 360,
+     "h": 360,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 827,
+     "y": 189,
+     "w": 342,
+     "h": 342,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 836,
+     "y": 198,
+     "w": 324,
+     "h": 324,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 845,
+     "y": 207,
+     "w": 306,
+     "h": 306,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 854,
+     "y": 216,
+     "w": 288,
+     "h": 288,
+     "fill": "#7CFFEA",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 863,
+     "y": 225,
+     "w": 270,
+     "h": 270,
+     "fill": "#7CFFEA",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 872,
+     "y": 234,
+     "w": 252,
+     "h": 252,
+     "fill": "#7CFFEA",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 881,
+     "y": 243,
+     "w": 234,
+     "h": 234,
+     "fill": "#7CFFEA",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 890,
+     "y": 252,
+     "w": 216,
+     "h": 216,
+     "fill": "#7CFFEA",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 899,
+     "y": 261,
+     "w": 198,
+     "h": 198,
+     "fill": "#7CFFEA",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 908,
+     "y": 270,
+     "w": 180,
+     "h": 180,
+     "fill": "#7CFFEA",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 917,
+     "y": 279,
+     "w": 162,
+     "h": 162,
+     "fill": "#7CFFEA",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 926,
+     "y": 288,
+     "w": 144,
+     "h": 144,
+     "fill": "#7CFFEA",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 935,
+     "y": 297,
+     "w": 126,
+     "h": 126,
+     "fill": "#7CFFEA",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 944,
+     "y": 306,
+     "w": 108,
+     "h": 108,
+     "fill": "#7CFFEA",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 953,
+     "y": 315,
+     "w": 90,
+     "h": 90,
+     "fill": "#7CFFEA",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 962,
+     "y": 324,
+     "w": 72,
+     "h": 72,
+     "fill": "#7CFFEA",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 971,
+     "y": 333,
+     "w": 54,
+     "h": 54,
+     "fill": "#7CFFEA",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 980,
+     "y": 342,
+     "w": 36,
+     "h": 36,
+     "fill": "#7CFFEA",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 989,
+     "y": 351,
+     "w": 18,
+     "h": 18,
+     "fill": "#7CFFEA",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "photo",
+     "x": 812,
+     "y": 22,
+     "w": 425,
+     "h": 734,
+     "shape": "rect",
+     "fill": "#25A099",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-63a01bc9-270c-4f69-a652-0dadf6d2a77c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/63a01bc9-270c-4f69-a652-0dadf6d2a77c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Female Doctor",
+       "author": "Direct Media",
+       "url": "https://stocksnap.io/photo/female-doctor-WINC1QDMT4",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 55,
+     "y": 382.4,
+     "w": 768,
+     "h": 129,
+     "text": "I LOST",
+     "family": "Epilogue",
+     "size": 113,
+     "weight": 900,
+     "color": "#FFFFFF",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 553,
+     "w": 424,
+     "h": 151,
+     "rotation": -2,
+     "fill": "#FFE600",
+     "radius": 9,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 529.7,
+     "w": 750,
+     "h": 129,
+     "text": "$2000",
+     "family": "Epilogue",
+     "size": 113,
+     "weight": 900,
+     "color": "#0B0B0B",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n49",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

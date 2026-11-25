@@ -1,0 +1,261 @@
+{
+ "id": "a3-lib-card-contacts",
+ "title": "Mama T's Kitchen: Business Card Back (Contact Details)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card back",
+  "contact details",
+  "restaurant",
+  "food"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#04251C",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 58.9,
+     "w": 600,
+     "h": 63,
+     "text": "Daniel Mensah",
+     "family": "Space Grotesk",
+     "size": 52,
+     "weight": 700,
+     "color": "#ECFDF5",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 135.1,
+     "w": 600,
+     "h": 25,
+     "text": "CLIENT PARTNER",
+     "family": "Inter",
+     "size": 20,
+     "weight": 700,
+     "color": "#34D399",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 186,
+     "w": 80,
+     "h": 4,
+     "fill": "#34D399"
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 80,
+     "y": 231,
+     "w": 31,
+     "h": 31,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 217.1,
+     "w": 552,
+     "h": 50,
+     "text": "0803 123 4567",
+     "family": "Inter",
+     "size": 23,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 80,
+     "y": 293,
+     "w": 31,
+     "h": 31,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 279.1,
+     "w": 552,
+     "h": 50,
+     "text": "daniel@mamatskitchen.ng",
+     "family": "Inter",
+     "size": 23,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 80,
+     "y": 355,
+     "w": 31,
+     "h": 31,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 341.1,
+     "w": 552,
+     "h": 50,
+     "text": "mamatskitchen.ng",
+     "family": "Inter",
+     "size": 23,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 80,
+     "y": 417,
+     "w": 31,
+     "h": 31,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 403.1,
+     "w": 552,
+     "h": 50,
+     "text": "22 Kenyatta Ave, Nairobi",
+     "family": "Inter",
+     "size": 23,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 740,
+     "y": 0,
+     "w": 310,
+     "h": 600,
+     "fill": "#0A3328"
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 205,
+     "w": 150,
+     "h": 150,
+     "stroke": "#34D399",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "text",
+     "x": 815,
+     "y": 172.1,
+     "w": 160,
+     "h": 160,
+     "text": "M",
+     "family": "Cormorant Garamond",
+     "size": 99,
+     "weight": 600,
+     "color": "#ECFDF5",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 750,
+     "y": 416.1,
+     "w": 270,
+     "h": 25,
+     "text": "@mamatskitchen",
+     "family": "Inter",
+     "size": 20,
+     "weight": 700,
+     "color": "#A7C9BB",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "rect",
+     "x": 1030,
+     "y": 0,
+     "w": 20,
+     "h": 600,
+     "fill": "#34D399"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

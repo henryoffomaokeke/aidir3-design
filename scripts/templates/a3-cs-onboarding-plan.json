@@ -1,0 +1,1294 @@
+{
+ "id": "a3-cs-onboarding-plan",
+ "title": "Customer Onboarding Plan",
+ "categories": [
+  "sales",
+  "business",
+  "documents"
+ ],
+ "tags": [
+  "onboarding",
+  "customer success",
+  "90 days",
+  "implementation",
+  "phases",
+  "success criteria",
+  "kick-off"
+ ],
+ "styleTags": [
+  "bold",
+  "yellow",
+  "friendly"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -985,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bricolage Grotesque",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Onboarding plan",
+   "bg": "#FFFAEC",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 794,
+     "h": 238,
+     "fill": "#FFC83A"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 41,
+     "w": 200,
+     "h": 24,
+     "text": "maplestone",
+     "family": "Bricolage Grotesque",
+     "size": 18,
+     "weight": 700,
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 98,
+     "w": 400,
+     "h": 13,
+     "text": "Customer onboarding plan",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#17150F",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 118,
+     "w": 480,
+     "h": 100,
+     "text": "Your first 90 days\nwith Maplestone",
+     "family": "Bricolage Grotesque",
+     "size": 44,
+     "weight": 700,
+     "color": "#17150F",
+     "letterSpacing": -0.5,
+     "lineHeight": 1.06
+    },
+    {
+     "kind": "ellipse",
+     "x": 574,
+     "y": 48,
+     "w": 152,
+     "h": 152,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 574,
+     "y": 56,
+     "w": 152,
+     "h": 80,
+     "text": "90",
+     "family": "Bricolage Grotesque",
+     "size": 66,
+     "weight": 700,
+     "color": "#FFC83A",
+     "align": "center",
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 574,
+     "y": 156,
+     "w": 152,
+     "h": 14,
+     "text": "days to value",
+     "family": "Figtree",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 238,
+     "w": 794,
+     "h": 58,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 250,
+     "w": 160,
+     "h": 11,
+     "text": "Customer",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFC83A",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 266,
+     "w": 164,
+     "h": 16,
+     "text": "Greywell Outdoor",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 228,
+     "y": 250,
+     "w": 160,
+     "h": 11,
+     "text": "Kick-off",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFC83A",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 228,
+     "y": 266,
+     "w": 164,
+     "h": 16,
+     "text": "11 January 2027",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 400,
+     "y": 250,
+     "w": 160,
+     "h": 11,
+     "text": "Target go-live",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFC83A",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 400,
+     "y": 266,
+     "w": 164,
+     "h": 16,
+     "text": "22 March 2027",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 250,
+     "w": 160,
+     "h": 11,
+     "text": "Onboarding manager",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFC83A",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 572,
+     "y": 266,
+     "w": 164,
+     "h": 16,
+     "text": "Inés Calloway",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 324,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 322,
+     "w": 200,
+     "h": 14,
+     "text": "What you do",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#17150F",
+     "letterSpacing": 1.5,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 324,
+     "w": 10,
+     "h": 10,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 322,
+     "w": 200,
+     "h": 14,
+     "text": "What we do",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#17150F",
+     "letterSpacing": 1.5,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 71,
+     "y": 366,
+     "w": 2,
+     "h": 382,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 350,
+     "w": 506,
+     "h": 1,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 362,
+     "w": 32,
+     "h": 32,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 362,
+     "w": 32,
+     "h": 32,
+     "text": "1",
+     "family": "Bricolage Grotesque",
+     "size": 15,
+     "weight": 700,
+     "color": "#FFC83A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 362,
+     "w": 124,
+     "h": 26,
+     "text": "Kick-off",
+     "family": "Bricolage Grotesque",
+     "size": 20,
+     "weight": 700,
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 392,
+     "w": 124,
+     "h": 13,
+     "text": "Days 1 to 10",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#5C574B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 410,
+     "w": 112,
+     "h": 32,
+     "text": "Agree goals and open access.",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#5C574B",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 369,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 364,
+     "w": 222,
+     "h": 16,
+     "text": "Name a project lead and a data owner",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 393,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 388,
+     "w": 222,
+     "h": 16,
+     "text": "Share 24 months of sales and stock history",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 369,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 364,
+     "w": 222,
+     "h": 16,
+     "text": "Run the kick-off workshop with your team",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 393,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 388,
+     "w": 222,
+     "h": 16,
+     "text": "Set up your workspace and single sign-on",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 422,
+     "w": 506,
+     "h": 30,
+     "fill": "#FFF0C2",
+     "radius": 6
+    },
+    {
+     "kind": "icon",
+     "x": 242,
+     "y": 431,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 264,
+     "y": 422,
+     "w": 460,
+     "h": 30,
+     "spans": [
+      {
+       "text": "Done when  ",
+       "weight": 700
+      },
+      {
+       "text": "Goals are signed off and history is received"
+      }
+     ],
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 476,
+     "w": 506,
+     "h": 1,
+     "fill": "#E8DFC6"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 488,
+     "w": 32,
+     "h": 32,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 488,
+     "w": 32,
+     "h": 32,
+     "text": "2",
+     "family": "Bricolage Grotesque",
+     "size": 15,
+     "weight": 700,
+     "color": "#FFC83A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 488,
+     "w": 124,
+     "h": 26,
+     "text": "Connect",
+     "family": "Bricolage Grotesque",
+     "size": 20,
+     "weight": 700,
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 518,
+     "w": 124,
+     "h": 13,
+     "text": "Days 11 to 30",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#5C574B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 536,
+     "w": 112,
+     "h": 32,
+     "text": "Bring your data in and check it.",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#5C574B",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 495,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 490,
+     "w": 222,
+     "h": 16,
+     "text": "Approve ERP and warehouse connections",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 519,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 514,
+     "w": 222,
+     "h": 16,
+     "text": "Confirm product and location hierarchy",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 495,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 490,
+     "w": 222,
+     "h": 16,
+     "text": "Build and test both integrations",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 519,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 514,
+     "w": 222,
+     "h": 16,
+     "text": "Reconcile history against your own reports",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 548,
+     "w": 506,
+     "h": 30,
+     "fill": "#FFF0C2",
+     "radius": 6
+    },
+    {
+     "kind": "icon",
+     "x": 242,
+     "y": 557,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 264,
+     "y": 548,
+     "w": 460,
+     "h": 30,
+     "spans": [
+      {
+       "text": "Done when  ",
+       "weight": 700
+      },
+      {
+       "text": "Stock figures match your ERP to within 1%"
+      }
+     ],
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 602,
+     "w": 506,
+     "h": 1,
+     "fill": "#E8DFC6"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 614,
+     "w": 32,
+     "h": 32,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 614,
+     "w": 32,
+     "h": 32,
+     "text": "3",
+     "family": "Bricolage Grotesque",
+     "size": 15,
+     "weight": 700,
+     "color": "#FFC83A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 614,
+     "w": 124,
+     "h": 26,
+     "text": "Configure",
+     "family": "Bricolage Grotesque",
+     "size": 20,
+     "weight": 700,
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 644,
+     "w": 124,
+     "h": 13,
+     "text": "Days 31 to 60",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#5C574B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 662,
+     "w": 112,
+     "h": 32,
+     "text": "Shape it to how you plan.",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#5C574B",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 621,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 616,
+     "w": 222,
+     "h": 16,
+     "text": "Agree service levels for each product class",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 645,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 640,
+     "w": 222,
+     "h": 16,
+     "text": "Review the first forecast with planners",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 621,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 616,
+     "w": 222,
+     "h": 16,
+     "text": "Tune forecast models to your seasonality",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 645,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 640,
+     "w": 222,
+     "h": 16,
+     "text": "Train 12 planners across two sessions",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 674,
+     "w": 506,
+     "h": 30,
+     "fill": "#FFF0C2",
+     "radius": 6
+    },
+    {
+     "kind": "icon",
+     "x": 242,
+     "y": 683,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 264,
+     "y": 674,
+     "w": 460,
+     "h": 30,
+     "spans": [
+      {
+       "text": "Done when  ",
+       "weight": 700
+      },
+      {
+       "text": "Planners trust the forecast for the top 200 lines"
+      }
+     ],
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 728,
+     "w": 506,
+     "h": 1,
+     "fill": "#E8DFC6"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 740,
+     "w": 32,
+     "h": 32,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 740,
+     "w": 32,
+     "h": 32,
+     "text": "4",
+     "family": "Bricolage Grotesque",
+     "size": 15,
+     "weight": 700,
+     "color": "#17150F",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 740,
+     "w": 124,
+     "h": 26,
+     "text": "Go live",
+     "family": "Bricolage Grotesque",
+     "size": 20,
+     "weight": 700,
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 770,
+     "w": 124,
+     "h": 13,
+     "text": "Days 61 to 90",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#5C574B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 788,
+     "w": 112,
+     "h": 32,
+     "text": "Run purchasing from Maplestone.",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#5C574B",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 747,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 742,
+     "w": 222,
+     "h": 16,
+     "text": "Place weekly orders from Maplestone",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 771,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFC83A",
+     "stroke": "#17150F",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 766,
+     "w": 222,
+     "h": 16,
+     "text": "Join the day-90 review with your sponsor",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 747,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 742,
+     "w": 222,
+     "h": 16,
+     "text": "Sit with planners for the first two cycles",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 494,
+     "y": 771,
+     "w": 7,
+     "h": 7,
+     "fill": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 766,
+     "w": 222,
+     "h": 16,
+     "text": "Hand over to your success manager",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 800,
+     "w": 506,
+     "h": 30,
+     "fill": "#FFF0C2",
+     "radius": 6
+    },
+    {
+     "kind": "icon",
+     "x": 242,
+     "y": 809,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 264,
+     "y": 800,
+     "w": 460,
+     "h": 30,
+     "spans": [
+      {
+       "text": "Done when  ",
+       "weight": 700
+      },
+      {
+       "text": "Four order cycles run without spreadsheets"
+      }
+     ],
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#17150F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 878,
+     "w": 682,
+     "h": 136,
+     "fill": "#17150F",
+     "radius": 14
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 900,
+     "w": 400,
+     "h": 13,
+     "text": "What success looks like on day 90",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#FFC83A",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 924,
+     "w": 140,
+     "h": 40,
+     "text": "100%",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFC83A"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 966,
+     "w": 134,
+     "h": 30,
+     "text": "of purchase orders raised in Maplestone",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#D9D3C3",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 230,
+     "y": 932,
+     "w": 1,
+     "h": 62,
+     "fill": "#3A372E"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 924,
+     "w": 140,
+     "h": 40,
+     "text": "12",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFC83A"
+    },
+    {
+     "kind": "text",
+     "x": 246,
+     "y": 966,
+     "w": 134,
+     "h": 30,
+     "text": "planners trained and active every week",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#D9D3C3",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 392,
+     "y": 932,
+     "w": 1,
+     "h": 62,
+     "fill": "#3A372E"
+    },
+    {
+     "kind": "text",
+     "x": 408,
+     "y": 924,
+     "w": 140,
+     "h": 40,
+     "text": "92%",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFC83A"
+    },
+    {
+     "kind": "text",
+     "x": 408,
+     "y": 966,
+     "w": 134,
+     "h": 30,
+     "text": "forecast accuracy on the top 200 lines",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#D9D3C3",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 554,
+     "y": 932,
+     "w": 1,
+     "h": 62,
+     "fill": "#3A372E"
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 924,
+     "w": 140,
+     "h": 40,
+     "text": "< 1%",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFC83A"
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 966,
+     "w": 134,
+     "h": 30,
+     "text": "stock variance against your ERP",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#D9D3C3",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1040,
+     "w": 420,
+     "h": 14,
+     "text": "Weekly check-in every Thursday at 10:00 with Inés Calloway",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#17150F"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1057,
+     "w": 420,
+     "h": 14,
+     "text": "ines.calloway@maplestone.example · +44 161 496 0172",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 400,
+     "color": "#5C574B"
+    },
+    {
+     "kind": "text",
+     "x": 478,
+     "y": 1040,
+     "w": 260,
+     "h": 14,
+     "text": "Plan version 1 · 6 January 2027",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 400,
+     "color": "#8E8778",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Title",
+   "hint": "Two lines, up to 20 characters each"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Customer",
+   "hint": "Company name"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Kick-off date",
+   "hint": "e.g. 11 January 2027"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Target go-live",
+   "hint": "e.g. 22 March 2027"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Onboarding manager",
+   "hint": "Full name"
+  }
+ ]
+}

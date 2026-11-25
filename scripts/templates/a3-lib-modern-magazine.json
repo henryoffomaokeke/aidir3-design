@@ -1,0 +1,260 @@
+{
+ "id": "a3-lib-modern-magazine",
+ "title": "Remote Jobs Board: Magazine Arch",
+ "categories": [
+  "hr",
+  "social"
+ ],
+ "tags": [
+  "remote jobs",
+  "work from home",
+  "job board",
+  "remote",
+  "tech jobs",
+  "careers",
+  "instagram post",
+  "magazine arch"
+ ],
+ "styleTags": [
+  "dark",
+  "editorial",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2A0F18",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 72.2,
+     "w": 924,
+     "h": 102,
+     "text": "Anywhere Jobs",
+     "family": "Playfair Display",
+     "size": 99,
+     "weight": 700,
+     "color": "#FBEEE8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.95,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 195,
+     "w": 924,
+     "h": 2,
+     "fill": "#FBEEE8"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 202.8,
+     "w": 462,
+     "h": 36,
+     "text": "ISSUE 23",
+     "family": "Albert Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#FBEEE8",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 202.8,
+     "w": 462,
+     "h": 36,
+     "text": "WORK FROM ANYWHERE",
+     "family": "Albert Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#E0A96D",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "rect",
+     "x": 417,
+     "y": 287,
+     "w": 302,
+     "h": 387,
+     "fill": "#E0A96D",
+     "radius": 150.9,
+     "opacity": 0.3,
+     "name": "Arch shadow"
+    },
+    {
+     "kind": "photo",
+     "x": 389,
+     "y": 259,
+     "w": 302,
+     "h": 387,
+     "shape": "rect",
+     "fill": "#6B5F5B",
+     "name": "Photo: remote worker laptop"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       387.5,
+       257.5
+      ],
+      [
+       540,
+       257.5
+      ],
+      {
+       "x": 540,
+       "y": 259,
+       "cOut": {
+        "x": 456.6,
+        "y": 259
+       }
+      },
+      {
+       "x": 389,
+       "y": 410,
+       "cIn": {
+        "x": 389,
+        "y": 326.6
+       }
+      },
+      [
+       387.5,
+       410
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A0F18",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       692.5,
+       257.5
+      ],
+      [
+       540,
+       257.5
+      ],
+      {
+       "x": 540,
+       "y": 259,
+       "cOut": {
+        "x": 623.4,
+        "y": 259
+       }
+      },
+      {
+       "x": 691,
+       "y": 410,
+       "cIn": {
+        "x": 691,
+        "y": 326.6
+       }
+      },
+      [
+       692.5,
+       410
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A0F18",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 721.5,
+     "w": 924,
+     "h": 103,
+     "text": "Work from anywhere",
+     "family": "Playfair Display",
+     "size": 90,
+     "weight": 700,
+     "color": "#FBEEE8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 844.8,
+     "w": 924,
+     "h": 94,
+     "text": "Hand-checked remote roles in tech, design, support and marketing that hire across Africa and Europe.",
+     "family": "Albert Sans",
+     "size": 32,
+     "weight": 400,
+     "color": "#C9A8AE",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 120 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

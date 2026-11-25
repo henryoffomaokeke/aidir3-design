@@ -1,0 +1,353 @@
+{
+ "id": "a3-lib-modern-card-glass",
+ "title": "Clinic & Doctor: Glass Business Card",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "clinic",
+  "doctor",
+  "health",
+  "checkup",
+  "medical",
+  "business card",
+  "glass business card",
+  "logos & branding"
+ ],
+ "styleTags": [
+  "dark",
+  "glass"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#06201F",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1050,
+     "h": 600,
+     "fill": "#06201F",
+     "name": "Base"
+    },
+    {
+     "kind": "ellipse",
+     "x": 429,
+     "y": -271,
+     "w": 840,
+     "h": 720,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#23B29C",
+        0
+       ],
+       [
+        "#20A08C",
+        0.1
+       ],
+       [
+        "#1C8E7D",
+        0.2
+       ],
+       [
+        "#187C6E",
+        0.3
+       ],
+       [
+        "#156A5E",
+        0.4
+       ],
+       [
+        "#125B52",
+        0.5
+       ],
+       [
+        "#0F4F47",
+        0.6
+       ],
+       [
+        "#0D433D",
+        0.7
+       ],
+       [
+        "#0B3834",
+        0.79
+       ],
+       [
+        "#082C2A",
+        0.89
+       ],
+       [
+        "#06201F",
+        0.99
+       ],
+       [
+        "#06201F",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": -158,
+     "y": 264,
+     "w": 720,
+     "h": 600,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#8F526A",
+        0
+       ],
+       [
+        "#7E4B61",
+        0.1
+       ],
+       [
+        "#6D4558",
+        0.2
+       ],
+       [
+        "#5D3F4F",
+        0.3
+       ],
+       [
+        "#4C3945",
+        0.4
+       ],
+       [
+        "#3E343E",
+        0.5
+       ],
+       [
+        "#333037",
+        0.6
+       ],
+       [
+        "#272C31",
+        0.7
+       ],
+       [
+        "#1C282B",
+        0.8
+       ],
+       [
+        "#122425",
+        0.89
+       ],
+       [
+        "#06201F",
+        0.99
+       ],
+       [
+        "#06201F",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 525,
+     "y": 29,
+     "w": 496,
+     "h": 542,
+     "fill": "#0A0C18",
+     "radius": 22,
+     "opacity": 0.42,
+     "name": "Glass card"
+    },
+    {
+     "kind": "rect",
+     "x": 525,
+     "y": 29,
+     "w": 496,
+     "h": 542,
+     "radius": 22,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.3,
+     "name": "Glass card"
+    },
+    {
+     "kind": "ellipse",
+     "x": 48,
+     "y": 48,
+     "w": 60,
+     "h": 60,
+     "fill": "#2DE2C5"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 61,
+     "y": 61,
+     "w": 34,
+     "h": 34,
+     "color": "#06201F"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 119.5,
+     "w": 393,
+     "h": 120,
+     "text": "Kora Health Clinic",
+     "family": "Outfit",
+     "size": 50,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 512.3,
+     "w": 393,
+     "h": 30,
+     "text": "Your health first",
+     "family": "Outfit",
+     "size": 18,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "opacity": 0.85
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 549,
+     "y": 70,
+     "w": 22,
+     "h": 22,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 61.3,
+     "w": 414,
+     "h": 31,
+     "text": "Book: 0812 000 3344",
+     "family": "Outfit",
+     "size": 18,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 549,
+     "y": 136,
+     "w": 22,
+     "h": 22,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 127.3,
+     "w": 414,
+     "h": 31,
+     "text": "korahealth.ng",
+     "family": "Outfit",
+     "size": 18,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 549,
+     "y": 202,
+     "w": 22,
+     "h": 22,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 193.3,
+     "w": 414,
+     "h": 31,
+     "text": "@korahealth",
+     "family": "Outfit",
+     "size": 18,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

@@ -29,7 +29,7 @@ describe("parseHycFile", () => {
     // template (or a design import that 422s cryptically).
     const broken = createBlankDesign({ title: "Broken", width: 100, height: 100 });
     (broken.pages[0].children as unknown[]).push({ id: "n1", transform: { x: 0, y: 0, scaleX: 1, scaleY: 1, rotation: 0 }, size: { width: 10, height: 10 } });
-    expect(() => parseHycFile(JSON.stringify(broken))).toThrow(/not a valid HyCanvas design/);
+    expect(() => parseHycFile(JSON.stringify(broken))).toThrow(/not a valid design file/);
   });
 
   it("refuses files from a newer build instead of dropping fields", () => {
@@ -39,8 +39,8 @@ describe("parseHycFile", () => {
 
   it("rejects non-design content by shape, not by name", () => {
     expect(() => parseHycFile("not json {")).toThrow(/not valid JSON/);
-    expect(() => parseHycFile('"just a string"')).toThrow(/not a HyCanvas design file/);
-    expect(() => parseHycFile("[1,2,3]")).toThrow(/not a HyCanvas design file/);
+    expect(() => parseHycFile('"just a string"')).toThrow(/not a design file/);
+    expect(() => parseHycFile("[1,2,3]")).toThrow(/not a design file/);
     expect(() => parseHycFile(JSON.stringify({ schemaVersion: 1, pages: [] }))).toThrow(/missing pages/);
     expect(() => parseHycFile(JSON.stringify({ pages: [{}] }))).toThrow(/missing pages or schema/);
   });

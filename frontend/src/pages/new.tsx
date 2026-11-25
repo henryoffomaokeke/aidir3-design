@@ -62,7 +62,7 @@ export default function NewDesignPage() {
     <>
       <Head>
         <meta key="viewport" name="viewport" content={VIEWPORT} />
-        <title>{`${tr("dashboard.untitled_design")} · HyCanvas`}</title>
+        <title>{`${tr("dashboard.untitled_design")} · aidir3 Design`}</title>
       </Head>
       <RequireAuth>
         <CreateAndOpen />

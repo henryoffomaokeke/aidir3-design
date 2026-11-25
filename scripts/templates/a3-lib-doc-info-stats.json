@@ -1,0 +1,775 @@
+{
+ "id": "a3-lib-doc-info-stats",
+ "title": "Martial Arts & Self-defence: Stats Infographic",
+ "categories": [
+  "documents",
+  "marketing",
+  "data"
+ ],
+ "tags": [
+  "martial arts",
+  "karate",
+  "taekwondo",
+  "self defence",
+  "kids martial arts",
+  "fitness",
+  "infographic",
+  "stats infographic"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1080,
+  2700
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Barlow Condensed",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FF7A00",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 720,
+     "y": -160,
+     "w": 480,
+     "h": 480,
+     "fill": "#1A0E00",
+     "opacity": 0.12,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1A0E00",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 80,
+     "w": 60,
+     "h": 60,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "icon",
+     "icon": "shield",
+     "x": 95,
+     "y": 95,
+     "w": 30,
+     "h": 30,
+     "color": "#FF7A00"
+    },
+    {
+     "kind": "text",
+     "x": 158,
+     "y": 74.7,
+     "w": 582,
+     "h": 60,
+     "text": "Dragon Gate Dojo",
+     "family": "Hanken Grotesk",
+     "size": 28,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 179.1,
+     "w": 920,
+     "h": 32,
+     "text": "DISCIPLINE & CONFIDENCE",
+     "family": "Hanken Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 226.9,
+     "w": 920,
+     "h": 225,
+     "text": "Kids' karate\nstarts now",
+     "family": "Barlow Condensed",
+     "size": 104,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 475,
+     "w": 920,
+     "h": 93,
+     "text": "Taekwondo, karate and self-defence classes with black-belt instructors.",
+     "family": "Hanken Grotesk",
+     "size": 32,
+     "weight": 400,
+     "color": "#4D2A00",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 618,
+     "w": 140,
+     "h": 8,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2500,
+     "w": 1080,
+     "h": 200,
+     "fill": "#FF9433"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2500,
+     "w": 1080,
+     "h": 6,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 2555,
+     "w": 380,
+     "h": 90,
+     "fill": "#1A0E00",
+     "radius": 45
+    },
+    {
+     "kind": "text",
+     "x": 112,
+     "y": 2549.2,
+     "w": 299,
+     "h": 90,
+     "text": "Book a trial",
+     "family": "Hanken Grotesk",
+     "size": 31,
+     "weight": 700,
+     "color": "#FF7A00",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       412.08,
+       2600
+      ],
+      [
+       431.92,
+       2600
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF7A00",
+     "strokeWidth": 3.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       422,
+       2590.08
+      ],
+      [
+       431.92,
+       2600
+      ],
+      [
+       422,
+       2609.92
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF7A00",
+     "strokeWidth": 3.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 500,
+     "y": 2550.1,
+     "w": 500,
+     "h": 90,
+     "text": "dragongate.ng",
+     "family": "Hanken Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#1A0E00",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 678,
+     "w": 920,
+     "h": 520,
+     "fill": "#1A0E00",
+     "radius": 36
+    },
+    {
+     "kind": "ellipse",
+     "x": 830,
+     "y": 648,
+     "w": 220,
+     "h": 220,
+     "fill": "#FF7A00",
+     "opacity": 0.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 1098,
+     "w": 120,
+     "h": 120,
+     "fill": "#FF7A00",
+     "opacity": 0.08
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 733.1,
+     "w": 800,
+     "h": 32,
+     "text": "WHY CHOOSE US",
+     "family": "Hanken Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#FF7A00",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 771.1,
+     "w": 800,
+     "h": 201,
+     "text": "Top 3",
+     "family": "Barlow Condensed",
+     "size": 186,
+     "weight": 700,
+     "color": "#FF7A00",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 992.1,
+     "w": 800,
+     "h": 47,
+     "text": "reasons people choose Dragon Gate Dojo",
+     "family": "Hanken Grotesk",
+     "size": 34,
+     "weight": 700,
+     "color": "#FF7A00",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 1238,
+     "w": 440,
+     "h": 360,
+     "fill": "#FF9433",
+     "radius": 28
+    },
+    {
+     "kind": "ellipse",
+     "x": 125,
+     "y": 1283,
+     "w": 90,
+     "h": 90,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "icon",
+     "icon": "shield",
+     "x": 145,
+     "y": 1303,
+     "w": 50,
+     "h": 50,
+     "color": "#FF7A00"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 1389.9,
+     "w": 360,
+     "h": 49,
+     "text": "Self-defence",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 1238,
+     "w": 440,
+     "h": 360,
+     "fill": "#FF9433",
+     "radius": 28
+    },
+    {
+     "kind": "ellipse",
+     "x": 605,
+     "y": 1283,
+     "w": 90,
+     "h": 90,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "icon",
+     "icon": "award",
+     "x": 625,
+     "y": 1303,
+     "w": 50,
+     "h": 50,
+     "color": "#FF7A00"
+    },
+    {
+     "kind": "text",
+     "x": 600,
+     "y": 1389.9,
+     "w": 360,
+     "h": 49,
+     "text": "Belt gradings",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 1638,
+     "w": 440,
+     "h": 360,
+     "fill": "#FF9433",
+     "radius": 28
+    },
+    {
+     "kind": "ellipse",
+     "x": 125,
+     "y": 1683,
+     "w": 90,
+     "h": 90,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 145,
+     "y": 1703,
+     "w": 50,
+     "h": 50,
+     "color": "#FF7A00"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 1789.9,
+     "w": 360,
+     "h": 49,
+     "text": "Kids & adults",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 1638,
+     "w": 440,
+     "h": 360,
+     "fill": "#1A0E00",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 600,
+     "y": 1670,
+     "w": 360,
+     "h": 177,
+     "text": "Karate\nTaekwondo\nKids",
+     "family": "Barlow Condensed",
+     "size": 46,
+     "weight": 700,
+     "color": "#FF7A00",
+     "vAlign": "middle",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 2033.1,
+     "w": 920,
+     "h": 32,
+     "text": "Year at a glance",
+     "family": "Hanken Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 2228,
+     "w": 177,
+     "h": 70,
+     "fill": "#1A0E00",
+     "radius": 12,
+     "opacity": 0.45
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 2301.9,
+     "w": 177,
+     "h": 34,
+     "text": "Q1",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#4D2A00",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 328,
+     "y": 2194,
+     "w": 177,
+     "h": 104,
+     "fill": "#1A0E00",
+     "radius": 12,
+     "opacity": 0.45
+    },
+    {
+     "kind": "text",
+     "x": 328,
+     "y": 2301.9,
+     "w": 177,
+     "h": 34,
+     "text": "Q2",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#4D2A00",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 575,
+     "y": 2158,
+     "w": 177,
+     "h": 140,
+     "fill": "#1A0E00",
+     "radius": 12,
+     "opacity": 0.45
+    },
+    {
+     "kind": "text",
+     "x": 575,
+     "y": 2301.9,
+     "w": 177,
+     "h": 34,
+     "text": "Q3",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#4D2A00",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 823,
+     "y": 2114,
+     "w": 177,
+     "h": 184,
+     "fill": "#1A0E00",
+     "radius": 12
+    },
+    {
+     "kind": "text",
+     "x": 823,
+     "y": 2301.9,
+     "w": 177,
+     "h": 34,
+     "text": "Q4",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#4D2A00",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 2344.2,
+     "w": 920,
+     "h": 30,
+     "text": "Sample figures: replace with your own",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#4D2A00",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n37",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n52",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n42",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

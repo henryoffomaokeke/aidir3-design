@@ -87,6 +87,8 @@ import {
   SlidersHorizontal,
   MoreHorizontal,
   X,
+  Youtube, // aidir3 fork
+  Smartphone, // aidir3 fork
 } from "lucide-react";
 import {
   newProject,
@@ -161,6 +163,10 @@ import { tr } from "@/lib/i18n";
 import { useMediaQuery } from "@/lib/useMediaQuery";
 import { PHONE_QUERY } from "@/lib/useIsPhone";
 import { CodedError, userMessage } from "@/lib/errors";
+// aidir3 fork: the YouTube kit (presets, safe zones, chapters, end screen, thumbnail).
+import { YouTubePanel } from "./YouTubePanel";
+import { ChapterRulerMarks } from "./ChapterRulerMarks";
+import { chaptersOf, drawEndScreenGuides, drawYtSafeZones, endScreenActiveAt, remapChapters, withChapters, type YtProject } from "@/lib/video/youtube";
 
 // ---------------------------------------------------------------------------
 // constants
@@ -2269,6 +2275,13 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
   useEffect(() => {
     guidesRef.current = guidesOn;
   }, [guidesOn]);
+  // aidir3 fork: YouTube panel + its safe-zone overlay (preview only).
+  const [ytOpen, setYtOpen] = useState(false);
+  const [ytSafeOn, setYtSafeOn] = useState(false);
+  const ytSafeRef = useRef(false);
+  useEffect(() => {
+    ytSafeRef.current = ytSafeOn;
+  }, [ytSafeOn]);
   const [stageActualSize, setStageActualSize] = useState(false);
   const playRange = useCallback(() => {
     const r = (draftProject ?? storeProject)?.range;
@@ -2683,6 +2696,19 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
             ctx.lineTo(W / 2, H / 2 + W * 0.01);
             ctx.stroke();
             ctx.restore();
+          }
+          // aidir3 fork: YouTube safe zones and end-screen element guides.
+          if (ytSafeRef.current) {
+            drawYtSafeZones(ctx, overlay.width, overlay.height, {
+              action: tr("editor.yt_zone_action_safe"),
+              title: tr("editor.yt_zone_title_safe"),
+              rail: tr("editor.yt_zone_rail"),
+              caption: tr("editor.yt_zone_caption"),
+              top: tr("editor.yt_zone_top"),
+            });
+          }
+          if (endScreenActiveAt(p as YtProject, f)) {
+            drawEndScreenGuides(ctx, overlay.width, overlay.height, { video: tr("editor.yt_zone_video"), subscribe: tr("editor.yt_zone_subscribe") });
           }
           const sel = selectedRef.current;
           if (sel) {
@@ -3471,6 +3497,7 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
       tracks,
       captions,
       markers: p.markers?.map(map).sort((a, b) => a - b),
+      ...remapChapters(p, map), // aidir3 fork: chapters keep their wall-clock time
       range: p.range
         ? { startFrame: map(p.range.startFrame), endFrame: Math.max(map(p.range.startFrame) + 1, map(p.range.endFrame)) }
         : undefined,
@@ -3539,6 +3566,7 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
         ...project,
         tracks,
         markers: project.markers?.map(shiftF).sort((a, b) => a - b),
+        ...remapChapters(project, shiftF), // aidir3 fork: chapters ripple with the cut
         range: project.range
           ? {
               startFrame: shiftF(project.range.startFrame),
@@ -4720,6 +4748,16 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
               >
                 <Crosshair size={13} className="pointer-events-none" />
               </button>
+              {/* aidir3 fork: YouTube safe zones (title/action safe, or Shorts UI) */}
+              <button
+                type="button"
+                data-yt-safe-stage=""
+                title={ytSafeOn ? tr("editor.yt_hide_safe_zones") : tr("editor.yt_show_safe_zones")}
+                onClick={() => setYtSafeOn((v) => !v)}
+                className={`rounded p-1 ${ytSafeOn ? "bg-brand-600 text-white" : "text-white/75 hover:bg-white/20"}`}
+              >
+                <Smartphone size={13} className="pointer-events-none" />
+              </button>
               <button
                 type="button"
                 title={stageActualSize ? tr("editor.fit_the_preview_to_the_panel") : tr("editor.view_at_100_pixel_size_scrolls")}
@@ -5253,6 +5291,19 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
         >
           CC{cues.length > 0 && <span className="text-[10px] opacity-80">{cues.length}</span>}
         </button>
+        {/* aidir3 fork: YouTube kit toggle */}
+        <button
+          type="button"
+          style={onlyIn("edit")}
+          data-yt-toggle=""
+          onClick={() => setYtOpen((v) => !v)}
+          title={tr("editor.yt_kit_tip")}
+          className={`flex items-center gap-1 rounded px-2 py-1 ${
+            ytOpen ? "bg-brand-600 text-white" : "bg-neutral-200 text-neutral-700 hover:bg-neutral-300"
+          }`}
+        >
+          <Youtube size={13} /> {tr("editor.yt_kit_button")}
+        </button>
 
         {project.range && (
           <button
@@ -5445,6 +5496,28 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
             ))
           )}
         </div>
+      )}
+
+      {/* aidir3 fork: YouTube kit panel */}
+      {ytOpen && (
+        <YouTubePanel
+          project={project}
+          topLevel={seqPath.length === 0}
+          frame={frame}
+          durationFrames={durationFrames}
+          docTitle={docTitle}
+          workspaceId={workspaceId}
+          persist={persist}
+          seek={(f) => { setPlaying(false); setPlayhead(Math.max(0, Math.min(durationFrames, f))); }}
+          setStageSize={setStageSize}
+          safeOn={ytSafeOn}
+          onToggleSafe={() => setYtSafeOn((v) => !v)}
+          stageCanvas={() => stageCanvasRef.current}
+          cues={cues}
+          captionLang={activeCap?.lang}
+          onOpenExport={() => setExportDialog(true)}
+          onClose={() => setYtOpen(false)}
+        />
       )}
 
       {/* ---------------------------------------------------------------- */}
@@ -5799,6 +5872,18 @@ export function VideoSurface(props: { workspaceId?: string; designId?: string })
                   }}
                 />
               ))}
+              {/* aidir3 fork: YouTube chapter flags (main timeline only) */}
+              {seqPath.length === 0 && (
+                <ChapterRulerMarks
+                  chapters={chaptersOf(project)}
+                  pxPerFrame={pxPerFrame}
+                  durationFrames={durationFrames}
+                  fps={fps}
+                  onDraft={(list) => setDraftProject(withChapters(project, list))}
+                  onCommit={(list) => { persist(withChapters(project, list)); setDraftProject(null); }}
+                  onSeek={(f) => { setPlaying(false); setPlayhead(f); }}
+                />
+              )}
             </div>
 
             {/* track lanes */}

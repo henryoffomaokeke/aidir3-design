@@ -1,0 +1,1245 @@
+{
+ "id": "a3-tech-hackathon-poster",
+ "title": "Hackathon Poster",
+ "categories": [
+  "technology",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "hackathon",
+  "poster",
+  "developer event",
+  "ai",
+  "coding",
+  "prizes",
+  "meetup"
+ ],
+ "styleTags": [
+  "bold",
+  "typographic",
+  "black and yellow"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": -998,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "JetBrains Mono",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Poster",
+   "bg": "#0B0B0B",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 108,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 216,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 324,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 432,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 648,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 756,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 864,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 972,
+     "y": 0,
+     "w": 1,
+     "h": 846,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 108,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 216,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 324,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 432,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 540,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 648,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 756,
+     "w": 1080,
+     "h": 1,
+     "fill": "#1C1C1A"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 40,
+     "w": 600,
+     "h": 28,
+     "text": "AI HACKATHON · EDITION 03",
+     "family": "JetBrains Mono",
+     "size": 20,
+     "weight": 800,
+     "color": "#FFD60A",
+     "letterSpacing": 2
+    },
+    {
+     "kind": "text",
+     "x": 616,
+     "y": 40,
+     "w": 400,
+     "h": 28,
+     "text": "LISBON · MAY 2027",
+     "family": "JetBrains Mono",
+     "size": 20,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "align": "right",
+     "letterSpacing": 2
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 80,
+     "w": 952,
+     "h": 3,
+     "fill": "#F7F5EC"
+    },
+    {
+     "kind": "text",
+     "x": 54,
+     "y": 60,
+     "w": 760,
+     "h": 380,
+     "text": "OVER",
+     "family": "Anton",
+     "size": 380,
+     "weight": 400,
+     "color": "#F7F5EC",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 53,
+     "y": 409,
+     "w": 1027,
+     "h": 415,
+     "text": "CLOCK",
+     "family": "Anton",
+     "size": 415,
+     "weight": 400,
+     "color": "#FFD60A",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 796,
+     "y": 108,
+     "w": 220,
+     "h": 329,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 796,
+     "y": 102,
+     "w": 220,
+     "h": 190,
+     "text": "36",
+     "family": "Anton",
+     "size": 190,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "align": "center",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 796,
+     "y": 292,
+     "w": 220,
+     "h": 70,
+     "text": "HOURS",
+     "family": "Anton",
+     "size": 66,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "align": "center",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 820,
+     "y": 380,
+     "w": 172,
+     "h": 3,
+     "fill": "#0B0B0B"
+    },
+    {
+     "kind": "text",
+     "x": 796,
+     "y": 396,
+     "w": 220,
+     "h": 22,
+     "text": "NON-STOP",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "align": "center",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       -11,
+       884
+      ],
+      [
+       16,
+       846
+      ],
+      [
+       43,
+       846
+      ],
+      [
+       16,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       43,
+       884
+      ],
+      [
+       70,
+       846
+      ],
+      [
+       97,
+       846
+      ],
+      [
+       70,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       884
+      ],
+      [
+       124,
+       846
+      ],
+      [
+       151,
+       846
+      ],
+      [
+       124,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       151,
+       884
+      ],
+      [
+       178,
+       846
+      ],
+      [
+       205,
+       846
+      ],
+      [
+       178,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       205,
+       884
+      ],
+      [
+       232,
+       846
+      ],
+      [
+       259,
+       846
+      ],
+      [
+       232,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       259,
+       884
+      ],
+      [
+       286,
+       846
+      ],
+      [
+       313,
+       846
+      ],
+      [
+       286,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       313,
+       884
+      ],
+      [
+       340,
+       846
+      ],
+      [
+       367,
+       846
+      ],
+      [
+       340,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       367,
+       884
+      ],
+      [
+       394,
+       846
+      ],
+      [
+       421,
+       846
+      ],
+      [
+       394,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       421,
+       884
+      ],
+      [
+       448,
+       846
+      ],
+      [
+       475,
+       846
+      ],
+      [
+       448,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       475,
+       884
+      ],
+      [
+       502,
+       846
+      ],
+      [
+       529,
+       846
+      ],
+      [
+       502,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       529,
+       884
+      ],
+      [
+       556,
+       846
+      ],
+      [
+       583,
+       846
+      ],
+      [
+       556,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       583,
+       884
+      ],
+      [
+       610,
+       846
+      ],
+      [
+       637,
+       846
+      ],
+      [
+       610,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       637,
+       884
+      ],
+      [
+       664,
+       846
+      ],
+      [
+       691,
+       846
+      ],
+      [
+       664,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       691,
+       884
+      ],
+      [
+       718,
+       846
+      ],
+      [
+       745,
+       846
+      ],
+      [
+       718,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       745,
+       884
+      ],
+      [
+       772,
+       846
+      ],
+      [
+       799,
+       846
+      ],
+      [
+       772,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       799,
+       884
+      ],
+      [
+       826,
+       846
+      ],
+      [
+       853,
+       846
+      ],
+      [
+       826,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       853,
+       884
+      ],
+      [
+       880,
+       846
+      ],
+      [
+       907,
+       846
+      ],
+      [
+       880,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       907,
+       884
+      ],
+      [
+       934,
+       846
+      ],
+      [
+       961,
+       846
+      ],
+      [
+       934,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       961,
+       884
+      ],
+      [
+       988,
+       846
+      ],
+      [
+       1015,
+       846
+      ],
+      [
+       988,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1015,
+       884
+      ],
+      [
+       1042,
+       846
+      ],
+      [
+       1069,
+       846
+      ],
+      [
+       1042,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1069,
+       884
+      ],
+      [
+       1096,
+       846
+      ],
+      [
+       1123,
+       846
+      ],
+      [
+       1096,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 418,
+     "y": 920,
+     "w": 2,
+     "h": 236,
+     "fill": "#33332F"
+    },
+    {
+     "kind": "rect",
+     "x": 758,
+     "y": 920,
+     "w": 2,
+     "h": 236,
+     "fill": "#33332F"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 918,
+     "w": 300,
+     "h": 20,
+     "text": "WHEN",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 800,
+     "color": "#FFD60A",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 62,
+     "y": 940,
+     "w": 350,
+     "h": 84,
+     "text": "14–16 MAY",
+     "family": "Anton",
+     "size": 80,
+     "weight": 400,
+     "color": "#F7F5EC",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 1034,
+     "w": 340,
+     "h": 20,
+     "text": "2027 · FRI 18:00 TO SUN 12:00",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 800,
+     "color": "#A3A39B"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 1078,
+     "w": 300,
+     "h": 20,
+     "text": "WHERE",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 800,
+     "color": "#FFD60A",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 1102,
+     "w": 340,
+     "h": 24,
+     "text": "FOUNDRY HALL, DOCK 7",
+     "family": "JetBrains Mono",
+     "size": 18,
+     "weight": 800,
+     "color": "#F7F5EC"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 1130,
+     "w": 340,
+     "h": 20,
+     "text": "LISBON, PORTUGAL",
+     "family": "JetBrains Mono",
+     "size": 14,
+     "weight": 800,
+     "color": "#A3A39B"
+    },
+    {
+     "kind": "text",
+     "x": 444,
+     "y": 918,
+     "w": 300,
+     "h": 20,
+     "text": "TRACKS",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 800,
+     "color": "#FFD60A",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 444,
+     "y": 952,
+     "w": 44,
+     "h": 44,
+     "text": "01",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD60A",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 496,
+     "y": 952,
+     "w": 244,
+     "h": 44,
+     "text": "AGENTS THAT SHIP",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 444,
+     "y": 1000,
+     "w": 290,
+     "h": 1,
+     "fill": "#33332F"
+    },
+    {
+     "kind": "text",
+     "x": 444,
+     "y": 1004,
+     "w": 44,
+     "h": 44,
+     "text": "02",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD60A",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 496,
+     "y": 1004,
+     "w": 244,
+     "h": 44,
+     "text": "LOCAL-FIRST MODELS",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 444,
+     "y": 1052,
+     "w": 290,
+     "h": 1,
+     "fill": "#33332F"
+    },
+    {
+     "kind": "text",
+     "x": 444,
+     "y": 1056,
+     "w": 44,
+     "h": 44,
+     "text": "03",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD60A",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 496,
+     "y": 1056,
+     "w": 244,
+     "h": 44,
+     "text": "DEVELOPER TOOLING",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 444,
+     "y": 1104,
+     "w": 290,
+     "h": 1,
+     "fill": "#33332F"
+    },
+    {
+     "kind": "text",
+     "x": 444,
+     "y": 1108,
+     "w": 44,
+     "h": 44,
+     "text": "04",
+     "family": "Anton",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD60A",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 496,
+     "y": 1108,
+     "w": 244,
+     "h": 44,
+     "text": "OPEN DATA FOR GOOD",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 784,
+     "y": 918,
+     "w": 232,
+     "h": 20,
+     "text": "PRIZES",
+     "family": "JetBrains Mono",
+     "size": 15,
+     "weight": 800,
+     "color": "#FFD60A",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 780,
+     "y": 934,
+     "w": 240,
+     "h": 114,
+     "text": "€40K",
+     "family": "Anton",
+     "size": 110,
+     "weight": 400,
+     "color": "#FFD60A",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 784,
+     "y": 1056,
+     "w": 232,
+     "h": 22,
+     "text": "PRIZE POOL",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 800,
+     "color": "#F7F5EC"
+    },
+    {
+     "kind": "text",
+     "x": 784,
+     "y": 1092,
+     "w": 150,
+     "h": 18,
+     "text": "GRAND PRIZE",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 400,
+     "color": "#A3A39B"
+    },
+    {
+     "kind": "text",
+     "x": 916,
+     "y": 1092,
+     "w": 100,
+     "h": 18,
+     "text": "€15,000",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 784,
+     "y": 1114,
+     "w": 150,
+     "h": 18,
+     "text": "4 TRACK WINS",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 400,
+     "color": "#A3A39B"
+    },
+    {
+     "kind": "text",
+     "x": 916,
+     "y": 1114,
+     "w": 100,
+     "h": 18,
+     "text": "€5,000",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 784,
+     "y": 1136,
+     "w": 150,
+     "h": 18,
+     "text": "BEST SOLO",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 400,
+     "color": "#A3A39B"
+    },
+    {
+     "kind": "text",
+     "x": 916,
+     "y": 1136,
+     "w": 100,
+     "h": 18,
+     "text": "€5,000",
+     "family": "JetBrains Mono",
+     "size": 13,
+     "weight": 800,
+     "color": "#F7F5EC",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1200,
+     "w": 1080,
+     "h": 150,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1238,
+     "w": 400,
+     "h": 74,
+     "fill": "#0B0B0B",
+     "radius": 6
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 1233,
+     "w": 400,
+     "h": 74,
+     "text": "REGISTER YOUR TEAM",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 800,
+     "color": "#FFD60A",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "text",
+     "x": 516,
+     "y": 1234,
+     "w": 500,
+     "h": 36,
+     "text": "OVERCLOCK.EXAMPLE/27",
+     "family": "JetBrains Mono",
+     "size": 26,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 476,
+     "y": 1282,
+     "w": 540,
+     "h": 22,
+     "text": "FREE ENTRY · TEAMS OF 1 TO 4 · APPLY BY 18 APRIL",
+     "family": "JetBrains Mono",
+     "size": 13.5,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Title line 1",
+   "hint": "4 letters fit beside the block"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Title line 2",
+   "hint": "5 to 6 letters"
+  },
+  {
+   "node": "p0-n50",
+   "kind": "text",
+   "label": "Dates",
+   "hint": "For example 14–16 MAY"
+  },
+  {
+   "node": "p0-n53",
+   "kind": "text",
+   "label": "Venue",
+   "hint": "Venue name"
+  },
+  {
+   "node": "p0-n68",
+   "kind": "text",
+   "label": "Prize pool",
+   "hint": "Total prize money"
+  },
+  {
+   "node": "p0-n78",
+   "kind": "text",
+   "label": "Button label",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

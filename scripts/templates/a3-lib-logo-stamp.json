@@ -1,0 +1,357 @@
+{
+ "id": "a3-lib-logo-stamp",
+ "title": "Little Sprouts Creche: Vintage Stamp Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "daycare & creche",
+  "vintage stamp logo",
+  "kids & family",
+  "daycare",
+  "creche"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Lexend",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FDF1EA",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 126,
+     "y": 126,
+     "w": 749,
+     "h": 749,
+     "stroke": "#FF7AA2",
+     "strokeWidth": 21
+    },
+    {
+     "kind": "ellipse",
+     "x": 163,
+     "y": 163,
+     "w": 674,
+     "h": 674,
+     "stroke": "#FF7AA2",
+     "strokeWidth": 6
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 499.5,
+       "y": 200,
+       "cIn": {
+        "x": 334.09,
+        "y": 200
+       },
+       "cOut": {
+        "x": 664.91,
+        "y": 200
+       }
+      },
+      {
+       "x": 799,
+       "y": 499.5,
+       "cIn": {
+        "x": 799,
+        "y": 334.09
+       },
+       "cOut": {
+        "x": 799,
+        "y": 664.91
+       }
+      },
+      {
+       "x": 499.5,
+       "y": 799,
+       "cIn": {
+        "x": 664.91,
+        "y": 799
+       },
+       "cOut": {
+        "x": 334.09,
+        "y": 799
+       }
+      },
+      {
+       "x": 200,
+       "y": 499.5,
+       "cIn": {
+        "x": 200,
+        "y": 664.91
+       },
+       "cOut": {
+        "x": 200,
+        "y": 334.09
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#FF7AA2",
+     "strokeWidth": 4,
+     "dash": [
+      11.2,
+      11.2
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.6,
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 238.5,
+     "w": 404,
+     "h": 34,
+     "text": "Daycare & creche",
+     "family": "Onest",
+     "size": 28,
+     "weight": 700,
+     "color": "#FF7AA2",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 444,
+     "y": 313,
+     "w": 112,
+     "h": 112,
+     "color": "#FF7AA2"
+    },
+    {
+     "kind": "rect",
+     "x": 66,
+     "y": 436,
+     "w": 869,
+     "h": 127,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 460.7,
+     "w": 749,
+     "h": 59,
+     "text": "Little Sprouts Creche",
+     "family": "Lexend",
+     "size": 49,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 1.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 350,
+     "y": 589.8,
+     "w": 300,
+     "h": 38,
+     "text": "EST. 2010",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 5.6,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       440.5,
+       687
+      ],
+      [
+       444.86,
+       697.49
+      ],
+      [
+       456.19,
+       698.4
+      ],
+      [
+       447.56,
+       705.79
+      ],
+      [
+       450.2,
+       716.85
+      ],
+      [
+       440.5,
+       710.93
+      ],
+      [
+       430.8,
+       716.85
+      ],
+      [
+       433.44,
+       705.79
+      ],
+      [
+       424.81,
+       698.4
+      ],
+      [
+       436.14,
+       697.49
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF7AA2",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       500.5,
+       687
+      ],
+      [
+       504.86,
+       697.49
+      ],
+      [
+       516.19,
+       698.4
+      ],
+      [
+       507.56,
+       705.79
+      ],
+      [
+       510.2,
+       716.85
+      ],
+      [
+       500.5,
+       710.93
+      ],
+      [
+       490.8,
+       716.85
+      ],
+      [
+       493.44,
+       705.79
+      ],
+      [
+       484.81,
+       698.4
+      ],
+      [
+       496.14,
+       697.49
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF7AA2",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       559.5,
+       687
+      ],
+      [
+       563.86,
+       697.49
+      ],
+      [
+       575.19,
+       698.4
+      ],
+      [
+       566.56,
+       705.79
+      ],
+      [
+       569.2,
+       716.85
+      ],
+      [
+       559.5,
+       710.93
+      ],
+      [
+       549.8,
+       716.85
+      ],
+      [
+       552.44,
+       705.79
+      ],
+      [
+       543.81,
+       698.4
+      ],
+      [
+       555.14,
+       697.49
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF7AA2",
+     "name": "Shape"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "id": "a3-lib-yt-wrongright",
+ "title": "Luxury Unboxing: Wrong vs Right YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "luxury unboxing",
+  "unboxing",
+  "luxury",
+  "wrong vs right"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Archivo Black",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#050505",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": "#1A1A1A",
+     "name": "Background"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 640,
+     "h": 720,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#5C0010",
+        0
+       ],
+       [
+        "#B0001E",
+        1
+       ]
+      ]
+     },
+     "name": "Wrong side"
+    },
+    {
+     "kind": "rect",
+     "x": 640,
+     "y": 0,
+     "w": 640,
+     "h": 720,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#00632E",
+        0
+       ],
+       [
+        "#00B050",
+        1
+       ]
+      ]
+     },
+     "name": "Right side"
+    },
+    {
+     "kind": "ellipse",
+     "x": 96,
+     "y": 87,
+     "w": 115,
+     "h": 115,
+     "fill": "#FFFFFF",
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Wrong mark"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       174.75,
+       124.25
+      ],
+      [
+       134.25,
+       164.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#B0001E",
+     "strokeWidth": 7.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (x)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       134.25,
+       124.25
+      ],
+      [
+       174.75,
+       164.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#B0001E",
+     "strokeWidth": 7.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (x)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1069,
+     "y": 87,
+     "w": 115,
+     "h": 115,
+     "fill": "#FFFFFF",
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Right mark"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1153.5,
+       124.25
+      ],
+      [
+       1116.38,
+       161.38
+      ],
+      [
+       1099.5,
+       144.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00863E",
+     "strokeWidth": 7.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (check)"
+    },
+    {
+     "kind": "text",
+     "x": 37.9,
+     "y": 267.4,
+     "w": 410,
+     "h": 121,
+     "text": "REAL",
+     "family": "Archivo Black",
+     "size": 106,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 831.6,
+     "y": 266.9,
+     "w": 410,
+     "h": 121,
+     "text": "FAKE",
+     "family": "Archivo Black",
+     "size": 106,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 461,
+     "y": 462,
+     "w": 358,
+     "h": 271,
+     "shape": "rect",
+     "fill": "#406A44",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 495,
+     "y": 23,
+     "w": 289,
+     "h": 51,
+     "fill": "#FFE600",
+     "radius": 3,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 269,
+     "y": 19.6,
+     "w": 742,
+     "h": 44,
+     "text": "RETURNING",
+     "family": "Archivo Black",
+     "size": 38,
+     "weight": 400,
+     "color": "#111111",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 269,
+     "y": 57.9,
+     "w": 742,
+     "h": 135,
+     "text": "IT?",
+     "family": "Archivo Black",
+     "size": 118,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

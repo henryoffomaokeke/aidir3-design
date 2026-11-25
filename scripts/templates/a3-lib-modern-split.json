@@ -1,0 +1,206 @@
+{
+ "id": "a3-lib-modern-split",
+ "title": "Accounting & Tax: Split Colour Blocks",
+ "categories": [
+  "finance",
+  "social"
+ ],
+ "tags": [
+  "accounting",
+  "tax",
+  "bookkeeping",
+  "audit",
+  "finance",
+  "story / reel / tiktok",
+  "split colour blocks"
+ ],
+ "styleTags": [
+  "dark",
+  "bold type",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EEF1E4",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 540,
+     "h": 960,
+     "fill": "#4A6B2F",
+     "name": "Colour block"
+    },
+    {
+     "kind": "photo",
+     "x": 540,
+     "y": 0,
+     "w": 540,
+     "h": 960,
+     "shape": "rect",
+     "fill": "#CFD0CC",
+     "name": "Photo: accountant working with calculator"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 960,
+     "w": 1080,
+     "h": 960,
+     "fill": "#1C2416",
+     "name": "Colour block"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 52.4,
+     "w": 384,
+     "h": 292,
+     "text": "03",
+     "family": "Space Grotesk",
+     "size": 246,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 0.9
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 808.7,
+     "w": 384,
+     "h": 67,
+     "text": "Tax season",
+     "family": "Inter",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.25,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1062.7,
+     "w": 924,
+     "h": 426,
+     "text": "Your numbers, sorted",
+     "family": "Space Grotesk",
+     "size": 138,
+     "weight": 700,
+     "color": "#EEF1E4",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1526.9,
+     "w": 924,
+     "h": 94,
+     "text": "Bookkeeping, payroll, tax filing and audits for small businesses.",
+     "family": "Inter",
+     "size": 32,
+     "weight": 400,
+     "color": "#BABEB1",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 1668,
+     "w": 294,
+     "h": 75,
+     "fill": "#4A6B2F",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1661.7,
+     "w": 294,
+     "h": 75,
+     "text": "Get started",
+     "family": "Inter",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1754.5,
+     "w": 924,
+     "h": 36,
+     "text": "ledgerline.ng",
+     "family": "Inter",
+     "size": 26,
+     "weight": 700,
+     "color": "#BABEB1",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 80 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "id": "a3-lib-card-v-stacked",
+ "title": "Apex Arena Cup: Business Card Vertical (Vertical Stacked)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card vertical",
+  "vertical stacked",
+  "esports tournament",
+  "gaming"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  600,
+  1050
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B1020",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 122.3,
+     "w": 450,
+     "h": 210,
+     "text": "Apex\nArena Cup",
+     "family": "Cormorant Garamond",
+     "size": 78,
+     "weight": 600,
+     "color": "#EEF2FF",
+     "align": "center",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 116,
+     "y": 395,
+     "w": 48,
+     "h": 2,
+     "fill": "#6D8BFF"
+    },
+    {
+     "kind": "text",
+     "x": 161,
+     "y": 383,
+     "w": 279,
+     "h": 18,
+     "text": "Esports tournament",
+     "family": "Albert Sans",
+     "size": 15,
+     "weight": 700,
+     "color": "#6D8BFF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.7,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 437,
+     "y": 395,
+     "w": 48,
+     "h": 2,
+     "fill": "#6D8BFF"
+    },
+    {
+     "kind": "rect",
+     "x": 250,
+     "y": 530,
+     "w": 100,
+     "h": 4,
+     "fill": "#6D8BFF"
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 560.4,
+     "w": 500,
+     "h": 58,
+     "text": "Emeka Nwosu",
+     "family": "Sora",
+     "size": 48,
+     "weight": 800,
+     "color": "#EEF2FF",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 630.2,
+     "w": 500,
+     "h": 23,
+     "text": "BRAND MANAGER",
+     "family": "Albert Sans",
+     "size": 19,
+     "weight": 700,
+     "color": "#6D8BFF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.4,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 90,
+     "y": 780,
+     "w": 32,
+     "h": 32,
+     "color": "#6D8BFF"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 765.2,
+     "w": 390,
+     "h": 51,
+     "text": "+234 807 555 7078",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 90,
+     "y": 844,
+     "w": 32,
+     "h": 32,
+     "color": "#6D8BFF"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 829.2,
+     "w": 390,
+     "h": 51,
+     "text": "emeka@apexarena.gg",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 90,
+     "y": 908,
+     "w": 32,
+     "h": 32,
+     "color": "#6D8BFF"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 893.2,
+     "w": 390,
+     "h": 51,
+     "text": "apexarena.gg",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#EEF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

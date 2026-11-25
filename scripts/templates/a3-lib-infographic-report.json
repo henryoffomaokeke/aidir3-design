@@ -1,0 +1,803 @@
+{
+ "id": "a3-lib-infographic-report",
+ "title": "Remote Hiring Report",
+ "categories": [
+  "documents",
+  "hr",
+  "data"
+ ],
+ "tags": [
+  "infographic",
+  "hiring",
+  "remote",
+  "report"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1080,
+  2700
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Manrope",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 850,
+     "y": 10,
+     "w": 220,
+     "h": 220,
+     "fill": "#60A5FA",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 240,
+     "w": 120,
+     "h": 120,
+     "fill": "#1D4ED8",
+     "opacity": 0.18
+    },
+    {
+     "kind": "rect",
+     "x": 118,
+     "y": 982,
+     "w": 4,
+     "h": 426,
+     "fill": "#1D4ED8",
+     "opacity": 0.3
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 105,
+     "w": 920,
+     "h": 32,
+     "text": "2026 report",
+     "family": "Manrope",
+     "size": 26,
+     "weight": 700,
+     "color": "#1D4ED8",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 147.2,
+     "w": 920,
+     "h": 192,
+     "text": "Remote hiring in Africa",
+     "family": "Manrope",
+     "size": 92,
+     "weight": 800,
+     "color": "#0B1F3A",
+     "align": "center",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 363.1,
+     "w": 920,
+     "h": 81,
+     "text": "What 1,200 tech employers told us about hiring across borders.",
+     "family": "Manrope",
+     "size": 28,
+     "weight": 400,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 513,
+     "w": 293,
+     "h": 250,
+     "fill": "#EEF3FF",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 544.6,
+     "w": 293,
+     "h": 86,
+     "text": "68%",
+     "family": "Manrope",
+     "size": 72,
+     "weight": 800,
+     "color": "#1D4ED8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 643.1,
+     "w": 253,
+     "h": 90,
+     "text": "now hire outside their home country",
+     "family": "Manrope",
+     "size": 22,
+     "weight": 600,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 393,
+     "y": 513,
+     "w": 293,
+     "h": 250,
+     "fill": "#EEF3FF",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 393,
+     "y": 544.6,
+     "w": 293,
+     "h": 86,
+     "text": "21 days",
+     "family": "Manrope",
+     "size": 72,
+     "weight": 800,
+     "color": "#1D4ED8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 413,
+     "y": 643.1,
+     "w": 253,
+     "h": 90,
+     "text": "average time to hire a developer",
+     "family": "Manrope",
+     "size": 22,
+     "weight": 600,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 707,
+     "y": 513,
+     "w": 293,
+     "h": 250,
+     "fill": "#EEF3FF",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 707,
+     "y": 544.6,
+     "w": 293,
+     "h": 86,
+     "text": "3.2×",
+     "family": "Manrope",
+     "size": 72,
+     "weight": 800,
+     "color": "#1D4ED8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 727,
+     "y": 643.1,
+     "w": 253,
+     "h": 90,
+     "text": "more applicants per remote role",
+     "family": "Manrope",
+     "size": 22,
+     "weight": 600,
+     "color": "#0B1F3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 835.6,
+     "w": 920,
+     "h": 59,
+     "text": "How top teams hire remotely",
+     "family": "Manrope",
+     "size": 52,
+     "weight": 800,
+     "color": "#0B1F3A",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 942,
+     "w": 80,
+     "h": 80,
+     "fill": "#1D4ED8"
+    },
+    {
+     "kind": "icon",
+     "icon": "file-text",
+     "x": 98,
+     "y": 960,
+     "w": 44,
+     "h": 44,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 940.2,
+     "w": 800,
+     "h": 42,
+     "text": "01  Write a clear scorecard",
+     "family": "Manrope",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 986.1,
+     "w": 800,
+     "h": 36,
+     "text": "Define outcomes for the first 90 days before posting the role.",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 400,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 1086,
+     "w": 80,
+     "h": 80,
+     "fill": "#60A5FA"
+    },
+    {
+     "kind": "icon",
+     "icon": "search",
+     "x": 98,
+     "y": 1104,
+     "w": 44,
+     "h": 44,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 1084.2,
+     "w": 800,
+     "h": 42,
+     "text": "02  Source in 3+ countries",
+     "family": "Manrope",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 1130.1,
+     "w": 800,
+     "h": 36,
+     "text": "Use local communities, job boards and referrals together.",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 400,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 1230,
+     "w": 80,
+     "h": 80,
+     "fill": "#1D4ED8"
+    },
+    {
+     "kind": "icon",
+     "icon": "keyboard",
+     "x": 98,
+     "y": 1248,
+     "w": 44,
+     "h": 44,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 1228.2,
+     "w": 800,
+     "h": 42,
+     "text": "03  Pay for a short task",
+     "family": "Manrope",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 1274.1,
+     "w": 800,
+     "h": 36,
+     "text": "Two hours, paid, reviewed by the actual team.",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 400,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 1374,
+     "w": 80,
+     "h": 80,
+     "fill": "#60A5FA"
+    },
+    {
+     "kind": "icon",
+     "icon": "thumb-up",
+     "x": 98,
+     "y": 1392,
+     "w": 44,
+     "h": 44,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 1372.2,
+     "w": 800,
+     "h": 42,
+     "text": "04  Offer within a week",
+     "family": "Manrope",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 1418.1,
+     "w": 800,
+     "h": 36,
+     "text": "Fast, fair offers win the best candidates.",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 400,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1540.6,
+     "w": 920,
+     "h": 59,
+     "text": "Remote roles posted per quarter",
+     "family": "Manrope",
+     "size": 52,
+     "weight": 800,
+     "color": "#0B1F3A",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 1637,
+     "w": 920,
+     "h": 470,
+     "fill": "#EEF3FF",
+     "radius": 28
+    },
+    {
+     "kind": "rect",
+     "x": 120,
+     "y": 1898,
+     "w": 89,
+     "h": 119,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 245,
+     "y": 1874,
+     "w": 89,
+     "h": 143,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 370,
+     "y": 1847,
+     "w": 89,
+     "h": 170,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 495,
+     "y": 1820,
+     "w": 89,
+     "h": 197,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 620,
+     "y": 1779,
+     "w": 89,
+     "h": 238,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 746,
+     "y": 1731,
+     "w": 89,
+     "h": 286,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 871,
+     "y": 1687,
+     "w": 89,
+     "h": 330,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#1D4ED8",
+        0
+       ],
+       [
+        "#60A5FA",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q1 25",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q2 25",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q3 25",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 480,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q4 25",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 600,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q1 26",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 720,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q2 26",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 2027.4,
+     "w": 120,
+     "h": 36,
+     "text": "Q3 26",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 600,
+     "color": "#5B6B82",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 2167,
+     "w": 920,
+     "h": 150,
+     "fill": "#1D4ED8",
+     "radius": 28
+    },
+    {
+     "kind": "icon",
+     "icon": "bulb",
+     "x": 124,
+     "y": 2204,
+     "w": 76,
+     "h": 76,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 230,
+     "y": 2158.8,
+     "w": 730,
+     "h": 150,
+     "text": "Publish salary ranges: posts with pay bands got 2× more qualified applicants.",
+     "family": "Manrope",
+     "size": 26,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 2550,
+     "w": 920,
+     "h": 2,
+     "fill": "#0B1F3A",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 2566.4,
+     "w": 598,
+     "h": 60,
+     "text": "Source: aidir3 Jobs survey, Sept 2026 (sample data)",
+     "family": "Manrope",
+     "size": 19,
+     "weight": 400,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 678,
+     "y": 2565.8,
+     "w": 322,
+     "h": 60,
+     "text": "aidir3 Jobs",
+     "family": "Manrope",
+     "size": 22,
+     "weight": 700,
+     "color": "#0B1F3A",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

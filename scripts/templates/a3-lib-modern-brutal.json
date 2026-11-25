@@ -1,0 +1,789 @@
+{
+ "id": "a3-lib-modern-brutal",
+ "title": "Video Game Launch: Neo-brutalist",
+ "categories": [
+  "social"
+ ],
+ "tags": [
+  "game launch",
+  "new game",
+  "indie game",
+  "trailer",
+  "pre-order",
+  "gaming",
+  "instagram post",
+  "neo-brutalist"
+ ],
+ "styleTags": [
+  "colourful",
+  "brutalist",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Space Grotesk",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF5F3",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 116,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 174,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 232,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 290,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 348,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 406,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 464,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 522,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 580,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 638,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 696,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 754,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 812,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 870,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 928,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 986,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1044,
+     "y": 0,
+     "w": 2.9,
+     "h": 1080,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 58,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 116,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 174,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 232,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 290,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 348,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 406,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 464,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 522,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 580,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 638,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 696,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 754,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 812,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 870,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 928,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 986,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1044,
+     "w": 1080,
+     "h": 2.9,
+     "fill": "#2A0A0C",
+     "opacity": 0.07,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 113,
+     "h": 53,
+     "fill": "#C8102E",
+     "radius": 26.5,
+     "stroke": "#2A0A0C",
+     "strokeWidth": 2,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 72.5,
+     "w": 113,
+     "h": 53,
+     "text": "RPG",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 208,
+     "y": 78,
+     "w": 154,
+     "h": 53,
+     "fill": "#FFFFFF",
+     "radius": 26.5,
+     "stroke": "#2A0A0C",
+     "strokeWidth": 2,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 208,
+     "y": 72.5,
+     "w": 154,
+     "h": 53,
+     "text": "Co-op",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 700,
+     "color": "#2A0A0C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 379,
+     "y": 78,
+     "w": 295,
+     "h": 53,
+     "fill": "#FFFFFF",
+     "radius": 26.5,
+     "stroke": "#2A0A0C",
+     "strokeWidth": 2,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 379,
+     "y": 72.5,
+     "w": 295,
+     "h": 53,
+     "text": "PC & console",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 700,
+     "color": "#2A0A0C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 93,
+     "y": 185,
+     "w": 909,
+     "h": 441,
+     "fill": "#2A0A0C",
+     "radius": 24,
+     "name": "Card shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 170,
+     "w": 909,
+     "h": 441,
+     "fill": "#FFFFFF",
+     "radius": 24,
+     "stroke": "#2A0A0C",
+     "strokeWidth": 8,
+     "name": "Card"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 195.2,
+     "w": 823,
+     "h": 233,
+     "text": "Your quest begins",
+     "family": "Archivo Black",
+     "size": 114,
+     "weight": 400,
+     "color": "#2A0A0C",
+     "vAlign": "middle",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 462.4,
+     "w": 823,
+     "h": 94,
+     "text": "An open-world action RPG inspired by West African myths, with online co-op.",
+     "family": "Geist",
+     "size": 32,
+     "weight": 400,
+     "color": "#7A4A4F",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 93,
+     "y": 684,
+     "w": 527,
+     "h": 318,
+     "fill": "#2A0A0C",
+     "radius": 24,
+     "name": "Photo shadow"
+    },
+    {
+     "kind": "photo",
+     "x": 78,
+     "y": 669,
+     "w": 527,
+     "h": 318,
+     "shape": "rect",
+     "radius": 24,
+     "fill": "#3F3434",
+     "name": "Photo: fantasy game landscape"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 669,
+     "w": 527,
+     "h": 318,
+     "radius": 24,
+     "stroke": "#2A0A0C",
+     "strokeWidth": 8,
+     "name": "Photo border"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       815.76,
+       676.47
+      ],
+      [
+       834.16,
+       718.51
+      ],
+      [
+       856.86,
+       678.62
+      ],
+      [
+       851.78,
+       724.23
+      ],
+      [
+       891.37,
+       701.04
+      ],
+      [
+       864.17,
+       737.99
+      ],
+      [
+       910.05,
+       737.7
+      ],
+      [
+       868.02,
+       756.11
+      ],
+      [
+       907.9,
+       778.8
+      ],
+      [
+       862.3,
+       773.72
+      ],
+      [
+       885.49,
+       813.31
+      ],
+      [
+       848.53,
+       786.11
+      ],
+      [
+       848.82,
+       832
+      ],
+      [
+       830.42,
+       789.96
+      ],
+      [
+       807.72,
+       829.84
+      ],
+      [
+       812.81,
+       784.24
+      ],
+      [
+       773.21,
+       807.43
+      ],
+      [
+       800.42,
+       770.48
+      ],
+      [
+       754.53,
+       770.76
+      ],
+      [
+       796.57,
+       752.36
+      ],
+      [
+       756.68,
+       729.67
+      ],
+      [
+       802.29,
+       734.75
+      ],
+      [
+       779.1,
+       695.15
+      ],
+      [
+       816.05,
+       722.36
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB3C1",
+     "stroke": "#2A0A0C",
+     "strokeWidth": 5.6,
+     "join": "miter",
+     "name": "Sticker"
+    },
+    {
+     "kind": "text",
+     "x": 793.4,
+     "y": 710.3,
+     "w": 80,
+     "h": 80,
+     "text": "Out\nnow",
+     "family": "Archivo Black",
+     "size": 27,
+     "weight": 400,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 673,
+     "y": 922,
+     "w": 312,
+     "h": 75,
+     "fill": "#2A0A0C",
+     "radius": 11,
+     "name": "Button shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 663,
+     "y": 912,
+     "w": 312,
+     "h": 75,
+     "fill": "#C8102E",
+     "radius": 11,
+     "stroke": "#2A0A0C",
+     "strokeWidth": 5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 663,
+     "y": 905.1,
+     "w": 312,
+     "h": 75,
+     "text": "Wishlist now",
+     "family": "Space Grotesk",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n55",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n52",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n39",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

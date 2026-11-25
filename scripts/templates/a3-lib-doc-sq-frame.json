@@ -1,0 +1,276 @@
+{
+ "id": "a3-lib-doc-sq-frame",
+ "title": "Makeup & Skincare: Framed Ad",
+ "categories": [
+  "marketing"
+ ],
+ "tags": [
+  "makeup",
+  "skincare",
+  "beauty",
+  "glow",
+  "cosmetics",
+  "display ad 300×250",
+  "framed ad",
+  "beauty & fashion"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  600,
+  500
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Lexend",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF1F2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 600,
+     "h": 500,
+     "fill": "#E11D48"
+    },
+    {
+     "kind": "rect",
+     "x": 24,
+     "y": 24,
+     "w": 552,
+     "h": 452,
+     "fill": "#FFF1F2",
+     "radius": 20
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 54,
+       "y": 40,
+       "cIn": {
+        "x": 46.27,
+        "y": 40
+       }
+      },
+      {
+       "x": 546,
+       "y": 40,
+       "cOut": {
+        "x": 553.73,
+        "y": 40
+       }
+      },
+      {
+       "x": 560,
+       "y": 54,
+       "cIn": {
+        "x": 560,
+        "y": 46.27
+       }
+      },
+      {
+       "x": 560,
+       "y": 446,
+       "cOut": {
+        "x": 560,
+        "y": 453.73
+       }
+      },
+      {
+       "x": 546,
+       "y": 460,
+       "cIn": {
+        "x": 553.73,
+        "y": 460
+       }
+      },
+      {
+       "x": 54,
+       "y": 460,
+       "cOut": {
+        "x": 46.27,
+        "y": 460
+       }
+      },
+      {
+       "x": 40,
+       "y": 446,
+       "cIn": {
+        "x": 40,
+        "y": 453.73
+       }
+      },
+      {
+       "x": 40,
+       "y": 54,
+       "cOut": {
+        "x": 40,
+        "y": 46.27
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#E11D48",
+     "strokeWidth": 2,
+     "dash": [
+      10,
+      8
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.6,
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 258,
+     "y": 58,
+     "w": 84,
+     "h": 84,
+     "fill": "#E11D48"
+    },
+    {
+     "kind": "icon",
+     "icon": "sparkles",
+     "x": 278,
+     "y": 78,
+     "w": 44,
+     "h": 44,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 152,
+     "w": 460,
+     "h": 101,
+     "text": "Skincare that works",
+     "family": "Lexend",
+     "size": 46,
+     "weight": 700,
+     "color": "#3F1D25",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 265.2,
+     "w": 440,
+     "h": 49,
+     "text": "Bridal and event makeup, plus a skincare line made for melanin-rich skin.",
+     "family": "Onest",
+     "size": 18,
+     "weight": 400,
+     "color": "#8B5E66",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 170,
+     "y": 378,
+     "w": 260,
+     "h": 62,
+     "fill": "#E11D48",
+     "radius": 31
+    },
+    {
+     "kind": "text",
+     "x": 192,
+     "y": 372.8,
+     "w": 204,
+     "h": 62,
+     "text": "Book glam",
+     "family": "Onest",
+     "size": 21,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       397,
+       409
+      ],
+      [
+       411,
+       409
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       404,
+       402
+      ],
+      [
+       411,
+       409
+      ],
+      [
+       404,
+       416
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 90 characters"
+  }
+ ]
+}

@@ -302,7 +302,9 @@ func aiTestConfigHandler(svc *ai.Service, acct *accounts.Service) http.HandlerFu
 		} else {
 			// Deliberately tiny: this costs the workspace's own tokens, so it
 			// asks for the shortest useful reply rather than a real generation.
-			_, err = svc.Text(r.Context(), id, "Reply with the single word: ok", "")
+			// aidir3 fork: without the built-in fallback, or a broken stored
+			// key would be reported healthy because the fallback answered.
+			_, err = svc.Text(ai.WithoutFallback(r.Context()), id, "Reply with the single word: ok", "")
 		}
 		if err != nil {
 			aiProblem(w, r, err)

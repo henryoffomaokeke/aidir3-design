@@ -1,0 +1,434 @@
+{
+ "id": "a3-lib-post-quote-bold",
+ "title": "Bold Quote: Sunset",
+ "categories": [
+  "quotes",
+  "social"
+ ],
+ "tags": [
+  "quote",
+  "motivation",
+  "bold",
+  "gradient",
+  "instagram portrait",
+  "quotes"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#1F0F2E",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1350,
+     "fill": {
+      "angle": 141,
+      "stops": [
+       [
+        "#1F0F2E",
+        0
+       ],
+       [
+        "#2C1640",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 958.25,
+       "y": 960.83,
+       "cIn": {
+        "x": 928,
+        "y": 934.7
+       },
+       "cOut": {
+        "x": 988.5,
+        "y": 986.95
+       }
+      },
+      {
+       "x": 1022.75,
+       "y": 1055.11,
+       "cIn": {
+        "x": 1009.75,
+        "y": 1019.01
+       },
+       "cOut": {
+        "x": 1035.75,
+        "y": 1091.21
+       }
+      },
+      {
+       "x": 1026,
+       "y": 1163.89,
+       "cIn": {
+        "x": 1040.5,
+        "y": 1131.35
+       },
+       "cOut": {
+        "x": 1011.5,
+        "y": 1196.43
+       }
+      },
+      {
+       "x": 941.5,
+       "y": 1242.74,
+       "cIn": {
+        "x": 977.75,
+        "y": 1221.36
+       },
+       "cOut": {
+        "x": 905.25,
+        "y": 1264.11
+       }
+      },
+      {
+       "x": 826,
+       "y": 1285.72,
+       "cIn": {
+        "x": 866.5,
+        "y": 1281.93
+       },
+       "cOut": {
+        "x": 785.5,
+        "y": 1289.53
+       }
+      },
+      {
+       "x": 714,
+       "y": 1254.38,
+       "cIn": {
+        "x": 743.25,
+        "y": 1279.31
+       },
+       "cOut": {
+        "x": 684.75,
+        "y": 1229.44
+       }
+      },
+      {
+       "x": 663.5,
+       "y": 1149.88,
+       "cIn": {
+        "x": 668.5,
+        "y": 1189.78
+       },
+       "cOut": {
+        "x": 658.5,
+        "y": 1109.97
+       }
+      },
+      {
+       "x": 684.5,
+       "y": 1037.78,
+       "cIn": {
+        "x": 664.75,
+        "y": 1069.84
+       },
+       "cOut": {
+        "x": 704.25,
+        "y": 1005.71
+       }
+      },
+      {
+       "x": 772.25,
+       "y": 957.74,
+       "cIn": {
+        "x": 737.5,
+        "y": 981.73
+       },
+       "cOut": {
+        "x": 807,
+        "y": 933.75
+       }
+      },
+      {
+       "x": 879,
+       "y": 915.46,
+       "cIn": {
+        "x": 843.5,
+        "y": 909.76
+       },
+       "cOut": {
+        "x": 914.5,
+        "y": 921.16
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#FF8A3D",
+     "opacity": 0.18,
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 265.46,
+       "y": 80.13,
+       "cIn": {
+        "x": 241.58,
+        "y": 59.5
+       },
+       "cOut": {
+        "x": 289.34,
+        "y": 100.75
+       }
+      },
+      {
+       "x": 316.38,
+       "y": 154.56,
+       "cIn": {
+        "x": 306.12,
+        "y": 126.06
+       },
+       "cOut": {
+        "x": 326.64,
+        "y": 183.06
+       }
+      },
+      {
+       "x": 318.95,
+       "y": 240.44,
+       "cIn": {
+        "x": 330.39,
+        "y": 214.75
+       },
+       "cOut": {
+        "x": 307.5,
+        "y": 266.13
+       }
+      },
+      {
+       "x": 252.24,
+       "y": 302.69,
+       "cIn": {
+        "x": 280.86,
+        "y": 285.81
+       },
+       "cOut": {
+        "x": 223.62,
+        "y": 319.56
+       }
+      },
+      {
+       "x": 161.05,
+       "y": 336.63,
+       "cIn": {
+        "x": 193.03,
+        "y": 333.63
+       },
+       "cOut": {
+        "x": 129.08,
+        "y": 339.63
+       }
+      },
+      {
+       "x": 72.63,
+       "y": 311.88,
+       "cIn": {
+        "x": 95.72,
+        "y": 331.56
+       },
+       "cOut": {
+        "x": 49.54,
+        "y": 292.19
+       }
+      },
+      {
+       "x": 32.76,
+       "y": 229.38,
+       "cIn": {
+        "x": 36.71,
+        "y": 260.88
+       },
+       "cOut": {
+        "x": 28.82,
+        "y": 197.88
+       }
+      },
+      {
+       "x": 49.34,
+       "y": 140.88,
+       "cIn": {
+        "x": 33.75,
+        "y": 166.19
+       },
+       "cOut": {
+        "x": 64.93,
+        "y": 115.56
+       }
+      },
+      {
+       "x": 118.62,
+       "y": 77.69,
+       "cIn": {
+        "x": 91.18,
+        "y": 96.63
+       },
+       "cOut": {
+        "x": 146.05,
+        "y": 58.75
+       }
+      },
+      {
+       "x": 202.89,
+       "y": 44.31,
+       "cIn": {
+        "x": 174.87,
+        "y": 39.81
+       },
+       "cOut": {
+        "x": 230.92,
+        "y": 48.81
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#FF3D77",
+     "opacity": 0.16,
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 482.4,
+     "y": 410,
+     "w": 124.8,
+     "h": 144,
+     "text": "“",
+     "family": "Playfair Display",
+     "size": 182,
+     "weight": 700,
+     "color": "#FF8A3D",
+     "lineHeight": 1,
+     "name": "Quotation mark"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 550.1,
+     "w": 860,
+     "h": 191,
+     "text": "Start before you feel ready.",
+     "family": "Anton",
+     "size": 78,
+     "weight": 400,
+     "color": "#FFF4E8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.18,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 495,
+     "y": 802,
+     "w": 90,
+     "h": 4,
+     "fill": "#FF8A3D"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 826.8,
+     "w": 860,
+     "h": 44,
+     "text": "Tobi Ade",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#FFF4E8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 876.6,
+     "w": 860,
+     "h": 36,
+     "text": "Creator & host",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#D9B8C9",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 1227.1,
+     "w": 860,
+     "h": 34,
+     "text": "@tobi.creates",
+     "family": "Figtree",
+     "size": 22,
+     "weight": 500,
+     "color": "#D9B8C9",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

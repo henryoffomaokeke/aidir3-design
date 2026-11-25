@@ -1,0 +1,781 @@
+{
+ "id": "a3-lib-doc-info-roadmap",
+ "title": "Photo Booth Hire: Roadmap Infographic",
+ "categories": [
+  "documents",
+  "marketing",
+  "data"
+ ],
+ "tags": [
+  "photo booth",
+  "360 booth",
+  "party",
+  "wedding booth",
+  "event entertainment",
+  "photography",
+  "infographic",
+  "roadmap infographic"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1080,
+  2700
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#B3131B",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 720,
+     "y": -160,
+     "w": 480,
+     "h": 480,
+     "fill": "#FFD400",
+     "opacity": 0.12,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 80,
+     "w": 60,
+     "h": 60,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "icon",
+     "icon": "camera",
+     "x": 95,
+     "y": 95,
+     "w": 30,
+     "h": 30,
+     "color": "#14080A"
+    },
+    {
+     "kind": "text",
+     "x": 158,
+     "y": 74,
+     "w": 582,
+     "h": 60,
+     "text": "SnapHappy Booths",
+     "family": "Albert Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 178.4,
+     "w": 920,
+     "h": 32,
+     "text": "PARTY UPGRADE",
+     "family": "Albert Sans",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFD400",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 223.2,
+     "w": 920,
+     "h": 117,
+     "text": "Strike a pose!",
+     "family": "Playfair Display",
+     "size": 104,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 366.1,
+     "w": 920,
+     "h": 93,
+     "text": "Open-air, mirror and 360 video booths with props and instant prints.",
+     "family": "Albert Sans",
+     "size": 32,
+     "weight": 400,
+     "color": "#FFD1D4",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 510,
+     "w": 140,
+     "h": 8,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2500,
+     "w": 1080,
+     "h": 200,
+     "fill": "#8F0F16"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2500,
+     "w": 1080,
+     "h": 6,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 2555,
+     "w": 380,
+     "h": 90,
+     "fill": "#FFD400",
+     "radius": 45
+    },
+    {
+     "kind": "text",
+     "x": 112,
+     "y": 2549,
+     "w": 299,
+     "h": 90,
+     "text": "Check availability",
+     "family": "Albert Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#14080A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       412.08,
+       2600
+      ],
+      [
+       431.92,
+       2600
+      ]
+     ],
+     "closed": false,
+     "stroke": "#14080A",
+     "strokeWidth": 3.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       422,
+       2590.08
+      ],
+      [
+       431.92,
+       2600
+      ],
+      [
+       422,
+       2609.92
+      ]
+     ],
+     "closed": false,
+     "stroke": "#14080A",
+     "strokeWidth": 3.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 500,
+     "y": 2549.4,
+     "w": 500,
+     "h": 90,
+     "text": "snaphappy.ng",
+     "family": "Albert Sans",
+     "size": 26,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 621,
+     "w": 800,
+     "h": 18,
+     "fill": "#FFD400",
+     "radius": 9,
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 931,
+     "y": 630,
+     "w": 18,
+     "h": 330,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 951,
+     "w": 800,
+     "h": 18,
+     "fill": "#FFD400",
+     "radius": 9,
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 131,
+     "y": 960,
+     "w": 18,
+     "h": 330,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 1281,
+     "w": 800,
+     "h": 18,
+     "fill": "#FFD400",
+     "radius": 9,
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 931,
+     "y": 1290,
+     "w": 18,
+     "h": 330,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 1611,
+     "w": 800,
+     "h": 18,
+     "fill": "#FFD400",
+     "radius": 9,
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 131,
+     "y": 1620,
+     "w": 18,
+     "h": 330,
+     "fill": "#FFD400",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 1941,
+     "w": 800,
+     "h": 18,
+     "fill": "#FFD400",
+     "radius": 9,
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 580,
+     "w": 100,
+     "h": 100,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "text",
+     "x": 90,
+     "y": 573.6,
+     "w": 100,
+     "h": 100,
+     "text": "01",
+     "family": "Playfair Display",
+     "size": 40,
+     "weight": 700,
+     "color": "#14080A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 655.2,
+     "w": 640,
+     "h": 28,
+     "text": "Milestone 1",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFD400",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 685.3,
+     "w": 640,
+     "h": 47,
+     "text": "360 slow-motion booth",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 890,
+     "y": 910,
+     "w": 100,
+     "h": 100,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "text",
+     "x": 890,
+     "y": 903.6,
+     "w": 100,
+     "h": 100,
+     "text": "02",
+     "family": "Playfair Display",
+     "size": 40,
+     "weight": 700,
+     "color": "#14080A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 985.2,
+     "w": 640,
+     "h": 28,
+     "text": "Milestone 2",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFD400",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 1015.3,
+     "w": 640,
+     "h": 47,
+     "text": "Mirror booth with prints",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 1240,
+     "w": 100,
+     "h": 100,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "text",
+     "x": 90,
+     "y": 1233.6,
+     "w": 100,
+     "h": 100,
+     "text": "03",
+     "family": "Playfair Display",
+     "size": 40,
+     "weight": 700,
+     "color": "#14080A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 1315.2,
+     "w": 640,
+     "h": 28,
+     "text": "Milestone 3",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFD400",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 1345.3,
+     "w": 640,
+     "h": 47,
+     "text": "Custom photo strips",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 890,
+     "y": 1570,
+     "w": 100,
+     "h": 100,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "text",
+     "x": 890,
+     "y": 1563.6,
+     "w": 100,
+     "h": 100,
+     "text": "04",
+     "family": "Playfair Display",
+     "size": 40,
+     "weight": 700,
+     "color": "#14080A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 1645.2,
+     "w": 640,
+     "h": 28,
+     "text": "Milestone 4",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFD400",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 1675.3,
+     "w": 640,
+     "h": 47,
+     "text": "Props and backdrops",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 1900,
+     "w": 100,
+     "h": 100,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "icon": "flag",
+     "x": 115,
+     "y": 1925,
+     "w": 50,
+     "h": 50,
+     "color": "#B3131B"
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 1975.2,
+     "w": 640,
+     "h": 28,
+     "text": "Goal",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFD400",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 2005.3,
+     "w": 640,
+     "h": 47,
+     "text": "Online gallery",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n45",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n49",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n53",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n57",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

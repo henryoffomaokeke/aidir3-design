@@ -1,0 +1,1991 @@
+{
+ "id": "a3-gov-ai-incident-report",
+ "title": "AI Incident Report",
+ "categories": [
+  "governance",
+  "security",
+  "documents",
+  "business"
+ ],
+ "tags": [
+  "incident report",
+  "ai incident",
+  "form",
+  "severity",
+  "notification",
+  "timeline",
+  "a4"
+ ],
+ "styleTags": [
+  "form",
+  "ruled",
+  "high contrast"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -988,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Report",
+   "bg": "#F7F6F2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 45,
+     "w": 11,
+     "h": 11,
+     "fill": "#E4521B"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 44,
+     "w": 360,
+     "h": 14,
+     "text": "Lindholm Energy  ·  AI Governance",
+     "family": "Archivo",
+     "size": 10,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 62,
+     "w": 470,
+     "h": 50,
+     "text": "AI incident report",
+     "family": "Archivo",
+     "size": 40,
+     "weight": 800,
+     "color": "#131519",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 546,
+     "y": 44,
+     "w": 200,
+     "h": 14,
+     "text": "Form AI-IR  ·  Rev 4",
+     "family": "Archivo",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#565B64",
+     "align": "right",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 516,
+     "y": 68,
+     "w": 230,
+     "h": 36,
+     "text": "Complete within 24 hours of detection and send to ai-incidents@lindholm.example",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "right",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 132,
+     "w": 174.5,
+     "h": 58,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 142,
+     "w": 150,
+     "h": 14,
+     "text": "Incident no.",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 159,
+     "w": 158,
+     "h": 18,
+     "text": "AI-2026-031",
+     "family": "Archivo",
+     "size": 14,
+     "weight": 700,
+     "color": "#E4521B"
+    },
+    {
+     "kind": "rect",
+     "x": 222.5,
+     "y": 132,
+     "w": 174.5,
+     "h": 58,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 232.5,
+     "y": 142,
+     "w": 150,
+     "h": 14,
+     "text": "Detected",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 232.5,
+     "y": 159,
+     "w": 158,
+     "h": 18,
+     "text": "17 Nov 2026, 09:42",
+     "family": "Archivo",
+     "size": 14,
+     "weight": 700,
+     "color": "#131519"
+    },
+    {
+     "kind": "rect",
+     "x": 397,
+     "y": 132,
+     "w": 174.5,
+     "h": 58,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 142,
+     "w": 150,
+     "h": 14,
+     "text": "Reported by",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 159,
+     "w": 158,
+     "h": 18,
+     "text": "Katya Brandt",
+     "family": "Archivo",
+     "size": 14,
+     "weight": 700,
+     "color": "#131519"
+    },
+    {
+     "kind": "rect",
+     "x": 571.5,
+     "y": 132,
+     "w": 174.5,
+     "h": 58,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 581.5,
+     "y": 142,
+     "w": 150,
+     "h": 14,
+     "text": "AI system",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 581.5,
+     "y": 159,
+     "w": 158,
+     "h": 18,
+     "text": "Ember assistant v3.4",
+     "family": "Archivo",
+     "size": 14,
+     "weight": 700,
+     "color": "#131519"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 190,
+     "w": 698,
+     "h": 146,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 200,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 199,
+     "w": 18,
+     "h": 18,
+     "text": "1",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 202,
+     "w": 260,
+     "h": 14,
+     "text": "What happened",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 230,
+     "w": 424,
+     "h": 96,
+     "text": "After a knowledge-base update on 16 November, Ember told customers who asked about arrears that a 12-month payment holiday was open to every account. No such scheme exists. Customers received the promise in writing, in chat, before an agent noticed the pattern.",
+     "family": "Inter",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#131519",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       500,
+       232
+      ],
+      [
+       500,
+       322
+      ]
+     ],
+     "stroke": "#C8CBD1",
+     "strokeWidth": 1,
+     "cap": "butt",
+     "dash": [
+      3,
+      3
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 516,
+     "y": 232,
+     "w": 200,
+     "h": 14,
+     "text": "Provisional cause",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 516,
+     "y": 249,
+     "w": 218,
+     "h": 72,
+     "text": "A draft policy document was indexed by mistake. Weekly answer sampling does not cover weekend updates.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#565B64",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 336,
+     "w": 380,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 346,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 345,
+     "w": 18,
+     "h": 18,
+     "text": "2",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 348,
+     "w": 260,
+     "h": 14,
+     "text": "Who was affected",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 374,
+     "w": 110,
+     "h": 34,
+     "text": "412",
+     "family": "Archivo",
+     "size": 28,
+     "weight": 800,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 410,
+     "w": 112,
+     "h": 30,
+     "text": "customers given the\nwrong answer",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 170,
+     "y": 380,
+     "w": 1,
+     "h": 58,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "text",
+     "x": 182,
+     "y": 374,
+     "w": 110,
+     "h": 34,
+     "text": "96",
+     "family": "Archivo",
+     "size": 28,
+     "weight": 800,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 182,
+     "y": 410,
+     "w": 112,
+     "h": 30,
+     "text": "paused or cancelled\na payment",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 294,
+     "y": 380,
+     "w": 1,
+     "h": 58,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "text",
+     "x": 306,
+     "y": 374,
+     "w": 110,
+     "h": 34,
+     "text": "11",
+     "family": "Archivo",
+     "size": 28,
+     "weight": 800,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 306,
+     "y": 410,
+     "w": 112,
+     "h": 30,
+     "text": "on the priority\nservices register",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 428,
+     "y": 336,
+     "w": 318,
+     "h": 116,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 438,
+     "y": 346,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 345,
+     "w": 18,
+     "h": 18,
+     "text": "3",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 464,
+     "y": 348,
+     "w": 260,
+     "h": 14,
+     "text": "Severity",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 438.5,
+     "y": 376.5,
+     "w": 71,
+     "h": 30,
+     "fill": "#FFFFFF",
+     "stroke": "#8A8F98",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 376,
+     "w": 72,
+     "h": 30,
+     "text": "1  Low",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#565B64",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 513.5,
+     "y": 376.5,
+     "w": 71,
+     "h": 30,
+     "fill": "#FFFFFF",
+     "stroke": "#8A8F98",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 513,
+     "y": 376,
+     "w": 72,
+     "h": 30,
+     "text": "2  Moderate",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#565B64",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 588.5,
+     "y": 376.5,
+     "w": 71,
+     "h": 30,
+     "fill": "#E4521B",
+     "stroke": "#E4521B",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 588,
+     "y": 376,
+     "w": 72,
+     "h": 30,
+     "text": "3  High",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 663.5,
+     "y": 376.5,
+     "w": 71,
+     "h": 30,
+     "fill": "#FFFFFF",
+     "stroke": "#8A8F98",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 663,
+     "y": 376,
+     "w": 72,
+     "h": 30,
+     "text": "4  Critical",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#565B64",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 415,
+     "w": 300,
+     "h": 30,
+     "text": "Customers lost money and the regulator must be told, so the incident is rated High.",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 452,
+     "w": 349,
+     "h": 216,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 462,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 461,
+     "w": 18,
+     "h": 18,
+     "text": "4",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 464,
+     "w": 260,
+     "h": 14,
+     "text": "Containment",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 58.5,
+     "y": 497.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#131519",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       61.5,
+       504.5
+      ],
+      [
+       64,
+       507
+      ],
+      [
+       68.5,
+       501
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.6,
+     "cap": "butt"
+    },
+    {
+     "kind": "text",
+     "x": 82,
+     "y": 495,
+     "w": 226,
+     "h": 32,
+     "text": "Ember set to pass arrears questions to an agent",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#131519",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 310,
+     "y": 496,
+     "w": 77,
+     "h": 14,
+     "text": "10:05",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 532,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "rect",
+     "x": 58.5,
+     "y": 540.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#131519",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       61.5,
+       547.5
+      ],
+      [
+       64,
+       550
+      ],
+      [
+       68.5,
+       544
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.6,
+     "cap": "butt"
+    },
+    {
+     "kind": "text",
+     "x": 82,
+     "y": 538,
+     "w": 226,
+     "h": 32,
+     "text": "Draft policy document removed from the index",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#131519",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 310,
+     "y": 539,
+     "w": 77,
+     "h": 14,
+     "text": "10:40",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 575,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "rect",
+     "x": 58.5,
+     "y": 583.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#131519",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       61.5,
+       590.5
+      ],
+      [
+       64,
+       593
+      ],
+      [
+       68.5,
+       587
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.6,
+     "cap": "butt"
+    },
+    {
+     "kind": "text",
+     "x": 82,
+     "y": 581,
+     "w": 226,
+     "h": 32,
+     "text": "Affected chat transcripts exported and preserved",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#131519",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 310,
+     "y": 582,
+     "w": 77,
+     "h": 14,
+     "text": "11:15",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 618,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "rect",
+     "x": 58.5,
+     "y": 626.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 82,
+     "y": 624,
+     "w": 226,
+     "h": 32,
+     "text": "Correction sent to all 412 customers",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#131519",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 310,
+     "y": 625,
+     "w": 77,
+     "h": 14,
+     "text": "Due 18 Nov",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#E4521B",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 397,
+     "y": 452,
+     "w": 349,
+     "h": 216,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 407,
+     "y": 462,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 461,
+     "w": 18,
+     "h": 18,
+     "text": "5",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 433,
+     "y": 464,
+     "w": 260,
+     "h": 14,
+     "text": "Notification duties",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 494,
+     "w": 150,
+     "h": 14,
+     "text": "Who must be told",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 569,
+     "y": 494,
+     "w": 80,
+     "h": 14,
+     "text": "Deadline",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 656,
+     "y": 494,
+     "w": 80,
+     "h": 14,
+     "text": "Status",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "align": "right",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 407,
+     "y": 509,
+     "w": 329,
+     "h": 1,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 518,
+     "w": 160,
+     "h": 14,
+     "text": "Energy regulator",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 569,
+     "y": 518,
+     "w": 92,
+     "h": 14,
+     "text": "24 hours",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 518,
+     "w": 84,
+     "h": 14,
+     "text": "Sent 15:20",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 407,
+     "y": 540,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 548,
+     "w": 160,
+     "h": 14,
+     "text": "Supplier, Voxwell AI",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 569,
+     "y": 548,
+     "w": 92,
+     "h": 14,
+     "text": "48 hours",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 548,
+     "w": 84,
+     "h": 14,
+     "text": "Sent 12:30",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 407,
+     "y": 570,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 578,
+     "w": 160,
+     "h": 14,
+     "text": "Affected customers",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 569,
+     "y": 578,
+     "w": 92,
+     "h": 14,
+     "text": "3 working days",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 578,
+     "w": 84,
+     "h": 14,
+     "text": "In progress",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#E4521B",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 407,
+     "y": 600,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 608,
+     "w": 160,
+     "h": 14,
+     "text": "AI Governance Board",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 569,
+     "y": 608,
+     "w": 92,
+     "h": 14,
+     "text": "Next meeting",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 608,
+     "w": 84,
+     "h": 14,
+     "text": "On 26 Nov",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#565B64",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 407,
+     "y": 630,
+     "w": 329,
+     "h": 1,
+     "fill": "#C8CBD1"
+    },
+    {
+     "kind": "text",
+     "x": 407,
+     "y": 638,
+     "w": 160,
+     "h": 14,
+     "text": "Data protection authority",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 569,
+     "y": 638,
+     "w": 92,
+     "h": 14,
+     "text": "Not required",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 638,
+     "w": 84,
+     "h": 14,
+     "text": "No breach",
+     "family": "Inter",
+     "size": 11,
+     "weight": 600,
+     "color": "#565B64",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 668,
+     "w": 698,
+     "h": 176,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 678,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 677,
+     "w": 18,
+     "h": 18,
+     "text": "6",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 680,
+     "w": 260,
+     "h": 14,
+     "text": "Timeline",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 366,
+     "y": 680,
+     "w": 370,
+     "h": 14,
+     "text": "Time to detect 2 h 32 min   ·   Time to contain 23 min",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "align": "right"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       110,
+       756
+      ],
+      [
+       569.2,
+       756
+      ]
+     ],
+     "stroke": "#131519",
+     "strokeWidth": 1.5,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       569.2,
+       756
+      ],
+      [
+       684,
+       756
+      ]
+     ],
+     "stroke": "#131519",
+     "strokeWidth": 1.5,
+     "cap": "butt",
+     "dash": [
+      4,
+      4
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 103.5,
+     "y": 749.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#E4521B"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 722,
+     "w": 108,
+     "h": 14,
+     "text": "16 Nov, 18:30",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 774,
+     "w": 106,
+     "h": 46,
+     "text": "Knowledge base updated; draft policy indexed",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "center",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "ellipse",
+     "x": 218.3,
+     "y": 749.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#E4521B"
+    },
+    {
+     "kind": "text",
+     "x": 170.8,
+     "y": 722,
+     "w": 108,
+     "h": 14,
+     "text": "17 Nov, 07:10",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 171.8,
+     "y": 774,
+     "w": 106,
+     "h": 46,
+     "text": "First wrong answer given to a customer",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "center",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "ellipse",
+     "x": 333.1,
+     "y": 749.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#E4521B"
+    },
+    {
+     "kind": "text",
+     "x": 285.6,
+     "y": 722,
+     "w": 108,
+     "h": 14,
+     "text": "17 Nov, 09:42",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 286.6,
+     "y": 774,
+     "w": 106,
+     "h": 46,
+     "text": "Agent spots the pattern; incident opened",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "center",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "ellipse",
+     "x": 447.9,
+     "y": 749.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#E4521B"
+    },
+    {
+     "kind": "text",
+     "x": 400.4,
+     "y": 722,
+     "w": 108,
+     "h": 14,
+     "text": "17 Nov, 10:05",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 401.4,
+     "y": 774,
+     "w": 106,
+     "h": 46,
+     "text": "Arrears questions routed to agents",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "center",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "ellipse",
+     "x": 562.7,
+     "y": 749.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#E4521B"
+    },
+    {
+     "kind": "text",
+     "x": 515.2,
+     "y": 722,
+     "w": 108,
+     "h": 14,
+     "text": "17 Nov, 15:20",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 516.2,
+     "y": 774,
+     "w": 106,
+     "h": 46,
+     "text": "Regulator notified by Compliance",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "center",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "ellipse",
+     "x": 677.5,
+     "y": 749.5,
+     "w": 13,
+     "h": 13,
+     "fill": "#FFFFFF",
+     "stroke": "#E4521B",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 630,
+     "y": 722,
+     "w": 108,
+     "h": 14,
+     "text": "18 Nov, 12:00",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#131519",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 631,
+     "y": 774,
+     "w": 106,
+     "h": 46,
+     "text": "Corrections due to all 412 customers",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "center",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 844,
+     "w": 698,
+     "h": 132,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 854,
+     "w": 18,
+     "h": 18,
+     "fill": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 853,
+     "w": 18,
+     "h": 18,
+     "text": "7",
+     "family": "Archivo",
+     "size": 11,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 856,
+     "w": 260,
+     "h": 14,
+     "text": "Corrective actions",
+     "family": "Archivo",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#131519",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 886,
+     "w": 204,
+     "h": 48,
+     "text": "Add weekend updates to the weekly answer sampling",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#131519",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 940,
+     "w": 60,
+     "h": 14,
+     "text": "Owner",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 938,
+     "w": 150,
+     "h": 14,
+     "text": "Quality Lead",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 955,
+     "w": 60,
+     "h": 14,
+     "text": "Due",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 953,
+     "w": 150,
+     "h": 14,
+     "text": "24 Nov 2026",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       276,
+       888
+      ],
+      [
+       276,
+       962
+      ]
+     ],
+     "stroke": "#C8CBD1",
+     "strokeWidth": 1,
+     "cap": "butt",
+     "dash": [
+      3,
+      3
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 288,
+     "y": 886,
+     "w": 204,
+     "h": 48,
+     "text": "Require sign-off before any document enters the index",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#131519",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 288,
+     "y": 940,
+     "w": 60,
+     "h": 14,
+     "text": "Owner",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 938,
+     "w": 150,
+     "h": 14,
+     "text": "Knowledge Manager",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 288,
+     "y": 955,
+     "w": 60,
+     "h": 14,
+     "text": "Due",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 953,
+     "w": 150,
+     "h": 14,
+     "text": "1 Dec 2026",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       506,
+       888
+      ],
+      [
+       506,
+       962
+      ]
+     ],
+     "stroke": "#C8CBD1",
+     "strokeWidth": 1,
+     "cap": "butt",
+     "dash": [
+      3,
+      3
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 518,
+     "y": 886,
+     "w": 204,
+     "h": 48,
+     "text": "Honour the payment holiday for the 96 customers who acted on it",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#131519",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 518,
+     "y": 940,
+     "w": 60,
+     "h": 14,
+     "text": "Owner",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 564,
+     "y": 938,
+     "w": 150,
+     "h": 14,
+     "text": "Head of Collections",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 518,
+     "y": 955,
+     "w": 60,
+     "h": 14,
+     "text": "Due",
+     "family": "Archivo",
+     "size": 8,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 564,
+     "y": 953,
+     "w": 150,
+     "h": 14,
+     "text": "20 Nov 2026",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 976,
+     "w": 232.66666666666666,
+     "h": 62,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 987,
+     "w": 180,
+     "h": 14,
+     "text": "Prepared by",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 1005,
+     "w": 212,
+     "h": 18,
+     "text": "Katya Brandt, 17 Nov 2026",
+     "family": "Inter",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "rect",
+     "x": 280.66666666666663,
+     "y": 976,
+     "w": 232.66666666666666,
+     "h": 62,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 290.66666666666663,
+     "y": 987,
+     "w": 180,
+     "h": 14,
+     "text": "Incident owner",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 290.66666666666663,
+     "y": 1005,
+     "w": 212,
+     "h": 18,
+     "text": "Rafael Odum, Digital Service",
+     "family": "Inter",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "rect",
+     "x": 513.3333333333333,
+     "y": 976,
+     "w": 232.66666666666666,
+     "h": 62,
+     "fill": "#FFFFFF",
+     "stroke": "#131519",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 523.3333333333333,
+     "y": 987,
+     "w": 180,
+     "h": 14,
+     "text": "Review meeting",
+     "family": "Archivo",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#565B64",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 523.3333333333333,
+     "y": 1005,
+     "w": 212,
+     "h": 18,
+     "text": "1 December 2026",
+     "family": "Inter",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#131519"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 1054,
+     "w": 500,
+     "h": 14,
+     "text": "Form AI-IR Rev 4  ·  Keep with the incident record for six years  ·  Classification: Internal",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B64"
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 1054,
+     "w": 150,
+     "h": 14,
+     "text": "Page 1 of 1",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#565B64",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Incident number",
+   "hint": "For example AI-2026-031"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "What happened",
+   "hint": "Up to five lines, about 260 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Organisation and team",
+   "hint": "Company, then the owning team"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Form title",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

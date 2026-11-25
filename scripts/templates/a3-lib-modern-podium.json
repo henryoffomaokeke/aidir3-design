@@ -1,0 +1,285 @@
+{
+ "id": "a3-lib-modern-podium",
+ "title": "Swimming Academy: Product Podium",
+ "categories": [
+  "events",
+  "social"
+ ],
+ "tags": [
+  "swimming",
+  "swim lessons",
+  "kids swimming",
+  "swim academy",
+  "pool",
+  "sports",
+  "story / reel / tiktok",
+  "product podium"
+ ],
+ "styleTags": [
+  "light",
+  "3d depth",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EFFAF5",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1920,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#F9FDFB",
+        0
+       ],
+       [
+        "#E0F6ED",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Studio light"
+    },
+    {
+     "kind": "ellipse",
+     "x": 86,
+     "y": 718,
+     "w": 907,
+     "h": 206,
+     "fill": "#119C68",
+     "name": "Podium side"
+    },
+    {
+     "kind": "ellipse",
+     "x": 86,
+     "y": 670,
+     "w": 907,
+     "h": 194,
+     "fill": "#14B87A",
+     "name": "Podium top"
+    },
+    {
+     "kind": "photo",
+     "x": 238,
+     "y": 186,
+     "w": 605,
+     "h": 605,
+     "shape": "ellipse",
+     "fill": "#DDE6E2",
+     "name": "Photo: kids swimming lesson"
+    },
+    {
+     "kind": "ellipse",
+     "x": 707,
+     "y": 108,
+     "w": 259,
+     "h": 259,
+     "rotation": 10,
+     "fill": "#FFD166",
+     "name": "Sticker"
+    },
+    {
+     "kind": "text",
+     "x": 729.3,
+     "y": 172.1,
+     "w": 166,
+     "h": 166,
+     "text": "Term\n₦80,000",
+     "family": "Outfit",
+     "size": 31,
+     "weight": 800,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 203,
+       "y": 216,
+       "cIn": {
+        "x": 200.72,
+        "y": 243.36
+       },
+       "cOut": {
+        "x": 205.28,
+        "y": 243.36
+       }
+      },
+      {
+       "x": 241,
+       "y": 254,
+       "cIn": {
+        "x": 213.64,
+        "y": 251.72
+       },
+       "cOut": {
+        "x": 213.64,
+        "y": 256.28
+       }
+      },
+      {
+       "x": 203,
+       "y": 292,
+       "cIn": {
+        "x": 205.28,
+        "y": 264.64
+       },
+       "cOut": {
+        "x": 200.72,
+        "y": 264.64
+       }
+      },
+      {
+       "x": 165,
+       "y": 254,
+       "cIn": {
+        "x": 192.36,
+        "y": 256.28
+       },
+       "cOut": {
+        "x": 192.36,
+        "y": 251.72
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#14B87A",
+     "name": "Sparkle"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1113.9,
+     "w": 924,
+     "h": 34,
+     "text": "Learn to swim",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1158.1,
+     "w": 924,
+     "h": 271,
+     "text": "Little ones love water",
+     "family": "Outfit",
+     "size": 130,
+     "weight": 800,
+     "color": "#123026",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1463.1,
+     "w": 924,
+     "h": 94,
+     "text": "Small classes for babies, kids and adults in a heated pool with patient coaches.",
+     "family": "Outfit",
+     "size": 32,
+     "weight": 500,
+     "color": "#557566",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 392,
+     "y": 1604,
+     "w": 296,
+     "h": 75,
+     "fill": "#123026",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 392,
+     "y": 1597.9,
+     "w": 296,
+     "h": 75,
+     "text": "Book a trial",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#EFFAF5",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 100 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

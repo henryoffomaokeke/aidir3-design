@@ -173,7 +173,7 @@ export function PublishDialog({
     // Default to this instance's own origin so self-hosted servers get their
     // own domain in the QR code, not ours.
     const origin =
-      typeof window !== "undefined" ? window.location.origin : "https://hycanvas.art";
+      typeof window !== "undefined" ? window.location.origin : "https://design.aidir3.com";
     return designId ? `${origin}/d/${designId}` : origin;
   });
   const [qrEc, setQrEc] = useState<QrEcLevel>("M");

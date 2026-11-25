@@ -79,6 +79,10 @@
   "editor.stop_color": "Stop colour",
   "editor.stroke_color": "Stroke colour",
   "editor.text_color": "Text colour",
+  "editor.toolbox_adjust_tip": "Brightness, contrast, colour and filters: opens Image effects in Properties",
+  "editor.toolbox_eyedropper_tip": "Pick a colour from anywhere on screen and apply it to the selection",
+  "editor.toolbox_harmonies": "Colour harmonies",
+  "editor.toolbox_harmonies_tip": "Matching colour schemes for the selected shape: opens Fill in Properties",
   "stickers.ab-checker": "Chequerboard",
   "ui.dialog": "Dialogue"
 }

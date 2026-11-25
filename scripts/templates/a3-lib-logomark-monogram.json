@@ -1,0 +1,122 @@
+{
+ "id": "a3-lib-logomark-monogram",
+ "title": "Monogram Studio Logo",
+ "categories": [
+  "branding",
+  "business"
+ ],
+ "tags": [
+  "logo",
+  "monogram",
+  "studio",
+  "minimal",
+  "business"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "DM Serif Display",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F2F2F0",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 350,
+     "y": 220,
+     "w": 300,
+     "h": 300,
+     "fill": "#0A0A0A",
+     "radius": 72
+    },
+    {
+     "kind": "text",
+     "x": 350,
+     "y": 197.5,
+     "w": 300,
+     "h": 300,
+     "text": "LL",
+     "family": "DM Serif Display",
+     "size": 150,
+     "weight": 400,
+     "color": "#F2F2F0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 600,
+     "y": 470,
+     "w": 36,
+     "h": 36,
+     "fill": "#0A0A0A"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 567.4,
+     "w": 800,
+     "h": 100,
+     "text": "Lumen Labs",
+     "family": "DM Serif Display",
+     "size": 84,
+     "weight": 400,
+     "color": "#0A0A0A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 684.4,
+     "w": 800,
+     "h": 36,
+     "text": "Software studio",
+     "family": "DM Sans",
+     "size": 24,
+     "weight": 500,
+     "color": "#5C5C5C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

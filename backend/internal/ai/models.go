@@ -456,7 +456,8 @@ var (
 	// which list every model a key can reach with no modality to filter on.
 	imageModelRe = regexp.MustCompile(`(?i)(dall-e|gpt-image|image|flux|cogview|stable-diffusion|sdxl|imagen|canvas|kolors|seedream|photon|recraft|ideogram)`)
 	// notTextModelRe names what a chat field has no use for.
-	notTextModelRe = regexp.MustCompile(`(?i)(embed|whisper|tts|moderation|dall-e|gpt-image|transcribe|-audio|realtime|sora|rerank|guard|sonic|speech|stability|stable-|canvas|titan-image|nova-reel|upscale|twelvelabs|marengo|pegasus)`)
+	// aidir3 fork: "imagine" drops xAI's grok-imagine image and video models.
+	notTextModelRe = regexp.MustCompile(`(?i)(embed|whisper|tts|moderation|dall-e|gpt-image|transcribe|-audio|realtime|sora|rerank|guard|sonic|speech|stability|stable-|canvas|titan-image|nova-reel|upscale|twelvelabs|marengo|pegasus|imagine)`)
 )
 
 // purposeAdmits reports whether a model name may serve a purpose, on the name

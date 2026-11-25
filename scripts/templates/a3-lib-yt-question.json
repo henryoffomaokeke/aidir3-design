@@ -1,0 +1,309 @@
+{
+ "id": "a3-lib-yt-question",
+ "title": "Luxury Lifestyle: Big Question YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "luxury lifestyle",
+  "luxury",
+  "lifestyle",
+  "question"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FF3D00",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -81.5,
+     "y": -679.1,
+     "w": 2006.2,
+     "h": 2006.2,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFB300",
+        0
+       ],
+       [
+        "#FF3D00",
+        0.77
+       ],
+       [
+        "#FF3D00",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 858.86,
+       "y": 179.5,
+       "cOut": {
+        "x": 858.86,
+        "y": 84.93
+       }
+      },
+      {
+       "x": 1029.09,
+       "y": 32.91,
+       "cIn": {
+        "x": 934.51,
+        "y": 32.91
+       },
+       "cOut": {
+        "x": 1133.11,
+        "y": 32.91
+       }
+      },
+      {
+       "x": 1204.04,
+       "y": 188.96,
+       "cIn": {
+        "x": 1204.04,
+        "y": 99.11
+       },
+       "cOut": {
+        "x": 1204.04,
+        "y": 278.8
+       }
+      },
+      {
+       "x": 1085.83,
+       "y": 345,
+       "cIn": {
+        "x": 1137.84,
+        "y": 311.9
+       },
+       "cOut": {
+        "x": 1048,
+        "y": 368.64
+       }
+      },
+      {
+       "x": 1033.81,
+       "y": 439.57,
+       "cIn": {
+        "x": 1033.81,
+        "y": 392.29
+       }
+      },
+      [
+       1033.81,
+       477.4
+      ],
+      [
+       920.33,
+       477.4
+      ],
+      {
+       "x": 920.33,
+       "y": 425.39,
+       "cOut": {
+        "x": 920.33,
+        "y": 354.46
+       }
+      },
+      {
+       "x": 1010.17,
+       "y": 278.8,
+       "cIn": {
+        "x": 953.43,
+        "y": 316.63
+       },
+       "cOut": {
+        "x": 1057.46,
+        "y": 245.7
+       }
+      },
+      {
+       "x": 1085.83,
+       "y": 188.96,
+       "cIn": {
+        "x": 1085.83,
+        "y": 226.79
+       },
+       "cOut": {
+        "x": 1085.83,
+        "y": 151.13
+       }
+      },
+      {
+       "x": 1024.36,
+       "y": 127.49,
+       "cIn": {
+        "x": 1062.19,
+        "y": 127.49
+       },
+       "cOut": {
+        "x": 981.8,
+        "y": 127.49
+       }
+      },
+      {
+       "x": 962.89,
+       "y": 193.69,
+       "cIn": {
+        "x": 962.89,
+        "y": 155.86
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#111111",
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.9,
+     "name": "Question mark"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       915.6,
+       538.87
+      ],
+      [
+       1038.54,
+       538.87
+      ],
+      [
+       1038.54,
+       657.09
+      ],
+      [
+       915.6,
+       657.09
+      ]
+     ],
+     "closed": true,
+     "fill": "#111111",
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.9,
+     "name": "Question mark"
+    },
+    {
+     "kind": "photo",
+     "x": 690,
+     "y": 36,
+     "w": 514,
+     "h": 720,
+     "shape": "rect",
+     "fill": "#A85F1D",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-350d9d1b-4eaa-44c5-8f8a-cda851fd717d-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/350d9d1b-4eaa-44c5-8f8a-cda851fd717d-o.webp",
+      "mime": "image/webp",
+      "license": "by",
+      "credit": {
+       "title": "Young female professional worried about her future",
+       "author": "Ivan Radic",
+       "url": "https://www.flickr.com/photos/26344495@N05/52024613868",
+       "licenseLabel": "CC BY 2.0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 43,
+     "y": 77,
+     "w": 550,
+     "h": 398,
+     "rotation": -3,
+     "fill": "#111111",
+     "radius": 24,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 100.5,
+     "y": 57.5,
+     "w": 618,
+     "h": 340,
+     "text": "$1M",
+     "family": "Anton",
+     "size": 303,
+     "weight": 400,
+     "color": "#FFE600",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 68.6,
+     "y": 449.8,
+     "w": 666,
+     "h": 194,
+     "text": "WATCH?",
+     "family": "Anton",
+     "size": 173,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

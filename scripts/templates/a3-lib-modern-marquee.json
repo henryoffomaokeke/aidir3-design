@@ -1,0 +1,133 @@
+{
+ "id": "a3-lib-modern-marquee",
+ "title": "Grand Opening: Marquee Banner",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "grand opening",
+  "now open",
+  "launch",
+  "new store",
+  "announcement",
+  "facebook cover",
+  "marquee banner",
+  "announcements"
+ ],
+ "styleTags": [
+  "dark",
+  "bold type"
+ ],
+ "size": [
+  1640,
+  624
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0D0D0D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 499,
+     "w": 1640,
+     "h": 125,
+     "fill": "#C8FF00",
+     "name": "Marquee band"
+    },
+    {
+     "kind": "text",
+     "x": 0,
+     "y": 483.2,
+     "w": 1640,
+     "h": 125,
+     "text": "OPEN ✦ OPEN ✦ OPEN ✦ OPEN ✦ OPEN ✦",
+     "family": "Outfit",
+     "size": 77,
+     "weight": 800,
+     "color": "#0D0D0D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true,
+     "name": "Marquee"
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 17.7,
+     "w": 1050,
+     "h": 420,
+     "text": "Now open in Abuja",
+     "family": "Outfit",
+     "size": 212,
+     "weight": 800,
+     "color": "#F4F4F0",
+     "vAlign": "middle",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "rect",
+     "x": 1276,
+     "y": 220,
+     "w": 185,
+     "h": 60,
+     "fill": "#F4F4F0",
+     "radius": 30,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 1276,
+     "y": 215.1,
+     "w": 185,
+     "h": 60,
+     "text": "Visit us",
+     "family": "Outfit",
+     "size": 24,
+     "weight": 700,
+     "color": "#0D0D0D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 45 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

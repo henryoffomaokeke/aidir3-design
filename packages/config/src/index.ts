@@ -27,7 +27,7 @@ const EnvSchema = z.object({
     .string()
     .optional()
     .transform((v) => v === "true"),
-  SMTP_FROM: z.string().default("HyCanvas <no-reply@localhost>"),
+  SMTP_FROM: z.string().default("aidir3 Design <no-reply@localhost>"),
   // Web push. The VAPID key pair is OPTIONAL: web push is enabled
   // only when BOTH keys are set (generate with `npx web-push generate-vapid-keys`);
   // otherwise the push channel is a no-op, like the DevMailer for email. The

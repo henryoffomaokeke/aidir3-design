@@ -1,0 +1,246 @@
+{
+ "id": "a3-yt-channel-icon",
+ "title": "Orbit Monogram Channel Icon",
+ "categories": [
+  "social",
+  "branding"
+ ],
+ "tags": [
+  "youtube",
+  "channel icon",
+  "avatar",
+  "profile picture",
+  "logo",
+  "monogram",
+  "science",
+  "circle"
+ ],
+ "styleTags": [
+  "dark",
+  "violet",
+  "lime accent"
+ ],
+ "size": [
+  800,
+  800
+ ],
+ "rank": -1999,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Unbounded",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Icon",
+   "bg": "#160B3A",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 0,
+     "y": 0,
+     "w": 800,
+     "h": 800,
+     "fill": {
+      "radial": true,
+      "stops": [
+       [
+        "#3A1F8F",
+        0
+       ],
+       [
+        "#160B3A",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 120,
+     "w": 560,
+     "h": 560,
+     "stroke": "#B7A8F0",
+     "strokeWidth": 2,
+     "opacity": 0.25
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 70,
+       "y": 385,
+       "cOut": {
+        "x": 70,
+        "y": 321.5
+       }
+      },
+      {
+       "x": 400,
+       "y": 270,
+       "cIn": {
+        "x": 217.7,
+        "y": 270
+       },
+       "cOut": {
+        "x": 582.3,
+        "y": 270
+       }
+      },
+      {
+       "x": 730,
+       "y": 385,
+       "cIn": {
+        "x": 730,
+        "y": 321.5
+       }
+      }
+     ],
+     "stroke": "#D4FF3A",
+     "strokeWidth": 10,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 210,
+     "w": 600,
+     "h": 330,
+     "text": "OL",
+     "family": "Unbounded",
+     "size": 240,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "center",
+     "letterSpacing": -6,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 730,
+       "y": 385,
+       "cOut": {
+        "x": 730,
+        "y": 448.5
+       }
+      },
+      {
+       "x": 400,
+       "y": 500,
+       "cIn": {
+        "x": 582.3,
+        "y": 500
+       },
+       "cOut": {
+        "x": 217.7,
+        "y": 500
+       }
+      },
+      {
+       "x": 70,
+       "y": 385,
+       "cIn": {
+        "x": 70,
+        "y": 448.5
+       }
+      }
+     ],
+     "stroke": "#D4FF3A",
+     "strokeWidth": 10,
+     "cap": "round"
+    },
+    {
+     "kind": "ellipse",
+     "x": 664,
+     "y": 398,
+     "w": 72,
+     "h": 72,
+     "fill": "#D4FF3A"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 586,
+     "w": 400,
+     "h": 40,
+     "text": "ORBIT LAB",
+     "family": "DM Sans",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "center",
+     "letterSpacing": 8
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 636,
+     "w": 300,
+     "h": 30,
+     "text": "EST · 2021",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 600,
+     "color": "#B7A8F0",
+     "lineHeight": 1,
+     "align": "center",
+     "letterSpacing": 5
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 140,
+     "w": 300,
+     "h": 40,
+     "text": "SCIENCE, SLOWLY",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 600,
+     "color": "#B7A8F0",
+     "lineHeight": 1,
+     "align": "center",
+     "letterSpacing": 5
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Monogram",
+   "hint": "Two letters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Channel name",
+   "hint": "Caps, up to 10 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Year",
+   "hint": "EST · year"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Top line",
+   "hint": "Short motto, caps"
+  }
+ ]
+}

@@ -14,6 +14,7 @@ import (
 	"fmt"
 	"io"
 	"log/slog"
+	"math"
 	"mime/multipart"
 	"net/http"
 	"net/url"
@@ -35,7 +36,79 @@ const (
 	ProviderAzureOpenAI Provider = "azure-openai"
 	ProviderBedrock     Provider = "bedrock"
 	ProviderCustom      Provider = "custom"
+	ProviderXAI         Provider = "xai" // aidir3 fork
 )
+
+// aidir3 fork: xAI defaults, shared by the preset and by a Custom provider
+// pointed at api.x.ai (which is how people tried to connect Grok before the
+// preset existed, and which failed because the transport's gpt-4o-mini
+// default is a model xAI does not serve).
+const (
+	xaiHost              = "api.x.ai"
+	xaiDefaultModel      = "grok-4.20-0309-non-reasoning"
+	xaiDefaultImageModel = "grok-imagine-image"
+)
+
+// isXAI reports whether a call goes to xAI's API: the xai preset, or any
+// OpenAI-compatible provider whose base URL is xAI's host.
+func isXAI(cfg CallConfig) bool {
+	if cfg.Provider == ProviderXAI {
+		return true
+	}
+	if cfg.Provider == ProviderAzureOpenAI || cfg.Provider == ProviderAnthropic || cfg.Provider == ProviderBedrock {
+		return false
+	}
+	u, err := url.Parse(strings.TrimSpace(cfg.BaseURL))
+	return err == nil && strings.EqualFold(u.Hostname(), xaiHost)
+}
+
+// textModelFor and imageModelFor are the OpenAI-compatible transport's model
+// defaults, with xAI's in place of OpenAI's when the call goes there.
+func textModelFor(cfg CallConfig) string {
+	if isXAI(cfg) {
+		return orDefault(cfg.Model, xaiDefaultModel)
+	}
+	return orDefault(cfg.Model, "gpt-4o-mini")
+}
+
+func imageModelFor(cfg CallConfig) string {
+	if isXAI(cfg) {
+		return orDefault(cfg.ImageModel, xaiDefaultImageModel)
+	}
+	return orDefault(cfg.ImageModel, "gpt-image-1")
+}
+
+// xaiAspectRatios are the aspect ratios xAI's image API accepts (from its own
+// validation error), as width/height values.
+var xaiAspectRatios = []struct {
+	name  string
+	ratio float64
+}{
+	{"1:1", 1}, {"4:3", 4.0 / 3}, {"3:4", 3.0 / 4}, {"16:9", 16.0 / 9}, {"9:16", 9.0 / 16},
+	{"3:2", 3.0 / 2}, {"2:3", 2.0 / 3}, {"2:1", 2}, {"1:2", 0.5}, {"21:9", 21.0 / 9},
+}
+
+// xaiAspectRatio maps an OpenAI-style "WxH" size to the nearest aspect ratio xAI
+// accepts. An empty or unparseable size is square, as OpenAI's default is.
+func xaiAspectRatio(size string) string {
+	parts := strings.SplitN(strings.ToLower(strings.TrimSpace(size)), "x", 2)
+	if len(parts) != 2 {
+		return "1:1"
+	}
+	w, errW := strconv.ParseFloat(parts[0], 64)
+	h, errH := strconv.ParseFloat(parts[1], 64)
+	if errW != nil || errH != nil || w <= 0 || h <= 0 {
+		return "1:1"
+	}
+	want := math.Log(w / h)
+	best, bestD := "1:1", math.Inf(1)
+	for _, a := range xaiAspectRatios {
+		if d := math.Abs(math.Log(a.ratio) - want); d < bestD {
+			best, bestD = a.name, d
+		}
+	}
+	return best
+}
 
 // azureAPIVersion is the GA Azure OpenAI REST api-version sent on every call.
 const azureAPIVersion = "2024-06-01"
@@ -76,6 +149,9 @@ type CallConfig struct {
 	// personalUser is set when a user's personal provider serves the call, so
 	// the tokens are also metered to that user. Never serialized.
 	personalUser string
+	// builtin marks the instance fallback provider (aidir3 fork, fallback.go),
+	// so a failure on it is never retried on itself.
+	builtin bool
 }
 
 const maxResponseBytes = 25 * 1024 * 1024 // cap inline image/base64 responses
@@ -216,7 +292,7 @@ func buildTextRequestWithBudget(cfg CallConfig, prompt, system string, budget ou
 		messages = append(messages, map[string]any{"role": "system", "content": system})
 	}
 	messages = append(messages, map[string]any{"role": "user", "content": prompt})
-	model := orDefault(cfg.Model, "gpt-4o-mini")
+	model := textModelFor(cfg) // aidir3 fork: xAI-aware default
 	u, headers := openAICompatEndpoint(cfg, model, "chat/completions")
 	return httpRequest{
 		url:     u,
@@ -279,7 +355,7 @@ func buildStructuredTextRequest(cfg CallConfig, prompt, system, schemaJSON strin
 		messages = append(messages, map[string]any{"role": "system", "content": system})
 	}
 	messages = append(messages, map[string]any{"role": "user", "content": prompt})
-	model := orDefault(cfg.Model, "gpt-4o-mini")
+	model := textModelFor(cfg) // aidir3 fork: xAI-aware default
 	u, headers := openAICompatEndpoint(cfg, model, "chat/completions")
 	return httpRequest{
 		url:     u,
@@ -364,7 +440,7 @@ func buildDescribeImageRequest(cfg CallConfig, in DescribeImageInput) httpReques
 			},
 		}
 	}
-	model := orDefault(cfg.Model, "gpt-4o-mini")
+	model := textModelFor(cfg) // aidir3 fork: xAI-aware default
 	u, headers := openAICompatEndpoint(cfg, model, "chat/completions")
 	return httpRequest{
 		url:     u,
@@ -499,8 +575,21 @@ func buildImageRequest(cfg CallConfig, prompt, size string) httpRequest {
 			sign:    bedrockCreds(cfg),
 		}
 	}
-	model := orDefault(cfg.ImageModel, "gpt-image-1")
+	model := imageModelFor(cfg) // aidir3 fork: xAI-aware default
 	u, headers := openAICompatEndpoint(cfg, model, imageGenerationOp(cfg))
+	if isXAI(cfg) {
+		// aidir3 fork: xAI rejects "size"; it takes the shape as aspect_ratio.
+		// b64_json keeps the result off xAI's short-lived image host.
+		return httpRequest{
+			url:     u,
+			headers: headers,
+			body: map[string]any{
+				"model": model, "prompt": prompt, "n": 1,
+				"response_format": "b64_json", "aspect_ratio": xaiAspectRatio(size),
+			},
+			timeout: imageTimeout,
+		}
+	}
 	return httpRequest{
 		url:     u,
 		headers: headers,
@@ -532,6 +621,8 @@ func parseImageResponse(raw []byte) string {
 			B64JSON   string `json:"b64_json"`
 			URL       string `json:"url"`
 			MediaType string `json:"media_type"`
+			// aidir3 fork: xAI names the same field mime_type (image/jpeg).
+			MimeType string `json:"mime_type"`
 		} `json:"data"`
 	}
 	_ = json.Unmarshal(raw, &j)
@@ -544,7 +635,7 @@ func parseImageResponse(raw []byte) string {
 		// image/png yields a data URL the browser will not decode, so the
 		// declared type wins when the provider sends one. Providers that omit
 		// it keep the historical PNG assumption.
-		return "data:" + orDefault(j.Data[0].MediaType, "image/png") + ";base64," + j.Data[0].B64JSON
+		return "data:" + firstNonEmptyString(j.Data[0].MediaType, j.Data[0].MimeType, "image/png") + ";base64," + j.Data[0].B64JSON
 	}
 	return j.Data[0].URL
 }
@@ -845,6 +936,15 @@ func (s *Service) editImageCall(cfg CallConfig, in EditImageInput) (string, erro
 	if err != nil {
 		return "", errProviderFailed
 	}
+	if isXAI(cfg) {
+		// aidir3 fork: xAI's edit route takes JSON (multipart gets a 415), with
+		// the source as an image_url object carrying a data URL.
+		raw, err := s.postJSON(buildXAIEditRequest(cfg, in, imageBytes))
+		if err != nil {
+			return "", err
+		}
+		return parseImageResponse(raw), nil
+	}
 	var buf bytes.Buffer
 	mw := multipart.NewWriter(&buf)
 	addFile := func(field, filename string, data []byte) error {
@@ -888,4 +988,27 @@ func (s *Service) editImageCall(cfg CallConfig, in EditImageInput) (string, erro
 		return "", err
 	}
 	return parseImageResponse(raw), nil
+}
+
+// buildXAIEditRequest is xAI's /images/edits request (aidir3 fork). The mime
+// type is sniffed from the bytes, since the caller has already stripped the
+// data URL prefix that named it. A mask, when given, rides the same way; xAI
+// accepts the field, but whether it confines the edit to the masked region is
+// not verified, so callers should not rely on it.
+func buildXAIEditRequest(cfg CallConfig, in EditImageInput, imageBytes []byte) httpRequest {
+	model := imageModelFor(cfg)
+	u, headers := openAICompatEndpoint(cfg, model, "images/edits")
+	dataURL := func(b []byte, b64 string) string {
+		return "data:" + http.DetectContentType(b) + ";base64," + b64
+	}
+	body := map[string]any{
+		"model": model, "prompt": in.Prompt, "n": 1, "response_format": "b64_json",
+		"image": map[string]any{"type": "image_url", "url": dataURL(imageBytes, in.ImageBase64)},
+	}
+	if in.MaskBase64 != "" {
+		if maskBytes, err := base64.StdEncoding.DecodeString(in.MaskBase64); err == nil {
+			body["mask"] = map[string]any{"type": "image_url", "url": dataURL(maskBytes, in.MaskBase64)}
+		}
+	}
+	return httpRequest{url: u, headers: headers, body: body, timeout: imageTimeout}
 }

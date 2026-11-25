@@ -1,0 +1,134 @@
+{
+ "id": "a3-lib-logo-geo",
+ "title": "Clearsight Analytics: Geometric Pattern Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "data analytics & bi",
+  "geometric pattern logo",
+  "tech & ai",
+  "data",
+  "analytics"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1600,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#06283D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 197,
+     "y": 244,
+     "w": 147,
+     "h": 147,
+     "fill": "#47B5FF",
+     "radius": 17.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 362,
+     "y": 244,
+     "w": 147,
+     "h": 147,
+     "fill": "#DFF6FF"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       270.5,
+       409
+      ],
+      [
+       344,
+       556
+      ],
+      [
+       197,
+       556
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 374,
+     "y": 421,
+     "w": 123,
+     "h": 123,
+     "stroke": "#47B5FF",
+     "strokeWidth": 23.5
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 313.4,
+     "w": 887,
+     "h": 93,
+     "text": "Clearsight Analytics",
+     "family": "Outfit",
+     "size": 77,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 428.1,
+     "w": 887,
+     "h": 38,
+     "text": "Data analytics & BI",
+     "family": "Outfit",
+     "size": 31,
+     "weight": 700,
+     "color": "#9FC3D9",
+     "lineHeight": 1.12,
+     "letterSpacing": 5.6,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

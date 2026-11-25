@@ -1,0 +1,296 @@
+{
+ "id": "a3-lib-layout-collage",
+ "title": "Supply Chain & Logistics: Photo Collage",
+ "categories": [
+  "business",
+  "social"
+ ],
+ "tags": [
+  "logistics",
+  "supply chain",
+  "freight",
+  "shipping",
+  "warehouse",
+  "enterprise",
+  "instagram post",
+  "photo collage"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Public Sans",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Public Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F1F4F8",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 56,
+     "y": 56,
+     "w": 552,
+     "h": 484,
+     "shape": "rect",
+     "radius": 24,
+     "fill": "#2F3239",
+     "name": "Photo: cargo ship containers",
+     "image": {
+      "asset": "tplph-ov-1dd9d030-1b32-4e56-87dd-461add9b079a",
+      "url": "/api/v1/templates/photos/ov/1dd9d030-1b32-4e56-87dd-461add9b079a.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Ship Container",
+       "author": "Leeroy",
+       "url": "https://stocksnap.io/photo/ship-container-B3KNT4U75S",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Ship Container",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "photo",
+     "x": 624,
+     "y": 56,
+     "w": 400,
+     "h": 234,
+     "shape": "rect",
+     "radius": 24,
+     "fill": "#D3D4D5",
+     "name": "Photo: warehouse logistics",
+     "image": {
+      "asset": "tplph-ov-ee37ce96-8153-4671-9faf-1606883a5f55",
+      "url": "/api/v1/templates/photos/ov/ee37ce96-8153-4671-9faf-1606883a5f55.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Products being kept boxes warehouse",
+       "url": "https://www.rawpixel.com/image/5904462/photo-image-public-domain-office-free",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Products being kept boxes warehouse",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "photo",
+     "x": 624,
+     "y": 306,
+     "w": 400,
+     "h": 234,
+     "shape": "rect",
+     "radius": 24,
+     "fill": "#D3D4D5",
+     "name": "Photo: truck highway",
+     "image": {
+      "asset": "tplph-ov-0ad7b580-f7d1-4ce7-b912-f987ca79557d",
+      "url": "/api/v1/templates/photos/ov/0ad7b580-f7d1-4ce7-b912-f987ca79557d.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Highway Road",
+       "author": "Markus Spiske",
+       "url": "https://stocksnap.io/photo/highway-road-AOEI2XN99G",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Highway Road",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 80,
+     "w": 360,
+     "h": 54,
+     "fill": "#0F766E",
+     "radius": 27
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 75.3,
+     "w": 360,
+     "h": 54,
+     "text": "END-TO-END LOGISTICS",
+     "family": "Public Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 575.1,
+     "w": 968,
+     "h": 164,
+     "text": "Your supply\nchain, sorted",
+     "family": "Public Sans",
+     "size": 77,
+     "weight": 700,
+     "color": "#1E293B",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 760.3,
+     "w": 968,
+     "h": 136,
+     "text": "Ocean, air and road freight with bonded warehousing and live tracking across West Africa.",
+     "family": "Public Sans",
+     "size": 27,
+     "weight": 400,
+     "color": "#64748B",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 936,
+     "w": 360,
+     "h": 88,
+     "fill": "#0F766E",
+     "radius": 44
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 929.9,
+     "w": 281,
+     "h": 88,
+     "text": "Get a quote",
+     "family": "Public Sans",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       369.88,
+       980.5
+      ],
+      [
+       389.13,
+       980.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       379.5,
+       970.88
+      ],
+      [
+       389.13,
+       980.5
+      ],
+      [
+       379.5,
+       990.13
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "icon",
+     "icon": "truck",
+     "x": 446,
+     "y": 953,
+     "w": 55,
+     "h": 55,
+     "color": "#0F766E"
+    },
+    {
+     "kind": "text",
+     "x": 531,
+     "y": 930.4,
+     "w": 493,
+     "h": 88,
+     "text": "Corridor Freight",
+     "family": "Public Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#1E293B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 110 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

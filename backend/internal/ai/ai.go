@@ -54,6 +54,12 @@ func badGateway(cfg CallConfig, err error) error {
 	if errors.As(err, &se) {
 		slog.Warn("ai provider call failed", "provider", cfg.Provider, "upstream_status", se.status)
 		up := &UpstreamError{Provider: string(cfg.Provider), Status: se.status}
+		// aidir3 fork: xAI answers a wrong key with 400 ("Incorrect API key
+		// provided"), not 401. Classified as the rejected key it is, so the
+		// form says so and the built-in fallback can stand in for it.
+		if se.status == http.StatusBadRequest && keyRejected(se.reason) {
+			up.Status = http.StatusUnauthorized
+		}
 		// A 403 is two different problems on the providers that sign or scope
 		// their keys: a credential that is wrong, and a credential that is fine
 		// but not allowed this MODEL (Bedrock's IAM policy per inference
@@ -73,6 +79,13 @@ func badGateway(cfg CallConfig, err error) error {
 		return errors.Join(ErrBadGateway, ErrReplyTruncated)
 	}
 	return ErrBadGateway
+}
+
+// keyRejected reads a 400 refusal for the shape of "your API key is wrong"
+// (aidir3 fork; xAI's dialect).
+func keyRejected(reason string) bool {
+	r := strings.ToLower(reason)
+	return strings.Contains(r, "incorrect api key") || strings.Contains(r, "invalid api key")
 }
 
 // modelAccessDenied reads a provider's refusal for the shape of "this model is
@@ -169,12 +182,16 @@ type Service struct {
 	secret     string // AI_SECRET (falls back to JWT_SECRET) for key crypto
 	allowLocal bool   // permit http://localhost base URLs (dev only)
 	client     *http.Client
+	// aidir3 fork: the instance-wide fallback provider from the environment
+	// (see fallback.go), or nil.
+	fallback *CallConfig
 }
 
 // NewService wires the AI service. secret is the AES key material; allowLocalHTTP
 // permits localhost http base URLs (dev).
 func NewService(db DBTX, secret string, allowLocalHTTP bool) *Service {
-	return &Service{db: db, secret: secret, allowLocal: allowLocalHTTP, client: newHTTPClient(allowLocalHTTP)}
+	return &Service{db: db, secret: secret, allowLocal: allowLocalHTTP, client: newHTTPClient(allowLocalHTTP),
+		fallback: osFallback()} // aidir3 fork
 }
 
 // ConfigInput is the set-config payload. BaseURL is a pointer for PATCH
@@ -656,20 +673,25 @@ func (s *Service) ownerCallConfig(ctx context.Context, o Owner) (CallConfig, err
 }
 
 // Text runs a text-generation call.
+//
+// aidir3 fork: this and the other generation entry points run through
+// withFallback, so a workspace without a usable provider is served by the
+// instance fallback (fallback.go). The body of each run is unchanged.
 func (s *Service) Text(ctx context.Context, workspaceID, prompt, system string) (string, error) {
-	cfg, err := s.callConfig(ctx, workspaceID)
-	if err != nil {
-		return "", err
-	}
-	if err := s.enforce(ctx, workspaceID, string(cfg.Provider), estimateTokens(prompt+system, 1024)); err != nil {
-		return "", err
-	}
-	out, err := s.generateText(cfg, prompt, system)
-	if err != nil {
-		return "", badGateway(cfg, err)
-	}
-	s.meter(ctx, workspaceID, cfg, countTokens(prompt)+countTokens(system)+countTokens(out))
-	return out, nil
+	var out string
+	err := s.withFallback(ctx, workspaceID, func() (CallConfig, error) { return s.callConfig(ctx, workspaceID) }, func(cfg CallConfig) error {
+		if err := s.enforce(ctx, workspaceID, string(cfg.Provider), estimateTokens(prompt+system, 1024)); err != nil {
+			return err
+		}
+		o, err := s.generateText(cfg, prompt, system)
+		if err != nil {
+			return badGateway(cfg, err)
+		}
+		s.meter(ctx, workspaceID, cfg, countTokens(prompt)+countTokens(system)+countTokens(o))
+		out = o
+		return nil
+	})
+	return out, err
 }
 
 // TextStructured runs a text call constrained by a JSON Schema, natively where
@@ -679,21 +701,22 @@ func (s *Service) Text(ctx context.Context, workspaceID, prompt, system string) 
 // prompt and keep validating the reply: this primitive raises the odds of
 // schema-valid output, it does not guarantee them.
 func (s *Service) TextStructured(ctx context.Context, workspaceID, prompt, system, schemaJSON string) (string, error) {
-	cfg, err := s.callConfig(ctx, workspaceID)
-	if err != nil {
-		return "", err
-	}
-	// Structured payloads carry a 4096-token output allowance (see the
-	// Anthropic dialect), so the policy estimate uses the same figure.
-	if err := s.enforce(ctx, workspaceID, string(cfg.Provider), estimateTokens(prompt+system, 4096)); err != nil {
-		return "", err
-	}
-	out, err := s.generateStructuredText(cfg, prompt, system, schemaJSON)
-	if err != nil {
-		return "", badGateway(cfg, err)
-	}
-	s.meter(ctx, workspaceID, cfg, countTokens(prompt)+countTokens(system)+countTokens(out))
-	return out, nil
+	var out string
+	err := s.withFallback(ctx, workspaceID, func() (CallConfig, error) { return s.callConfig(ctx, workspaceID) }, func(cfg CallConfig) error {
+		// Structured payloads carry a 4096-token output allowance (see the
+		// Anthropic dialect), so the policy estimate uses the same figure.
+		if err := s.enforce(ctx, workspaceID, string(cfg.Provider), estimateTokens(prompt+system, 4096)); err != nil {
+			return err
+		}
+		o, err := s.generateStructuredText(cfg, prompt, system, schemaJSON)
+		if err != nil {
+			return badGateway(cfg, err)
+		}
+		s.meter(ctx, workspaceID, cfg, countTokens(prompt)+countTokens(system)+countTokens(o))
+		out = o
+		return nil
+	})
+	return out, err
 }
 
 // assertImageCapable rejects image ops on Anthropic (no image endpoint), so an
@@ -721,22 +744,23 @@ func assertEditImageCapable(cfg CallConfig) error {
 // Image runs an image-generation call, on the workspace's dedicated image
 // provider when it has one and on its main provider otherwise.
 func (s *Service) Image(ctx context.Context, workspaceID, prompt, size string) (string, error) {
-	cfg, err := s.imageCallConfig(ctx, workspaceID)
-	if err != nil {
-		return "", err
-	}
-	if err := assertImageCapable(cfg); err != nil {
-		return "", err
-	}
-	if err := s.enforce(ctx, workspaceID, string(cfg.Provider), countTokens(prompt)+imageTokenCost); err != nil {
-		return "", err
-	}
-	out, err := s.generateImage(cfg, prompt, size)
-	if err != nil {
-		return "", badGateway(cfg, err)
-	}
-	s.meter(ctx, workspaceID, cfg, countTokens(prompt)+imageTokenCost)
-	return out, nil
+	var out string
+	err := s.withFallback(ctx, workspaceID, func() (CallConfig, error) { return s.imageCallConfig(ctx, workspaceID) }, func(cfg CallConfig) error {
+		if err := assertImageCapable(cfg); err != nil {
+			return err
+		}
+		if err := s.enforce(ctx, workspaceID, string(cfg.Provider), countTokens(prompt)+imageTokenCost); err != nil {
+			return err
+		}
+		o, err := s.generateImage(cfg, prompt, size)
+		if err != nil {
+			return badGateway(cfg, err)
+		}
+		s.meter(ctx, workspaceID, cfg, countTokens(prompt)+imageTokenCost)
+		out = o
+		return nil
+	})
+	return out, err
 }
 
 var dataURLMime = regexp.MustCompile(`^data:([^;,]+)[;,]`)
@@ -745,17 +769,6 @@ var dataURLPrefix = regexp.MustCompile(`^data:[^,]*,`)
 // DescribeImage generates alt text for an image (F22 FR-12). A data: prefix is
 // stripped and its mime type reused.
 func (s *Service) DescribeImage(ctx context.Context, workspaceID, imageBase64, instruction string) (string, error) {
-	// Whichever configured provider can see: the main one by preference, the
-	// image provider when the main one is text-only.
-	cfg, err := s.visionCallConfig(ctx, workspaceID)
-	if err != nil {
-		return "", err
-	}
-	// Vision describe is unsupported on text-only providers (e.g. DeepSeek); fail
-	// fast with a 400 instead of POSTing an image payload that will be rejected.
-	if !ResolveRoute(string(cfg.Provider), cfg.Model, cfg.ImageModel, FeatureDescribeImage).Supported {
-		return "", ErrDescribeImageUnsupported
-	}
 	mime := "image/png"
 	if m := dataURLMime.FindStringSubmatch(imageBase64); m != nil {
 		mime = m[1]
@@ -765,41 +778,54 @@ func (s *Service) DescribeImage(ctx context.Context, workspaceID, imageBase64, i
 	if instr == "" {
 		instr = altTextInstruction
 	}
-	if err := s.enforce(ctx, workspaceID, string(cfg.Provider), imageTokenCost); err != nil {
-		return "", err
-	}
-	out, err := s.describeImageCall(cfg, DescribeImageInput{ImageBase64: payload, MimeType: mime, Instruction: instr})
-	if err != nil {
-		return "", badGateway(cfg, err)
-	}
-	s.meter(ctx, workspaceID, cfg, countTokens(instr)+countTokens(out))
-	return out, nil
+	var out string
+	// Whichever configured provider can see: the main one by preference, the
+	// image provider when the main one is text-only.
+	err := s.withFallback(ctx, workspaceID, func() (CallConfig, error) { return s.visionCallConfig(ctx, workspaceID) }, func(cfg CallConfig) error {
+		// Vision describe is unsupported on text-only providers (e.g. DeepSeek); fail
+		// fast with a 400 instead of POSTing an image payload that will be rejected.
+		if !ResolveRoute(string(cfg.Provider), cfg.Model, cfg.ImageModel, FeatureDescribeImage).Supported {
+			return ErrDescribeImageUnsupported
+		}
+		if err := s.enforce(ctx, workspaceID, string(cfg.Provider), imageTokenCost); err != nil {
+			return err
+		}
+		o, err := s.describeImageCall(cfg, DescribeImageInput{ImageBase64: payload, MimeType: mime, Instruction: instr})
+		if err != nil {
+			return badGateway(cfg, err)
+		}
+		s.meter(ctx, workspaceID, cfg, countTokens(instr)+countTokens(o))
+		out = o
+		return nil
+	})
+	return out, err
 }
 
 // EditImage edits/outpaints an image by prompt (+ optional mask). Follows the
 // dedicated image provider too: editing is image work, not text work.
 func (s *Service) EditImage(ctx context.Context, workspaceID, imageBase64, prompt, maskBase64, size string) (string, error) {
-	cfg, err := s.imageCallConfig(ctx, workspaceID)
-	if err != nil {
-		return "", err
-	}
-	if err := assertEditImageCapable(cfg); err != nil {
-		return "", err
-	}
-	if err := s.enforce(ctx, workspaceID, string(cfg.Provider), countTokens(prompt)+imageTokenCost); err != nil {
-		return "", err
-	}
 	strip := func(b string) string { return dataURLPrefix.ReplaceAllString(b, "") }
 	mask := ""
 	if maskBase64 != "" {
 		mask = strip(maskBase64)
 	}
-	out, err := s.editImageCall(cfg, EditImageInput{ImageBase64: strip(imageBase64), Prompt: prompt, MaskBase64: mask, Size: size})
-	if err != nil {
-		return "", badGateway(cfg, err)
-	}
-	s.meter(ctx, workspaceID, cfg, countTokens(prompt)+imageTokenCost)
-	return out, nil
+	var out string
+	err := s.withFallback(ctx, workspaceID, func() (CallConfig, error) { return s.imageCallConfig(ctx, workspaceID) }, func(cfg CallConfig) error {
+		if err := assertEditImageCapable(cfg); err != nil {
+			return err
+		}
+		if err := s.enforce(ctx, workspaceID, string(cfg.Provider), countTokens(prompt)+imageTokenCost); err != nil {
+			return err
+		}
+		o, err := s.editImageCall(cfg, EditImageInput{ImageBase64: strip(imageBase64), Prompt: prompt, MaskBase64: mask, Size: size})
+		if err != nil {
+			return badGateway(cfg, err)
+		}
+		s.meter(ctx, workspaceID, cfg, countTokens(prompt)+imageTokenCost)
+		out = o
+		return nil
+	})
+	return out, err
 }
 
 func nilIfEmpty(s string) *string {

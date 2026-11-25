@@ -18,6 +18,7 @@ import { CanvasBackdrop } from "@/components/ui/CanvasBackdrop";
 import { CanvasFloor } from "@/components/ui/CanvasFloor";
 import { Logo } from "@/components/ui/Logo";
 import { tr } from "@/lib/i18n";
+import { aidir3About, aidir3SsoConfig, aidir3SsoUrl, type Aidir3SsoConfig } from "@/lib/aidir3";
 
 // Capability chips that position the breadth of the product on the brand panel.
 const chips = () => [tr("auth.templates"), tr("auth.photos_video"), tr("auth.ai_magic"), tr("auth.docs"), tr("auth.whiteboards"), tr("auth.brand_kit"), tr("auth.print")];
@@ -209,6 +210,21 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
     return () => { cancelled = true; };
   }, []);
 
+  // aidir3 fork: whether sign-in through aidir3.com is on for this instance,
+  // and where this fork's source code is offered (AGPL section 13).
+  const [aidir3, setAidir3] = useState<Aidir3SsoConfig | null>(null);
+  const [sourceUrl, setSourceUrl] = useState("");
+  useEffect(() => {
+    let cancelled = false;
+    void aidir3SsoConfig().then((c) => {
+      if (!cancelled) setAidir3(c);
+    });
+    void aidir3About().then((a) => {
+      if (!cancelled) setSourceUrl(a.sourceUrl ?? "");
+    });
+    return () => { cancelled = true; };
+  }, []);
+
   // Method availability for the current mode. Until the policy loads, every
   // flag reads false so the method UI stays hidden behind the loading state.
   const passwordOn = !!policy && (isSignup ? policy.passwordSignup : policy.passwordLogin);
@@ -218,7 +234,9 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
   const anyLogin = !!policy && (policy.passwordLogin || policy.magicLinkLogin || policy.oidcLogin);
   // Nothing available for this mode (e.g. OIDC-only viewing /signup): show a
   // notice instead of an empty pane.
-  const noMethod = !passwordOn && !magicOn && !(oidcOn && providers.length > 0);
+  // aidir3 fork: "Continue with aidir3" when the site hand-off is configured.
+  const aidir3Url = aidir3 ? aidir3SsoUrl(aidir3, afterAuthPath) : null;
+  const noMethod = !passwordOn && !magicOn && !(oidcOn && providers.length > 0) && !aidir3Url;
   // Effective magic-link mode: the user's toggle, or forced on when magic is the
   // only local method (no password to fall back to), so submit takes the magic
   // path rather than a disabled password endpoint.
@@ -433,7 +451,7 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
           {/* Social / photo post */}
           <div className="absolute end-2 top-0 w-40 rotate-[6deg]">
             <div className="oc-float overflow-hidden rounded-2xl bg-surface shadow-2xl ring-1 ring-black/5" style={{ animationDelay: "1.2s" }}>
-              <div className="grid h-24 place-items-center bg-gradient-to-br from-pink-400 via-fuchsia-500 to-brand-500 text-white"><ImageIcon size={22} /></div>
+              <div className="grid h-24 place-items-center bg-gradient-to-br from-accent-400 via-brand-500 to-brand-600 text-on-brand"><ImageIcon size={22} /></div>
               <div className="p-2.5"><div className="h-1.5 w-3/4 rounded bg-neutral-800" /><div className="mt-1.5 h-1.5 w-1/2 rounded bg-neutral-300" /></div>
             </div>
           </div>
@@ -467,7 +485,15 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
 
         <p className="relative z-10 text-sm text-white/60">
           {tr("auth.your_designs_your_data_open_format_full_expo")}
-          <span className="mt-1 block text-xs text-white/40">{tr("auth.2026_hyscaler_hycanvas_is_a_hyscaler_product")}</span>
+          <span className="mt-1 block text-xs text-white/40">
+            {tr("auth.2026_hyscaler_hycanvas_is_a_hyscaler_product")}
+            {sourceUrl && (
+              <>
+                {" "}
+                <a href={sourceUrl} target="_blank" rel="noreferrer" className="underline hover:text-white/70">{tr("dashboard.source_code")}</a>
+              </>
+            )}
+          </span>
         </p>
       </div>
 
@@ -495,6 +521,22 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
             </div>
           ) : (
           <>
+          {/* aidir3 fork: the site account is the primary way in. */}
+          {aidir3Url && (
+            <div className="mt-7 flex flex-col gap-2">
+              <a
+                href={aidir3Url}
+                className="oc-gradient flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:opacity-90"
+              >
+                {tr("auth.continue_with_provider", { provider: "aidir3" })}
+              </a>
+              {(passwordOn || magicOn || (oidcOn && providers.length > 0)) && (
+                <div className="my-1 flex items-center gap-3 text-xs text-neutral-400">
+                  <span className="h-px flex-1 bg-neutral-200" /> {tr("auth.or")} <span className="h-px flex-1 bg-neutral-200" />
+                </div>
+              )}
+            </div>
+          )}
           {oidcOn && providers.length > 0 && (
             <div className="mt-7 flex flex-col gap-2">
               {providers.map((p) => (
@@ -528,7 +570,7 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
           ) : (
             <>
               {(passwordOn || magicOn) && (
-                <form onSubmit={onSubmit} className={`flex flex-col gap-4 ${oidcOn && providers.length > 0 ? "" : "mt-7"}`}>
+                <form onSubmit={onSubmit} className={`flex flex-col gap-4 ${(oidcOn && providers.length > 0) || aidir3Url ? "" : "mt-7"}`}>
                   {isSignup && passwordOn && !magicMode && (
                     <Input label={tr("auth.name")} placeholder={tr("auth.your_name")} value={name} onChange={(e) => setName(e.target.value)} autoComplete="name" autoFocus />
                   )}

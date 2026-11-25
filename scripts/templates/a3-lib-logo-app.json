@@ -1,0 +1,120 @@
+{
+ "id": "a3-lib-logo-app",
+ "title": "Stillwater Therapy: App Icon Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "mental health & therapy",
+  "app icon logo",
+  "health & wellness",
+  "therapy",
+  "mental health"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1600,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F0F7FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 167,
+     "y": 244,
+     "w": 312,
+     "h": 312,
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#2B7FFF",
+        0
+       ],
+       [
+        "#9AD1FF",
+        1
+       ]
+      ]
+     },
+     "radius": 74.9
+    },
+    {
+     "kind": "icon",
+     "icon": "bulb",
+     "x": 245,
+     "y": 322,
+     "w": 156,
+     "h": 156,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 321.7,
+     "w": 916,
+     "h": 80,
+     "text": "Stillwater Therapy",
+     "family": "Sora",
+     "size": 66,
+     "weight": 800,
+     "color": "#0B2545",
+     "lineHeight": 1.12,
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 419.8,
+     "w": 916,
+     "h": 38,
+     "text": "Mental health & therapy",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#57708F",
+     "lineHeight": 1.12,
+     "letterSpacing": 5.6,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

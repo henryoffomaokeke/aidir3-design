@@ -1,0 +1,661 @@
+{
+ "id": "a3-lib-doc-info-pyramid",
+ "title": "Food Bank & Feeding Drive: Pyramid Infographic",
+ "categories": [
+  "documents",
+  "business",
+  "data"
+ ],
+ "tags": [
+  "food bank",
+  "charity",
+  "feeding",
+  "donate",
+  "volunteer",
+  "community",
+  "infographic",
+  "pyramid infographic"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1080,
+  2700
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF8D6",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 720,
+     "y": -160,
+     "w": 480,
+     "h": 480,
+     "fill": "#1B1B1B",
+     "opacity": 0.12,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 360,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 394,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 780,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 848,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 882,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 950,
+     "y": 428,
+     "w": 10,
+     "h": 10,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 80,
+     "w": 60,
+     "h": 60,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 95,
+     "y": 95,
+     "w": 30,
+     "h": 30,
+     "color": "#FFF8D6"
+    },
+    {
+     "kind": "text",
+     "x": 158,
+     "y": 73.1,
+     "w": 582,
+     "h": 60,
+     "text": "Full Plate Foundation",
+     "family": "Onest",
+     "size": 28,
+     "weight": 700,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 177.6,
+     "w": 920,
+     "h": 32,
+     "text": "NO ONE HUNGRY",
+     "family": "Onest",
+     "size": 26,
+     "weight": 700,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 218.1,
+     "w": 920,
+     "h": 225,
+     "text": "Share a\nplate today",
+     "family": "EB Garamond",
+     "size": 104,
+     "weight": 600,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 473.1,
+     "w": 920,
+     "h": 93,
+     "text": "Every ₦5,000 feeds a family of five for a week. Give food, give funds or give a Saturday morning.",
+     "family": "Onest",
+     "size": 32,
+     "weight": 400,
+     "color": "#5D5A4A",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 618,
+     "w": 140,
+     "h": 8,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2500,
+     "w": 1080,
+     "h": 200,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 2500,
+     "w": 1080,
+     "h": 6,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 2555,
+     "w": 380,
+     "h": 90,
+     "fill": "#1B1B1B",
+     "radius": 45
+    },
+    {
+     "kind": "text",
+     "x": 112,
+     "y": 2547.4,
+     "w": 299,
+     "h": 90,
+     "text": "Donate now",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       412.08,
+       2600
+      ],
+      [
+       431.92,
+       2600
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFF8D6",
+     "strokeWidth": 3.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       422,
+       2590.08
+      ],
+      [
+       431.92,
+       2600
+      ],
+      [
+       422,
+       2609.92
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFF8D6",
+     "strokeWidth": 3.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 500,
+     "y": 2548.6,
+     "w": 500,
+     "h": 90,
+     "text": "fullplate.org.ng",
+     "family": "Onest",
+     "size": 26,
+     "weight": 600,
+     "color": "#1B1B1B",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 678,
+     "w": 360,
+     "h": 230,
+     "fill": "#1B1B1B",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 390,
+     "y": 669.6,
+     "w": 300,
+     "h": 230,
+     "text": "Weekly food parcels",
+     "family": "Onest",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 290,
+     "y": 924,
+     "w": 500,
+     "h": 230,
+     "fill": "#1B1B1B",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 320,
+     "y": 915.6,
+     "w": 440,
+     "h": 230,
+     "text": "School meal programme",
+     "family": "Onest",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 220,
+     "y": 1170,
+     "w": 640,
+     "h": 230,
+     "fill": "#1B1B1B",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 250,
+     "y": 1161.6,
+     "w": 580,
+     "h": 230,
+     "text": "Feeding outreach Saturdays",
+     "family": "Onest",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 150,
+     "y": 1416,
+     "w": 780,
+     "h": 230,
+     "fill": "#1B1B1B",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 1407.6,
+     "w": 720,
+     "h": 230,
+     "text": "Corporate volunteer days",
+     "family": "Onest",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 1662,
+     "w": 920,
+     "h": 230,
+     "fill": "#1B1B1B",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 1653.6,
+     "w": 860,
+     "h": 230,
+     "text": "Transparent monthly reports",
+     "family": "Onest",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1946.1,
+     "w": 920,
+     "h": 40,
+     "text": "Built on",
+     "family": "Onest",
+     "size": 24,
+     "weight": 700,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 2012,
+     "w": 76,
+     "h": 76,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 99,
+     "y": 2031,
+     "w": 38,
+     "h": 38,
+     "color": "#FFF8D6"
+    },
+    {
+     "kind": "text",
+     "x": 179,
+     "y": 2004.1,
+     "w": 821,
+     "h": 76,
+     "text": "100% to food",
+     "family": "Onest",
+     "size": 32,
+     "weight": 600,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 2108,
+     "w": 76,
+     "h": 76,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 99,
+     "y": 2127,
+     "w": 38,
+     "h": 38,
+     "color": "#FFF8D6"
+    },
+    {
+     "kind": "text",
+     "x": 179,
+     "y": 2100.1,
+     "w": 821,
+     "h": 76,
+     "text": "1,200 volunteers",
+     "family": "Onest",
+     "size": 32,
+     "weight": 600,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 80,
+     "y": 2204,
+     "w": 76,
+     "h": 76,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 99,
+     "y": 2223,
+     "w": 38,
+     "h": 38,
+     "color": "#FFF8D6"
+    },
+    {
+     "kind": "text",
+     "x": 179,
+     "y": 2196.1,
+     "w": 821,
+     "h": 76,
+     "text": "18 communities",
+     "family": "Onest",
+     "size": 32,
+     "weight": 600,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n36",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n38",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n40",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

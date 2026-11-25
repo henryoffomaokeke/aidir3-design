@@ -1505,7 +1505,7 @@ function sampleDesign(): DesignFile {
         {
           runs: [
             {
-              text: "HyCanvas", // i18n-ignore: boot placeholder
+              text: "aidir3 Design", // i18n-ignore: boot placeholder
               style: {
                 fontFamily: "system",
                 fontStyle: "Bold",

@@ -1,0 +1,323 @@
+{
+ "id": "a3-yt-thumb-gaming",
+ "title": "Neon Gaming YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "gaming",
+  "esports",
+  "ranked",
+  "neon",
+  "fps",
+  "streamer"
+ ],
+ "styleTags": [
+  "neon",
+  "angular",
+  "dark"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1992,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Chakra Petch",
+   "weight": 700
+  },
+  {
+   "role": "hud",
+   "family": "JetBrains Mono",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#0A0614",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 520,
+     "y": 0,
+     "w": 760,
+     "h": 720,
+     "shape": "rect",
+     "name": "Gameplay screenshot",
+     "fill": {
+      "angle": 120,
+      "stops": [
+       [
+        "#3B1C6E",
+        0
+       ],
+       [
+        "#0F2E5C",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       0
+      ],
+      [
+       760,
+       0
+      ],
+      [
+       600,
+       720
+      ],
+      [
+       0,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#0A0614"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       760,
+       0
+      ],
+      [
+       790,
+       0
+      ],
+      [
+       630,
+       720
+      ],
+      [
+       600,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF2BD6"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       806,
+       0
+      ],
+      [
+       818,
+       0
+      ],
+      [
+       658,
+       720
+      ],
+      [
+       646,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#22F0FF"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       56,
+       52
+      ],
+      [
+       372,
+       52
+      ],
+      [
+       352,
+       96
+      ],
+      [
+       56,
+       96
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A1745"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 52,
+     "w": 290,
+     "h": 44,
+     "text": "SEASON 9 // SOLO QUEUE",
+     "family": "JetBrains Mono",
+     "size": 20,
+     "weight": 700,
+     "color": "#22F0FF",
+     "lineHeight": 1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 126,
+     "w": 700,
+     "h": 160,
+     "text": "TOP 500",
+     "family": "Chakra Petch",
+     "size": 152,
+     "weight": 700,
+     "color": "#22F0FF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 300,
+     "w": 620,
+     "h": 130,
+     "text": "IN 7 DAYS",
+     "family": "Chakra Petch",
+     "size": 124,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       56,
+       470
+      ],
+      [
+       430,
+       470
+      ],
+      [
+       410,
+       482
+      ],
+      [
+       56,
+       482
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF2BD6"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 506,
+     "w": 480,
+     "h": 110,
+     "text": "No duo. No smurfs.\nJust the support role.",
+     "family": "Chakra Petch",
+     "size": 36,
+     "weight": 600,
+     "color": "#C9BFE0",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       930,
+       560
+      ],
+      [
+       1240,
+       560
+      ],
+      [
+       1210,
+       672
+      ],
+      [
+       900,
+       672
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF2BD6"
+    },
+    {
+     "kind": "text",
+     "x": 920,
+     "y": 560,
+     "w": 300,
+     "h": 112,
+     "text": "#412",
+     "family": "Chakra Petch",
+     "size": 92,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 940,
+     "y": 520,
+     "w": 280,
+     "h": 34,
+     "text": "FINAL RANK",
+     "family": "JetBrains Mono",
+     "size": 22,
+     "weight": 700,
+     "color": "#22F0FF",
+     "lineHeight": 1,
+     "align": "center"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "HUD tag",
+   "hint": "Season or mode, under 22 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "Rank goal, short"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "Timeframe, up to 9 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Subline",
+   "hint": "Two short lines"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Rank plate",
+   "hint": "Your final rank"
+  }
+ ]
+}

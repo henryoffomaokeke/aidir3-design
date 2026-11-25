@@ -1,0 +1,477 @@
+{
+ "id": "a3-hr-handbook-cover",
+ "title": "Employee Handbook Cover",
+ "categories": [
+  "hr",
+  "business",
+  "documents",
+  "print"
+ ],
+ "tags": [
+  "employee handbook",
+  "handbook cover",
+  "onboarding",
+  "culture",
+  "people team",
+  "cover page",
+  "a4"
+ ],
+ "styleTags": [
+  "bold",
+  "serif",
+  "vermilion"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -984,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Fraunces",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Cover",
+   "bg": "#CF3D21",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 56,
+     "w": 16,
+     "h": 16,
+     "fill": "#F8EFE0"
+    },
+    {
+     "kind": "ellipse",
+     "x": 67,
+     "y": 56,
+     "w": 16,
+     "h": 16,
+     "fill": "#F5B83D"
+    },
+    {
+     "kind": "text",
+     "x": 94,
+     "y": 50,
+     "w": 240,
+     "h": 30,
+     "text": "Fernhill",
+     "family": "Fraunces",
+     "size": 23,
+     "weight": 600,
+     "color": "#F8EFE0"
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 58,
+     "w": 300,
+     "h": 16,
+     "text": "Employee handbook",
+     "family": "Hanken Grotesk",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#F8EFE0",
+     "align": "right",
+     "letterSpacing": 2.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 51,
+     "y": 116,
+     "w": 700,
+     "h": 300,
+     "text": "How we\nwork.",
+     "family": "Fraunces",
+     "size": 150,
+     "weight": 600,
+     "color": "#F8EFE0",
+     "lineHeight": 0.97
+    },
+    {
+     "kind": "ellipse",
+     "x": 578,
+     "y": 284,
+     "w": 148,
+     "h": 148,
+     "fill": "#F5B83D",
+     "name": "Edition disc"
+    },
+    {
+     "kind": "text",
+     "x": 578,
+     "y": 316,
+     "w": 148,
+     "h": 52,
+     "text": "2027",
+     "family": "Fraunces",
+     "size": 44,
+     "weight": 600,
+     "color": "#1C1B3A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 578,
+     "y": 370,
+     "w": 148,
+     "h": 18,
+     "text": "Fourth edition",
+     "family": "Hanken Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1C1B3A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 446,
+     "w": 600,
+     "h": 40,
+     "text": "The Fernhill employee handbook",
+     "family": "Fraunces",
+     "size": 29,
+     "weight": 400,
+     "color": "#F8EFE0"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 502,
+     "w": 56,
+     "h": 3,
+     "fill": "#F8EFE0"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 522,
+     "w": 400,
+     "h": 48,
+     "text": "What we expect of each other, what you can expect from us, and where to find help.",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 500,
+     "color": "#F8EFE0",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#1C1B3A",
+     "name": "Figure 1 body",
+     "points": [
+      {
+       "x": 44,
+       "y": 1123
+      },
+      {
+       "x": 44,
+       "y": 939,
+       "cOut": {
+        "x": 44,
+        "y": 902.5482
+       }
+      },
+      {
+       "x": 110,
+       "y": 873,
+       "cIn": {
+        "x": 73.54820000000001,
+        "y": 873
+       },
+       "cOut": {
+        "x": 146.4518,
+        "y": 873
+       }
+      },
+      {
+       "x": 176,
+       "y": 939,
+       "cIn": {
+        "x": 176,
+        "y": 902.5482
+       }
+      },
+      {
+       "x": 176,
+       "y": 1123
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 64,
+     "y": 769,
+     "w": 92,
+     "h": 92,
+     "fill": "#1C1B3A",
+     "name": "Figure 1 head"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#F8EFE0",
+     "name": "Figure 2 body",
+     "points": [
+      {
+       "x": 188,
+       "y": 1123
+      },
+      {
+       "x": 188,
+       "y": 852,
+       "cOut": {
+        "x": 188,
+        "y": 811.1298
+       }
+      },
+      {
+       "x": 262,
+       "y": 778,
+       "cIn": {
+        "x": 221.1298,
+        "y": 778
+       },
+       "cOut": {
+        "x": 302.8702,
+        "y": 778
+       }
+      },
+      {
+       "x": 336,
+       "y": 852,
+       "cIn": {
+        "x": 336,
+        "y": 811.1298
+       }
+      },
+      {
+       "x": 336,
+       "y": 1123
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 210,
+     "y": 662,
+     "w": 104,
+     "h": 104,
+     "fill": "#F8EFE0",
+     "name": "Figure 2 head"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#F5B83D",
+     "name": "Figure 3 body",
+     "points": [
+      {
+       "x": 348,
+       "y": 1123
+      },
+      {
+       "x": 348,
+       "y": 970,
+       "cOut": {
+        "x": 348,
+        "y": 935.7574
+       }
+      },
+      {
+       "x": 410,
+       "y": 908,
+       "cIn": {
+        "x": 375.7574,
+        "y": 908
+       },
+       "cOut": {
+        "x": 444.2426,
+        "y": 908
+       }
+      },
+      {
+       "x": 472,
+       "y": 970,
+       "cIn": {
+        "x": 472,
+        "y": 935.7574
+       }
+      },
+      {
+       "x": 472,
+       "y": 1123
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 366.5,
+     "y": 809,
+     "w": 87,
+     "h": 87,
+     "fill": "#F5B83D",
+     "name": "Figure 3 head"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#F7B9A6",
+     "name": "Figure 4 body",
+     "points": [
+      {
+       "x": 484,
+       "y": 1123
+      },
+      {
+       "x": 484,
+       "y": 893,
+       "cOut": {
+        "x": 484,
+        "y": 854.3389999999999
+       }
+      },
+      {
+       "x": 554,
+       "y": 823,
+       "cIn": {
+        "x": 515.3389999999999,
+        "y": 823
+       },
+       "cOut": {
+        "x": 592.6610000000001,
+        "y": 823
+       }
+      },
+      {
+       "x": 624,
+       "y": 893,
+       "cIn": {
+        "x": 624,
+        "y": 854.3389999999999
+       }
+      },
+      {
+       "x": 624,
+       "y": 1123
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 505,
+     "y": 713,
+     "w": 98,
+     "h": 98,
+     "fill": "#F7B9A6",
+     "name": "Figure 4 head"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#1C1B3A",
+     "name": "Figure 5 body",
+     "points": [
+      {
+       "x": 636,
+       "y": 1123
+      },
+      {
+       "x": 636,
+       "y": 947,
+       "cOut": {
+        "x": 636,
+        "y": 914.4143
+       }
+      },
+      {
+       "x": 695,
+       "y": 888,
+       "cIn": {
+        "x": 662.4143,
+        "y": 888
+       },
+       "cOut": {
+        "x": 727.5857,
+        "y": 888
+       }
+      },
+      {
+       "x": 754,
+       "y": 947,
+       "cIn": {
+        "x": 754,
+        "y": 914.4143
+       }
+      },
+      {
+       "x": 754,
+       "y": 1123
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 653.5,
+     "y": 793,
+     "w": 83,
+     "h": 83,
+     "fill": "#1C1B3A",
+     "name": "Figure 5 head"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Title",
+   "hint": "Two short lines, up to 6 characters each"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subtitle",
+   "hint": "Up to 34 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Company",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Year",
+   "hint": "Four digits"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Edition",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Promise line",
+   "hint": "One sentence, up to 90 characters"
+  }
+ ]
+}

@@ -128,7 +128,7 @@ func (e *Emitter) maybePush(ctx context.Context, userID, typ, designID string, p
 	if !allowed {
 		return
 	}
-	title := "HyCanvas"
+	title := "aidir3 Design"
 	if designID != "" {
 		if t, err := e.titles.GetTitle(ctx, designID); err == nil && t != "" {
 			title = t

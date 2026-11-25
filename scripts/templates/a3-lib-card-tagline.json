@@ -1,0 +1,116 @@
+{
+ "id": "a3-lib-card-tagline",
+ "title": "Dragon Gate Dojo: Business Card Back (Tagline)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card back",
+  "tagline",
+  "martial arts & self-defence",
+  "fitness"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#C8D96F",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 184.2,
+     "w": 850,
+     "h": 71,
+     "text": "Self-defence for all",
+     "family": "Outfit",
+     "size": 60,
+     "weight": 800,
+     "color": "#23281A",
+     "align": "center",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 475,
+     "y": 400,
+     "w": 100,
+     "h": 3,
+     "fill": "#23281A",
+     "opacity": 0.6
+    },
+    {
+     "kind": "text",
+     "x": 225,
+     "y": 420.8,
+     "w": 600,
+     "h": 27,
+     "text": "@dragongatedojo",
+     "family": "Outfit",
+     "size": 22,
+     "weight": 500,
+     "color": "#23281A",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "rect",
+     "x": 495,
+     "y": 485,
+     "w": 60,
+     "h": 60,
+     "fill": "#23281A",
+     "radius": 16.8
+    },
+    {
+     "kind": "icon",
+     "icon": "shield",
+     "x": 509,
+     "y": 499,
+     "w": 32,
+     "h": 32,
+     "color": "#C8D96F"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

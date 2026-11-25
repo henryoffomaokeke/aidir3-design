@@ -1,0 +1,253 @@
+{
+ "id": "a3-lib-doc-lb-split",
+ "title": "Supermarket Deals: Split Colour Ad",
+ "categories": [
+  "marketing"
+ ],
+ "tags": [
+  "supermarket",
+  "groceries",
+  "deals",
+  "food",
+  "promo",
+  "leaderboard ad 728×90",
+  "split colour ad",
+  "sale & offers"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1456,
+  180
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#1F0F2E",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 300,
+     "h": 180,
+     "fill": "#FFF4E8"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       300,
+       52
+      ],
+      [
+       304.43,
+       73.48
+      ],
+      [
+       319,
+       57.09
+      ],
+      [
+       312.09,
+       77.91
+      ],
+      [
+       332.91,
+       71
+      ],
+      [
+       316.52,
+       85.57
+      ],
+      [
+       338,
+       90
+      ],
+      [
+       316.52,
+       94.43
+      ],
+      [
+       332.91,
+       109
+      ],
+      [
+       312.09,
+       102.09
+      ],
+      [
+       319,
+       122.91
+      ],
+      [
+       304.43,
+       106.52
+      ],
+      [
+       300,
+       128
+      ],
+      [
+       295.57,
+       106.52
+      ],
+      [
+       281,
+       122.91
+      ],
+      [
+       287.91,
+       102.09
+      ],
+      [
+       267.09,
+       109
+      ],
+      [
+       283.48,
+       94.43
+      ],
+      [
+       262,
+       90
+      ],
+      [
+       283.48,
+       85.57
+      ],
+      [
+       267.09,
+       71
+      ],
+      [
+       287.91,
+       77.91
+      ],
+      [
+       281,
+       57.09
+      ],
+      [
+       295.57,
+       73.48
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF8A3D",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 24,
+     "y": -6.3,
+     "w": 226,
+     "h": 180,
+     "text": "WEEKEND DEALS",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#1F0F2E",
+     "vAlign": "middle",
+     "lineHeight": 1.1,
+     "letterSpacing": 2,
+     "upper": true,
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 340,
+     "y": 6.9,
+     "w": 740,
+     "h": 64,
+     "text": "Fresh deals every week",
+     "family": "Plus Jakarta Sans",
+     "size": 58,
+     "weight": 800,
+     "color": "#FFF4E8",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 340,
+     "y": 84.7,
+     "w": 740,
+     "h": 30,
+     "text": "Groceries · Drinks · Household",
+     "family": "Red Hat Text",
+     "size": 24,
+     "weight": 600,
+     "color": "#D9B8C9",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1096,
+     "y": 0,
+     "w": 360,
+     "h": 180,
+     "fill": "#2C1640"
+    },
+    {
+     "kind": "text",
+     "x": 1116,
+     "y": -6.2,
+     "w": 320,
+     "h": 180,
+     "text": "freshmart.ng",
+     "family": "Red Hat Text",
+     "size": 28,
+     "weight": 700,
+     "color": "#FF8A3D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "bleed": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  }
+ ]
+}

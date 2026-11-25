@@ -1,0 +1,2 @@
+# Intermediate files of build.mjs (font metrics, the exporter bundle, the raw catalogue).
+.build/

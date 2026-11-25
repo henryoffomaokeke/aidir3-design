@@ -8,10 +8,10 @@
 package brand
 
 const (
-	Name          = "HyCanvas"
-	Primary       = "#9B2C72"
-	PrimaryDark   = "#7E2059"
-	GradientStart = "#6D1E50"
-	GradientMid   = "#9B2C72"
-	GradientEnd   = "#C84B9A"
+	Name          = "aidir3 Design"
+	Primary       = "#FF5A1F"
+	PrimaryDark   = "#C2410C"
+	GradientStart = "#FF5A1F"
+	GradientMid   = "#FF7A3D"
+	GradientEnd   = "#FFAE6B"
 )

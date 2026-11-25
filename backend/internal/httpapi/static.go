@@ -167,9 +167,9 @@ func serveNotFound(w http.ResponseWriter, root http.FileSystem, gaID string) boo
 // available (no embedded UI and no PUBLIC_DIR). It points developers at the dev
 // frontend and the production build instead of returning a bare JSON 404.
 const apiOnlyNotice = `<!doctype html><html><head><meta charset="utf-8">` +
-	`<title>HyCanvas (API only)</title></head>` +
+	`<title>aidir3 Design (API only)</title></head>` +
 	`<body style="font-family:system-ui,sans-serif;max-width:40rem;margin:4rem auto;padding:0 1rem;line-height:1.5">` +
-	`<h1>HyCanvas (API only)</h1>` +
+	`<h1>aidir3 Design (API only)</h1>` +
 	`<p>This binary is running without an embedded frontend.</p>` +
 	`<ul>` +
 	`<li><strong>Development:</strong> run <code>npm run dev</code> and open the Next.js dev server at <a href="http://localhost:3000">http://localhost:3000</a>.</li>` +

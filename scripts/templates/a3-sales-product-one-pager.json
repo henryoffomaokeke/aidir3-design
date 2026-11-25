@@ -1,0 +1,721 @@
+{
+ "id": "a3-sales-product-one-pager",
+ "title": "Product One-Pager",
+ "categories": [
+  "sales",
+  "marketing",
+  "product",
+  "print"
+ ],
+ "tags": [
+  "one-pager",
+  "product overview",
+  "sales collateral",
+  "saas",
+  "outcomes",
+  "how it works",
+  "leave-behind"
+ ],
+ "styleTags": [
+  "bright",
+  "violet",
+  "modern"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -949,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "One-pager",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 794,
+     "h": 440,
+     "fill": "#5A31F4"
+    },
+    {
+     "kind": "ellipse",
+     "x": 566,
+     "y": -196,
+     "w": 420,
+     "h": 420,
+     "fill": "#4320C9",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 45,
+     "w": 16,
+     "h": 16,
+     "fill": "#D4F24B"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 41,
+     "w": 200,
+     "h": 24,
+     "text": "wrenfield",
+     "family": "Outfit",
+     "size": 18,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "letterSpacing": -0.3
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 47,
+     "w": 300,
+     "h": 14,
+     "text": "Product overview · 2027",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#D9D0FB",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 112,
+     "w": 300,
+     "h": 13,
+     "text": "Wrenfield Assist",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#D4F24B",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 134,
+     "w": 640,
+     "h": 104,
+     "text": "Answer every customer\nin minutes, not hours.",
+     "family": "Outfit",
+     "size": 44,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "letterSpacing": -0.4,
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 262,
+     "w": 300,
+     "h": 84,
+     "text": "Assist drafts a sourced reply to every support ticket from your own documentation, so agents review and send instead of searching and typing.",
+     "family": "Inter",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#E7E1FF",
+     "lineHeight": 1.6
+    },
+    {
+     "kind": "button",
+     "x": 56,
+     "y": 364,
+     "w": 196,
+     "h": 40,
+     "label": "Book a 20-minute demo",
+     "fill": "#D4F24B",
+     "color": "#1A1433",
+     "family": "Inter",
+     "size": 12,
+     "weight": 700,
+     "radius": 20
+    },
+    {
+     "kind": "rect",
+     "x": 396,
+     "y": 258,
+     "w": 346,
+     "h": 266,
+     "fill": "#FFFFFF",
+     "radius": 14
+    },
+    {
+     "kind": "photo",
+     "x": 402,
+     "y": 264,
+     "w": 334,
+     "h": 254,
+     "shape": "rect",
+     "radius": 10,
+     "fill": "#D9D0FB",
+     "name": "Product screenshot"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 466,
+     "w": 300,
+     "h": 36,
+     "text": "No rip and replace. Assist works inside the help desk your team already uses.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.55
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 562,
+     "w": 400,
+     "h": 13,
+     "text": "What teams see in the first quarter",
+     "family": "Inter",
+     "size": 10,
+     "weight": 700,
+     "color": "#5A31F4",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 588,
+     "w": 200,
+     "h": 58,
+     "text": "43%",
+     "family": "Outfit",
+     "size": 46,
+     "weight": 800,
+     "color": "#5A31F4",
+     "letterSpacing": -0.6
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 650,
+     "w": 200,
+     "h": 18,
+     "text": "faster first response",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1A1433"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 672,
+     "w": 190,
+     "h": 34,
+     "text": "Median across 140 teams over their first 90 days.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 268,
+     "y": 596,
+     "w": 1,
+     "h": 110,
+     "fill": "#E1DCF3"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 588,
+     "w": 200,
+     "h": 58,
+     "text": "2.6 hrs",
+     "family": "Outfit",
+     "size": 46,
+     "weight": 800,
+     "color": "#5A31F4",
+     "letterSpacing": -0.6
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 650,
+     "w": 200,
+     "h": 18,
+     "text": "saved per agent, per week",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1A1433"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 672,
+     "w": 190,
+     "h": 34,
+     "text": "Less searching and retyping of answers you already have.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 502,
+     "y": 596,
+     "w": 1,
+     "h": 110,
+     "fill": "#E1DCF3"
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 588,
+     "w": 200,
+     "h": 58,
+     "text": "31%",
+     "family": "Outfit",
+     "size": 46,
+     "weight": 800,
+     "color": "#5A31F4",
+     "letterSpacing": -0.6
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 650,
+     "w": 200,
+     "h": 18,
+     "text": "fewer escalations",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1A1433"
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 672,
+     "w": 190,
+     "h": 34,
+     "text": "Tier-one agents resolve more with a cited draft in hand.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 734,
+     "w": 682,
+     "h": 172,
+     "fill": "#F0ECFE",
+     "radius": 16
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 758,
+     "w": 300,
+     "h": 26,
+     "text": "How it works",
+     "family": "Outfit",
+     "size": 19,
+     "weight": 800,
+     "color": "#1A1433",
+     "letterSpacing": 0.2
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 764,
+     "w": 272,
+     "h": 14,
+     "text": "Live in an afternoon",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#5A31F4",
+     "align": "right"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       816
+      ],
+      [
+       288,
+       816
+      ]
+     ],
+     "stroke": "#B9A8FA",
+     "strokeWidth": 2,
+     "dash": [
+      4,
+      6
+     ]
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       336,
+       816
+      ],
+      [
+       502,
+       816
+      ]
+     ],
+     "stroke": "#B9A8FA",
+     "strokeWidth": 2,
+     "dash": [
+      4,
+      6
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 802,
+     "w": 28,
+     "h": 28,
+     "fill": "#5A31F4"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 802,
+     "w": 28,
+     "h": 28,
+     "text": "1",
+     "family": "Outfit",
+     "size": 13,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 840,
+     "w": 190,
+     "h": 18,
+     "text": "Connect",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1A1433"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 861,
+     "w": 186,
+     "h": 34,
+     "text": "Link your help desk and knowledge base. No migration, no new inbox.",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 298,
+     "y": 802,
+     "w": 28,
+     "h": 28,
+     "fill": "#5A31F4"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 802,
+     "w": 28,
+     "h": 28,
+     "text": "2",
+     "family": "Outfit",
+     "size": 13,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 840,
+     "w": 190,
+     "h": 18,
+     "text": "Draft",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1A1433"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 861,
+     "w": 186,
+     "h": 34,
+     "text": "Assist writes a reply for each new ticket and cites the articles it used.",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 512,
+     "y": 802,
+     "w": 28,
+     "h": 28,
+     "fill": "#5A31F4"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 802,
+     "w": 28,
+     "h": 28,
+     "text": "3",
+     "family": "Outfit",
+     "size": 13,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 840,
+     "w": 190,
+     "h": 18,
+     "text": "Send and learn",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1A1433"
+    },
+    {
+     "kind": "text",
+     "x": 512,
+     "y": 861,
+     "w": 186,
+     "h": 34,
+     "text": "Agents review, edit and send. Every edit sharpens the next draft.",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#575173",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 936,
+     "w": 300,
+     "h": 13,
+     "text": "Trusted by support teams at",
+     "family": "Inter",
+     "size": 10,
+     "weight": 700,
+     "color": "#8A85A3",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 56,
+     "y": 962,
+     "w": 126,
+     "h": 44,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#ECEAF3",
+     "name": "Customer logo 1"
+    },
+    {
+     "kind": "photo",
+     "x": 195,
+     "y": 962,
+     "w": 126,
+     "h": 44,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#ECEAF3",
+     "name": "Customer logo 2"
+    },
+    {
+     "kind": "photo",
+     "x": 334,
+     "y": 962,
+     "w": 126,
+     "h": 44,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#ECEAF3",
+     "name": "Customer logo 3"
+    },
+    {
+     "kind": "photo",
+     "x": 473,
+     "y": 962,
+     "w": 126,
+     "h": 44,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#ECEAF3",
+     "name": "Customer logo 4"
+    },
+    {
+     "kind": "photo",
+     "x": 612,
+     "y": 962,
+     "w": 126,
+     "h": 44,
+     "shape": "rect",
+     "radius": 8,
+     "fill": "#ECEAF3",
+     "name": "Customer logo 5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1035,
+     "w": 794,
+     "h": 88,
+     "fill": "#1A1433"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 1061,
+     "w": 4,
+     "h": 36,
+     "fill": "#D4F24B"
+    },
+    {
+     "kind": "text",
+     "x": 74,
+     "y": 1058,
+     "w": 330,
+     "h": 22,
+     "text": "See it on your own tickets",
+     "family": "Outfit",
+     "size": 16,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "letterSpacing": 0.2
+    },
+    {
+     "kind": "text",
+     "x": 74,
+     "y": 1083,
+     "w": 340,
+     "h": 16,
+     "text": "A 20-minute demo on a sample of your real queue.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#B9B3D6"
+    },
+    {
+     "kind": "text",
+     "x": 478,
+     "y": 1058,
+     "w": 260,
+     "h": 20,
+     "text": "sales@wrenfield.example",
+     "family": "Inter",
+     "size": 13,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 1083,
+     "w": 300,
+     "h": 16,
+     "text": "+44 20 7946 0155 · wrenfield.example/assist",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9B3D6",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Value headline",
+   "hint": "Two lines, up to 22 characters each"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "What the product does",
+   "hint": "One sentence, about 25 words"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "First outcome figure",
+   "hint": "e.g. 43%"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Second outcome figure",
+   "hint": "e.g. 2.6 hrs"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Third outcome figure",
+   "hint": "e.g. 31%"
+  },
+  {
+   "node": "p0-n51",
+   "kind": "text",
+   "label": "Sales contact",
+   "hint": "Email address"
+  }
+ ]
+}

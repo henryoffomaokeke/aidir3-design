@@ -1,0 +1,275 @@
+{
+ "id": "a3-lib-doc-gv-ribbon",
+ "title": "70th & 80th Celebration: Ribbon Gift Card",
+ "categories": [
+  "celebrations",
+  "personal",
+  "marketing",
+  "print"
+ ],
+ "tags": [
+  "80th birthday",
+  "70th birthday",
+  "celebration of life",
+  "grandparents",
+  "thanksgiving",
+  "gift voucher",
+  "ribbon gift card",
+  "personal"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1800,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E1A3D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 1680,
+     "h": 680,
+     "fill": "#16244F",
+     "radius": 32
+    },
+    {
+     "kind": "rect",
+     "x": 1180,
+     "y": 60,
+     "w": 90,
+     "h": 680,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "rect",
+     "x": 1270,
+     "y": 620,
+     "w": 470,
+     "h": 70,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1090,
+     "y": 110,
+     "w": 140,
+     "h": 90,
+     "fill": "#3D5AFE"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1220,
+     "y": 110,
+     "w": 140,
+     "h": 90,
+     "fill": "#3D5AFE"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1195,
+     "y": 125,
+     "w": 60,
+     "h": 60,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 140,
+     "y": 110,
+     "w": 60,
+     "h": 60,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "icon",
+     "icon": "award",
+     "x": 155,
+     "y": 125,
+     "w": 30,
+     "h": 30,
+     "color": "#0E1A3D"
+    },
+    {
+     "kind": "text",
+     "x": 218,
+     "y": 104.3,
+     "w": 822,
+     "h": 60,
+     "text": "Papa Joseph @ 80",
+     "family": "Outfit",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 185.4,
+     "w": 960,
+     "h": 115,
+     "text": "A gift for you",
+     "family": "Outfit",
+     "size": 104,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 325.9,
+     "w": 960,
+     "h": 84,
+     "text": "Join four generations of the Okeke family to thank God for eighty years of Papa Joseph's life.",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 500,
+     "color": "#AAB4D6",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 140,
+     "y": 580,
+     "w": 281,
+     "h": 70,
+     "fill": "#FFFFFF",
+     "radius": 35
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 574.7,
+     "w": 281,
+     "h": 70,
+     "text": "Code PAPA-6598",
+     "family": "Outfit",
+     "size": 26,
+     "weight": 700,
+     "color": "#0E1A3D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 661.5,
+     "w": 960,
+     "h": 28,
+     "text": "Valid for 12 months from issue",
+     "family": "Outfit",
+     "size": 22,
+     "weight": 500,
+     "color": "#AAB4D6",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1300,
+     "y": 134.3,
+     "w": 420,
+     "h": 44,
+     "text": "GIFT CARD",
+     "family": "Outfit",
+     "size": 28,
+     "weight": 700,
+     "color": "#F2C14E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6
+    },
+    {
+     "kind": "text",
+     "x": 1300,
+     "y": 195.7,
+     "w": 420,
+     "h": 240,
+     "text": "Gift card",
+     "family": "Outfit",
+     "size": 110,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 1300,
+     "y": 463.9,
+     "w": 420,
+     "h": 37,
+     "text": "ANY AMOUNT",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#F2C14E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 115 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

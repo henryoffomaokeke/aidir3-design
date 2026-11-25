@@ -36,6 +36,14 @@ type ProviderPreset struct {
 // uses its own (handled in provider.go).
 var PRESETS = []ProviderPreset{
 	{ID: "openai", Label: "OpenAI", BaseURL: "https://api.openai.com/v1", DefaultModel: "gpt-4o-mini", DefaultImageModel: "dall-e-3", Capabilities: Capabilities{Text: true, Image: true, DescribeImage: true, EditImage: true}},
+	// aidir3 fork: xAI (Grok). OpenAI-compatible chat/completions, vision
+	// (image_url parts) and json_schema response_format all verified against
+	// the live API. Its image API differs from OpenAI's in three ways the
+	// transport handles (see isXAI): "size" is rejected (400 "Argument not
+	// supported: size"), so the shape is sent as aspect_ratio; the reply labels
+	// its JPEG with mime_type; and /images/edits takes JSON with the source as
+	// an image_url object, not multipart (multipart is refused with 415).
+	{ID: "xai", Label: "xAI (Grok)", BaseURL: "https://api.x.ai/v1", DefaultModel: "grok-4.20-0309-non-reasoning", DefaultImageModel: "grok-imagine-image", Capabilities: Capabilities{Text: true, Image: true, DescribeImage: true, EditImage: true}},
 	{ID: "anthropic", Label: "Anthropic (Claude)", BaseURL: "https://api.anthropic.com", DefaultModel: defaultAnthropicModel, Capabilities: Capabilities{Text: true, DescribeImage: true}},
 	{ID: "deepseek", Label: "DeepSeek", BaseURL: "https://api.deepseek.com/v1", DefaultModel: "deepseek-chat", Capabilities: Capabilities{Text: true}},
 	// Moonshot AI (Kimi). OpenAI-compatible chat/completions. kimi-latest is the

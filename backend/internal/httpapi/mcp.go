@@ -190,7 +190,7 @@ func (d mcpDeps) handle(w http.ResponseWriter, r *http.Request) {
 			"protocolVersion": version,
 			"capabilities":    map[string]any{"tools": map[string]any{}},
 			"serverInfo":      map[string]any{"name": "hycanvas", "version": "1.0.0"},
-			"instructions":    "HyCanvas generation tools. generate_presentation starts (and usually finishes) a deck; if it returns status \"active\", poll get_job. Design files are the open hycanvas.design format. Exports and share links honor the key's scopes.",
+			"instructions":    "aidir3 Design generation tools. generate_presentation starts (and usually finishes) a deck; if it returns status \"active\", poll get_job. Design files are the open hycanvas.design format. Exports and share links honor the key's scopes.",
 		}, nil)
 	case "ping":
 		writeRPC(w, req.ID, map[string]any{}, nil)

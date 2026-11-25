@@ -7,6 +7,7 @@
 import { create } from "zustand";
 import { ApiError, type User, type WorkspaceWithRole } from "@hc/sdk";
 import { oc } from "@/lib/sdk";
+import { aidir3SsoConfig } from "@/lib/aidir3";
 import { browserTimezone } from "@/lib/timezone";
 
 type Status = "loading" | "authed" | "anon";
@@ -156,7 +157,16 @@ export const useAuth = create<AuthState>((set, get) => ({
       }
     } finally {
       writeActive(null);
-      set({ status: "anon", user: null, workspaces: [], activeWorkspaceId: null });
+      // aidir3 fork: with sign-in through aidir3.com, leave for the site
+      // instead of becoming "anon" here. An anonymous page would hand the
+      // visitor straight back to the site, which is still signed in, and they
+      // would land in the studio again a moment after signing out.
+      const sso = await aidir3SsoConfig();
+      if (sso.enabled && sso.siteUrl && typeof window !== "undefined") {
+        window.location.assign(sso.siteUrl);
+      } else {
+        set({ status: "anon", user: null, workspaces: [], activeWorkspaceId: null });
+      }
     }
   },
 

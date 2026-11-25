@@ -1,0 +1,1497 @@
+{
+ "id": "a3-gov-ai-acceptable-use-policy",
+ "title": "AI Acceptable Use Policy",
+ "categories": [
+  "governance",
+  "hr",
+  "documents",
+  "print"
+ ],
+ "tags": [
+  "ai policy",
+  "acceptable use",
+  "staff policy",
+  "generative ai",
+  "compliance",
+  "one page",
+  "a4"
+ ],
+ "styleTags": [
+  "editorial",
+  "banded",
+  "traffic light"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -997,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Fraunces",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Public Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Policy",
+   "bg": "#FBF8F1",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 44,
+     "w": 420,
+     "h": 14,
+     "text": "Alderbrook Group  ·  Staff policy",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 700,
+     "color": "#14523A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 62,
+     "w": 530,
+     "h": 52,
+     "text": "Using AI tools at work",
+     "family": "Fraunces",
+     "size": 40,
+     "weight": 700,
+     "color": "#1D2420",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 120,
+     "w": 492,
+     "h": 44,
+     "text": "Applies to every employee and contractor, on any device, for chatbots, coding assistants, meeting note-takers and image generators.",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 400,
+     "color": "#5C645D",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 588,
+     "y": 62,
+     "w": 1,
+     "h": 106,
+     "fill": "#DDD7C9"
+    },
+    {
+     "kind": "text",
+     "x": 604,
+     "y": 62,
+     "w": 134,
+     "h": 14,
+     "text": "Effective",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#5C645D",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 604,
+     "y": 75,
+     "w": 138,
+     "h": 16,
+     "text": "1 December 2026",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 604,
+     "y": 100,
+     "w": 134,
+     "h": 14,
+     "text": "Policy owner",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#5C645D",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 604,
+     "y": 113,
+     "w": 138,
+     "h": 16,
+     "text": "AI Governance Office",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 604,
+     "y": 138,
+     "w": 134,
+     "h": 14,
+     "text": "Reviewed",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#5C645D",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 604,
+     "y": 151,
+     "w": 138,
+     "h": 16,
+     "text": "Every six months",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 190,
+     "w": 794,
+     "h": 262,
+     "fill": "#DCEEDF"
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 218,
+     "w": 30,
+     "h": 30,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 260,
+     "w": 170,
+     "h": 14,
+     "text": "Allowed",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 700,
+     "color": "#14523A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 276,
+     "w": 190,
+     "h": 40,
+     "text": "Go ahead",
+     "family": "Fraunces",
+     "size": 30,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 322,
+     "w": 172,
+     "h": 76,
+     "text": "No approval needed when you use an approved tool with information that is not sensitive.",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "icon",
+     "x": 270,
+     "y": 218,
+     "w": 18,
+     "h": 18,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 218,
+     "w": 200,
+     "h": 18,
+     "text": "Draft and edit",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 237,
+     "w": 196,
+     "h": 32,
+     "text": "Emails, reports and slides that hold no client or personal data.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 512,
+     "y": 218,
+     "w": 18,
+     "h": 18,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 218,
+     "w": 200,
+     "h": 18,
+     "text": "Summarise public material",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 237,
+     "w": 196,
+     "h": 32,
+     "text": "Published research, regulations and news articles.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 270,
+     "y": 278,
+     "w": 18,
+     "h": 18,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 278,
+     "w": 200,
+     "h": 18,
+     "text": "Write and review code",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 297,
+     "w": 196,
+     "h": 32,
+     "text": "In Larkspur Code, on repositories you can already access.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 512,
+     "y": 278,
+     "w": 18,
+     "h": 18,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 278,
+     "w": 200,
+     "h": 18,
+     "text": "Brainstorm and plan",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 297,
+     "w": 196,
+     "h": 32,
+     "text": "Ideas, outlines, agendas and first drafts of project plans.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 270,
+     "y": 338,
+     "w": 18,
+     "h": 18,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 338,
+     "w": 200,
+     "h": 18,
+     "text": "Translate internal notes",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 357,
+     "w": 196,
+     "h": 32,
+     "text": "Non-confidential text, checked by a fluent speaker before use.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "icon",
+     "x": 512,
+     "y": 338,
+     "w": 18,
+     "h": 18,
+     "icon": "circle-check",
+     "color": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 338,
+     "w": 200,
+     "h": 18,
+     "text": "Learn a new topic",
+     "family": "Public Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#14523A"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 357,
+     "w": 196,
+     "h": 32,
+     "text": "Ask for an explanation, then confirm it against a trusted source.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#2F4A3B",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 398,
+     "w": 468,
+     "h": 1,
+     "fill": "#1F7A4D",
+     "opacity": 0.3
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 415,
+     "w": 112,
+     "h": 14,
+     "text": "Approved tools",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#14523A",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 408,
+     "y": 410,
+     "w": 114,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "radius": 11
+    },
+    {
+     "kind": "text",
+     "x": 408,
+     "y": 409,
+     "w": 114,
+     "h": 22,
+     "text": "Alderbrook Assist",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#14523A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 530,
+     "y": 410,
+     "w": 100,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "radius": 11
+    },
+    {
+     "kind": "text",
+     "x": 530,
+     "y": 409,
+     "w": 100,
+     "h": 22,
+     "text": "Larkspur Code",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#14523A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 638,
+     "y": 410,
+     "w": 100,
+     "h": 22,
+     "fill": "#FFFFFF",
+     "radius": 11
+    },
+    {
+     "kind": "text",
+     "x": 638,
+     "y": 409,
+     "w": 100,
+     "h": 22,
+     "text": "Pennant Notes",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#14523A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 452,
+     "w": 794,
+     "h": 252,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 452,
+     "w": 8,
+     "h": 252,
+     "fill": "#D9860A"
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 480,
+     "w": 30,
+     "h": 30,
+     "icon": "hourglass",
+     "color": "#D9860A"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 522,
+     "w": 170,
+     "h": 14,
+     "text": "Needs approval",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 700,
+     "color": "#8A5300",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 538,
+     "w": 190,
+     "h": 40,
+     "text": "Ask first",
+     "family": "Fraunces",
+     "size": 30,
+     "weight": 700,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 584,
+     "w": 172,
+     "h": 76,
+     "text": "Send the AI use request form and wait for a written yes before you start.",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#5C645D",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 482,
+     "w": 220,
+     "h": 14,
+     "text": "What you want to do",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#8A5300",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 482,
+     "w": 130,
+     "h": 14,
+     "text": "Who approves",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#8A5300",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 628,
+     "y": 482,
+     "w": 110,
+     "h": 14,
+     "text": "Reply within",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 700,
+     "color": "#8A5300",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 500,
+     "w": 468,
+     "h": 2,
+     "fill": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 509,
+     "w": 220,
+     "h": 34,
+     "text": "Use personal or client data in a prompt, file upload or integration",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 509,
+     "w": 124,
+     "h": 34,
+     "text": "Data Protection Officer",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 634,
+     "y": 509,
+     "w": 104,
+     "h": 16,
+     "text": "3 working days",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#8A5300",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 546,
+     "w": 468,
+     "h": 1,
+     "fill": "#DDD7C9"
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 553,
+     "w": 220,
+     "h": 34,
+     "text": "Use an AI tool that is not on the approved list",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 553,
+     "w": 124,
+     "h": 34,
+     "text": "IT Security",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 634,
+     "y": 553,
+     "w": 104,
+     "h": 16,
+     "text": "5 working days",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#8A5300",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 590,
+     "w": 468,
+     "h": 1,
+     "fill": "#DDD7C9"
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 597,
+     "w": 220,
+     "h": 34,
+     "text": "Publish AI-generated text, images or audio outside the company",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 597,
+     "w": 124,
+     "h": 34,
+     "text": "Communications and Legal",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 634,
+     "y": 597,
+     "w": 104,
+     "h": 16,
+     "text": "2 working days",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#8A5300",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 634,
+     "w": 468,
+     "h": 1,
+     "fill": "#DDD7C9"
+    },
+    {
+     "kind": "text",
+     "x": 270,
+     "y": 641,
+     "w": 220,
+     "h": 34,
+     "text": "Let AI make or shape a decision about a customer, applicant or employee",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 641,
+     "w": 124,
+     "h": 34,
+     "text": "AI Governance Board",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#1D2420",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 634,
+     "y": 641,
+     "w": 104,
+     "h": 16,
+     "text": "10 working days",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#8A5300",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 704,
+     "w": 794,
+     "h": 240,
+     "fill": "#571817"
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 732,
+     "w": 30,
+     "h": 30,
+     "icon": "alert-triangle",
+     "color": "#FFA897"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 774,
+     "w": 170,
+     "h": 14,
+     "text": "Prohibited",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 700,
+     "color": "#FFA897",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 790,
+     "w": 190,
+     "h": 40,
+     "text": "Never",
+     "family": "Fraunces",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 836,
+     "w": 172,
+     "h": 76,
+     "text": "No exceptions, whatever the deadline. Breaches are handled under the conduct policy.",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       272,
+       738
+      ],
+      [
+       283,
+       749
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       283,
+       738
+      ],
+      [
+       272,
+       749
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 734,
+     "w": 204,
+     "h": 18,
+     "text": "Paste secrets into a prompt",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 754,
+     "w": 196,
+     "h": 32,
+     "text": "Passwords, access keys, unreleased financial results.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 792,
+     "w": 468,
+     "h": 1,
+     "fill": "#7A2D2A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       514,
+       738
+      ],
+      [
+       525,
+       749
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       525,
+       738
+      ],
+      [
+       514,
+       749
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 734,
+     "w": 204,
+     "h": 18,
+     "text": "Enter health or HR records",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 754,
+     "w": 196,
+     "h": 32,
+     "text": "Into any tool, including the approved ones.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       272,
+       805
+      ],
+      [
+       283,
+       816
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       283,
+       805
+      ],
+      [
+       272,
+       816
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 801,
+     "w": 204,
+     "h": 18,
+     "text": "Use a personal AI account",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 821,
+     "w": 196,
+     "h": 32,
+     "text": "For work tasks. Consumer tools may train on what you type.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 859,
+     "w": 468,
+     "h": 1,
+     "fill": "#7A2D2A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       514,
+       805
+      ],
+      [
+       525,
+       816
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       525,
+       805
+      ],
+      [
+       514,
+       816
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 801,
+     "w": 204,
+     "h": 18,
+     "text": "Send AI output as checked fact",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 821,
+     "w": 196,
+     "h": 32,
+     "text": "You own the accuracy of everything you share.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       272,
+       872
+      ],
+      [
+       283,
+       883
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       283,
+       872
+      ],
+      [
+       272,
+       883
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 868,
+     "w": 204,
+     "h": 18,
+     "text": "Copy a real person's voice or face",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 298,
+     "y": 888,
+     "w": 196,
+     "h": 32,
+     "text": "Colleagues, clients and public figures alike.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       514,
+       872
+      ],
+      [
+       525,
+       883
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       525,
+       872
+      ],
+      [
+       514,
+       883
+      ]
+     ],
+     "stroke": "#FFA897",
+     "strokeWidth": 2.4,
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 868,
+     "w": 204,
+     "h": 18,
+     "text": "Switch off safety filters",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 888,
+     "w": 196,
+     "h": 32,
+     "text": "Or write prompts designed to get around them or the audit log.",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#EBCFC9",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 972,
+     "w": 170,
+     "h": 14,
+     "text": "Who to ask",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 700,
+     "color": "#14523A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 990,
+     "w": 200,
+     "h": 60,
+     "text": "Not sure?\nAsk us first.",
+     "family": "Fraunces",
+     "size": 20,
+     "weight": 700,
+     "color": "#1D2420",
+     "lineHeight": 1.22
+    },
+    {
+     "kind": "rect",
+     "x": 270,
+     "y": 972,
+     "w": 2,
+     "h": 72,
+     "fill": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 282,
+     "y": 972,
+     "w": 144,
+     "h": 14,
+     "text": "General questions",
+     "family": "Public Sans",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C645D",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 282,
+     "y": 988,
+     "w": 146,
+     "h": 18,
+     "text": "AI Governance Office",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 282,
+     "y": 1007,
+     "w": 146,
+     "h": 16,
+     "text": "ai@alderbrook.example",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 282,
+     "y": 1026,
+     "w": 146,
+     "h": 16,
+     "text": "Replies within one day",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#5C645D"
+    },
+    {
+     "kind": "rect",
+     "x": 430,
+     "y": 972,
+     "w": 2,
+     "h": 72,
+     "fill": "#1F7A4D"
+    },
+    {
+     "kind": "text",
+     "x": 442,
+     "y": 972,
+     "w": 144,
+     "h": 14,
+     "text": "Personal data",
+     "family": "Public Sans",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C645D",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 442,
+     "y": 988,
+     "w": 146,
+     "h": 18,
+     "text": "Ines Varga, DPO",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 442,
+     "y": 1007,
+     "w": 146,
+     "h": 16,
+     "text": "dpo@alderbrook.example",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 442,
+     "y": 1026,
+     "w": 146,
+     "h": 16,
+     "text": "Before you use client data",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#5C645D"
+    },
+    {
+     "kind": "rect",
+     "x": 590,
+     "y": 972,
+     "w": 2,
+     "h": 72,
+     "fill": "#D9860A"
+    },
+    {
+     "kind": "text",
+     "x": 602,
+     "y": 972,
+     "w": 144,
+     "h": 14,
+     "text": "Report a leak",
+     "family": "Public Sans",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C645D",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 602,
+     "y": 988,
+     "w": 146,
+     "h": 18,
+     "text": "Security hotline",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 602,
+     "y": 1007,
+     "w": 146,
+     "h": 16,
+     "text": "+44 20 7946 0133",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#1D2420"
+    },
+    {
+     "kind": "text",
+     "x": 602,
+     "y": 1026,
+     "w": 146,
+     "h": 16,
+     "text": "Any hour, any day",
+     "family": "Public Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#5C645D"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 1066,
+     "w": 682,
+     "h": 1,
+     "fill": "#DDD7C9"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1077,
+     "w": 520,
+     "h": 14,
+     "text": "POL-AI-01  ·  Version 2.0  ·  Approved by the AI Governance Board on 12 November 2026",
+     "family": "Public Sans",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#5C645D"
+    },
+    {
+     "kind": "text",
+     "x": 588,
+     "y": 1077,
+     "w": 150,
+     "h": 14,
+     "text": "Page 1 of 1",
+     "family": "Public Sans",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#5C645D",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Policy title",
+   "hint": "Up to 26 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Who and what the policy covers",
+   "hint": "Two lines, about 130 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Effective date",
+   "hint": "For example 1 December 2026"
+  },
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Company and document type",
+   "hint": "Company name, then the document type"
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "id": "a3-lib-wide-sale",
+ "title": "Sale Post: Angled Block",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "sale",
+  "facebook",
+  "fashion",
+  "discount",
+  "facebook post",
+  "sale & offers"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1200,
+  630
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF6F0",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 504,
+     "y": 0,
+     "w": 696,
+     "h": 630,
+     "shape": "rect",
+     "fill": "#2F3239",
+     "name": "Photo: colorful sneakers on orange background",
+     "image": {
+      "asset": "tplph-ov-83499db1-e470-4fe3-8519-5dca8b8324e2",
+      "url": "/api/v1/templates/photos/ov/83499db1-e470-4fe3-8519-5dca8b8324e2.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Heart balloon, background photo",
+       "url": "https://www.rawpixel.com/image/6039453/photo-image-background-heart-public-domain",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Heart balloon, background photo",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 600,
+     "h": 630,
+     "fill": "#FFF6F0"
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": -10,
+     "w": 90,
+     "h": 650,
+     "rotation": 6,
+     "fill": "#FFF6F0",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 596,
+     "y": 0,
+     "w": 14,
+     "h": 630,
+     "rotation": 6,
+     "fill": "#FF5A1F",
+     "opacity": 0.95
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 56,
+     "w": 220,
+     "h": 46,
+     "fill": "#FF5A1F",
+     "radius": 23
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 52.2,
+     "w": 220,
+     "h": 46,
+     "text": "Weekend only",
+     "family": "Figtree",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 113.1,
+     "w": 544,
+     "h": 190,
+     "text": "40%",
+     "family": "Anton",
+     "size": 190,
+     "weight": 400,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 0.9
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 305.1,
+     "w": 544,
+     "h": 56,
+     "text": "Off sneakers",
+     "family": "Anton",
+     "size": 46,
+     "weight": 400,
+     "color": "#FF5A1F",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 367.5,
+     "w": 524,
+     "h": 60,
+     "text": "All sizes in stock. Same-day delivery in Lagos.",
+     "family": "Figtree",
+     "size": 20,
+     "weight": 400,
+     "color": "#6B6460",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 68,
+       "y": 514,
+       "cIn": {
+        "x": 61.37,
+        "y": 514
+       }
+      },
+      {
+       "x": 264,
+       "y": 514,
+       "cOut": {
+        "x": 270.63,
+        "y": 514
+       }
+      },
+      {
+       "x": 276,
+       "y": 526,
+       "cIn": {
+        "x": 276,
+        "y": 519.37
+       }
+      },
+      {
+       "x": 276,
+       "y": 562,
+       "cOut": {
+        "x": 276,
+        "y": 568.63
+       }
+      },
+      {
+       "x": 264,
+       "y": 574,
+       "cIn": {
+        "x": 270.63,
+        "y": 574
+       }
+      },
+      {
+       "x": 68,
+       "y": 574,
+       "cOut": {
+        "x": 61.37,
+        "y": 574
+       }
+      },
+      {
+       "x": 56,
+       "y": 562,
+       "cIn": {
+        "x": 56,
+        "y": 568.63
+       }
+      },
+      {
+       "x": 56,
+       "y": 526,
+       "cOut": {
+        "x": 56,
+        "y": 519.37
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#151515",
+     "strokeWidth": 2,
+     "dash": [
+      8,
+      6
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 510.1,
+     "w": 220,
+     "h": 60,
+     "text": "KICKS40",
+     "family": "JetBrains Mono",
+     "size": 18,
+     "weight": 700,
+     "color": "#151515",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 292,
+     "y": 514,
+     "w": 220,
+     "h": 60,
+     "fill": "#151515",
+     "radius": 12
+    },
+    {
+     "kind": "text",
+     "x": 313,
+     "y": 510,
+     "w": 166,
+     "h": 60,
+     "text": "Shop now",
+     "family": "Figtree",
+     "size": 18,
+     "weight": 700,
+     "color": "#FFF6F0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "basket",
+     "x": 475,
+     "y": 533,
+     "w": 23,
+     "h": 23,
+     "color": "#FFF6F0"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1057.71,
+       70.76
+      ],
+      [
+       1059.11,
+       119.8
+      ],
+      [
+       1097.59,
+       89.35
+      ],
+      [
+       1074.28,
+       132.53
+      ],
+      [
+       1122.82,
+       125.4
+      ],
+      [
+       1081.05,
+       151.14
+      ],
+      [
+       1126.66,
+       169.23
+      ],
+      [
+       1077.61,
+       170.63
+      ],
+      [
+       1108.06,
+       209.11
+      ],
+      [
+       1064.89,
+       185.8
+      ],
+      [
+       1072.02,
+       234.34
+      ],
+      [
+       1046.28,
+       192.57
+      ],
+      [
+       1028.19,
+       238.18
+      ],
+      [
+       1026.78,
+       189.14
+      ],
+      [
+       988.31,
+       219.58
+      ],
+      [
+       1011.62,
+       176.41
+      ],
+      [
+       963.07,
+       183.54
+      ],
+      [
+       1004.84,
+       157.8
+      ],
+      [
+       959.24,
+       139.71
+      ],
+      [
+       1008.28,
+       138.3
+      ],
+      [
+       977.83,
+       99.83
+      ],
+      [
+       1021.01,
+       123.14
+      ],
+      [
+       1013.88,
+       74.59
+      ],
+      [
+       1039.61,
+       116.36
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF5A1F",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 974,
+     "y": 54,
+     "w": 170,
+     "h": 170,
+     "text": "New\nin",
+     "family": "Anton",
+     "size": 26,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 60 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

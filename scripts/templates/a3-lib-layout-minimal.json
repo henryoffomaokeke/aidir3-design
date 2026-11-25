@@ -1,0 +1,174 @@
+{
+ "id": "a3-lib-layout-minimal",
+ "title": "Food Truck & Street Food: Minimal Arch",
+ "categories": [
+  "food",
+  "social"
+ ],
+ "tags": [
+  "food truck",
+  "street food",
+  "suya",
+  "shawarma",
+  "grill",
+  "snacks",
+  "instagram portrait",
+  "minimal arch"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Epilogue",
+   "weight": 900
+  },
+  {
+   "role": "body",
+   "family": "Host Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF0F6",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 36,
+     "w": 1008,
+     "h": 1278,
+     "stroke": "#2D1630",
+     "strokeWidth": 2,
+     "opacity": 0.25
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 75.4,
+     "w": 888,
+     "h": 36,
+     "text": "STREET FOOD",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#80607C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6
+    },
+    {
+     "kind": "rect",
+     "x": 242,
+     "y": 168,
+     "w": 560,
+     "h": 567,
+     "fill": "#FF3D8B",
+     "radius": 280,
+     "opacity": 0.35
+    },
+    {
+     "kind": "photo",
+     "x": 260,
+     "y": 150,
+     "w": 560,
+     "h": 567,
+     "shape": "ellipse",
+     "fill": "#C3A8B3",
+     "name": "Photo: food truck"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 770.5,
+     "w": 888,
+     "h": 98,
+     "text": "Suya after dark",
+     "family": "Epilogue",
+     "size": 84,
+     "weight": 900,
+     "color": "#2D1630",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.08
+    },
+    {
+     "kind": "rect",
+     "x": 500,
+     "y": 915,
+     "w": 80,
+     "h": 3,
+     "fill": "#FF3D8B"
+    },
+    {
+     "kind": "text",
+     "x": 136,
+     "y": 938.4,
+     "w": 808,
+     "h": 120,
+     "text": "Spicy suya, loaded shawarma and grilled corn from our truck. Check our page for tonight's spot.",
+     "family": "Host Grotesk",
+     "size": 26,
+     "weight": 400,
+     "color": "#80607C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 1214.9,
+     "w": 888,
+     "h": 40,
+     "text": "Find the truck · suyarepublic.ng",
+     "family": "Host Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#2D1630",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 115 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

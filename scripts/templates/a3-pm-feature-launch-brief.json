@@ -1,0 +1,1114 @@
+{
+ "id": "a3-pm-feature-launch-brief",
+ "title": "Feature Launch Brief",
+ "categories": [
+  "product",
+  "marketing",
+  "business"
+ ],
+ "tags": [
+  "launch brief",
+  "go to market",
+  "product launch",
+  "positioning",
+  "key messages",
+  "product marketing",
+  "a4"
+ ],
+ "styleTags": [
+  "bold",
+  "gradient",
+  "colourful"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -986,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bricolage Grotesque",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Launch brief",
+   "bg": "#FFF9F2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 794,
+     "h": 280,
+     "fill": {
+      "angle": 115,
+      "stops": [
+       [
+        "#D91C7A",
+        0
+       ],
+       [
+        "#7D2AD6",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 46,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 43,
+     "w": 200,
+     "h": 16,
+     "text": "Harbor",
+     "family": "Figtree",
+     "size": 13,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "letterSpacing": 2.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 44,
+     "w": 300,
+     "h": 14,
+     "text": "Launch brief · Tier 1 · Internal",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "right",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 96,
+     "w": 400,
+     "h": 18,
+     "text": "New in Harbor for Teams",
+     "family": "Figtree",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 118,
+     "w": 520,
+     "h": 74,
+     "text": "Meeting Recaps",
+     "family": "Bricolage Grotesque",
+     "size": 62,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.08,
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 200,
+     "w": 500,
+     "h": 44,
+     "text": "Every call ends with decisions, owners and due dates, sent before anyone has left the room.",
+     "family": "Figtree",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 596,
+     "y": 84,
+     "w": 142,
+     "h": 160,
+     "fill": "#FFFFFF",
+     "radius": 10
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 100,
+     "w": 142,
+     "h": 14,
+     "text": "Launch day",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#D91C7A",
+     "align": "center",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 118,
+     "w": 142,
+     "h": 78,
+     "text": "9",
+     "family": "Bricolage Grotesque",
+     "size": 70,
+     "weight": 800,
+     "color": "#1C1420",
+     "align": "center",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 198,
+     "w": 142,
+     "h": 18,
+     "text": "March 2027",
+     "family": "Figtree",
+     "size": 14,
+     "weight": 700,
+     "color": "#1C1420",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 218,
+     "w": 142,
+     "h": 14,
+     "text": "Tuesday, 15:00 UTC",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#857C8C",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 310,
+     "w": 300,
+     "h": 14,
+     "text": "Positioning statement",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#D91C7A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 332,
+     "w": 682,
+     "h": 112,
+     "spans": [
+      {
+       "text": "For team leads who lose their afternoons to follow-ups, "
+      },
+      {
+       "text": "Meeting Recaps turns every call into decisions, owners and due dates",
+       "color": "#D91C7A"
+      },
+      {
+       "text": " within two minutes of hanging up. Unlike transcript tools, it writes the actions straight into the tracker the team already uses."
+      }
+     ],
+     "family": "Bricolage Grotesque",
+     "size": 19.5,
+     "weight": 600,
+     "color": "#1C1420",
+     "lineHeight": 1.36
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 458,
+     "w": 682,
+     "h": 1,
+     "fill": "#E9DFD6"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 480,
+     "w": 300,
+     "h": 14,
+     "text": "Audience",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#D91C7A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 510,
+     "w": 3,
+     "h": 62,
+     "fill": "#D91C7A"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 508,
+     "w": 200,
+     "h": 12,
+     "text": "Primary",
+     "family": "Figtree",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#D91C7A",
+     "letterSpacing": 1.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 523,
+     "w": 206,
+     "h": 18,
+     "text": "Team leads, 5 to 30 people",
+     "family": "Figtree",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 543,
+     "w": 206,
+     "h": 32,
+     "text": "Run eight or more recurring meetings a week on Harbor for Teams.",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4352",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 592,
+     "w": 3,
+     "h": 62,
+     "fill": "#D91C7A"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 590,
+     "w": 200,
+     "h": 12,
+     "text": "Secondary",
+     "family": "Figtree",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#D91C7A",
+     "letterSpacing": 1.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 605,
+     "w": 206,
+     "h": 18,
+     "text": "Programme managers",
+     "family": "Figtree",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 625,
+     "w": 206,
+     "h": 32,
+     "text": "Own follow-up across teams and need a record they can audit later.",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4352",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 674,
+     "w": 3,
+     "h": 44,
+     "fill": "#E9DFD6"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 672,
+     "w": 200,
+     "h": 12,
+     "text": "Not for",
+     "family": "Figtree",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#857C8C",
+     "letterSpacing": 1.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 687,
+     "w": 206,
+     "h": 18,
+     "text": "Solo users, free plan",
+     "family": "Figtree",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 707,
+     "w": 206,
+     "h": 32,
+     "text": "Held back until the July release.",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4352",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 296,
+     "y": 480,
+     "w": 1,
+     "h": 236,
+     "fill": "#E9DFD6"
+    },
+    {
+     "kind": "text",
+     "x": 322,
+     "y": 480,
+     "w": 300,
+     "h": 14,
+     "text": "Key messages",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#D91C7A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 322,
+     "y": 504,
+     "w": 40,
+     "h": 34,
+     "text": "1",
+     "family": "Bricolage Grotesque",
+     "size": 28,
+     "weight": 800,
+     "color": "#D91C7A",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 362,
+     "y": 508,
+     "w": 372,
+     "h": 20,
+     "text": "Leave every meeting with owners, not notes.",
+     "family": "Figtree",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 362,
+     "y": 530,
+     "w": 372,
+     "h": 34,
+     "text": "Each recap lists the decisions made, a named owner for every action and a due date.",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4352",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 362,
+     "y": 570,
+     "w": 376,
+     "h": 1,
+     "fill": "#E9DFD6"
+    },
+    {
+     "kind": "text",
+     "x": 322,
+     "y": 576,
+     "w": 40,
+     "h": 34,
+     "text": "2",
+     "family": "Bricolage Grotesque",
+     "size": 28,
+     "weight": 800,
+     "color": "#D91C7A",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 362,
+     "y": 580,
+     "w": 372,
+     "h": 20,
+     "text": "Sent in two minutes, not two days.",
+     "family": "Figtree",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 362,
+     "y": 602,
+     "w": 372,
+     "h": 34,
+     "text": "Median delivery in the beta was 1 minute 48 seconds after the call ended, across 3,900 meetings.",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4352",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 362,
+     "y": 642,
+     "w": 376,
+     "h": 1,
+     "fill": "#E9DFD6"
+    },
+    {
+     "kind": "text",
+     "x": 322,
+     "y": 648,
+     "w": 40,
+     "h": 34,
+     "text": "3",
+     "family": "Bricolage Grotesque",
+     "size": 28,
+     "weight": 800,
+     "color": "#D91C7A",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 362,
+     "y": 652,
+     "w": 372,
+     "h": 20,
+     "text": "Lands where the work already lives.",
+     "family": "Figtree",
+     "size": 14.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 362,
+     "y": 674,
+     "w": 372,
+     "h": 34,
+     "text": "Actions sync to Harbor Tasks and the three trackers our customers use most, with no copy and paste.",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4352",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 746,
+     "w": 794,
+     "h": 172,
+     "fill": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 768,
+     "w": 300,
+     "h": 14,
+     "text": "Channels and dates",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#F58CC0",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 767,
+     "w": 300,
+     "h": 14,
+     "text": "Goal: 20% of Teams workspaces using Recaps in 30 days",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9AFC2",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 832,
+     "w": 682,
+     "h": 2,
+     "fill": "#4A3F52"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 796,
+     "w": 120,
+     "h": 26,
+     "text": "16 Feb",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 827,
+     "w": 12,
+     "h": 12,
+     "fill": "#1C1420",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 850,
+     "w": 124,
+     "h": 16,
+     "text": "Beta debrief",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 868,
+     "w": 122,
+     "h": 30,
+     "text": "42 beta teams, three quotes signed off",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9AFC2",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 195,
+     "y": 796,
+     "w": 120,
+     "h": 26,
+     "text": "2 Mar",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 195,
+     "y": 827,
+     "w": 12,
+     "h": 12,
+     "fill": "#1C1420",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 195,
+     "y": 850,
+     "w": 124,
+     "h": 16,
+     "text": "Sales enablement",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 195,
+     "y": 868,
+     "w": 122,
+     "h": 30,
+     "text": "Deck, demo script and pricing FAQ",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9AFC2",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 796,
+     "w": 120,
+     "h": 26,
+     "text": "9 Mar",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 800,
+     "color": "#FF7DBB",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 331,
+     "y": 824,
+     "w": 18,
+     "h": 18,
+     "fill": "#D91C7A",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 850,
+     "w": 124,
+     "h": 16,
+     "text": "Launch day",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 868,
+     "w": 122,
+     "h": 30,
+     "text": "Blog, email to 61,000, in-app banner",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9AFC2",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 473,
+     "y": 796,
+     "w": 120,
+     "h": 26,
+     "text": "11 Mar",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 473,
+     "y": 827,
+     "w": 12,
+     "h": 12,
+     "fill": "#1C1420",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 473,
+     "y": 850,
+     "w": 124,
+     "h": 16,
+     "text": "Live webinar",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 473,
+     "y": 868,
+     "w": 122,
+     "h": 30,
+     "text": "30 minutes with a customer panel",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9AFC2",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 612,
+     "y": 796,
+     "w": 120,
+     "h": 26,
+     "text": "23 Mar",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "ellipse",
+     "x": 612,
+     "y": 827,
+     "w": 12,
+     "h": 12,
+     "fill": "#1C1420",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "text",
+     "x": 612,
+     "y": 850,
+     "w": 124,
+     "h": 16,
+     "text": "Results review",
+     "family": "Figtree",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 612,
+     "y": 868,
+     "w": 122,
+     "h": 30,
+     "text": "Adoption measured against the 20% goal",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#B9AFC2",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 944,
+     "w": 300,
+     "h": 14,
+     "text": "Owners",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#D91C7A",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 972,
+     "w": 40,
+     "h": 40,
+     "fill": "#D91C7A"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 972,
+     "w": 40,
+     "h": 39,
+     "text": "NH",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 975,
+     "w": 116,
+     "h": 16,
+     "text": "Noor Haddad",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 993,
+     "w": 116,
+     "h": 16,
+     "text": "Launch lead, PMM",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#4B4352"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.5,
+     "y": 972,
+     "w": 40,
+     "h": 40,
+     "fill": "#FBE2EF"
+    },
+    {
+     "kind": "text",
+     "x": 229.5,
+     "y": 972,
+     "w": 40,
+     "h": 39,
+     "text": "FA",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 800,
+     "color": "#D91C7A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 281.5,
+     "y": 975,
+     "w": 116,
+     "h": 16,
+     "text": "Felix Arnaud",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 281.5,
+     "y": 993,
+     "w": 116,
+     "h": 16,
+     "text": "Product manager",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#4B4352"
+    },
+    {
+     "kind": "ellipse",
+     "x": 403,
+     "y": 972,
+     "w": 40,
+     "h": 40,
+     "fill": "#FBE2EF"
+    },
+    {
+     "kind": "text",
+     "x": 403,
+     "y": 972,
+     "w": 40,
+     "h": 39,
+     "text": "GO",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 800,
+     "color": "#D91C7A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 455,
+     "y": 975,
+     "w": 116,
+     "h": 16,
+     "text": "Grace Oyelaran",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 455,
+     "y": 993,
+     "w": 116,
+     "h": 16,
+     "text": "Sales enablement",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#4B4352"
+    },
+    {
+     "kind": "ellipse",
+     "x": 576.5,
+     "y": 972,
+     "w": 40,
+     "h": 40,
+     "fill": "#FBE2EF"
+    },
+    {
+     "kind": "text",
+     "x": 576.5,
+     "y": 972,
+     "w": 40,
+     "h": 39,
+     "text": "MS",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 800,
+     "color": "#D91C7A",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 628.5,
+     "y": 975,
+     "w": 116,
+     "h": 16,
+     "text": "Mateo Silva",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1C1420"
+    },
+    {
+     "kind": "text",
+     "x": 628.5,
+     "y": 993,
+     "w": 116,
+     "h": 16,
+     "text": "Support readiness",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 400,
+     "color": "#4B4352"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 1050,
+     "w": 682,
+     "h": 1,
+     "fill": "#E9DFD6"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1063,
+     "w": 400,
+     "h": 14,
+     "text": "Harbor · Launch brief v1.3 · Updated 24 November 2026",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 400,
+     "color": "#857C8C"
+    },
+    {
+     "kind": "text",
+     "x": 498,
+     "y": 1063,
+     "w": 240,
+     "h": 14,
+     "text": "Internal · Do not share before 9 March",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 400,
+     "color": "#857C8C",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Feature name",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "One-line promise",
+   "hint": "What the customer gets, in one sentence"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Launch day number",
+   "hint": "Day of the month"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Launch month",
+   "hint": "Month and year"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Positioning statement",
+   "hint": "For [audience] who [need], [feature] is [what it does]. Unlike [alternative], it [difference]."
+  },
+  {
+   "node": "p0-n31",
+   "kind": "text",
+   "label": "First key message",
+   "hint": "A claim the customer would repeat, up to 45 characters"
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "id": "a3-lib-card-split",
+ "title": "Sharp Lines Barbers: Business Card Front (Split Colour)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "split colour",
+  "barbershop",
+  "beauty & fashion"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF8D6",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 400,
+     "h": 600,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "ellipse",
+     "x": 40,
+     "y": 520,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 62,
+     "y": 520,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 520,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 106,
+     "y": 520,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 128,
+     "y": 520,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 520,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 40,
+     "y": 542,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 62,
+     "y": 542,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 542,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 106,
+     "y": 542,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 128,
+     "y": 542,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 542,
+     "w": 6,
+     "h": 6,
+     "fill": "#FFF8D6",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 98,
+     "y": 198,
+     "w": 87,
+     "h": 87,
+     "stroke": "#FFF8D6",
+     "strokeWidth": 16.5
+    },
+    {
+     "kind": "rect",
+     "x": 207,
+     "y": 190,
+     "w": 103,
+     "h": 103,
+     "fill": "#FFF8D6",
+     "radius": 12.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 307,
+     "w": 103,
+     "h": 103,
+     "fill": "#FFF8D6"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       258.5,
+       307
+      ],
+      [
+       310,
+       410
+      ],
+      [
+       207,
+       410
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFF8D6",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 193,
+     "w": 520,
+     "h": 42,
+     "text": "Sharp Lines Barbers",
+     "family": "Sora",
+     "size": 35,
+     "weight": 800,
+     "color": "#1B1B1B",
+     "lineHeight": 1.12,
+     "letterSpacing": 0.7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 252,
+     "w": 520,
+     "h": 25,
+     "text": "Barbershop",
+     "family": "Albert Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#5D5A4A",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 470,
+     "y": 301,
+     "w": 70,
+     "h": 4,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 475.6,
+     "w": 520,
+     "h": 27,
+     "text": "sharplines.ng",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#1B1B1B",
+     "lineHeight": 1.12
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n18",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

@@ -74,7 +74,7 @@ func (c CaptchaConfig) Enabled() bool {
 type AuthPolicy struct {
 	PasswordLogin   bool // AUTH_PASSWORD_LOGIN_ENABLED   (default true)
 	PasswordSignup  bool // AUTH_PASSWORD_SIGNUP_ENABLED  (default true)
-	MagicLinkLogin  bool // AUTH_MAGICLINK_LOGIN_ENABLED  (default true)
+	MagicLinkLogin  bool // AUTH_MAGICLINK_LOGIN_ENABLED  (default false in this fork; upstream true)
 	MagicLinkSignup bool // AUTH_MAGICLINK_SIGNUP_ENABLED (default false; creates accounts)
 	OidcLogin       bool // AUTH_OIDC_LOGIN_ENABLED       (default true; effective only when OIDC configured)
 	OidcSignup      bool // AUTH_OIDC_SIGNUP_ENABLED      (default true; effective only when OIDC configured)
@@ -97,9 +97,11 @@ func Load() (Config, error) {
 		DBConnectAttempts:   envInt("DB_CONNECT_ATTEMPTS", 12),
 		DBConnectRetryDelay: envDuration("DB_CONNECT_RETRY_DELAY", 5*time.Second),
 		Auth: AuthPolicy{
-			PasswordLogin:   envBool("AUTH_PASSWORD_LOGIN_ENABLED", true),
-			PasswordSignup:  envBool("AUTH_PASSWORD_SIGNUP_ENABLED", true),
-			MagicLinkLogin:  envBool("AUTH_MAGICLINK_LOGIN_ENABLED", true),
+			PasswordLogin:  envBool("AUTH_PASSWORD_LOGIN_ENABLED", true),
+			PasswordSignup: envBool("AUTH_PASSWORD_SIGNUP_ENABLED", true),
+			// aidir3 fork: emailed sign-in links are off unless asked for. Sign-in
+			// goes through the aidir3 login page; upstream defaults this to true.
+			MagicLinkLogin:  envBool("AUTH_MAGICLINK_LOGIN_ENABLED", false),
 			MagicLinkSignup: envBool("AUTH_MAGICLINK_SIGNUP_ENABLED", false),
 			OidcLogin:       envBool("AUTH_OIDC_LOGIN_ENABLED", true),
 			OidcSignup:      envBool("AUTH_OIDC_SIGNUP_ENABLED", true),

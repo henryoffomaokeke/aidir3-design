@@ -12,6 +12,8 @@ import { useEditorFileDropTarget } from "./EditorFileDrop";
 import { subscribeAiBusy } from "@/lib/aiRequests";
 import { useEditor } from "@/store/editor";
 import { tr } from "@/lib/i18n";
+// aidir3 fork: the docked pro toolbox sits right beside this rail.
+import { useProToolbox } from "@/store/proToolbox";
 
 type Tool = "templates" | "elements" | "text" | "ai" | "uploads" | "stock" | "apps" | "brand" | "layers";
 
@@ -140,6 +142,12 @@ export function ToolRail({
     }
   })();
 
+  // aidir3 fork: below lg the slide-out panel floats over the canvas, starting
+  // at the rail's edge. With the pro toolbox docked there (86px wide in its
+  // icon-only layout, the only one it has below lg) the panel starts past the
+  // toolbox instead, so the tools stay in reach while a panel is open.
+  const toolboxDocked = useProToolbox((s) => s.docked);
+  const overlayFrame = toolboxDocked ? "absolute start-[calc(100%_+_86px)] top-0 z-30 h-full shadow-xl" : "absolute start-full top-0 z-30 h-full shadow-xl";
   const visibleTools = tools().filter((t) => kind === "design" || t.id !== "templates");
   const toolLabel = (t: { id: Tool; label: string }) =>
     t.id === "ai" && aiBusy ? tr("editor.ai_working") : active === t.id ? `Hide ${t.label}` : `Open ${t.label}`;
@@ -257,7 +265,7 @@ export function ToolRail({
     // A landmark, so the rail and its slide-out panel are reachable as a
     // region rather than announced as loose content outside any landmark.
     <aside aria-label={tr("editor.editor_tools")} className="relative flex h-full shrink-0">
-      {aiPanel(overlay ? "absolute start-full top-0 z-30 h-full shadow-xl" : "contents")}
+      {aiPanel(overlay ? overlayFrame : "contents")}
       <div
         role="toolbar"
         aria-label={tr("editor.editor_tools")}
@@ -307,7 +315,7 @@ export function ToolRail({
           Inline mode (lg+): the panel is a normal flex sibling that pushes the
           canvas. */}
       {overlay && panel ? (
-        <div className="absolute start-full top-0 z-30 h-full shadow-xl">{panel}</div>
+        <div className={overlayFrame}>{panel}</div>
       ) : (
         panel
       )}

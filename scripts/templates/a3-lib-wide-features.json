@@ -1,0 +1,659 @@
+{
+ "id": "a3-lib-wide-features",
+ "title": "Product Features Link Card",
+ "categories": [
+  "technology",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "og",
+  "features",
+  "docs",
+  "developer",
+  "blog / link card",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1200,
+  630
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0A0A12",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 76,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 96,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 116,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 76,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 96,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 116,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 76,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 96,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 116,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 76,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 96,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 116,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1078,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1098,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1138,
+     "y": 56,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1078,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1098,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1138,
+     "y": 76,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1078,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1098,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1138,
+     "y": 96,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1078,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1098,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1138,
+     "y": 116,
+     "w": 6,
+     "h": 6,
+     "fill": "#C6FF3D",
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 52.2,
+     "w": 1088,
+     "h": 30,
+     "text": "Docsmith · Open beta",
+     "family": "Inter",
+     "size": 18,
+     "weight": 700,
+     "color": "#C6FF3D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 136,
+     "y": 83.1,
+     "w": 928,
+     "h": 110,
+     "text": "Docs that write themselves",
+     "family": "Space Grotesk",
+     "size": 50,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 230,
+     "w": 349,
+     "h": 250,
+     "fill": "#161625",
+     "radius": 22
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 230,
+     "w": 349,
+     "h": 250,
+     "radius": 22,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.08
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 256,
+     "w": 64,
+     "h": 64,
+     "fill": "#C6FF3D"
+    },
+    {
+     "kind": "icon",
+     "icon": "file-text",
+     "x": 96,
+     "y": 270,
+     "w": 36,
+     "h": 36,
+     "color": "#0A0A12"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 335.4,
+     "w": 293,
+     "h": 32,
+     "text": "API references",
+     "family": "Inter",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 372.7,
+     "w": 293,
+     "h": 80,
+     "text": "Generated from your code.",
+     "family": "Inter",
+     "size": 17,
+     "weight": 400,
+     "color": "#A1A1B5",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 425,
+     "y": 230,
+     "w": 349,
+     "h": 250,
+     "fill": "#161625",
+     "radius": 22
+    },
+    {
+     "kind": "rect",
+     "x": 425,
+     "y": 230,
+     "w": 349,
+     "h": 250,
+     "radius": 22,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.08
+    },
+    {
+     "kind": "ellipse",
+     "x": 451,
+     "y": 256,
+     "w": 64,
+     "h": 64,
+     "fill": "#C6FF3D"
+    },
+    {
+     "kind": "icon",
+     "icon": "search",
+     "x": 465,
+     "y": 270,
+     "w": 36,
+     "h": 36,
+     "color": "#0A0A12"
+    },
+    {
+     "kind": "text",
+     "x": 453,
+     "y": 335.4,
+     "w": 293,
+     "h": 32,
+     "text": "AI search",
+     "family": "Inter",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 453,
+     "y": 372.7,
+     "w": 293,
+     "h": 80,
+     "text": "Answers with sources.",
+     "family": "Inter",
+     "size": 17,
+     "weight": 400,
+     "color": "#A1A1B5",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 795,
+     "y": 230,
+     "w": 349,
+     "h": 250,
+     "fill": "#161625",
+     "radius": 22
+    },
+    {
+     "kind": "rect",
+     "x": 795,
+     "y": 230,
+     "w": 349,
+     "h": 250,
+     "radius": 22,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.08
+    },
+    {
+     "kind": "ellipse",
+     "x": 821,
+     "y": 256,
+     "w": 64,
+     "h": 64,
+     "fill": "#C6FF3D"
+    },
+    {
+     "kind": "icon",
+     "icon": "link",
+     "x": 835,
+     "y": 270,
+     "w": 36,
+     "h": 36,
+     "color": "#0A0A12"
+    },
+    {
+     "kind": "text",
+     "x": 823,
+     "y": 335.4,
+     "w": 293,
+     "h": 32,
+     "text": "Always fresh",
+     "family": "Inter",
+     "size": 22,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 823,
+     "y": 372.7,
+     "w": 293,
+     "h": 80,
+     "text": "Updates on every merge.",
+     "family": "Inter",
+     "size": 17,
+     "weight": 400,
+     "color": "#A1A1B5",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 450,
+     "y": 518,
+     "w": 300,
+     "h": 56,
+     "fill": "#C6FF3D",
+     "radius": 28
+    },
+    {
+     "kind": "text",
+     "x": 470,
+     "y": 514.2,
+     "w": 250,
+     "h": 56,
+     "text": "Join the beta",
+     "family": "Inter",
+     "size": 18,
+     "weight": 700,
+     "color": "#0A0A12",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       720.38,
+       546.5
+      ],
+      [
+       732.63,
+       546.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0A0A12",
+     "strokeWidth": 2.2,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       726.5,
+       540.38
+      ],
+      [
+       732.63,
+       546.5
+      ],
+      [
+       726.5,
+       552.63
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0A0A12",
+     "strokeWidth": 2.2,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n38",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n44",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n50",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

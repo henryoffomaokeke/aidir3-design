@@ -1,0 +1,984 @@
+{
+ "id": "a3-lib-cv-gradient-header",
+ "title": "Designer CV: Gradient Header",
+ "categories": [
+  "resumes",
+  "personal",
+  "hr"
+ ],
+ "tags": [
+  "resume",
+  "cv",
+  "designer",
+  "creative",
+  "resume / cv",
+  "personal"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 300,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#7C3AED",
+        0
+       ],
+       [
+        "#FF7AA2",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 1040,
+     "y": 40,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1064,
+     "y": 40,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1088,
+     "y": 40,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1112,
+     "y": 40,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1136,
+     "y": 40,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1160,
+     "y": 40,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1040,
+     "y": 64,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1064,
+     "y": 64,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1088,
+     "y": 64,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1112,
+     "y": 64,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1136,
+     "y": 64,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1160,
+     "y": 64,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1040,
+     "y": 88,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1064,
+     "y": 88,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1088,
+     "y": 88,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1112,
+     "y": 88,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1136,
+     "y": 88,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1160,
+     "y": 88,
+     "w": 7,
+     "h": 7,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 50.8,
+     "w": 1000,
+     "h": 84,
+     "text": "Ifeoma Nwosu",
+     "family": "Figtree",
+     "size": 88,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 148.4,
+     "w": 1000,
+     "h": 40,
+     "text": "Product Designer",
+     "family": "Figtree",
+     "size": 34,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "opacity": 0.85
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 80,
+     "y": 231,
+     "w": 27,
+     "h": 27,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 122,
+     "y": 217.5,
+     "w": 308,
+     "h": 44,
+     "text": "hello@studioifeoma.com",
+     "family": "Figtree",
+     "size": 20,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 440,
+     "y": 231,
+     "w": 27,
+     "h": 27,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 482,
+     "y": 217.3,
+     "w": 308,
+     "h": 44,
+     "text": "+234 816 777 1234",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 800,
+     "y": 231,
+     "w": 27,
+     "h": 27,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 842,
+     "y": 217.3,
+     "w": 308,
+     "h": 44,
+     "text": "studioifeoma.com",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 353.9,
+     "w": 700,
+     "h": 34,
+     "text": "Profile",
+     "family": "Figtree",
+     "size": 27,
+     "weight": 700,
+     "color": "#7C3AED",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 402,
+     "w": 700,
+     "h": 2,
+     "fill": "#221A2E",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 421.6,
+     "w": 700,
+     "h": 120,
+     "text": "Designer focused on fintech and AI products. I turn messy workflows into calm, accessible interfaces and measure the result.",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 400,
+     "color": "#7A6E85",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 581.9,
+     "w": 700,
+     "h": 34,
+     "text": "Experience",
+     "family": "Figtree",
+     "size": 27,
+     "weight": 700,
+     "color": "#7C3AED",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 630,
+     "w": 700,
+     "h": 2,
+     "fill": "#221A2E",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 520,
+     "y": 654.6,
+     "w": 260,
+     "h": 42,
+     "text": "2022 – Present",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 500,
+     "color": "#7A6E85",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 652.8,
+     "w": 430,
+     "h": 42,
+     "text": "Lead Product Designer",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#221A2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 700.2,
+     "w": 700,
+     "h": 32,
+     "text": "Lumen Labs",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 500,
+     "color": "#7C3AED",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 762,
+     "w": 8,
+     "h": 8,
+     "fill": "#7A6E85"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 739,
+     "w": 676,
+     "h": 72,
+     "text": "Redesigned onboarding;\nactivation rose from 31% to 52%",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 840,
+     "w": 8,
+     "h": 8,
+     "fill": "#7A6E85"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 817,
+     "w": 676,
+     "h": 37,
+     "text": "Built a 120-component design system in Figma",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 520,
+     "y": 903.6,
+     "w": 260,
+     "h": 42,
+     "text": "2019 – 2022",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 500,
+     "color": "#7A6E85",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 901.8,
+     "w": 430,
+     "h": 42,
+     "text": "Product Designer",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#221A2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 949.2,
+     "w": 700,
+     "h": 32,
+     "text": "Kora Health",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 500,
+     "color": "#7C3AED",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 1011,
+     "w": 8,
+     "h": 8,
+     "fill": "#7A6E85"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 988,
+     "w": 676,
+     "h": 37,
+     "text": "Designed the telehealth app used by 250k patients",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 1054,
+     "w": 8,
+     "h": 8,
+     "fill": "#7A6E85"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 1031,
+     "w": 676,
+     "h": 37,
+     "text": "Ran 60+ usability sessions across 4 cities",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 520,
+     "y": 1117.6,
+     "w": 260,
+     "h": 42,
+     "text": "2017 – 2019",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 500,
+     "color": "#7A6E85",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1115.8,
+     "w": 430,
+     "h": 42,
+     "text": "UI Designer",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#221A2E",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 1163.2,
+     "w": 700,
+     "h": 32,
+     "text": "Brightside Studio",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 500,
+     "color": "#7C3AED",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 82,
+     "y": 1225,
+     "w": 8,
+     "h": 8,
+     "fill": "#7A6E85"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 1202,
+     "w": 676,
+     "h": 37,
+     "text": "Delivered brand and web projects for 30 clients",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 800,
+     "y": 360,
+     "w": 2,
+     "h": 1334,
+     "fill": "#221A2E",
+     "opacity": 0.1
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 353.9,
+     "w": 320,
+     "h": 34,
+     "text": "Education",
+     "family": "Figtree",
+     "size": 27,
+     "weight": 700,
+     "color": "#7C3AED",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 402,
+     "w": 320,
+     "h": 2,
+     "fill": "#221A2E",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 425.7,
+     "w": 320,
+     "h": 67,
+     "text": "B.A. Fine &\nApplied Arts",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#221A2E",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 495.6,
+     "w": 320,
+     "h": 58,
+     "text": "University of Nigeria, Nsukka · 2013 – 2017",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#7A6E85",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 570.7,
+     "w": 320,
+     "h": 67,
+     "text": "Google UX\nCertificate",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#221A2E",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 640.6,
+     "w": 320,
+     "h": 30,
+     "text": "Coursera · 2020",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#7A6E85",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 707.9,
+     "w": 320,
+     "h": 34,
+     "text": "Skills",
+     "family": "Figtree",
+     "size": 27,
+     "weight": 700,
+     "color": "#7C3AED",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 756,
+     "w": 320,
+     "h": 2,
+     "fill": "#221A2E",
+     "opacity": 0.15
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 786,
+     "w": 99,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 781.3,
+     "w": 99,
+     "h": 42,
+     "text": "Figma",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 838,
+     "w": 216,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 833.3,
+     "w": 216,
+     "h": 42,
+     "text": "Design systems",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 890,
+     "w": 177,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 885.3,
+     "w": 177,
+     "h": 42,
+     "text": "Prototyping",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 942,
+     "w": 203,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 937.3,
+     "w": 203,
+     "h": 42,
+     "text": "User research",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 994,
+     "w": 203,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 989.3,
+     "w": 203,
+     "h": 42,
+     "text": "Accessibility",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1053,
+     "y": 994,
+     "w": 99,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 1053,
+     "y": 989.3,
+     "w": 99,
+     "h": 42,
+     "text": "AI UX",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 1046,
+     "w": 112,
+     "h": 42,
+     "fill": "#7C3AED",
+     "radius": 21,
+     "opacity": 0.12
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 1041.3,
+     "w": 112,
+     "h": 42,
+     "text": "Framer",
+     "family": "Figtree",
+     "size": 21,
+     "weight": 500,
+     "color": "#221A2E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 1117.9,
+     "w": 320,
+     "h": 34,
+     "text": "Languages",
+     "family": "Figtree",
+     "size": 27,
+     "weight": 700,
+     "color": "#7C3AED",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 1166,
+     "w": 320,
+     "h": 2,
+     "fill": "#221A2E",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 1190.6,
+     "w": 320,
+     "h": 30,
+     "text": "English",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 1226.6,
+     "w": 320,
+     "h": 30,
+     "text": "Igbo",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#221A2E",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n40",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

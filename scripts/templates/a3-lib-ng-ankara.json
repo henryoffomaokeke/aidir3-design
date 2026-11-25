@@ -1,0 +1,2606 @@
+{
+ "id": "a3-lib-ng-ankara",
+ "title": "Bachelor's Eve Invitation: Ankara Border",
+ "categories": [
+  "nigeria",
+  "celebrations",
+  "events",
+  "print"
+ ],
+ "tags": [
+  "bachelor's eve",
+  "bachelor party",
+  "stag night",
+  "groom",
+  "wedding eve",
+  "party",
+  "celebration",
+  "owambe"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#121110",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1500,
+     "h": 2100,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "rect",
+     "x": 23,
+     "y": 22,
+     "w": 61,
+     "h": 61,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       54,
+       9
+      ],
+      [
+       97,
+       52
+      ],
+      [
+       54,
+       95
+      ],
+      [
+       11,
+       52
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 38,
+     "y": 37,
+     "w": 32,
+     "h": 32,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 47,
+     "y": 46,
+     "w": 13,
+     "h": 13,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "rect",
+     "x": 23,
+     "y": 2017,
+     "w": 61,
+     "h": 61,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       54,
+       2004
+      ],
+      [
+       97,
+       2047
+      ],
+      [
+       54,
+       2090
+      ],
+      [
+       11,
+       2047
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 38,
+     "y": 2032,
+     "w": 32,
+     "h": 32,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 47,
+     "y": 2041,
+     "w": 13,
+     "h": 13,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 127,
+     "y": 19,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 139,
+     "y": 30,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 42,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 127,
+     "y": 2014,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 139,
+     "y": 2025,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 2037,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       268,
+       11
+      ],
+      [
+       310,
+       53
+      ],
+      [
+       268,
+       95
+      ],
+      [
+       226,
+       53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 250,
+     "y": 35,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 261,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       268,
+       2006
+      ],
+      [
+       310,
+       2048
+      ],
+      [
+       268,
+       2090
+      ],
+      [
+       226,
+       2048
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 250,
+     "y": 2030,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 261,
+     "y": 2041,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 341,
+     "y": 19,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 353,
+     "y": 30,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 365,
+     "y": 42,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 341,
+     "y": 2014,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 353,
+     "y": 2025,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 365,
+     "y": 2037,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       482,
+       11
+      ],
+      [
+       524,
+       53
+      ],
+      [
+       482,
+       95
+      ],
+      [
+       440,
+       53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 464,
+     "y": 35,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 475,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       482,
+       2006
+      ],
+      [
+       524,
+       2048
+      ],
+      [
+       482,
+       2090
+      ],
+      [
+       440,
+       2048
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 464,
+     "y": 2030,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 475,
+     "y": 2041,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 556,
+     "y": 19,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 567,
+     "y": 30,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 579,
+     "y": 42,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 556,
+     "y": 2014,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 567,
+     "y": 2025,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 579,
+     "y": 2037,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       696,
+       11
+      ],
+      [
+       738,
+       53
+      ],
+      [
+       696,
+       95
+      ],
+      [
+       654,
+       53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 679,
+     "y": 35,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 690,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       696,
+       2006
+      ],
+      [
+       738,
+       2048
+      ],
+      [
+       696,
+       2090
+      ],
+      [
+       654,
+       2048
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 679,
+     "y": 2030,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 690,
+     "y": 2041,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 770,
+     "y": 19,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 782,
+     "y": 30,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 793,
+     "y": 42,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 770,
+     "y": 2014,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 782,
+     "y": 2025,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 793,
+     "y": 2037,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       911,
+       11
+      ],
+      [
+       953,
+       53
+      ],
+      [
+       911,
+       95
+      ],
+      [
+       869,
+       53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 893,
+     "y": 35,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 904,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       911,
+       2006
+      ],
+      [
+       953,
+       2048
+      ],
+      [
+       911,
+       2090
+      ],
+      [
+       869,
+       2048
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 893,
+     "y": 2030,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 904,
+     "y": 2041,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 984,
+     "y": 19,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 996,
+     "y": 30,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1007,
+     "y": 42,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 984,
+     "y": 2014,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 996,
+     "y": 2025,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1007,
+     "y": 2037,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1125,
+       11
+      ],
+      [
+       1167,
+       53
+      ],
+      [
+       1125,
+       95
+      ],
+      [
+       1083,
+       53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1107,
+     "y": 35,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1125,
+       2006
+      ],
+      [
+       1167,
+       2048
+      ],
+      [
+       1125,
+       2090
+      ],
+      [
+       1083,
+       2048
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1107,
+     "y": 2030,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 2041,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1199,
+     "y": 19,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1210,
+     "y": 30,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1222,
+     "y": 42,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1199,
+     "y": 2014,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1210,
+     "y": 2025,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1222,
+     "y": 2037,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1339,
+       11
+      ],
+      [
+       1381,
+       53
+      ],
+      [
+       1339,
+       95
+      ],
+      [
+       1297,
+       53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1321,
+     "y": 35,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1332,
+     "y": 46,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1339,
+       2006
+      ],
+      [
+       1381,
+       2048
+      ],
+      [
+       1339,
+       2090
+      ],
+      [
+       1297,
+       2048
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1321,
+     "y": 2030,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1332,
+     "y": 2041,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "rect",
+     "x": 1416,
+     "y": 22,
+     "w": 61,
+     "h": 61,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1446,
+       9
+      ],
+      [
+       1489,
+       52
+      ],
+      [
+       1446,
+       95
+      ],
+      [
+       1403,
+       52
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1431,
+     "y": 37,
+     "w": 32,
+     "h": 32,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1440,
+     "y": 46,
+     "w": 13,
+     "h": 13,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "rect",
+     "x": 1416,
+     "y": 2017,
+     "w": 61,
+     "h": 61,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1446,
+       2004
+      ],
+      [
+       1489,
+       2047
+      ],
+      [
+       1446,
+       2090
+      ],
+      [
+       1403,
+       2047
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1431,
+     "y": 2032,
+     "w": 32,
+     "h": 32,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1440,
+     "y": 2041,
+     "w": 13,
+     "h": 13,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 124,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 135,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 147,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 124,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 135,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 147,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       221
+      ],
+      [
+       95,
+       263
+      ],
+      [
+       53,
+       305
+      ],
+      [
+       11,
+       263
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 245,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 256,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       221
+      ],
+      [
+       1490,
+       263
+      ],
+      [
+       1448,
+       305
+      ],
+      [
+       1406,
+       263
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 245,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 256,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 334,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 345,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 357,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 334,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 345,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 357,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       431
+      ],
+      [
+       95,
+       473
+      ],
+      [
+       53,
+       515
+      ],
+      [
+       11,
+       473
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 455,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 466,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       431
+      ],
+      [
+       1490,
+       473
+      ],
+      [
+       1448,
+       515
+      ],
+      [
+       1406,
+       473
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 455,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 466,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 544,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 555,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 567,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 544,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 555,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 567,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       641
+      ],
+      [
+       95,
+       683
+      ],
+      [
+       53,
+       725
+      ],
+      [
+       11,
+       683
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 665,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 676,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       641
+      ],
+      [
+       1490,
+       683
+      ],
+      [
+       1448,
+       725
+      ],
+      [
+       1406,
+       683
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 665,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 676,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 754,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 765,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 777,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 754,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 765,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 777,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       851
+      ],
+      [
+       95,
+       893
+      ],
+      [
+       53,
+       935
+      ],
+      [
+       11,
+       893
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 875,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 886,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       851
+      ],
+      [
+       1490,
+       893
+      ],
+      [
+       1448,
+       935
+      ],
+      [
+       1406,
+       893
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 875,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 886,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 964,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 975,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 987,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 964,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 975,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 987,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       1061
+      ],
+      [
+       95,
+       1103
+      ],
+      [
+       53,
+       1145
+      ],
+      [
+       11,
+       1103
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 1085,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 1096,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       1061
+      ],
+      [
+       1490,
+       1103
+      ],
+      [
+       1448,
+       1145
+      ],
+      [
+       1406,
+       1103
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 1085,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 1096,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 1174,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 1185,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 1197,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 1174,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 1185,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 1197,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       1271
+      ],
+      [
+       95,
+       1313
+      ],
+      [
+       53,
+       1355
+      ],
+      [
+       11,
+       1313
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 1295,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 1306,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       1271
+      ],
+      [
+       1490,
+       1313
+      ],
+      [
+       1448,
+       1355
+      ],
+      [
+       1406,
+       1313
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 1295,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 1306,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 1384,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 1395,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 1407,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 1384,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 1395,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 1407,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       1481
+      ],
+      [
+       95,
+       1523
+      ],
+      [
+       53,
+       1565
+      ],
+      [
+       11,
+       1523
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 1505,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 1516,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       1481
+      ],
+      [
+       1490,
+       1523
+      ],
+      [
+       1448,
+       1565
+      ],
+      [
+       1406,
+       1523
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 1505,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 1516,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 1594,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 1605,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 1617,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 1594,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 1605,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 1617,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       1691
+      ],
+      [
+       95,
+       1733
+      ],
+      [
+       53,
+       1775
+      ],
+      [
+       11,
+       1733
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 1715,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 1726,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       1691
+      ],
+      [
+       1490,
+       1733
+      ],
+      [
+       1448,
+       1775
+      ],
+      [
+       1406,
+       1733
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 1715,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 1726,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 19,
+     "y": 1804,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 30,
+     "y": 1815,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 42,
+     "y": 1827,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1414,
+     "y": 1804,
+     "w": 67,
+     "h": 67,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1425,
+     "y": 1815,
+     "w": 44,
+     "h": 44,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1437,
+     "y": 1827,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       53,
+       1901
+      ],
+      [
+       95,
+       1943
+      ],
+      [
+       53,
+       1985
+      ],
+      [
+       11,
+       1943
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 35,
+     "y": 1925,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 46,
+     "y": 1936,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1448,
+       1901
+      ],
+      [
+       1490,
+       1943
+      ],
+      [
+       1448,
+       1985
+      ],
+      [
+       1406,
+       1943
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1430,
+     "y": 1925,
+     "w": 36,
+     "h": 36,
+     "fill": "#5A4A35"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1441,
+     "y": 1936,
+     "w": 14,
+     "h": 14,
+     "fill": "#F5E9D3"
+    },
+    {
+     "kind": "rect",
+     "x": 105,
+     "y": 105,
+     "w": 1290,
+     "h": 1890,
+     "fill": "#121110"
+    },
+    {
+     "kind": "rect",
+     "x": 105,
+     "y": 105,
+     "w": 1290,
+     "h": 1890,
+     "stroke": "#E0C48E",
+     "strokeWidth": 7.5
+    },
+    {
+     "kind": "rect",
+     "x": 138,
+     "y": 138,
+     "w": 1224,
+     "h": 1824,
+     "stroke": "#E0C48E",
+     "strokeWidth": 2.3,
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 740,
+     "y": 467,
+     "w": 160,
+     "h": 59,
+     "rotation": -160,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 730,
+     "y": 461,
+     "w": 160,
+     "h": 59,
+     "rotation": -136.67,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 723,
+     "y": 451,
+     "w": 180,
+     "h": 59,
+     "rotation": -113.33,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 721,
+     "y": 440,
+     "w": 195,
+     "h": 59,
+     "rotation": -90,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 723,
+     "y": 428,
+     "w": 180,
+     "h": 59,
+     "rotation": -66.67,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 730,
+     "y": 418,
+     "w": 160,
+     "h": 59,
+     "rotation": -43.33,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 740,
+     "y": 412,
+     "w": 160,
+     "h": 59,
+     "rotation": -20,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 725,
+     "y": 414,
+     "w": 51,
+     "h": 51,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 739,
+     "y": 429,
+     "w": 21,
+     "h": 21,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 507.3,
+     "w": 1098,
+     "h": 47,
+     "text": "Bachelor's Eve",
+     "family": "Hanken Grotesk",
+     "size": 36,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 585.8,
+     "w": 1098,
+     "h": 69,
+     "text": "The groom's men",
+     "family": "Hanken Grotesk",
+     "size": 47,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 676.2,
+     "w": 1098,
+     "h": 119,
+     "text": "invite you to one last night out with our guy\nbefore he says I do",
+     "family": "Hanken Grotesk",
+     "size": 41,
+     "weight": 400,
+     "color": "#B8AA91",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 791,
+     "w": 1098,
+     "h": 223,
+     "text": "Tobi",
+     "family": "Instrument Serif",
+     "size": 185,
+     "weight": 400,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 1075.4,
+     "w": 1098,
+     "h": 104,
+     "text": "Bachelor's Eve",
+     "family": "Libre Baskerville",
+     "size": 88,
+     "weight": 600,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 435,
+     "y": 1244,
+     "w": 291,
+     "h": 4,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       750,
+       1234
+      ],
+      [
+       762,
+       1246
+      ],
+      [
+       750,
+       1258
+      ],
+      [
+       738,
+       1246
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 774,
+     "y": 1244,
+     "w": 291,
+     "h": 4,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 222,
+     "y": 1308,
+     "w": 324,
+     "h": 3,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 222,
+     "y": 1488,
+     "w": 324,
+     "h": 3,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 213,
+     "y": 1366.9,
+     "w": 342,
+     "h": 49,
+     "text": "Thursday",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 567,
+     "y": 1290.3,
+     "w": 366,
+     "h": 171,
+     "text": "19",
+     "family": "DM Serif Display",
+     "size": 158,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 954,
+     "y": 1308,
+     "w": 324,
+     "h": 3,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 954,
+     "y": 1488,
+     "w": 324,
+     "h": 3,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 945,
+     "y": 1343.9,
+     "w": 342,
+     "h": 95,
+     "text": "November\n2026",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 1513.9,
+     "w": 1098,
+     "h": 49,
+     "text": "8:00 PM",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 1570.3,
+     "w": 1098,
+     "h": 63,
+     "text": "Rooftop Lounge, Victoria Island, Lagos",
+     "family": "Hanken Grotesk",
+     "size": 44,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 1670,
+     "w": 1098,
+     "h": 53,
+     "text": "Dress code: all black",
+     "family": "Hanken Grotesk",
+     "size": 38,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 1740.9,
+     "w": 1098,
+     "h": 51,
+     "text": "Men only · Bring your dancing shoes.",
+     "family": "Hanken Grotesk",
+     "size": 35,
+     "weight": 400,
+     "color": "#B8AA91",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 201,
+     "y": 1817.3,
+     "w": 1098,
+     "h": 46,
+     "text": "RSVP: Seyi 0802 000 6634",
+     "family": "Hanken Grotesk",
+     "size": 33,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3,
+     "letterSpacing": 3,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n212",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n213",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n210",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n225",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n211",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 80 characters"
+  }
+ ]
+}

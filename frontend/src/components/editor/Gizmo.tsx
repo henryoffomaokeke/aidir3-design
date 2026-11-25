@@ -26,6 +26,8 @@ import { useEditor } from "@/store/editor";
 import { usePresence } from "@/store/presence";
 import { useBrand } from "@/store/brand";
 import type { CanvasApi } from "@/lib/useEditorCanvas";
+// aidir3 fork: a path resized by its box scales its geometry (see the hooks below).
+import { resizePathGeometry, restorePathGeometry, type PathGeometry } from "@/lib/toolbox/pathResize";
 
 // True when any of `ids` is uneditable: collab-locked by another user (FR-8)
 // OR a brand-template locked region for this caller.
@@ -390,6 +392,7 @@ export function Gizmo({ api }: { api: CanvasApi }) {
     startMinH?: number; // natural content height at the start font + width
     startPoints?: { x: number; y: number }[]; // line polyline snapshot, scaled with the box on resize
     startChildren?: unknown; // photo-grid cell snapshot, re-laid with the box on resize
+    startPath?: PathGeometry; // aidir3 fork: path geometry snapshot, scaled with the box on resize
   } | null>(null);
   // Equal-size match during a resize: the sibling width/height the dragged
   // dimension has snapped to (null = no match on that axis). The state drives
@@ -470,6 +473,8 @@ export function Gizmo({ api }: { api: CanvasApi }) {
       startMinH: loc!.node.type === "text" ? measuredTextHeight(loc!.node as unknown as TextNode) : undefined,
       startPoints: loc!.node.type === "line" ? structuredClone((loc!.node as unknown as { points: { x: number; y: number }[] }).points) : undefined,
       startChildren: loc!.node.type === "grid" || loc!.node.type === "frame" ? structuredClone((loc!.node as unknown as { children: unknown }).children) : undefined,
+      // aidir3 fork: the same snapshot the node editor takes, so the resize commits as one path edit.
+      startPath: loc!.node.type === "path" ? ((useEditor.getState().snapshotPath(id) as PathGeometry | null) ?? undefined) : undefined,
     };
     useEditor.getState().setTransforming(true);
     window.addEventListener("pointermove", onMove);
@@ -509,6 +514,8 @@ export function Gizmo({ api }: { api: CanvasApi }) {
       if ((node.type === "grid" || node.type === "frame") && d.startChildren !== undefined) {
         (node as unknown as { children: unknown }).children = structuredClone(d.startChildren);
       }
+      // aidir3 fork: put the path's anchors back too.
+      if (node.type === "path" && d.startPath) restorePathGeometry(node as unknown as PathGeometry, d.startPath);
       store.tick();
     }
   }
@@ -741,6 +748,13 @@ export function Gizmo({ api }: { api: CanvasApi }) {
         node.transform = tf;
         node.size = size;
       }
+      // aidir3 fork: a path is DRAWN from its anchors, not its size, so scale
+      // them (and its extra contours) with the box, from the gesture's start.
+      if (node.type === "path" && d.startPath) {
+        const r = resizePathGeometry(node as unknown as PathGeometry, d.startPath, d.handle, tf, size);
+        node.transform = r.transform;
+        node.size = r.size;
+      }
       if (node.type === "grid") {
         // A photo grid's cells are laid out from the grid box, so resizing the
         // grid re-lays every cell (spans preserved, filled images re-cover).
@@ -799,6 +813,12 @@ export function Gizmo({ api }: { api: CanvasApi }) {
     }
     if ((node.type === "grid" || node.type === "frame") && d.handle !== "rotate") {
       store.pushNodeSnapshot(d.id, { transform: d.startTransform, size: d.startSize, children: d.startChildren });
+      return;
+    }
+    // aidir3 fork: a path resize changed its anchors as well as its box; one
+    // path-edit entry restores both.
+    if (node.type === "path" && d.startPath && d.handle !== "rotate") {
+      store.commitPathEdit(d.id, d.startPath);
       return;
     }
     const cmd: EditCommand = {

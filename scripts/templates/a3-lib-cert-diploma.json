@@ -1,0 +1,624 @@
+{
+ "id": "a3-lib-cert-diploma",
+ "title": "Speaker Appreciation Certificate: Diploma",
+ "categories": [
+  "certificates"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "work",
+  "professional",
+  "employee",
+  "training",
+  "speaker",
+  "appreciation"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  2000,
+  1414
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0033A0",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 1880,
+     "h": 1294,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 72,
+     "w": 1856,
+     "h": 1270,
+     "stroke": "#FFD60A",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 210,
+     "y": 226.4,
+     "w": 1580,
+     "h": 55,
+     "text": "FUTURE AFRICA SUMMIT",
+     "family": "Cormorant Garamond",
+     "size": 46,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.1,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "rect",
+     "x": 700,
+     "y": 334,
+     "w": 600,
+     "h": 3,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 210,
+     "y": 385.4,
+     "w": 1580,
+     "h": 35,
+     "text": "is pleased to present",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 210,
+     "y": 445,
+     "w": 1580,
+     "h": 104,
+     "text": "Speaker Appreciation",
+     "family": "Cormorant Garamond",
+     "size": 92,
+     "weight": 600,
+     "color": "#FFD60A",
+     "align": "center",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 210,
+     "y": 604.4,
+     "w": 1580,
+     "h": 35,
+     "text": "to",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 210,
+     "y": 630,
+     "w": 1580,
+     "h": 173,
+     "text": "Tunde Adeyemi",
+     "family": "Instrument Serif",
+     "size": 140,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 210,
+     "y": 885.5,
+     "w": 1580,
+     "h": 46,
+     "text": "for an inspiring keynote on AI in operations at the Future Africa Summit 2027.",
+     "family": "DM Sans",
+     "size": 30,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 300,
+     "y": 1168,
+     "w": 40,
+     "h": 84,
+     "rotation": 16,
+     "fill": "#8F0F16"
+    },
+    {
+     "kind": "rect",
+     "x": 380,
+     "y": 1168,
+     "w": 40,
+     "h": 84,
+     "rotation": -16,
+     "fill": "#8F0F16"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       360,
+       1044
+      ],
+      [
+       364.41,
+       1099.22
+      ],
+      [
+       379.51,
+       1045.92
+      ],
+      [
+       373.06,
+       1100.94
+      ],
+      [
+       398.27,
+       1051.61
+      ],
+      [
+       381.21,
+       1104.31
+      ],
+      [
+       415.56,
+       1060.85
+      ],
+      [
+       388.55,
+       1109.21
+      ],
+      [
+       430.71,
+       1073.29
+      ],
+      [
+       394.79,
+       1115.45
+      ],
+      [
+       443.15,
+       1088.44
+      ],
+      [
+       399.69,
+       1122.79
+      ],
+      [
+       452.39,
+       1105.73
+      ],
+      [
+       403.06,
+       1130.94
+      ],
+      [
+       458.08,
+       1124.49
+      ],
+      [
+       404.78,
+       1139.59
+      ],
+      [
+       460,
+       1144
+      ],
+      [
+       404.78,
+       1148.41
+      ],
+      [
+       458.08,
+       1163.51
+      ],
+      [
+       403.06,
+       1157.06
+      ],
+      [
+       452.39,
+       1182.27
+      ],
+      [
+       399.69,
+       1165.21
+      ],
+      [
+       443.15,
+       1199.56
+      ],
+      [
+       394.79,
+       1172.55
+      ],
+      [
+       430.71,
+       1214.71
+      ],
+      [
+       388.55,
+       1178.79
+      ],
+      [
+       415.56,
+       1227.15
+      ],
+      [
+       381.21,
+       1183.69
+      ],
+      [
+       398.27,
+       1236.39
+      ],
+      [
+       373.06,
+       1187.06
+      ],
+      [
+       379.51,
+       1242.08
+      ],
+      [
+       364.41,
+       1188.78
+      ],
+      [
+       360,
+       1244
+      ],
+      [
+       355.59,
+       1188.78
+      ],
+      [
+       340.49,
+       1242.08
+      ],
+      [
+       346.94,
+       1187.06
+      ],
+      [
+       321.73,
+       1236.39
+      ],
+      [
+       338.79,
+       1183.69
+      ],
+      [
+       304.44,
+       1227.15
+      ],
+      [
+       331.45,
+       1178.79
+      ],
+      [
+       289.29,
+       1214.71
+      ],
+      [
+       325.21,
+       1172.55
+      ],
+      [
+       276.85,
+       1199.56
+      ],
+      [
+       320.31,
+       1165.21
+      ],
+      [
+       267.61,
+       1182.27
+      ],
+      [
+       316.94,
+       1157.06
+      ],
+      [
+       261.92,
+       1163.51
+      ],
+      [
+       315.22,
+       1148.41
+      ],
+      [
+       260,
+       1144
+      ],
+      [
+       315.22,
+       1139.59
+      ],
+      [
+       261.92,
+       1124.49
+      ],
+      [
+       316.94,
+       1130.94
+      ],
+      [
+       267.61,
+       1105.73
+      ],
+      [
+       320.31,
+       1122.79
+      ],
+      [
+       276.85,
+       1088.44
+      ],
+      [
+       325.21,
+       1115.45
+      ],
+      [
+       289.29,
+       1073.29
+      ],
+      [
+       331.45,
+       1109.21
+      ],
+      [
+       304.44,
+       1060.85
+      ],
+      [
+       338.79,
+       1104.31
+      ],
+      [
+       321.73,
+       1051.61
+      ],
+      [
+       346.94,
+       1100.94
+      ],
+      [
+       340.49,
+       1045.92
+      ],
+      [
+       355.59,
+       1099.22
+      ]
+     ],
+     "closed": true,
+     "fill": "#B3131B",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 280,
+     "y": 1064,
+     "w": 160,
+     "h": 160,
+     "fill": "#B3131B",
+     "stroke": "#FFD1D4",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "ellipse",
+     "x": 290,
+     "y": 1074,
+     "w": 140,
+     "h": 140,
+     "stroke": "#FFD1D4",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 1094.8,
+     "w": 140,
+     "h": 88,
+     "text": "Keynote\n2027",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 810,
+     "y": 1035.2,
+     "w": 380,
+     "h": 78,
+     "text": "B. Cole",
+     "family": "Cormorant Garamond",
+     "size": 60,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 810,
+     "y": 1133,
+     "w": 380,
+     "h": 3,
+     "fill": "#FFFFFF",
+     "opacity": 0.6
+    },
+    {
+     "kind": "text",
+     "x": 810,
+     "y": 1138.4,
+     "w": 380,
+     "h": 35,
+     "text": "Bimpe Cole",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 810,
+     "y": 1176,
+     "w": 380,
+     "h": 30,
+     "text": "Summit Director",
+     "family": "DM Sans",
+     "size": 23,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 1450,
+     "y": 1035.2,
+     "w": 380,
+     "h": 78,
+     "text": "Y. Alade",
+     "family": "Cormorant Garamond",
+     "size": 60,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 1450,
+     "y": 1133,
+     "w": 380,
+     "h": 3,
+     "fill": "#FFFFFF",
+     "opacity": 0.6
+    },
+    {
+     "kind": "text",
+     "x": 1450,
+     "y": 1138.4,
+     "w": 380,
+     "h": 35,
+     "text": "Yinka Alade",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1450,
+     "y": 1176,
+     "w": 380,
+     "h": 30,
+     "text": "Programme Chair",
+     "family": "DM Sans",
+     "size": 23,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 1278.9,
+     "w": 1720,
+     "h": 28,
+     "text": "Certificate No. PRO-2026-9342  ·  30 April 2027",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

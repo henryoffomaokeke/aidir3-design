@@ -1,0 +1,1175 @@
+{
+ "id": "a3-hr-job-description",
+ "title": "Job Description: Remote Engineering Role",
+ "categories": [
+  "hr",
+  "business",
+  "documents",
+  "print"
+ ],
+ "tags": [
+  "job description",
+  "hiring",
+  "recruiting",
+  "remote",
+  "engineering",
+  "pay range",
+  "benefits",
+  "a4"
+ ],
+ "styleTags": [
+  "editorial",
+  "indigo",
+  "two-column"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -957,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Schibsted Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "JetBrains Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Job description",
+   "bg": "#FBFAF6",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 50,
+     "w": 22,
+     "h": 22,
+     "fill": "#3A36C9",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 62,
+     "y": 56,
+     "w": 4,
+     "h": 10,
+     "fill": "#FFFFFF",
+     "radius": 1
+    },
+    {
+     "kind": "rect",
+     "x": 68,
+     "y": 56,
+     "w": 4,
+     "h": 10,
+     "fill": "#F0613A",
+     "radius": 1
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 51,
+     "w": 200,
+     "h": 22,
+     "text": "Northlane",
+     "family": "Schibsted Grotesk",
+     "size": 17,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 438,
+     "y": 55,
+     "w": 300,
+     "h": 14,
+     "text": "Job description  ·  Ref ENG-2611",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#6A6F82",
+     "align": "right",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 90,
+     "w": 682,
+     "h": 1,
+     "fill": "#DCDAD2"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 116,
+     "w": 400,
+     "h": 14,
+     "text": "Engineering  ·  Payments platform",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#3A36C9",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 138,
+     "w": 620,
+     "h": 96,
+     "text": "Senior Backend Engineer,\nPayments",
+     "family": "Schibsted Grotesk",
+     "size": 42,
+     "weight": 700,
+     "color": "#191B2E",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 248,
+     "w": 190,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 14
+    },
+    {
+     "kind": "icon",
+     "x": 67,
+     "y": 255,
+     "w": 14,
+     "h": 14,
+     "icon": "world",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 248,
+     "w": 152,
+     "h": 28,
+     "text": "Remote, UTC−1 to UTC+3",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#262391",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 254,
+     "y": 248,
+     "w": 164,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 14
+    },
+    {
+     "kind": "icon",
+     "x": 265,
+     "y": 255,
+     "w": 14,
+     "h": 14,
+     "icon": "briefcase",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 285,
+     "y": 248,
+     "w": 126,
+     "h": 28,
+     "text": "Full-time, permanent",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#262391",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 426,
+     "y": 248,
+     "w": 112,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 14
+    },
+    {
+     "kind": "icon",
+     "x": 437,
+     "y": 255,
+     "w": 14,
+     "h": 14,
+     "icon": "award",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 457,
+     "y": 248,
+     "w": 74,
+     "h": 28,
+     "text": "Senior (L5)",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#262391",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 550,
+     "y": 248,
+     "w": 188,
+     "h": 28,
+     "fill": "#3A36C9",
+     "radius": 14
+    },
+    {
+     "kind": "icon",
+     "x": 562,
+     "y": 255,
+     "w": 14,
+     "h": 14,
+     "icon": "calendar",
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 582,
+     "y": 248,
+     "w": 150,
+     "h": 28,
+     "text": "Apply by 12 December 2026",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 311,
+     "w": 4,
+     "h": 15,
+     "fill": "#F0613A",
+     "radius": 2
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 308,
+     "w": 404,
+     "h": 22,
+     "text": "The role",
+     "family": "Schibsted Grotesk",
+     "size": 16,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 340,
+     "w": 418,
+     "h": 70,
+     "text": "Northlane moves £2.4 billion a year for 9,000 online merchants. You will join the six-person Payments team that owns the ledger and payouts, and help take settlement from next-day to near real time.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.55
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 421,
+     "w": 4,
+     "h": 15,
+     "fill": "#F0613A",
+     "radius": 2
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 418,
+     "w": 404,
+     "h": 22,
+     "text": "What you will do",
+     "family": "Schibsted Grotesk",
+     "size": 16,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "ellipse",
+     "x": 59,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 452,
+     "w": 398,
+     "h": 34,
+     "text": "Design and ship services in Go and PostgreSQL that process 40 million ledger entries a month.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 59,
+     "y": 503,
+     "w": 6,
+     "h": 6,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 495,
+     "w": 398,
+     "h": 34,
+     "text": "Lead the move from batch settlement to event-driven payouts, from design document to rollout.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 59,
+     "y": 546,
+     "w": 6,
+     "h": 6,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 538,
+     "w": 398,
+     "h": 17,
+     "text": "Share the on-call rota, one week in six, and turn incidents into lasting fixes.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 59,
+     "y": 572.5,
+     "w": 6,
+     "h": 6,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 564.5,
+     "w": 398,
+     "h": 17,
+     "text": "Review code and designs so the whole team's work gets better.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 59,
+     "y": 599,
+     "w": 6,
+     "h": 6,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 591,
+     "w": 398,
+     "h": 34,
+     "text": "Work with Product, Risk and Finance in writing first; meetings stay under four hours a week.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 651,
+     "w": 4,
+     "h": 15,
+     "fill": "#F0613A",
+     "radius": 2
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 648,
+     "w": 404,
+     "h": 22,
+     "text": "What you bring",
+     "family": "Schibsted Grotesk",
+     "size": 16,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 685,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 682,
+     "w": 398,
+     "h": 34,
+     "text": "Experience building and running backend systems in production, in any typed language such as Go, Kotlin or Rust.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 728,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 725,
+     "w": 398,
+     "h": 17,
+     "text": "Confidence with relational data: modelling, migrations, query plans.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 754.5,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 751.5,
+     "w": 398,
+     "h": 34,
+     "text": "A record of owning a problem end to end, from first question to last follow-up, and explaining trade-offs clearly in writing.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "icon",
+     "x": 56,
+     "y": 797.5,
+     "w": 14,
+     "h": 14,
+     "icon": "circle-check",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 794.5,
+     "w": 398,
+     "h": 34,
+     "text": "Care for correctness: tests, idempotency and audit trails, because mistakes with money are expensive to undo.",
+     "family": "Inter",
+     "size": 11,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 508,
+     "y": 308,
+     "w": 230,
+     "h": 178,
+     "fill": "#3A36C9",
+     "radius": 12
+    },
+    {
+     "kind": "text",
+     "x": 528,
+     "y": 328,
+     "w": 180,
+     "h": 14,
+     "text": "Pay range",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#C9C7F5",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 528,
+     "y": 348,
+     "w": 200,
+     "h": 36,
+     "text": "£88k – £104k",
+     "family": "Schibsted Grotesk",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 528,
+     "y": 388,
+     "w": 190,
+     "h": 32,
+     "text": "Base salary per year, set by level and published to the whole team.",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#DAD9FA",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 430,
+     "w": 190,
+     "h": 1,
+     "fill": "#5D59DA"
+    },
+    {
+     "kind": "text",
+     "x": 528,
+     "y": 441,
+     "w": 190,
+     "h": 16,
+     "text": "Plus share options",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 528,
+     "y": 457,
+     "w": 190,
+     "h": 16,
+     "text": "vesting over four years",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#DAD9FA"
+    },
+    {
+     "kind": "rect",
+     "x": 508,
+     "y": 502,
+     "w": 230,
+     "h": 326,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#DCDAD2",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 528,
+     "y": 522,
+     "w": 180,
+     "h": 14,
+     "text": "Benefits",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#6A6F82",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 548,
+     "w": 28,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 8
+    },
+    {
+     "kind": "icon",
+     "x": 535,
+     "y": 555,
+     "w": 14,
+     "h": 14,
+     "icon": "home",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 566,
+     "y": 546,
+     "w": 156,
+     "h": 32,
+     "text": "Remote first, with a £1,500 home-office budget",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 594.8,
+     "w": 28,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 8
+    },
+    {
+     "kind": "icon",
+     "x": 535,
+     "y": 601.8,
+     "w": 14,
+     "h": 14,
+     "icon": "calendar",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 566,
+     "y": 592.8,
+     "w": 156,
+     "h": 32,
+     "text": "30 days of leave plus your local public holidays",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 641.5999999999999,
+     "w": 28,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 8
+    },
+    {
+     "kind": "icon",
+     "x": 535,
+     "y": 648.5999999999999,
+     "w": 14,
+     "h": 14,
+     "icon": "heart",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 566,
+     "y": 639.5999999999999,
+     "w": 156,
+     "h": 32,
+     "text": "Private health cover for you and your dependants",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 688.3999999999999,
+     "w": 28,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 8
+    },
+    {
+     "kind": "icon",
+     "x": 535,
+     "y": 695.3999999999999,
+     "w": 14,
+     "h": 14,
+     "icon": "clock",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 566,
+     "y": 686.3999999999999,
+     "w": 156,
+     "h": 32,
+     "text": "26 weeks of parental leave on full pay",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 735.1999999999998,
+     "w": 28,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 8
+    },
+    {
+     "kind": "icon",
+     "x": 535,
+     "y": 742.1999999999998,
+     "w": 14,
+     "h": 14,
+     "icon": "book",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 566,
+     "y": 733.1999999999998,
+     "w": 156,
+     "h": 32,
+     "text": "£2,000 a year for courses, books and conferences",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 781.9999999999998,
+     "w": 28,
+     "h": 28,
+     "fill": "#ECEBFB",
+     "radius": 8
+    },
+    {
+     "kind": "icon",
+     "x": 535,
+     "y": 788.9999999999998,
+     "w": 14,
+     "h": 14,
+     "icon": "plane",
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 566,
+     "y": 779.9999999999998,
+     "w": 156,
+     "h": 32,
+     "text": "Two team meet-ups a year, travel covered",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#3D4254",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 852,
+     "w": 682,
+     "h": 1,
+     "fill": "#DCDAD2"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 874,
+     "w": 300,
+     "h": 22,
+     "text": "How the process works",
+     "family": "Schibsted Grotesk",
+     "size": 16,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 418,
+     "y": 879,
+     "w": 320,
+     "h": 14,
+     "text": "About three weeks, first call to offer",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#6A6F82",
+     "align": "right",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 69,
+     "y": 928,
+     "w": 511.5,
+     "h": 2,
+     "fill": "#C9C7F5"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 916,
+     "w": 26,
+     "h": 26,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 915,
+     "w": 26,
+     "h": 26,
+     "text": "1",
+     "family": "Schibsted Grotesk",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 954,
+     "w": 156.5,
+     "h": 18,
+     "text": "Intro call",
+     "family": "Schibsted Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 974,
+     "w": 164.5,
+     "h": 14,
+     "text": "30 min  ·  People team",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 992,
+     "w": 148.5,
+     "h": 32,
+     "text": "Your questions, the pay range and how we work.",
+     "family": "Inter",
+     "size": 10,
+     "weight": 400,
+     "color": "#6A6F82",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 226.5,
+     "y": 916,
+     "w": 26,
+     "h": 26,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 226.5,
+     "y": 915,
+     "w": 26,
+     "h": 26,
+     "text": "2",
+     "family": "Schibsted Grotesk",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 226.5,
+     "y": 954,
+     "w": 156.5,
+     "h": 18,
+     "text": "Technical conversation",
+     "family": "Schibsted Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 226.5,
+     "y": 974,
+     "w": 164.5,
+     "h": 14,
+     "text": "60 min  ·  two engineers",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 226.5,
+     "y": 992,
+     "w": 148.5,
+     "h": 32,
+     "text": "Walk us through a system you built. No puzzles.",
+     "family": "Inter",
+     "size": 10,
+     "weight": 400,
+     "color": "#6A6F82",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 397,
+     "y": 916,
+     "w": 26,
+     "h": 26,
+     "fill": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 397,
+     "y": 915,
+     "w": 26,
+     "h": 26,
+     "text": "3",
+     "family": "Schibsted Grotesk",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 397,
+     "y": 954,
+     "w": 156.5,
+     "h": 18,
+     "text": "Paid work sample",
+     "family": "Schibsted Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 397,
+     "y": 974,
+     "w": 164.5,
+     "h": 14,
+     "text": "3 hours  ·  at home",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 397,
+     "y": 992,
+     "w": 148.5,
+     "h": 32,
+     "text": "A small, realistic task. We pay £300 for your time.",
+     "family": "Inter",
+     "size": 10,
+     "weight": 400,
+     "color": "#6A6F82",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 567.5,
+     "y": 916,
+     "w": 26,
+     "h": 26,
+     "fill": "#F0613A"
+    },
+    {
+     "kind": "text",
+     "x": 567.5,
+     "y": 915,
+     "w": 26,
+     "h": 26,
+     "text": "4",
+     "family": "Schibsted Grotesk",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 567.5,
+     "y": 954,
+     "w": 156.5,
+     "h": 18,
+     "text": "Team interview",
+     "family": "Schibsted Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#191B2E"
+    },
+    {
+     "kind": "text",
+     "x": 567.5,
+     "y": 974,
+     "w": 164.5,
+     "h": 14,
+     "text": "90 min  ·  hiring manager",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#3A36C9"
+    },
+    {
+     "kind": "text",
+     "x": 567.5,
+     "y": 992,
+     "w": 148.5,
+     "h": 32,
+     "text": "Meet the team. A decision within two working days.",
+     "family": "Inter",
+     "size": 10,
+     "weight": 400,
+     "color": "#6A6F82",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 1052,
+     "w": 682,
+     "h": 1,
+     "fill": "#DCDAD2"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1062,
+     "w": 520,
+     "h": 14,
+     "text": "Apply at northlane.example/careers. Need an adjustment at any stage? Write to people@northlane.example",
+     "family": "Inter",
+     "size": 9,
+     "weight": 400,
+     "color": "#6A6F82"
+    },
+    {
+     "kind": "text",
+     "x": 598,
+     "y": 1062,
+     "w": 140,
+     "h": 14,
+     "text": "Page 1 of 1",
+     "family": "JetBrains Mono",
+     "size": 9,
+     "weight": 500,
+     "color": "#6A6F82",
+     "align": "right",
+     "letterSpacing": 1.3,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Role title",
+   "hint": "Two short lines, up to 26 characters each"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Department and team",
+   "hint": "Department, then team"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Role summary",
+   "hint": "Three or four sentences, about 240 characters"
+  },
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Pay range",
+   "hint": "Short form, e.g. £88k – £104k"
+  },
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Closing date",
+   "hint": "Day, month and year"
+  }
+ ]
+}

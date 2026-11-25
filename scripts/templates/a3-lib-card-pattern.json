@@ -1,0 +1,258 @@
+{
+ "id": "a3-lib-card-pattern",
+ "title": "RankRise SEO: Business Card Front (Shapes)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "shapes",
+  "seo agency",
+  "marketing"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "DM Serif Display",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF8D6",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 770,
+     "y": 0,
+     "w": 260,
+     "h": 260,
+     "fill": "#1B1B1B",
+     "opacity": 0.16
+    },
+    {
+     "kind": "ellipse",
+     "x": 850,
+     "y": 370,
+     "w": 300,
+     "h": 300,
+     "fill": "#FF5A1F",
+     "opacity": 0.4,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 760,
+     "y": 330,
+     "w": 150,
+     "h": 150,
+     "stroke": "#1B1B1B",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       925,
+       300
+      ],
+      [
+       980,
+       400
+      ],
+      [
+       870,
+       400
+      ]
+     ],
+     "closed": true,
+     "fill": "#1B1B1B",
+     "opacity": 0.5,
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 75,
+     "y": 65,
+     "w": 54,
+     "h": 54,
+     "stroke": "#1B1B1B",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "icon": "search",
+     "x": 89,
+     "y": 79,
+     "w": 27,
+     "h": 27,
+     "color": "#1B1B1B"
+    },
+    {
+     "kind": "text",
+     "x": 153,
+     "y": 66.1,
+     "w": 477,
+     "h": 39,
+     "text": "RankRise SEO",
+     "family": "Work Sans",
+     "size": 32,
+     "weight": 500,
+     "color": "#1B1B1B",
+     "lineHeight": 1.12,
+     "letterSpacing": 7.7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 208.7,
+     "w": 600,
+     "h": 65,
+     "text": "Samuel Ofori",
+     "family": "DM Serif Display",
+     "size": 54,
+     "weight": 400,
+     "color": "#1B1B1B",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 288.6,
+     "w": 600,
+     "h": 25,
+     "text": "CREATIVE DIRECTOR",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#1B1B1B",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 70,
+     "y": 388,
+     "w": 28,
+     "h": 28,
+     "color": "#1B1B1B"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 374.9,
+     "w": 557,
+     "h": 45,
+     "text": "+234 805 555 8568",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 70,
+     "y": 444,
+     "w": 28,
+     "h": 28,
+     "color": "#1B1B1B"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 430.9,
+     "w": 557,
+     "h": 45,
+     "text": "samuel@rankrise.agency",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 70,
+     "y": 500,
+     "w": 28,
+     "h": 28,
+     "color": "#1B1B1B"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 486.9,
+     "w": 557,
+     "h": 45,
+     "text": "rankrise.agency",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

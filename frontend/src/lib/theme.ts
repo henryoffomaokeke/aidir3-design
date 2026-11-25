@@ -1,3 +1,7 @@
+// aidir3: the app chrome is DARK unless the visitor picks light or "system"
+// in Settings, matching aidir3.com (upstream follows the OS by default). An
+// explicit "system" choice is stored as such, so all three options still work.
+//
 // App-chrome theme preference (light / dark / follow-the-OS) and the contrast
 // preference (normal / high / follow-the-OS), two orthogonal axes. The choices
 // are stored in localStorage ("hc-theme", "hc-contrast") and applied as `dark`
@@ -18,9 +22,9 @@ const CONTRAST_KEY = "hc-contrast";
 const MOTION_KEY = "hc-motion";
 
 export function getThemePreference(): ThemePreference {
-  if (typeof window === "undefined") return "system";
+  if (typeof window === "undefined") return "dark";
   const v = window.localStorage.getItem(STORAGE_KEY);
-  return v === "light" || v === "dark" ? v : "system";
+  return v === "light" || v === "dark" || v === "system" ? v : "dark";
 }
 
 export function getContrastPreference(): ContrastPreference {
@@ -75,8 +79,7 @@ export function applyTheme(pref: ThemePreference = getThemePreference()): void {
 }
 
 export function setThemePreference(pref: ThemePreference): void {
-  if (pref === "system") window.localStorage.removeItem(STORAGE_KEY);
-  else window.localStorage.setItem(STORAGE_KEY, pref);
+  window.localStorage.setItem(STORAGE_KEY, pref);
   applyTheme(pref);
 }
 
@@ -113,4 +116,4 @@ export function watchSystemTheme(): () => void {
 }
 
 /** Inline no-flash source for _document.tsx (runs before first paint). */
-export const themeBootScript = `(function(){try{var v=localStorage.getItem("${STORAGE_KEY}");var d=v==="dark"||(v!=="light"&&matchMedia("(prefers-color-scheme: dark)").matches);if(d)document.documentElement.classList.add("dark");var c=localStorage.getItem("${CONTRAST_KEY}");var h=c==="high"||(c!=="normal"&&matchMedia("(prefers-contrast: more)").matches);if(h)document.documentElement.classList.add("hc");var m=localStorage.getItem("${MOTION_KEY}");if(m==="reduce")document.documentElement.classList.add("motion-reduce");else if(m==="full")document.documentElement.classList.add("motion-full");}catch(e){}})();`;
+export const themeBootScript = `(function(){try{var v=localStorage.getItem("${STORAGE_KEY}");var d=v==="system"?matchMedia("(prefers-color-scheme: dark)").matches:v!=="light";if(d)document.documentElement.classList.add("dark");var c=localStorage.getItem("${CONTRAST_KEY}");var h=c==="high"||(c!=="normal"&&matchMedia("(prefers-contrast: more)").matches);if(h)document.documentElement.classList.add("hc");var m=localStorage.getItem("${MOTION_KEY}");if(m==="reduce")document.documentElement.classList.add("motion-reduce");else if(m==="full")document.documentElement.classList.add("motion-full");}catch(e){}})();`;

@@ -1,0 +1,175 @@
+{
+ "id": "a3-lib-post-quote-frame",
+ "title": "Founder Quote: Gold Frame",
+ "categories": [
+  "quotes",
+  "social"
+ ],
+ "tags": [
+  "quote",
+  "founder",
+  "motivation",
+  "luxury",
+  "instagram post",
+  "quotes"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Playfair Display",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#111111",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 40,
+     "y": 40,
+     "w": 1000,
+     "h": 1000,
+     "stroke": "#C9A45C",
+     "strokeWidth": 3,
+     "opacity": 0.7
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 56,
+     "w": 968,
+     "h": 968,
+     "stroke": "#C9A45C",
+     "strokeWidth": 2,
+     "opacity": 0.3
+    },
+    {
+     "kind": "text",
+     "x": 482.4,
+     "y": 197,
+     "w": 124.8,
+     "h": 144,
+     "text": "“",
+     "family": "Playfair Display",
+     "size": 182,
+     "weight": 700,
+     "color": "#C9A45C",
+     "lineHeight": 1,
+     "name": "Quotation mark"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 337.5,
+     "w": 860,
+     "h": 346,
+     "text": "Build the thing you wish existed, then tell everyone who needs it.",
+     "family": "Playfair Display",
+     "size": 72,
+     "weight": 700,
+     "color": "#F5EFE3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.18
+    },
+    {
+     "kind": "rect",
+     "x": 495,
+     "y": 744,
+     "w": 90,
+     "h": 4,
+     "fill": "#C9A45C"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 769.1,
+     "w": 860,
+     "h": 44,
+     "text": "Adaeze Okafor",
+     "family": "Albert Sans",
+     "size": 32,
+     "weight": 700,
+     "color": "#F5EFE3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 818.8,
+     "w": 860,
+     "h": 36,
+     "text": "Founder, Kora Health",
+     "family": "Albert Sans",
+     "size": 24,
+     "weight": 400,
+     "color": "#9B927F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 957.2,
+     "w": 860,
+     "h": 34,
+     "text": "@adaeze.builds",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#9B927F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 80 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

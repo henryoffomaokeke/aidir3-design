@@ -1,0 +1,504 @@
+{
+ "id": "a3-lib-premium-spotlight",
+ "title": "Call to Bar: Spotlight",
+ "categories": [
+  "celebrations",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "call to bar",
+  "lawyer",
+  "barrister",
+  "law school",
+  "congratulations",
+  "instagram post",
+  "spotlight",
+  "events"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bodoni Moda",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0033A0",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1080,
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#0033A0",
+        0
+       ],
+       [
+        "#0A3FB8",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 286,
+     "y": 83,
+     "w": 507,
+     "h": 507,
+     "fill": "#FFD60A",
+     "opacity": 0.1
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 540.5,
+       "y": 120,
+       "cIn": {
+        "x": 420.93,
+        "y": 120
+       },
+       "cOut": {
+        "x": 660.07,
+        "y": 120
+       }
+      },
+      {
+       "x": 757,
+       "y": 336.5,
+       "cIn": {
+        "x": 757,
+        "y": 216.93
+       },
+       "cOut": {
+        "x": 757,
+        "y": 456.07
+       }
+      },
+      {
+       "x": 540.5,
+       "y": 553,
+       "cIn": {
+        "x": 660.07,
+        "y": 553
+       },
+       "cOut": {
+        "x": 420.93,
+        "y": 553
+       }
+      },
+      {
+       "x": 324,
+       "y": 336.5,
+       "cIn": {
+        "x": 324,
+        "y": 456.07
+       },
+       "cOut": {
+        "x": 324,
+        "y": 216.93
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#FFD60A",
+     "strokeWidth": 3,
+     "dash": [
+      10,
+      14
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.5,
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 656,
+     "y": 154,
+     "w": 82,
+     "h": 82,
+     "fill": "#7FB3FF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 411,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 94,
+     "y": 411,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 118,
+     "y": 411,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 142,
+     "y": 411,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 435,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 94,
+     "y": 435,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 118,
+     "y": 435,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 142,
+     "y": 435,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 459,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 94,
+     "y": 459,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 118,
+     "y": 459,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 142,
+     "y": 459,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 483,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 94,
+     "y": 483,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 118,
+     "y": 483,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 142,
+     "y": 483,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFD60A",
+     "opacity": 0.5
+    },
+    {
+     "kind": "photo",
+     "x": 354,
+     "y": 150,
+     "w": 373,
+     "h": 373,
+     "shape": "ellipse",
+     "fill": "#B8C7EB",
+     "name": "Photo: lawyer wig gown"
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 70,
+     "w": 52,
+     "h": 52,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "icon",
+     "icon": "scale",
+     "x": 83,
+     "y": 83,
+     "w": 26,
+     "h": 26,
+     "color": "#0033A0"
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 65.5,
+     "w": 386,
+     "h": 52,
+     "text": "Barr. Chiamaka Obi",
+     "family": "Hanken Grotesk",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 66.2,
+     "w": 470,
+     "h": 52,
+     "text": "CALLED TO THE BAR",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFD60A",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 308,
+     "y": 388,
+     "w": 150,
+     "h": 150,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 411.6,
+     "w": 99,
+     "h": 99,
+     "text": "Called\nto bar",
+     "family": "Bodoni Moda",
+     "size": 21,
+     "weight": 800,
+     "color": "#0033A0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 561.4,
+     "w": 940,
+     "h": 208,
+     "text": "Barrister & Solicitor",
+     "family": "Bodoni Moda",
+     "size": 100,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 792.2,
+     "w": 940,
+     "h": 81,
+     "text": "Join us to celebrate Chiamaka's call to the Nigerian Bar. Reception follows the ceremony.",
+     "family": "Hanken Grotesk",
+     "size": 28,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 350,
+     "y": 926,
+     "w": 380,
+     "h": 84,
+     "fill": "#FFD60A",
+     "radius": 42
+    },
+    {
+     "kind": "text",
+     "x": 379,
+     "y": 920.7,
+     "w": 304,
+     "h": 84,
+     "text": "Celebrate with us",
+     "family": "Hanken Grotesk",
+     "size": 28,
+     "weight": 700,
+     "color": "#0033A0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       685.67,
+       968
+      ],
+      [
+       704.33,
+       968
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0033A0",
+     "strokeWidth": 3.3,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       695,
+       958.67
+      ],
+      [
+       704.33,
+       968
+      ],
+      [
+       695,
+       977.33
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0033A0",
+     "strokeWidth": 3.3,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 110 characters"
+  },
+  {
+   "node": "p0-n30",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

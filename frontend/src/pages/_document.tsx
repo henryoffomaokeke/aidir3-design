@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import { brand } from "@/lib/theme.generated";
 import { theme } from "@/theme.config.mjs";
 import { themeBootScript } from "@/lib/theme";
 import { localeBootScript } from "@/lib/locale";
@@ -22,8 +21,7 @@ export default function Document() {
         {/* Browser and status bar color: the brand accent in light, the dark
             chrome page color in dark. It follows the OS scheme, not the
             in-app theme choice. */}
-        <meta name="theme-color" media="(prefers-color-scheme: light)" content={brand["600"]} />
-        <meta name="theme-color" media="(prefers-color-scheme: dark)" content={theme.dark.page} />
+        <meta name="theme-color" content={theme.dark.page} />
         {/* Installed app on iOS (Add to Home Screen) and Android: full screen
             without browser chrome. The default status bar style keeps content
             below the status bar, so no layout has to pad for it. */}
@@ -32,22 +30,22 @@ export default function Document() {
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content={tr("page.hycanvas_2")} />
         {/* Social share card (Open Graph + Twitter): the banner shown when a
-            HyCanvas link is unfurled in chat, social, and previews. The image is
-            an absolute URL on the brand host so it resolves from any origin. */}
+            link to the app is unfurled in chat, social, and previews. The image
+            ships with the app (scripts/aidir3/build-icons.mjs). */}
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content={tr("page.hycanvas_2")} />
         <meta property="og:title" content={tr("page.hycanvas_2")} />
         <meta property="og:description" content={tr("page.a_free_ai_native_visual_design_platform")} />
-        <meta property="og:image" content="https://brand.hycanvas.com/assets/png/og-image-1200x630.png" />
+        <meta property="og:image" content="/og-image.png" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={tr("page.hycanvas_2")} />
         <meta name="twitter:description" content={tr("page.a_free_ai_native_visual_design_platform")} />
-        <meta name="twitter:image" content="https://brand.hycanvas.com/assets/png/og-image-1200x630.png" />
-        {/* The visitor mark (hycanvas-marketing/brand): SVG first, PNG + ICO
-            fallbacks, plus the touch/PWA tiles. */}
+        <meta name="twitter:image" content="/og-image.png" />
+        {/* The aidir3 mark: SVG first, PNG + ICO fallbacks, plus the touch/PWA
+            tiles. */}
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />

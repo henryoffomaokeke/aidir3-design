@@ -1,0 +1,267 @@
+{
+ "id": "a3-sales-testimonial-social",
+ "title": "Customer Quote Card",
+ "categories": [
+  "sales",
+  "social",
+  "marketing",
+  "quotes"
+ ],
+ "tags": [
+  "testimonial",
+  "customer quote",
+  "social proof",
+  "linkedin",
+  "instagram",
+  "review",
+  "result"
+ ],
+ "styleTags": [
+  "elegant",
+  "serif",
+  "oxblood"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": -931,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Work Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Quote",
+   "bg": "#3B0F1C",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 752,
+     "w": 1080,
+     "h": 328,
+     "fill": "#F5EBDD"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       92,
+       84
+      ],
+      [
+       100,
+       92
+      ],
+      [
+       92,
+       100
+      ],
+      [
+       84,
+       92
+      ]
+     ],
+     "closed": true,
+     "fill": "#DDA688"
+    },
+    {
+     "kind": "text",
+     "x": 116,
+     "y": 80,
+     "w": 300,
+     "h": 26,
+     "text": "Larkspur",
+     "family": "Work Sans",
+     "size": 18,
+     "weight": 600,
+     "color": "#F5EBDD",
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 82,
+     "w": 400,
+     "h": 22,
+     "text": "Customer voices · No. 14",
+     "family": "Work Sans",
+     "size": 14.5,
+     "weight": 500,
+     "color": "#DDA688",
+     "align": "right",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 132,
+     "w": 912,
+     "h": 1,
+     "fill": "#5A2633"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 122,
+     "w": 200,
+     "h": 150,
+     "text": "“",
+     "family": "Instrument Serif",
+     "size": 200,
+     "weight": 400,
+     "color": "#DDA688"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 246,
+     "w": 912,
+     "h": 340,
+     "text": "We stopped guessing which accounts were ready to buy. Larkspur shows my team where to spend Monday morning.",
+     "family": "Instrument Serif",
+     "size": 78,
+     "weight": 400,
+     "color": "#F5EBDD",
+     "letterSpacing": -0.8,
+     "lineHeight": 1.06
+    },
+    {
+     "kind": "ellipse",
+     "x": 96,
+     "y": 648,
+     "w": 208,
+     "h": 208,
+     "fill": "#F5EBDD"
+    },
+    {
+     "kind": "photo",
+     "x": 104,
+     "y": 656,
+     "w": 192,
+     "h": 192,
+     "shape": "ellipse",
+     "fill": "#CDB6A8",
+     "name": "Customer portrait"
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 636,
+     "w": 232,
+     "h": 232,
+     "stroke": "#DDA688",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 874,
+     "w": 470,
+     "h": 58,
+     "text": "Imogen Ashdown",
+     "family": "Instrument Serif",
+     "size": 48,
+     "weight": 400,
+     "color": "#3B0F1C",
+     "letterSpacing": -0.4
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 938,
+     "w": 470,
+     "h": 56,
+     "text": "Chief Revenue Officer,\nOstrander Robotics",
+     "family": "Work Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#6E3B46",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 608,
+     "y": 812,
+     "w": 1,
+     "h": 180,
+     "fill": "#D9C8B6"
+    },
+    {
+     "kind": "text",
+     "x": 640,
+     "y": 716,
+     "w": 356,
+     "h": 200,
+     "text": "41%",
+     "family": "Instrument Serif",
+     "size": 180,
+     "weight": 400,
+     "color": "#3B0F1C",
+     "align": "right",
+     "letterSpacing": -3
+    },
+    {
+     "kind": "text",
+     "x": 640,
+     "y": 948,
+     "w": 356,
+     "h": 46,
+     "text": "more qualified pipeline\nin two quarters",
+     "family": "Work Sans",
+     "size": 15.5,
+     "weight": 600,
+     "color": "#6E3B46",
+     "align": "right",
+     "letterSpacing": 2.4,
+     "upper": true,
+     "lineHeight": 1.45
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Quotation",
+   "hint": "Up to 110 characters, four lines"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Customer name",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Title and company",
+   "hint": "Two short lines"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Result figure",
+   "hint": "Three or four characters, e.g. 41%"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "What the figure measures",
+   "hint": "Two short lines"
+  }
+ ]
+}

@@ -1,0 +1,434 @@
+{
+ "id": "a3-biz-webinar-linkedin",
+ "title": "Webinar Promotion for LinkedIn",
+ "categories": [
+  "business",
+  "social",
+  "events",
+  "marketing"
+ ],
+ "tags": [
+  "webinar",
+  "linkedin",
+  "event promotion",
+  "speakers",
+  "b2b",
+  "register",
+  "social post"
+ ],
+ "styleTags": [
+  "bold",
+  "violet",
+  "high contrast"
+ ],
+ "size": [
+  1200,
+  627
+ ],
+ "rank": -972,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter Tight",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Webinar",
+   "bg": {
+    "angle": 135,
+    "stops": [
+     [
+      "#22085C",
+      0
+     ],
+     [
+      "#4A1FA8",
+      1
+     ]
+    ]
+   },
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 660,
+     "y": -124,
+     "w": 760,
+     "h": 760,
+     "stroke": "#6A44CF",
+     "strokeWidth": 2,
+     "bleed": true,
+     "opacity": 0.55,
+     "name": "Orbit ring"
+    },
+    {
+     "kind": "ellipse",
+     "x": 700,
+     "y": -84,
+     "w": 680,
+     "h": 680,
+     "stroke": "#6A44CF",
+     "strokeWidth": 2,
+     "opacity": 0.8,
+     "bleed": true,
+     "name": "Orbit ring"
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 70,
+     "w": 162,
+     "h": 36,
+     "fill": "#FFD23F",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 70,
+     "w": 162,
+     "h": 36,
+     "text": "Live webinar",
+     "family": "Inter Tight",
+     "size": 14,
+     "weight": 800,
+     "color": "#1A0745",
+     "align": "center",
+     "letterSpacing": 1.6,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 238,
+     "y": 70,
+     "w": 300,
+     "h": 36,
+     "text": "45 minutes plus Q&A",
+     "family": "Inter Tight",
+     "size": 17,
+     "weight": 500,
+     "color": "#DCCFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 132,
+     "w": 680,
+     "h": 78,
+     "text": "Buy AI software,",
+     "family": "Archivo",
+     "size": 68,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "letterSpacing": -1.5,
+     "lineHeight": 1.08
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 206,
+     "w": 680,
+     "h": 78,
+     "text": "not AI risk.",
+     "family": "Archivo",
+     "size": 68,
+     "weight": 800,
+     "color": "#FFD23F",
+     "letterSpacing": -1.5,
+     "lineHeight": 1.08
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 302,
+     "w": 600,
+     "h": 60,
+     "text": "The questions security, legal and procurement teams should put to every AI vendor in 2027.",
+     "family": "Inter Tight",
+     "size": 21,
+     "weight": 400,
+     "color": "#DCCFFF",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "icon",
+     "x": 60,
+     "y": 398,
+     "w": 28,
+     "h": 28,
+     "icon": "calendar",
+     "color": "#FFD23F"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 396,
+     "w": 300,
+     "h": 32,
+     "text": "Thu 21 January 2027",
+     "family": "Inter Tight",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "icon",
+     "x": 372,
+     "y": 398,
+     "w": 28,
+     "h": 28,
+     "icon": "clock",
+     "color": "#FFD23F"
+    },
+    {
+     "kind": "text",
+     "x": 412,
+     "y": 396,
+     "w": 330,
+     "h": 32,
+     "text": "11:00 ET · 16:00 GMT",
+     "family": "Inter Tight",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "button",
+     "x": 60,
+     "y": 482,
+     "w": 236,
+     "h": 64,
+     "label": "Register free",
+     "fill": "#FFD23F",
+     "color": "#1A0745",
+     "family": "Archivo",
+     "size": 23,
+     "weight": 800
+    },
+    {
+     "kind": "text",
+     "x": 318,
+     "y": 482,
+     "w": 380,
+     "h": 64,
+     "text": "Recording sent to everyone who registers",
+     "family": "Inter Tight",
+     "size": 16,
+     "weight": 500,
+     "color": "#DCCFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 764,
+     "y": 78,
+     "w": 370,
+     "h": 18,
+     "text": "Your speakers",
+     "family": "Inter Tight",
+     "size": 13,
+     "weight": 700,
+     "color": "#FFD23F",
+     "align": "center",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 758,
+     "y": 128,
+     "w": 176,
+     "h": 176,
+     "stroke": "#FFD23F",
+     "strokeWidth": 3,
+     "name": "Portrait ring"
+    },
+    {
+     "kind": "photo",
+     "name": "Speaker photo",
+     "x": 768,
+     "y": 138,
+     "w": 156,
+     "h": 156,
+     "shape": "ellipse",
+     "fill": "#8F74E3"
+    },
+    {
+     "kind": "text",
+     "x": 750,
+     "y": 324,
+     "w": 192,
+     "h": 28,
+     "text": "Naomi Feldt",
+     "family": "Archivo",
+     "size": 21,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 750,
+     "y": 355,
+     "w": 192,
+     "h": 44,
+     "text": "Chief Procurement Officer\nHarlan Freight Group",
+     "family": "Inter Tight",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#DCCFFF",
+     "align": "center",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 964,
+     "y": 128,
+     "w": 176,
+     "h": 176,
+     "stroke": "#FFD23F",
+     "strokeWidth": 3,
+     "name": "Portrait ring"
+    },
+    {
+     "kind": "photo",
+     "name": "Speaker photo",
+     "x": 974,
+     "y": 138,
+     "w": 156,
+     "h": 156,
+     "shape": "ellipse",
+     "fill": "#8F74E3"
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 324,
+     "w": 192,
+     "h": 28,
+     "text": "Dr Samir Qureshi",
+     "family": "Archivo",
+     "size": 21,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 956,
+     "y": 355,
+     "w": 192,
+     "h": 44,
+     "text": "Head of AI Assurance\nKinlet",
+     "family": "Inter Tight",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#DCCFFF",
+     "align": "center",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 940,
+     "y": 478,
+     "w": 200,
+     "h": 16,
+     "text": "Hosted by",
+     "family": "Inter Tight",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#DCCFFF",
+     "align": "right",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 1046,
+     "y": 509,
+     "w": 12,
+     "h": 12,
+     "fill": "#FFD23F",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1040,
+     "y": 496,
+     "w": 100,
+     "h": 34,
+     "text": "kinlet",
+     "family": "Archivo",
+     "size": 26,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "right",
+     "letterSpacing": -0.5,
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 900,
+     "y": 534,
+     "w": 240,
+     "h": 18,
+     "text": "kinlet.example/webinars",
+     "family": "Inter Tight",
+     "size": 14,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline, line one",
+   "hint": "Up to 17 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline, line two",
+   "hint": "Up to 17 characters, shown in the accent colour"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Date",
+   "hint": "e.g. Thu 21 January 2027"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Time",
+   "hint": "With time zones"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "First speaker",
+   "hint": "Full name"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Second speaker",
+   "hint": "Full name"
+  }
+ ]
+}

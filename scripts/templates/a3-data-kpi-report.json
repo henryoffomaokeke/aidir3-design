@@ -1,0 +1,1421 @@
+{
+ "id": "a3-data-kpi-report",
+ "title": "Monthly KPI Report",
+ "categories": [
+  "data",
+  "business",
+  "documents"
+ ],
+ "tags": [
+  "kpi",
+  "metrics",
+  "monthly report",
+  "dashboard",
+  "saas",
+  "analytics",
+  "a4"
+ ],
+ "styleTags": [
+  "clean",
+  "light",
+  "data"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -983,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "KPI report",
+   "bg": "#F6F6FA",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 794,
+     "h": 150,
+     "fill": "#1B1A4A"
+    },
+    {
+     "kind": "rect",
+     "x": 562,
+     "y": 124,
+     "w": 16,
+     "h": 26,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 586,
+     "y": 110,
+     "w": 16,
+     "h": 40,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 610,
+     "y": 116,
+     "w": 16,
+     "h": 34,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 634,
+     "y": 98,
+     "w": 16,
+     "h": 52,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 658,
+     "y": 88,
+     "w": 16,
+     "h": 62,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 682,
+     "y": 94,
+     "w": 16,
+     "h": 56,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 706,
+     "y": 72,
+     "w": 16,
+     "h": 78,
+     "fill": "#2C2B6F"
+    },
+    {
+     "kind": "rect",
+     "x": 730,
+     "y": 54,
+     "w": 16,
+     "h": 96,
+     "fill": "#5B4BF5"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 36,
+     "w": 10,
+     "h": 10,
+     "fill": "#5B4BF5"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 33,
+     "w": 360,
+     "h": 16,
+     "text": "Northpine · Growth Analytics",
+     "family": "Plus Jakarta Sans",
+     "size": 11,
+     "weight": 700,
+     "color": "#C9C7F5",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 62,
+     "w": 480,
+     "h": 46,
+     "text": "Monthly KPI Report",
+     "family": "Plus Jakarta Sans",
+     "size": 36,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 112,
+     "w": 480,
+     "h": 20,
+     "text": "October 2026 · company performance against September",
+     "family": "Inter",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#C9C7F5"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 166,
+     "w": 470,
+     "h": 14,
+     "text": "Prepared by Growth Analytics  ·  Data as of 2 Nov 2026  ·  Source: billing warehouse",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92"
+    },
+    {
+     "kind": "text",
+     "x": 546,
+     "y": 166,
+     "w": 200,
+     "h": 14,
+     "text": "Report KPI-2026-10",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 198,
+     "w": 300,
+     "h": 14,
+     "text": "Headline metrics",
+     "family": "Plus Jakarta Sans",
+     "size": 11,
+     "weight": 800,
+     "color": "#1B1A4A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 386,
+     "y": 198,
+     "w": 360,
+     "h": 14,
+     "text": "Change against September 2026 · sparklines show six months",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 222,
+     "w": 222,
+     "h": 122,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 236,
+     "w": 196,
+     "h": 13,
+     "text": "Monthly recurring revenue",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#55566B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 256,
+     "w": 138,
+     "h": 38,
+     "text": "$1.284M",
+     "family": "Plus Jakarta Sans",
+     "size": 29,
+     "weight": 800,
+     "color": "#16162B",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       202,
+       290
+      ],
+      [
+       212.4,
+       285.4
+      ],
+      [
+       222.8,
+       280.5
+      ],
+      [
+       233.2,
+       275.8
+      ],
+      [
+       243.6,
+       270.6
+      ],
+      [
+       254,
+       264
+      ]
+     ],
+     "stroke": "#0B8A5C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 250.5,
+     "y": 260.5,
+     "w": 7,
+     "h": 7,
+     "fill": "#0B8A5C"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 308,
+     "w": 76,
+     "h": 22,
+     "fill": "#DDF5EA",
+     "radius": 11
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#0B8A5C",
+     "points": [
+      [
+       73,
+       322.5
+      ],
+      [
+       77.5,
+       315.5
+      ],
+      [
+       82,
+       322.5
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 308,
+     "w": 52,
+     "h": 22,
+     "text": "3.6%",
+     "family": "Inter",
+     "size": 11,
+     "weight": 700,
+     "color": "#0B8A5C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 148,
+     "y": 308,
+     "w": 112,
+     "h": 22,
+     "text": "Sep $1.239M",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 286,
+     "y": 222,
+     "w": 222,
+     "h": 122,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 302,
+     "y": 236,
+     "w": 196,
+     "h": 13,
+     "text": "Active accounts",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#55566B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 302,
+     "y": 256,
+     "w": 138,
+     "h": 38,
+     "text": "2,418",
+     "family": "Plus Jakarta Sans",
+     "size": 29,
+     "weight": 800,
+     "color": "#16162B",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       440,
+       290
+      ],
+      [
+       450.4,
+       285.2
+      ],
+      [
+       460.8,
+       280.5
+      ],
+      [
+       471.2,
+       276.9
+      ],
+      [
+       481.6,
+       270.4
+      ],
+      [
+       492,
+       264
+      ]
+     ],
+     "stroke": "#0B8A5C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 488.5,
+     "y": 260.5,
+     "w": 7,
+     "h": 7,
+     "fill": "#0B8A5C"
+    },
+    {
+     "kind": "rect",
+     "x": 302,
+     "y": 308,
+     "w": 76,
+     "h": 22,
+     "fill": "#DDF5EA",
+     "radius": 11
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#0B8A5C",
+     "points": [
+      [
+       311,
+       322.5
+      ],
+      [
+       315.5,
+       315.5
+      ],
+      [
+       320,
+       322.5
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 325,
+     "y": 308,
+     "w": 52,
+     "h": 22,
+     "text": "2.6%",
+     "family": "Inter",
+     "size": 11,
+     "weight": 700,
+     "color": "#0B8A5C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 386,
+     "y": 308,
+     "w": 112,
+     "h": 22,
+     "text": "Sep 2,356",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 524,
+     "y": 222,
+     "w": 222,
+     "h": 122,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 236,
+     "w": 196,
+     "h": 13,
+     "text": "Net revenue retention",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#55566B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 256,
+     "w": 138,
+     "h": 38,
+     "text": "108%",
+     "family": "Plus Jakarta Sans",
+     "size": 29,
+     "weight": 800,
+     "color": "#16162B",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       678,
+       290
+      ],
+      [
+       688.4,
+       283.5
+      ],
+      [
+       698.8,
+       283.5
+      ],
+      [
+       709.2,
+       277
+      ],
+      [
+       719.6,
+       270.5
+      ],
+      [
+       730,
+       264
+      ]
+     ],
+     "stroke": "#0B8A5C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 726.5,
+     "y": 260.5,
+     "w": 7,
+     "h": 7,
+     "fill": "#0B8A5C"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 308,
+     "w": 76,
+     "h": 22,
+     "fill": "#DDF5EA",
+     "radius": 11
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#0B8A5C",
+     "points": [
+      [
+       549,
+       322.5
+      ],
+      [
+       553.5,
+       315.5
+      ],
+      [
+       558,
+       322.5
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 563,
+     "y": 308,
+     "w": 52,
+     "h": 22,
+     "text": "1 pt",
+     "family": "Inter",
+     "size": 11,
+     "weight": 700,
+     "color": "#0B8A5C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 624,
+     "y": 308,
+     "w": 112,
+     "h": 22,
+     "text": "Sep 107%",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 358,
+     "w": 222,
+     "h": 122,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 372,
+     "w": 196,
+     "h": 13,
+     "text": "Logo churn",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#55566B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 392,
+     "w": 138,
+     "h": 38,
+     "text": "1.4%",
+     "family": "Plus Jakarta Sans",
+     "size": 29,
+     "weight": 800,
+     "color": "#16162B",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       202,
+       400
+      ],
+      [
+       212.4,
+       407.4
+      ],
+      [
+       222.8,
+       403.7
+      ],
+      [
+       233.2,
+       411.1
+      ],
+      [
+       243.6,
+       414.9
+      ],
+      [
+       254,
+       426
+      ]
+     ],
+     "stroke": "#0B8A5C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 250.5,
+     "y": 422.5,
+     "w": 7,
+     "h": 7,
+     "fill": "#0B8A5C"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 444,
+     "w": 76,
+     "h": 22,
+     "fill": "#DDF5EA",
+     "radius": 11
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#0B8A5C",
+     "points": [
+      [
+       73,
+       451.5
+      ],
+      [
+       82,
+       451.5
+      ],
+      [
+       77.5,
+       458.5
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 444,
+     "w": 52,
+     "h": 22,
+     "text": "0.3 pt",
+     "family": "Inter",
+     "size": 11,
+     "weight": 700,
+     "color": "#0B8A5C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 148,
+     "y": 444,
+     "w": 112,
+     "h": 22,
+     "text": "Sep 1.7%",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 286,
+     "y": 358,
+     "w": 222,
+     "h": 122,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 302,
+     "y": 372,
+     "w": 196,
+     "h": 13,
+     "text": "Trial-to-paid conversion",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#55566B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 302,
+     "y": 392,
+     "w": 138,
+     "h": 38,
+     "text": "18.2%",
+     "family": "Plus Jakarta Sans",
+     "size": 29,
+     "weight": 800,
+     "color": "#16162B",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       440,
+       426
+      ],
+      [
+       450.4,
+       412.5
+      ],
+      [
+       460.8,
+       406.2
+      ],
+      [
+       471.2,
+       400
+      ],
+      [
+       481.6,
+       403.1
+      ],
+      [
+       492,
+       414.6
+      ]
+     ],
+     "stroke": "#C2410C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 488.5,
+     "y": 411.1,
+     "w": 7,
+     "h": 7,
+     "fill": "#C2410C"
+    },
+    {
+     "kind": "rect",
+     "x": 302,
+     "y": 444,
+     "w": 76,
+     "h": 22,
+     "fill": "#FDE9DD",
+     "radius": 11
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#C2410C",
+     "points": [
+      [
+       311,
+       451.5
+      ],
+      [
+       320,
+       451.5
+      ],
+      [
+       315.5,
+       458.5
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 325,
+     "y": 444,
+     "w": 52,
+     "h": 22,
+     "text": "1.1 pt",
+     "family": "Inter",
+     "size": 11,
+     "weight": 700,
+     "color": "#C2410C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 386,
+     "y": 444,
+     "w": 112,
+     "h": 22,
+     "text": "Sep 19.3%",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 524,
+     "y": 358,
+     "w": 222,
+     "h": 122,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 372,
+     "w": 196,
+     "h": 13,
+     "text": "First response time",
+     "family": "Inter",
+     "size": 9.5,
+     "weight": 600,
+     "color": "#55566B",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 392,
+     "w": 138,
+     "h": 38,
+     "text": "2h 14m",
+     "family": "Plus Jakarta Sans",
+     "size": 29,
+     "weight": 800,
+     "color": "#16162B",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       678,
+       422.3
+      ],
+      [
+       688.4,
+       426
+      ],
+      [
+       698.8,
+       419.3
+      ],
+      [
+       709.2,
+       420.8
+      ],
+      [
+       719.6,
+       415.6
+      ],
+      [
+       730,
+       400
+      ]
+     ],
+     "stroke": "#C2410C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 726.5,
+     "y": 396.5,
+     "w": 7,
+     "h": 7,
+     "fill": "#C2410C"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 444,
+     "w": 76,
+     "h": 22,
+     "fill": "#FDE9DD",
+     "radius": 11
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#C2410C",
+     "points": [
+      [
+       549,
+       458.5
+      ],
+      [
+       553.5,
+       451.5
+      ],
+      [
+       558,
+       458.5
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 563,
+     "y": 444,
+     "w": 52,
+     "h": 22,
+     "text": "21 min",
+     "family": "Inter",
+     "size": 11,
+     "weight": 700,
+     "color": "#C2410C",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 624,
+     "y": 444,
+     "w": 112,
+     "h": 22,
+     "text": "Sep 1h 53m",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 506,
+     "w": 300,
+     "h": 14,
+     "text": "Trends",
+     "family": "Plus Jakarta Sans",
+     "size": 11,
+     "weight": 800,
+     "color": "#1B1A4A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 528,
+     "w": 452,
+     "h": 242,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 542,
+     "w": 260,
+     "h": 18,
+     "text": "MRR movement",
+     "family": "Plus Jakarta Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#16162B"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 544,
+     "w": 150,
+     "h": 14,
+     "text": "$K per month",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "name": "MRR movement",
+     "x": 56,
+     "y": 556,
+     "w": 436,
+     "h": 208,
+     "chartType": "barGrouped",
+     "fontSize": 10,
+     "valueLabels": true,
+     "legend": true,
+     "categories": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+     ],
+     "series": [
+      {
+       "name": "New and expansion",
+       "values": [
+        52,
+        55,
+        58,
+        54,
+        61,
+        68
+       ],
+       "color": "#5B4BF5"
+      },
+      {
+       "name": "Churn and contraction",
+       "values": [
+        21,
+        24,
+        25,
+        22,
+        26,
+        23
+       ],
+       "color": "#C2C0EE"
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 786,
+     "w": 452,
+     "h": 242,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E1E2EC",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 800,
+     "w": 260,
+     "h": 18,
+     "text": "Trials started per week, by source",
+     "family": "Plus Jakarta Sans",
+     "size": 13,
+     "weight": 700,
+     "color": "#16162B"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 802,
+     "w": 150,
+     "h": 14,
+     "text": "ISO weeks 37 to 44",
+     "family": "Inter",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#7C7D92",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "name": "Trials started by source",
+     "x": 56,
+     "y": 814,
+     "w": 436,
+     "h": 208,
+     "chartType": "barStacked",
+     "fontSize": 10,
+     "valueLabels": false,
+     "legend": true,
+     "categories": [
+      "W37",
+      "W38",
+      "W39",
+      "W40",
+      "W41",
+      "W42",
+      "W43",
+      "W44"
+     ],
+     "series": [
+      {
+       "name": "Organic",
+       "values": [
+        128,
+        131,
+        126,
+        138,
+        133,
+        146,
+        141,
+        149
+       ],
+       "color": "#5B4BF5"
+      },
+      {
+       "name": "Paid",
+       "values": [
+        76,
+        79,
+        82,
+        83,
+        81,
+        90,
+        88,
+        92
+       ],
+       "color": "#C2C0EE"
+      },
+      {
+       "name": "Webinar",
+       "values": [
+        0,
+        102,
+        78,
+        0,
+        0,
+        0,
+        0,
+        0
+       ],
+       "color": "#1B1A4A"
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 506,
+     "w": 222,
+     "h": 14,
+     "text": "Commentary",
+     "family": "Plus Jakarta Sans",
+     "size": 11,
+     "weight": 800,
+     "color": "#1B1A4A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 524,
+     "y": 528,
+     "w": 222,
+     "h": 500,
+     "fill": "#EEEDFC",
+     "radius": 8
+    },
+    {
+     "kind": "rect",
+     "x": 542,
+     "y": 549,
+     "w": 3,
+     "h": 12,
+     "fill": "#5B4BF5"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 546,
+     "w": 176,
+     "h": 16,
+     "text": "Revenue",
+     "family": "Plus Jakarta Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1B1A4A"
+    },
+    {
+     "kind": "text",
+     "x": 542,
+     "y": 568,
+     "w": 188,
+     "h": 84,
+     "text": "MRR grew $45K, the largest monthly gain this year. The Dispatch add-on brought $19K of it as expansion.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#33344A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 542,
+     "y": 665,
+     "w": 3,
+     "h": 12,
+     "fill": "#5B4BF5"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 662,
+     "w": 176,
+     "h": 16,
+     "text": "Retention",
+     "family": "Plus Jakarta Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1B1A4A"
+    },
+    {
+     "kind": "text",
+     "x": 542,
+     "y": 684,
+     "w": 188,
+     "h": 84,
+     "text": "33 accounts cancelled, down from 39 in September, after the annual-plan push. Logo churn is at a 12-month low.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#33344A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 542,
+     "y": 781,
+     "w": 3,
+     "h": 12,
+     "fill": "#5B4BF5"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 778,
+     "w": 176,
+     "h": 16,
+     "text": "Conversion",
+     "family": "Plus Jakarta Sans",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1B1A4A"
+    },
+    {
+     "kind": "text",
+     "x": 542,
+     "y": 800,
+     "w": 188,
+     "h": 84,
+     "text": "Trial-to-paid fell 1.1 pts as the week 38 webinar cohort reached day 30. Without it, conversion held at 19.4%.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#33344A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 536,
+     "y": 896,
+     "w": 198,
+     "h": 120,
+     "fill": "#FFFFFF",
+     "radius": 6
+    },
+    {
+     "kind": "text",
+     "x": 550,
+     "y": 908,
+     "w": 170,
+     "h": 14,
+     "text": "Watch in November",
+     "family": "Plus Jakarta Sans",
+     "size": 10,
+     "weight": 800,
+     "color": "#C2410C",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 550,
+     "y": 928,
+     "w": 172,
+     "h": 84,
+     "text": "First response time rose 21 minutes. Two support hires start on 16 November; expect recovery by December.",
+     "family": "Inter",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#33344A",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 1056,
+     "w": 698,
+     "h": 1,
+     "fill": "#E1E2EC"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 1068,
+     "w": 440,
+     "h": 14,
+     "text": "Northpine · Internal · Not for external distribution",
+     "family": "Inter",
+     "size": 10,
+     "weight": 400,
+     "color": "#7C7D92"
+    },
+    {
+     "kind": "text",
+     "x": 546,
+     "y": 1068,
+     "w": 200,
+     "h": 14,
+     "text": "Page 1 of 1",
+     "family": "Inter",
+     "size": 10,
+     "weight": 400,
+     "color": "#7C7D92",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Report title",
+   "hint": "Up to 22 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Period line",
+   "hint": "Month and scope, one line"
+  },
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "First metric value",
+   "hint": "The headline number"
+  },
+  {
+   "node": "p0-n84",
+   "kind": "text",
+   "label": "First commentary note",
+   "hint": "Two short sentences"
+  }
+ ]
+}

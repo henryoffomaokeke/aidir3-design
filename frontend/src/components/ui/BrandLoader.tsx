@@ -1,15 +1,13 @@
 import { tr } from "@/lib/i18n";
-// Brand loading state: the animated visitor mark (brand asset
-// /brand/visitor-loader.svg; the cursor arrives, the stroke paints itself and
-// escapes, on a 2.8s loop, resting complete under prefers-reduced-motion).
-// The SVG's CSS animation runs fine inside an <img>, keeping the asset the
-// single source of truth shared with the marketing site.
+// Brand loading state: the aidir3 mark with a soft pulse (brand asset
+// /brand/visitor-loader.svg, rendered by scripts/aidir3/build-icons.mjs).
+// The SVG's own animation runs fine inside an <img>.
 
-export function BrandLoader({ size = 104, label }: { size?: number; label?: string }) {
+export function BrandLoader({ size = 64, label }: { size?: number; label?: string }) {
   return (
     <span className="inline-flex flex-col items-center gap-3">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src="/brand/visitor-loader.svg" width={size} height={size * (50 / 52)} alt="" aria-hidden />
+      <img src="/brand/visitor-loader.svg" width={size} height={size} alt="" aria-hidden />
       <span role="status" className="text-sm text-neutral-500">
         {label ?? tr("ui.loading")}
       </span>

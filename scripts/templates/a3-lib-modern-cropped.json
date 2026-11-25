@@ -1,0 +1,284 @@
+{
+ "id": "a3-lib-modern-cropped",
+ "title": "Naming Ceremony: Cropped Headline",
+ "categories": [
+  "celebrations",
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "naming ceremony",
+  "baby naming",
+  "christening",
+  "new baby",
+  "nigerian",
+  "instagram post",
+  "cropped headline",
+  "kids & family"
+ ],
+ "styleTags": [
+  "light",
+  "bold type",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF5F3",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 0,
+     "y": 714.8,
+     "w": 1080,
+     "h": 408,
+     "text": "NAME",
+     "family": "Outfit",
+     "size": 340,
+     "weight": 800,
+     "color": "#C8102E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.8,
+     "upper": true,
+     "name": "Cropped headline",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 51,
+     "h": 51,
+     "fill": "#C8102E",
+     "radius": 25.5,
+     "name": "Logo chip"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 90,
+     "y": 90,
+     "w": 27,
+     "h": 27,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 72.5,
+     "w": 294,
+     "h": 51,
+     "text": "The Adewale family",
+     "family": "Outfit",
+     "size": 27,
+     "weight": 700,
+     "color": "#2A0A0C",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 730,
+     "y": 154,
+     "w": 272,
+     "h": 340,
+     "shape": "rect",
+     "fill": "#DAD7D6",
+     "name": "Photo: newborn baby sleeping"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       728.5,
+       152.5
+      ],
+      [
+       866,
+       152.5
+      ],
+      {
+       "x": 866,
+       "y": 154,
+       "cOut": {
+        "x": 790.89,
+        "y": 154
+       }
+      },
+      {
+       "x": 730,
+       "y": 290,
+       "cIn": {
+        "x": 730,
+        "y": 214.89
+       }
+      },
+      [
+       728.5,
+       290
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFF5F3",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1003.5,
+       152.5
+      ],
+      [
+       866,
+       152.5
+      ],
+      {
+       "x": 866,
+       "y": 154,
+       "cOut": {
+        "x": 941.11,
+        "y": 154
+       }
+      },
+      {
+       "x": 1002,
+       "y": 290,
+       "cIn": {
+        "x": 1002,
+        "y": 214.89
+       }
+      },
+      [
+       1003.5,
+       290
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFF5F3",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 148.9,
+     "w": 609,
+     "h": 34,
+     "text": "Welcome to the world",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#C8102E",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 197.8,
+     "w": 609,
+     "h": 196,
+     "text": "A name, a blessing",
+     "family": "Outfit",
+     "size": 94,
+     "weight": 800,
+     "color": "#2A0A0C",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 423.1,
+     "w": 609,
+     "h": 139,
+     "text": "On the eighth day, join us to give thanks and name our beautiful baby girl. Food and drinks after.",
+     "family": "Outfit",
+     "size": 32,
+     "weight": 500,
+     "color": "#7A4A4F",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 609,
+     "w": 215,
+     "h": 75,
+     "fill": "#2A0A0C",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 602.9,
+     "w": 215,
+     "h": 75,
+     "text": "Join us",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFF5F3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 120 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

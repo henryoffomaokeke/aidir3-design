@@ -1,0 +1,273 @@
+{
+ "id": "a3-yt-end-screen",
+ "title": "YouTube End Screen Layout",
+ "categories": [
+  "social",
+  "thumbnails",
+  "marketing"
+ ],
+ "tags": [
+  "youtube",
+  "end screen",
+  "outro",
+  "subscribe",
+  "watch next",
+  "cycling",
+  "video",
+  "1080p"
+ ],
+ "styleTags": [
+  "clean",
+  "split",
+  "teal"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -1997,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Sora",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "End screen",
+   "bg": "#F4F3EE",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 1000,
+     "y": 0,
+     "w": 920,
+     "h": 1080,
+     "fill": "#111417"
+    },
+    {
+     "kind": "photo",
+     "x": 1076,
+     "y": 96,
+     "w": 768,
+     "h": 432,
+     "shape": "rect",
+     "name": "End screen video 1",
+     "fill": "#2A2F35"
+    },
+    {
+     "kind": "photo",
+     "x": 1076,
+     "y": 576,
+     "w": 768,
+     "h": 432,
+     "shape": "rect",
+     "name": "End screen video 2",
+     "fill": "#2A2F35"
+    },
+    {
+     "kind": "text",
+     "x": 1076,
+     "y": 50,
+     "w": 500,
+     "h": 30,
+     "text": "WATCH NEXT",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#0EA5A0",
+     "lineHeight": 1,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 1076,
+     "y": 530,
+     "w": 500,
+     "h": 30,
+     "text": "BEST FOR YOU",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 700,
+     "color": "#0EA5A0",
+     "lineHeight": 1,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 96,
+     "w": 760,
+     "h": 40,
+     "text": "NORTHBOUND CYCLING",
+     "family": "Hanken Grotesk",
+     "size": 26,
+     "weight": 700,
+     "color": "#0EA5A0",
+     "lineHeight": 1.1,
+     "letterSpacing": 6
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 160,
+     "w": 840,
+     "h": 300,
+     "text": "Thanks for\nriding along.",
+     "family": "Sora",
+     "size": 104,
+     "weight": 700,
+     "color": "#111417",
+     "lineHeight": 1.08,
+     "letterSpacing": -2
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 420,
+     "w": 760,
+     "h": 90,
+     "text": "Next week: 300 km through the Cairngorms on a\nsecond-hand gravel bike.",
+     "family": "Hanken Grotesk",
+     "size": 30,
+     "weight": 500,
+     "color": "#5D646B",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 104,
+       "y": 560
+      },
+      {
+       "x": 460,
+       "y": 590,
+       "cIn": {
+        "x": 300,
+        "y": 556
+       },
+       "cOut": {
+        "x": 600,
+        "y": 612
+       }
+      },
+      {
+       "x": 360,
+       "y": 668,
+       "cIn": {
+        "x": 520,
+        "y": 668
+       }
+      }
+     ],
+     "stroke": "#0EA5A0",
+     "strokeWidth": 6,
+     "dash": [
+      2,
+      14
+     ],
+     "cap": "round"
+    },
+    {
+     "kind": "ellipse",
+     "x": 94,
+     "y": 550,
+     "w": 20,
+     "h": 20,
+     "fill": "#0EA5A0"
+    },
+    {
+     "kind": "ellipse",
+     "x": 170,
+     "y": 680,
+     "w": 300,
+     "h": 300,
+     "fill": "#0EA5A0"
+    },
+    {
+     "kind": "photo",
+     "x": 182,
+     "y": 692,
+     "w": 276,
+     "h": 276,
+     "shape": "ellipse",
+     "name": "Subscribe element (channel icon)",
+     "fill": "#DAD9D2"
+    },
+    {
+     "kind": "text",
+     "x": 510,
+     "y": 740,
+     "w": 470,
+     "h": 100,
+     "text": "Subscribe for\nSunday rides",
+     "family": "Sora",
+     "size": 40,
+     "weight": 700,
+     "color": "#111417",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 510,
+     "y": 856,
+     "w": 470,
+     "h": 34,
+     "text": "New route every week · 212k riders",
+     "family": "Hanken Grotesk",
+     "size": 24,
+     "weight": 500,
+     "color": "#5D646B",
+     "lineHeight": 1.1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Channel name",
+   "hint": "Caps"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Sign-off headline",
+   "hint": "Two short lines"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Next episode teaser",
+   "hint": "Two lines"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Subscribe prompt",
+   "hint": "Short call to action"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Video 1 label",
+   "hint": "Caps, two or three words"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Video 2 label",
+   "hint": "Caps, two or three words"
+  }
+ ]
+}

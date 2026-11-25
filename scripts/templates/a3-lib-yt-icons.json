@@ -1,0 +1,268 @@
+{
+ "id": "a3-lib-yt-icons",
+ "title": "Gardening: Icon Montage (no Face) YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "business",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "gardening",
+  "faceless",
+  "icons",
+  "linkedin video cover"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#4B00C2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -705.3,
+     "y": -665.3,
+     "w": 2050.6,
+     "h": 2050.6,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#F72585",
+        0
+       ],
+       [
+        "#4B00C2",
+        0.75
+       ],
+       [
+        "#4B00C2",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 57,
+     "y": 61,
+     "w": 158,
+     "h": 158,
+     "rotation": -7,
+     "fill": "#00F5D4",
+     "radius": 24,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "seedling",
+     "x": 96,
+     "y": 91,
+     "w": 88,
+     "h": 88,
+     "rotation": -7,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 258,
+     "y": 42,
+     "w": 158,
+     "h": 158,
+     "rotation": 7,
+     "fill": "#FFFFFF",
+     "radius": 24,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "flower",
+     "x": 288,
+     "y": 80,
+     "w": 88,
+     "h": 88,
+     "rotation": 7,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 104,
+     "y": 227,
+     "w": 158,
+     "h": 158,
+     "rotation": -7,
+     "fill": "#FFE600",
+     "radius": 24,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "sun",
+     "x": 143,
+     "y": 257,
+     "w": 88,
+     "h": 88,
+     "rotation": -7,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 305,
+     "y": 208,
+     "w": 158,
+     "h": 158,
+     "rotation": 7,
+     "fill": "#00F5D4",
+     "radius": 24,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "seedling",
+     "x": 336,
+     "y": 246,
+     "w": 88,
+     "h": 88,
+     "rotation": 7,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 57,
+     "y": 392,
+     "w": 158,
+     "h": 158,
+     "rotation": -7,
+     "fill": "#FFFFFF",
+     "radius": 24,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "flower",
+     "x": 96,
+     "y": 423,
+     "w": 88,
+     "h": 88,
+     "rotation": -7,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 258,
+     "y": 373,
+     "w": 158,
+     "h": 158,
+     "rotation": 7,
+     "fill": "#FFE600",
+     "radius": 24,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Icon tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "sun",
+     "x": 288,
+     "y": 412,
+     "w": 88,
+     "h": 88,
+     "rotation": 7,
+     "color": "#111111"
+    },
+    {
+     "kind": "rect",
+     "x": 741,
+     "y": 49,
+     "w": 495,
+     "h": 281,
+     "rotation": 3,
+     "fill": "#00F5D4",
+     "radius": 17,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 646.3,
+     "y": 58.6,
+     "w": 548,
+     "h": 240,
+     "text": "FREE",
+     "family": "Anton",
+     "size": 214,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "align": "right",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 632.8,
+     "y": 333,
+     "w": 582,
+     "h": 223,
+     "text": "SEEDS",
+     "family": "Anton",
+     "size": 199,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

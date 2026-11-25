@@ -64,7 +64,7 @@ func smtpFromEnv() *smtpSender {
 	}
 	fromName := strings.TrimSpace(os.Getenv("SMTP_FROM_NAME"))
 	if fromName == "" {
-		fromName = "HyCanvas"
+		fromName = "aidir3 Design"
 	}
 	return &smtpSender{
 		host:        host,

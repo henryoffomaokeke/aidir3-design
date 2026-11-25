@@ -119,6 +119,8 @@ type Service struct {
 	db      DBTX
 	access  Access
 	persist Persistence
+	// importAssets copies template pictures into the workspace on apply (optional).
+	importAssets AssetImporter
 }
 
 // NewService wires the templates service.
@@ -231,6 +233,10 @@ func (s *Service) List(ctx context.Context, userID string, q TemplateQuery, work
 
 // Get returns one template (seed or DB), membership-gated for DB rows.
 func (s *Service) Get(ctx context.Context, userID, id string) (Template, error) {
+	if isVariationID(id) {
+		t, _, err := variation(ctx, id)
+		return t, err
+	}
 	if seed, ok := findSeed(id); ok {
 		return seed.toTemplate(), nil
 	}
@@ -246,6 +252,10 @@ func (s *Service) Get(ctx context.Context, userID, id string) (Template, error) 
 
 // GetFile returns a template's design file (seed or DB).
 func (s *Service) GetFile(ctx context.Context, userID, id string) (map[string]any, error) {
+	if isVariationID(id) {
+		_, f, err := variation(ctx, id)
+		return f, err
+	}
 	if seed, ok := findSeed(id); ok {
 		var f map[string]any
 		_ = json.Unmarshal(seed.File, &f)
@@ -265,6 +275,13 @@ func (s *Service) GetFile(ctx context.Context, userID, id string) (map[string]an
 
 // GetFillableFields returns a template's fillable fields (for bulk create).
 func (s *Service) GetFillableFields(ctx context.Context, userID, id string) ([]any, error) {
+	if isVariationID(id) {
+		t, _, err := variation(ctx, id)
+		if t.FillableFields == nil {
+			t.FillableFields = []any{}
+		}
+		return t.FillableFields, err
+	}
 	if seed, ok := findSeed(id); ok {
 		return seed.toTemplate().FillableFields, nil
 	}
@@ -306,7 +323,13 @@ func (s *Service) Apply(ctx context.Context, userID, templateID, workspaceID str
 	}
 	var file map[string]any
 	var title string
-	if seed, ok := findSeed(templateID); ok {
+	if isVariationID(templateID) {
+		t, f, err := variation(ctx, templateID)
+		if err != nil {
+			return "", err
+		}
+		file, title = f, t.Title
+	} else if seed, ok := findSeed(templateID); ok {
 		_ = json.Unmarshal(seed.File, &file)
 		title = seed.toTemplate().Title
 	} else {
@@ -321,6 +344,9 @@ func (s *Service) Apply(ctx context.Context, userID, templateID, workspaceID str
 		title = row.Title
 	}
 	applied, _ := deepCopyDesign(file)
+	if s.importAssets != nil && hasTemplatePhotos(applied) {
+		s.importAssets(ctx, userID, workspaceID, applied)
+	}
 	return s.persist.CreateDesign(ctx, workspaceID, title, applied, &userID)
 }
 

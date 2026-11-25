@@ -1,0 +1,647 @@
+{
+ "id": "a3-lib-yt-pricetag",
+ "title": "Charity & Giving: Price Tag YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "business",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "charity & giving",
+  "charity",
+  "giving",
+  "price"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Barlow Condensed",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Barlow Condensed",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#004E64",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 108,
+      "stops": [
+       [
+        "#004E64",
+        0
+       ],
+       [
+        "#00C2A8",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       3264,
+       360
+      ],
+      [
+       3225,
+       805
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       3110,
+       1236
+      ],
+      [
+       2921,
+       1640
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       2665,
+       2006
+      ],
+      [
+       2350,
+       2321
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       1984,
+       2577
+      ],
+      [
+       1580,
+       2766
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       1149,
+       2881
+      ],
+      [
+       704,
+       2920
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       259,
+       2881
+      ],
+      [
+       -172,
+       2766
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -576,
+       2577
+      ],
+      [
+       -942,
+       2321
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -1257,
+       2006
+      ],
+      [
+       -1513,
+       1640
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -1702,
+       1236
+      ],
+      [
+       -1817,
+       805
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -1856,
+       360
+      ],
+      [
+       -1817,
+       -85
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -1702,
+       -516
+      ],
+      [
+       -1513,
+       -920
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -1257,
+       -1286
+      ],
+      [
+       -942,
+       -1601
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       -576,
+       -1857
+      ],
+      [
+       -172,
+       -2046
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       259,
+       -2161
+      ],
+      [
+       704,
+       -2200
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       1149,
+       -2161
+      ],
+      [
+       1580,
+       -2046
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       1984,
+       -1857
+      ],
+      [
+       2350,
+       -1601
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       2665,
+       -1286
+      ],
+      [
+       2921,
+       -920
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704,
+       360
+      ],
+      [
+       3110,
+       -516
+      ],
+      [
+       3225,
+       -85
+      ]
+     ],
+     "closed": true,
+     "fill": "#7CFFEA",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 461,
+     "y": 288,
+     "w": 418,
+     "h": 418,
+     "shape": "ellipse",
+     "fill": "#5E8C8B",
+     "name": "Photo: volunteers packing food",
+     "image": {
+      "asset": "tplph-ov-2737fb0e-4bc8-47fb-9529-10b777823dc4",
+      "url": "/api/v1/templates/photos/ov/2737fb0e-4bc8-47fb-9529-10b777823dc4.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "DHS Secretary Alejandro Mayorkas Volunteers",
+       "author": "usdhs",
+       "url": "https://www.rawpixel.com/image/10993892/photo-image-person-public-domain-food",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: DHS Secretary Alejandro Mayorkas Volunteers",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 461,
+     "y": 288,
+     "w": 418,
+     "h": 418,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 10,
+     "name": "Photo border"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       841.25,
+       333.49
+      ],
+      [
+       1044.38,
+       297.67
+      ],
+      [
+       1066.44,
+       422.74
+      ],
+      [
+       863.3,
+       458.56
+      ],
+      [
+       821.03,
+       401.54
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFE600",
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "cap": "round",
+     "join": "round",
+     "name": "Price tag"
+    },
+    {
+     "kind": "ellipse",
+     "x": 837,
+     "y": 372,
+     "w": 19,
+     "h": 19,
+     "rotation": -10,
+     "fill": "#FFFFFF",
+     "stroke": "#000000",
+     "strokeWidth": 3,
+     "name": "Tag hole"
+    },
+    {
+     "kind": "text",
+     "x": 869.4,
+     "y": 322.2,
+     "w": 180,
+     "h": 101,
+     "text": "1,000",
+     "family": "Barlow Condensed",
+     "size": 60,
+     "weight": 700,
+     "color": "#0B0B0B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 388,
+     "w": 384,
+     "h": 349,
+     "shape": "rect",
+     "fill": "#1B9795",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-f6bc7087-91c5-4584-91c0-51d27e98d2f0-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/f6bc7087-91c5-4584-91c0-51d27e98d2f0-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Older Businessman",
+       "author": "Bruce Mars",
+       "url": "https://stocksnap.io/photo/older-businessman-5BRQF1DZ8W",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 892,
+     "y": 32,
+     "w": 335,
+     "h": 154,
+     "rotation": 2,
+     "fill": "#FFE600",
+     "radius": 9,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 412.5,
+     "y": 30.8,
+     "w": 794,
+     "h": 132,
+     "text": "THEIR",
+     "family": "Barlow Condensed",
+     "size": 115,
+     "weight": 700,
+     "color": "#0B0B0B",
+     "align": "right",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 407.6,
+     "y": 180.6,
+     "w": 812,
+     "h": 125,
+     "text": "REACTION",
+     "family": "Barlow Condensed",
+     "size": 109,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

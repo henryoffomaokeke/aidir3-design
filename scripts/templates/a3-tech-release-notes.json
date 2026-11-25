@@ -1,0 +1,1339 @@
+{
+ "id": "a3-tech-release-notes",
+ "title": "Developer Tool Release Notes",
+ "categories": [
+  "technology",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "release notes",
+  "changelog",
+  "developer tools",
+  "software",
+  "version",
+  "upgrade",
+  "a4"
+ ],
+ "styleTags": [
+  "indigo",
+  "sidebar",
+  "technical"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -935,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Geist",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Geist",
+   "weight": 400
+  },
+  {
+   "role": "code",
+   "family": "Geist Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Release notes",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 236,
+     "h": 1123,
+     "fill": "#1E1B4B"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 866,
+     "w": 236,
+     "h": 257,
+     "fill": "#2A2670"
+    },
+    {
+     "kind": "icon",
+     "x": 32,
+     "y": 46,
+     "w": 26,
+     "h": 26,
+     "icon": "flame",
+     "color": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 44,
+     "w": 150,
+     "h": 30,
+     "text": "Kiln",
+     "family": "Geist",
+     "size": 23,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 120,
+     "w": 172,
+     "h": 14,
+     "text": "Release notes",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A5B4FC",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 28,
+     "y": 136,
+     "w": 200,
+     "h": 112,
+     "text": "4.0",
+     "family": "Geist",
+     "size": 104,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "letterSpacing": -3
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 262,
+     "w": 62,
+     "h": 22,
+     "fill": "#F2545B",
+     "radius": 11
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 262,
+     "w": 62,
+     "h": 22,
+     "text": "Stable",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 262,
+     "w": 124,
+     "h": 22,
+     "text": "18 Nov 2026",
+     "family": "Geist Mono",
+     "size": 11,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 308,
+     "w": 172,
+     "h": 1,
+     "fill": "#3730A3"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 326,
+     "w": 176,
+     "h": 124,
+     "text": "Remote caching is on by default, cold builds are up to 3.1x faster and the plugin API reaches 1.0.",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 496,
+     "w": 172,
+     "h": 1,
+     "fill": "#3730A3"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 497,
+     "w": 60,
+     "h": 51,
+     "text": "42",
+     "family": "Geist",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 497,
+     "w": 116,
+     "h": 51,
+     "text": "changes merged",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#A5B4FC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 548,
+     "w": 172,
+     "h": 1,
+     "fill": "#3730A3"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 549,
+     "w": 60,
+     "h": 51,
+     "text": "17",
+     "family": "Geist",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 549,
+     "w": 116,
+     "h": 51,
+     "text": "contributors",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#A5B4FC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 600,
+     "w": 172,
+     "h": 1,
+     "fill": "#3730A3"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 601,
+     "w": 60,
+     "h": 51,
+     "text": "2",
+     "family": "Geist",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 601,
+     "w": 116,
+     "h": 51,
+     "text": "breaking changes",
+     "family": "Geist",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#A5B4FC",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 652,
+     "w": 172,
+     "h": 1,
+     "fill": "#3730A3"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 708,
+     "w": 172,
+     "h": 14,
+     "text": "Support window",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 500,
+     "color": "#A5B4FC",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 730,
+     "w": 176,
+     "h": 60,
+     "text": "Long-term support until November 2028. Kiln 3.x gets security fixes until May 2027.",
+     "family": "Geist",
+     "size": 12,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 894,
+     "w": 172,
+     "h": 14,
+     "text": "Requirements",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 500,
+     "color": "#A5B4FC",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 929,
+     "w": 5,
+     "h": 5,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 46,
+     "y": 920,
+     "w": 170,
+     "h": 22,
+     "text": "x86-64 or arm64 CPU",
+     "family": "Geist",
+     "size": 12,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 955,
+     "w": 5,
+     "h": 5,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 46,
+     "y": 946,
+     "w": 170,
+     "h": 22,
+     "text": "glibc 2.31 or later",
+     "family": "Geist",
+     "size": 12,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 981,
+     "w": 5,
+     "h": 5,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 46,
+     "y": 972,
+     "w": 170,
+     "h": 22,
+     "text": "OCI runtime spec 1.1+",
+     "family": "Geist",
+     "size": 12,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 1007,
+     "w": 5,
+     "h": 5,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 46,
+     "y": 998,
+     "w": 170,
+     "h": 22,
+     "text": "4 GB free disk for cache",
+     "family": "Geist",
+     "size": 12,
+     "weight": 400,
+     "color": "#E0E7FF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 1062,
+     "w": 190,
+     "h": 14,
+     "text": "kiln.example/changelog",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#A5B4FC"
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 48,
+     "w": 462,
+     "h": 36,
+     "text": "What's new in Kiln 4.0",
+     "family": "Geist",
+     "size": 27,
+     "weight": 700,
+     "color": "#14132B",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 92,
+     "w": 462,
+     "h": 42,
+     "text": "A major release focused on build speed and a stable plugin surface. Read the breaking changes before you upgrade.",
+     "family": "Geist",
+     "size": 13,
+     "weight": 400,
+     "color": "#4B4F63",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 276,
+     "y": 162,
+     "w": 44,
+     "h": 22,
+     "fill": "#4F46E5",
+     "radius": 5
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 162,
+     "w": 44,
+     "h": 22,
+     "text": "New",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 332,
+     "y": 173,
+     "w": 328,
+     "h": 1,
+     "fill": "#E4E5EE"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 162,
+     "w": 70,
+     "h": 22,
+     "text": "3 changes",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 205,
+     "w": 6,
+     "h": 6,
+     "fill": "#4F46E5"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 198,
+     "w": 360,
+     "h": 18,
+     "text": "Remote cache on by default",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 200,
+     "w": 70,
+     "h": 14,
+     "text": "#4127",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 218,
+     "w": 440,
+     "h": 16,
+     "text": "Builds share artefacts across CI and laptops with no extra setup.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 251,
+     "w": 6,
+     "h": 6,
+     "fill": "#4F46E5"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 244,
+     "w": 360,
+     "h": 18,
+     "text": "kiln doctor",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 246,
+     "w": 70,
+     "h": 14,
+     "text": "#4098",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 264,
+     "w": 440,
+     "h": 16,
+     "text": "One command that checks toolchains, credentials and cache health.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 297,
+     "w": 6,
+     "h": 6,
+     "fill": "#4F46E5"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 290,
+     "w": 360,
+     "h": 18,
+     "text": "Plugin API 1.0",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 292,
+     "w": 70,
+     "h": 14,
+     "text": "#3987",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 310,
+     "w": 440,
+     "h": 16,
+     "text": "Stable hooks for custom steps, with typed manifests and versioning.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 276,
+     "y": 350,
+     "w": 78,
+     "h": 22,
+     "fill": "#E0E7FF",
+     "radius": 5
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 350,
+     "w": 78,
+     "h": 22,
+     "text": "Improved",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 700,
+     "color": "#3730A3",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 366,
+     "y": 361,
+     "w": 294,
+     "h": 1,
+     "fill": "#E4E5EE"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 350,
+     "w": 70,
+     "h": 22,
+     "text": "3 changes",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 393,
+     "w": 6,
+     "h": 6,
+     "fill": "#818CF8"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 386,
+     "w": 360,
+     "h": 18,
+     "text": "Cold builds up to 3.1x faster",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 388,
+     "w": 70,
+     "h": 14,
+     "text": "#4102",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 406,
+     "w": 440,
+     "h": 16,
+     "text": "The scheduler now runs independent layers in parallel by default.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 439,
+     "w": 6,
+     "h": 6,
+     "fill": "#818CF8"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 432,
+     "w": 360,
+     "h": 18,
+     "text": "Clearer failure output",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 434,
+     "w": 70,
+     "h": 14,
+     "text": "#4066",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 452,
+     "w": 440,
+     "h": 16,
+     "text": "Errors name the failing step, its inputs and a suggested fix.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 485,
+     "w": 6,
+     "h": 6,
+     "fill": "#818CF8"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 478,
+     "w": 360,
+     "h": 18,
+     "text": "Smaller lockfiles",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 480,
+     "w": 70,
+     "h": 14,
+     "text": "#4031",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 498,
+     "w": 440,
+     "h": 16,
+     "text": "kiln.lock is about 60% smaller and produces clean diffs in review.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 276,
+     "y": 538,
+     "w": 56,
+     "h": 22,
+     "fill": "#E7E8EF",
+     "radius": 5
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 538,
+     "w": 56,
+     "h": 22,
+     "text": "Fixed",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 700,
+     "color": "#33364A",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 344,
+     "y": 549,
+     "w": 316,
+     "h": 1,
+     "fill": "#E4E5EE"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 538,
+     "w": 70,
+     "h": 22,
+     "text": "3 changes",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 581,
+     "w": 6,
+     "h": 6,
+     "fill": "#9A9DB0"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 574,
+     "w": 360,
+     "h": 18,
+     "text": "Watch mode on network drives",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 576,
+     "w": 70,
+     "h": 14,
+     "text": "#4119",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 594,
+     "w": 440,
+     "h": 16,
+     "text": "File events are no longer dropped on SMB and NFS mounts.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 627,
+     "w": 6,
+     "h": 6,
+     "fill": "#9A9DB0"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 620,
+     "w": 360,
+     "h": 18,
+     "text": "Stale cache after a branch switch",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 622,
+     "w": 70,
+     "h": 14,
+     "text": "#4075",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 640,
+     "w": 440,
+     "h": 16,
+     "text": "Cache keys now include the resolved toolchain version.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 673,
+     "w": 6,
+     "h": 6,
+     "fill": "#9A9DB0"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 666,
+     "w": 360,
+     "h": 18,
+     "text": "Long workspace paths",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 668,
+     "w": 70,
+     "h": 14,
+     "text": "#4012",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 686,
+     "w": 440,
+     "h": 16,
+     "text": "Paths over 260 characters no longer fail during layer export.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 262,
+     "y": 714,
+     "w": 490,
+     "h": 142,
+     "fill": "#FDF1F1",
+     "radius": 8
+    },
+    {
+     "kind": "rect",
+     "x": 276,
+     "y": 726,
+     "w": 78,
+     "h": 22,
+     "fill": "#F2545B",
+     "radius": 5
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 726,
+     "w": 78,
+     "h": 22,
+     "text": "Breaking",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 366,
+     "y": 737,
+     "w": 294,
+     "h": 1,
+     "fill": "#F3C5C7"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 726,
+     "w": 70,
+     "h": 22,
+     "text": "2 changes",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 769,
+     "w": 6,
+     "h": 6,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 762,
+     "w": 360,
+     "h": 18,
+     "text": "Config format v1 is no longer read",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 764,
+     "w": 70,
+     "h": 14,
+     "text": "#3954",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 782,
+     "w": 440,
+     "h": 16,
+     "text": "Run kiln migrate once to convert kiln.toml to format v2.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "rect",
+     "x": 277,
+     "y": 815,
+     "w": 6,
+     "h": 6,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 808,
+     "w": 360,
+     "h": 18,
+     "text": "--legacy-cache flag removed",
+     "family": "Geist",
+     "size": 13.5,
+     "weight": 600,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 668,
+     "y": 810,
+     "w": 70,
+     "h": 14,
+     "text": "#3921",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 828,
+     "w": 440,
+     "h": 16,
+     "text": "Set cache.mode = \"local\" in kiln.toml instead.",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B4F63"
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 882,
+     "w": 300,
+     "h": 20,
+     "text": "Upgrade in two commands",
+     "family": "Geist",
+     "size": 15,
+     "weight": 700,
+     "color": "#14132B"
+    },
+    {
+     "kind": "text",
+     "x": 538,
+     "y": 884,
+     "w": 200,
+     "h": 16,
+     "text": "About 10 minutes",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#6E7287",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 276,
+     "y": 912,
+     "w": 462,
+     "h": 132,
+     "fill": "#0F0E24",
+     "radius": 10
+    },
+    {
+     "kind": "rect",
+     "x": 276,
+     "y": 912,
+     "w": 462,
+     "h": 28,
+     "fill": "#1B1940",
+     "radius": 10
+    },
+    {
+     "kind": "ellipse",
+     "x": 290,
+     "y": 921,
+     "w": 10,
+     "h": 10,
+     "fill": "#F2545B"
+    },
+    {
+     "kind": "ellipse",
+     "x": 306,
+     "y": 921,
+     "w": 10,
+     "h": 10,
+     "fill": "#3B3870"
+    },
+    {
+     "kind": "ellipse",
+     "x": 322,
+     "y": 921,
+     "w": 10,
+     "h": 10,
+     "fill": "#3B3870"
+    },
+    {
+     "kind": "text",
+     "x": 638,
+     "y": 912,
+     "w": 86,
+     "h": 28,
+     "text": "bash",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 400,
+     "color": "#8A8FB5",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 952,
+     "w": 430,
+     "h": 18,
+     "spans": [
+      {
+       "text": "$ ",
+       "color": "#F2545B"
+      },
+      {
+       "text": "kiln self-update --channel stable"
+      }
+     ],
+     "family": "Geist Mono",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 974,
+     "w": 430,
+     "h": 18,
+     "spans": [
+      {
+       "text": "$ ",
+       "color": "#F2545B"
+      },
+      {
+       "text": "kiln migrate --from 3.x"
+      }
+     ],
+     "family": "Geist Mono",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 996,
+     "w": 430,
+     "h": 18,
+     "text": "  kiln.toml updated, 2 settings renamed",
+     "family": "Geist Mono",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#8A8FB5"
+    },
+    {
+     "kind": "text",
+     "x": 294,
+     "y": 1016,
+     "w": 430,
+     "h": 18,
+     "text": "  ready: kiln 4.0.0",
+     "family": "Geist Mono",
+     "size": 12.5,
+     "weight": 400,
+     "color": "#A5B4FC"
+    },
+    {
+     "kind": "text",
+     "x": 276,
+     "y": 1064,
+     "w": 462,
+     "h": 14,
+     "text": "Full changelog and migration guide: kiln.example/docs/upgrade-4",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#6E7287"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Product name",
+   "hint": "Short name"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Version",
+   "hint": "For example 4.0"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Release date",
+   "hint": "Day, month, year"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Summary",
+   "hint": "Two lines"
+  },
+  {
+   "node": "p0-n104",
+   "kind": "text",
+   "label": "Upgrade command",
+   "hint": "Shell command"
+  }
+ ]
+}

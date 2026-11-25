@@ -174,7 +174,7 @@ func (i *iconify) getJSONNames(ctx context.Context, u string) []string {
 	if err != nil {
 		return nil
 	}
-	req.Header.Set("User-Agent", "HyCanvas/1.0 (self-hosted; https://github.com/hyscaler/hycanvas)")
+	req.Header.Set("User-Agent", "design-studio/1.0 (self-hosted)")
 	res, err := i.client.Do(req)
 	if err != nil {
 		return nil
@@ -218,7 +218,7 @@ func (i *iconify) fetchSet(ctx context.Context, prefix string, names []string) m
 	if err != nil {
 		return out
 	}
-	req.Header.Set("User-Agent", "HyCanvas/1.0 (self-hosted; https://github.com/hyscaler/hycanvas)")
+	req.Header.Set("User-Agent", "design-studio/1.0 (self-hosted)")
 	res, err := i.client.Do(req)
 	if err != nil {
 		return out
@@ -354,7 +354,7 @@ func (i *iconify) ensureLicenses(ctx context.Context) {
 	if err != nil {
 		return
 	}
-	req.Header.Set("User-Agent", "HyCanvas/1.0 (self-hosted; https://github.com/hyscaler/hycanvas)")
+	req.Header.Set("User-Agent", "design-studio/1.0 (self-hosted)")
 	res, err := i.client.Do(req)
 	if err != nil {
 		return

@@ -1,0 +1,499 @@
+{
+ "id": "a3-lib-thumb-big-number",
+ "title": "Big Number Thumbnail",
+ "categories": [
+  "thumbnails",
+  "business",
+  "social"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "money",
+  "business",
+  "youtube thumbnail"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF8D6",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 180,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 210,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 240,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 270,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 300,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 330,
+     "y": 590,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 180,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 210,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 240,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 270,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 300,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 330,
+     "y": 620,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 180,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 210,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 240,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 270,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 300,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 330,
+     "y": 650,
+     "w": 9,
+     "h": 9,
+     "fill": "#1B1B1B",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 520,
+     "h": 70,
+     "fill": "#1B1B1B",
+     "radius": 8,
+     "name": "Highlight"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 64.8,
+     "w": 496,
+     "h": 46,
+     "text": "Full breakdown",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#FFF8D6",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 133,
+     "w": 794,
+     "h": 280,
+     "text": "$10K",
+     "family": "Anton",
+     "size": 270,
+     "weight": 400,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 0.9
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 434.2,
+     "w": 717,
+     "h": 170,
+     "text": "My first month freelancing",
+     "family": "Anton",
+     "size": 76,
+     "weight": 400,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 720,
+     "y": 100,
+     "w": 520,
+     "h": 520,
+     "fill": "#FF5A1F"
+    },
+    {
+     "kind": "photo",
+     "x": 750,
+     "y": 130,
+     "w": 460,
+     "h": 460,
+     "shape": "ellipse",
+     "fill": "#9E6550",
+     "name": "Photo: happy young african man with laptop celebrating"
+    },
+    {
+     "kind": "ellipse",
+     "x": 750,
+     "y": 130,
+     "w": 460,
+     "h": 460,
+     "stroke": "#1B1B1B",
+     "strokeWidth": 10,
+     "name": "Photo border"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1205,
+       40
+      ],
+      [
+       1219.32,
+       70.68
+      ],
+      [
+       1250,
+       85
+      ],
+      [
+       1219.32,
+       99.32
+      ],
+      [
+       1205,
+       130
+      ],
+      [
+       1190.68,
+       99.32
+      ],
+      [
+       1160,
+       85
+      ],
+      [
+       1190.68,
+       70.68
+      ]
+     ],
+     "closed": true,
+     "fill": "#1B1B1B",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       755,
+       550
+      ],
+      [
+       766.14,
+       573.86
+      ],
+      [
+       790,
+       585
+      ],
+      [
+       766.14,
+       596.14
+      ],
+      [
+       755,
+       620
+      ],
+      [
+       743.86,
+       596.14
+      ],
+      [
+       720,
+       585
+      ],
+      [
+       743.86,
+       573.86
+      ]
+     ],
+     "closed": true,
+     "fill": "#1B1B1B",
+     "name": "Shape"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n31",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

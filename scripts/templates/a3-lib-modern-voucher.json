@@ -1,0 +1,343 @@
+{
+ "id": "a3-lib-modern-voucher",
+ "title": "Crypto Education: Glass Gift Voucher",
+ "categories": [
+  "finance",
+  "marketing",
+  "print"
+ ],
+ "tags": [
+  "crypto",
+  "bitcoin",
+  "blockchain",
+  "web3",
+  "course",
+  "education",
+  "gift voucher",
+  "glass gift voucher"
+ ],
+ "styleTags": [
+  "dark",
+  "glass"
+ ],
+ "size": [
+  1800,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B1020",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1800,
+     "h": 800,
+     "fill": "#0B1020",
+     "name": "Voucher"
+    },
+    {
+     "kind": "ellipse",
+     "x": -380,
+     "y": -320,
+     "w": 1120,
+     "h": 960,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#5066BC",
+        0
+       ],
+       [
+        "#475CA9",
+        0.1
+       ],
+       [
+        "#3F5196",
+        0.2
+       ],
+       [
+        "#364682",
+        0.3
+       ],
+       [
+        "#2E3C6F",
+        0.4
+       ],
+       [
+        "#27335F",
+        0.5
+       ],
+       [
+        "#212C53",
+        0.6
+       ],
+       [
+        "#1C2546",
+        0.7
+       ],
+       [
+        "#161E3A",
+        0.79
+       ],
+       [
+        "#11172D",
+        0.89
+       ],
+       [
+        "#0B1020",
+        0.99
+       ],
+       [
+        "#0B1020",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 520,
+     "y": 280,
+     "w": 1120,
+     "h": 960,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#615498",
+        0
+       ],
+       [
+        "#564B89",
+        0.1
+       ],
+       [
+        "#4C437A",
+        0.2
+       ],
+       [
+        "#413B6C",
+        0.3
+       ],
+       [
+        "#37325D",
+        0.4
+       ],
+       [
+        "#2E2C51",
+        0.5
+       ],
+       [
+        "#272647",
+        0.6
+       ],
+       [
+        "#20203D",
+        0.7
+       ],
+       [
+        "#191B34",
+        0.79
+       ],
+       [
+        "#12162A",
+        0.89
+       ],
+       [
+        "#0B1020",
+        0.99
+       ],
+       [
+        "#0B1020",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 51,
+     "y": 51,
+     "w": 1152,
+     "h": 698,
+     "fill": "#FFFFFF",
+     "radius": 32,
+     "opacity": 0.09,
+     "name": "Glass card"
+    },
+    {
+     "kind": "rect",
+     "x": 51,
+     "y": 51,
+     "w": 1152,
+     "h": 698,
+     "radius": 32,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.28,
+     "name": "Glass card"
+    },
+    {
+     "kind": "text",
+     "x": 91,
+     "y": 90,
+     "w": 1072,
+     "h": 41,
+     "text": "Gift voucher",
+     "family": "DM Sans",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true,
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 91,
+     "y": 124.8,
+     "w": 1072,
+     "h": 367,
+     "text": "Learn before you buy",
+     "family": "Instrument Serif",
+     "size": 176,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 91,
+     "y": 525.5,
+     "w": 1072,
+     "h": 165,
+     "text": "Plain-language lessons on blockchain, wallets and staying safe from scams. Crypto is volatile and you can lose money.",
+     "family": "DM Sans",
+     "size": 36.5,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.42,
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 1243,
+     "y": 54.2,
+     "w": 506,
+     "h": 133,
+     "text": "₦45,000",
+     "family": "Instrument Serif",
+     "size": 95,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "text",
+     "x": 1243,
+     "y": 199.1,
+     "w": 506,
+     "h": 57,
+     "text": "Course",
+     "family": "DM Sans",
+     "size": 38,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true,
+     "opacity": 0.85
+    },
+    {
+     "kind": "rect",
+     "x": 1322,
+     "y": 674,
+     "w": 349,
+     "h": 67,
+     "fill": "#FFFFFF",
+     "radius": 33.5,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 1322,
+     "y": 667,
+     "w": 349,
+     "h": 67,
+     "text": "CODE  BLOCK28",
+     "family": "DM Sans",
+     "size": 30,
+     "weight": 700,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 145 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

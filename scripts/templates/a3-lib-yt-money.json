@@ -1,0 +1,1093 @@
+{
+ "id": "a3-lib-yt-money",
+ "title": "Photography Tips: Money Stacks YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "photography tips",
+  "photography",
+  "money",
+  "cash"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Sora",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#120B00",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 119,
+      "stops": [
+       [
+        "#120B00",
+        0
+       ],
+       [
+        "#4A3300",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       3482,
+       432
+      ],
+      [
+       3460,
+       766
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       3394,
+       1095
+      ],
+      [
+       3287,
+       1412
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       3139,
+       1712
+      ],
+      [
+       2953,
+       1990
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       2732,
+       2242
+      ],
+      [
+       2480,
+       2463
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       2202,
+       2649
+      ],
+      [
+       1901,
+       2797
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       1584,
+       2905
+      ],
+      [
+       1256,
+       2970
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       922,
+       2992
+      ],
+      [
+       587,
+       2970
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       259,
+       2905
+      ],
+      [
+       -58,
+       2797
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -358,
+       2649
+      ],
+      [
+       -637,
+       2463
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -889,
+       2242
+      ],
+      [
+       -1109,
+       1990
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -1295,
+       1712
+      ],
+      [
+       -1444,
+       1412
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -1551,
+       1095
+      ],
+      [
+       -1616,
+       766
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -1638,
+       432
+      ],
+      [
+       -1616,
+       98
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -1551,
+       -231
+      ],
+      [
+       -1444,
+       -548
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -1295,
+       -848
+      ],
+      [
+       -1109,
+       -1126
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -889,
+       -1378
+      ],
+      [
+       -637,
+       -1599
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       -358,
+       -1785
+      ],
+      [
+       -58,
+       -1933
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       259,
+       -2041
+      ],
+      [
+       587,
+       -2106
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       922,
+       -2128
+      ],
+      [
+       1256,
+       -2106
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       1584,
+       -2041
+      ],
+      [
+       1901,
+       -1933
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       2202,
+       -1785
+      ],
+      [
+       2480,
+       -1599
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       2732,
+       -1378
+      ],
+      [
+       2953,
+       -1126
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       3139,
+       -848
+      ],
+      [
+       3287,
+       -548
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       922,
+       432
+      ],
+      [
+       3394,
+       -231
+      ],
+      [
+       3460,
+       98
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFB300",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 722,
+     "y": 476,
+     "w": 274,
+     "h": 123,
+     "rotation": -10,
+     "fill": "#2FBF71",
+     "radius": 7,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 4,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 740,
+     "y": 488,
+     "w": 241,
+     "h": 94,
+     "rotation": -10,
+     "radius": 6,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 719,
+     "y": 458,
+     "w": 274,
+     "h": 123,
+     "rotation": -10,
+     "fill": "#2FBF71",
+     "radius": 7,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 4,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 737,
+     "y": 469,
+     "w": 241,
+     "h": 94,
+     "rotation": -10,
+     "radius": 6,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 715,
+     "y": 438,
+     "w": 274,
+     "h": 123,
+     "rotation": -10,
+     "fill": "#2FBF71",
+     "radius": 7,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 4,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 734,
+     "y": 450,
+     "w": 241,
+     "h": 94,
+     "rotation": -10,
+     "radius": 6,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 712,
+     "y": 418,
+     "w": 274,
+     "h": 123,
+     "rotation": -10,
+     "fill": "#2FBF71",
+     "radius": 7,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 4,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 730,
+     "y": 430,
+     "w": 241,
+     "h": 94,
+     "rotation": -10,
+     "radius": 6,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 708,
+     "y": 399,
+     "w": 274,
+     "h": 123,
+     "rotation": -10,
+     "fill": "#2FBF71",
+     "radius": 7,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 4,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 727,
+     "y": 411,
+     "w": 241,
+     "h": 94,
+     "rotation": -10,
+     "radius": 6,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "ellipse",
+     "x": 814,
+     "y": 409,
+     "w": 69,
+     "h": 69,
+     "rotation": -10,
+     "fill": "#9CF0C0",
+     "stroke": "#0B4D2A",
+     "strokeWidth": 2,
+     "name": "Bill seal"
+    },
+    {
+     "kind": "icon",
+     "icon": "coin",
+     "x": 825,
+     "y": 416,
+     "w": 49,
+     "h": 49,
+     "rotation": -10,
+     "color": "#0B4D2A"
+    },
+    {
+     "kind": "rect",
+     "x": 804,
+     "y": 380,
+     "w": 33,
+     "h": 207,
+     "rotation": -10,
+     "fill": "#FFD23F",
+     "stroke": "#7A5B00",
+     "strokeWidth": 2,
+     "name": "Band"
+    },
+    {
+     "kind": "rect",
+     "x": 899,
+     "y": 241,
+     "w": 216,
+     "h": 97,
+     "rotation": 12,
+     "fill": "#2FBF71",
+     "radius": 6,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 3,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 909,
+     "y": 254,
+     "w": 190,
+     "h": 74,
+     "rotation": 12,
+     "radius": 5,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 902,
+     "y": 225,
+     "w": 216,
+     "h": 97,
+     "rotation": 12,
+     "fill": "#2FBF71",
+     "radius": 6,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 3,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 912,
+     "y": 239,
+     "w": 190,
+     "h": 74,
+     "rotation": 12,
+     "radius": 5,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 905,
+     "y": 210,
+     "w": 216,
+     "h": 97,
+     "rotation": 12,
+     "fill": "#2FBF71",
+     "radius": 6,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 3,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 916,
+     "y": 224,
+     "w": 190,
+     "h": 74,
+     "rotation": 12,
+     "radius": 5,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "rect",
+     "x": 908,
+     "y": 195,
+     "w": 216,
+     "h": 97,
+     "rotation": 12,
+     "fill": "#2FBF71",
+     "radius": 6,
+     "stroke": "#0B4D2A",
+     "strokeWidth": 3,
+     "name": "Bill"
+    },
+    {
+     "kind": "rect",
+     "x": 919,
+     "y": 209,
+     "w": 190,
+     "h": 74,
+     "rotation": 12,
+     "radius": 5,
+     "stroke": "#9CF0C0",
+     "strokeWidth": 2,
+     "name": "Bill border"
+    },
+    {
+     "kind": "ellipse",
+     "x": 983,
+     "y": 232,
+     "w": 54,
+     "h": 54,
+     "rotation": 12,
+     "fill": "#9CF0C0",
+     "stroke": "#0B4D2A",
+     "strokeWidth": 2,
+     "name": "Bill seal"
+    },
+    {
+     "kind": "icon",
+     "icon": "coin",
+     "x": 989,
+     "y": 241,
+     "w": 39,
+     "h": 39,
+     "rotation": 12,
+     "color": "#0B4D2A"
+    },
+    {
+     "kind": "rect",
+     "x": 985,
+     "y": 209,
+     "w": 26,
+     "h": 148,
+     "rotation": 12,
+     "fill": "#FFD23F",
+     "stroke": "#7A5B00",
+     "strokeWidth": 2,
+     "name": "Band"
+    },
+    {
+     "kind": "ellipse",
+     "x": 721,
+     "y": 97,
+     "w": 94,
+     "h": 94,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFF2A8",
+        0
+       ],
+       [
+        "#FFCC33",
+        0.85
+       ],
+       [
+        "#F5BF25",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Coin"
+    },
+    {
+     "kind": "ellipse",
+     "x": 721,
+     "y": 97,
+     "w": 94,
+     "h": 94,
+     "stroke": "#7A5200",
+     "strokeWidth": 5,
+     "name": "Coin"
+    },
+    {
+     "kind": "icon",
+     "icon": "coin",
+     "x": 745,
+     "y": 121,
+     "w": 47,
+     "h": 47,
+     "color": "#7A5200"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1116,
+     "y": 79,
+     "w": 72,
+     "h": 72,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFF2A8",
+        0
+       ],
+       [
+        "#FFCC33",
+        0.85
+       ],
+       [
+        "#F5BF25",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Coin"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1116,
+     "y": 79,
+     "w": 72,
+     "h": 72,
+     "stroke": "#7A5200",
+     "strokeWidth": 4,
+     "name": "Coin"
+    },
+    {
+     "kind": "icon",
+     "icon": "coin",
+     "x": 1134,
+     "y": 97,
+     "w": 36,
+     "h": 36,
+     "color": "#7A5200"
+    },
+    {
+     "kind": "ellipse",
+     "x": 633,
+     "y": 256,
+     "w": 65,
+     "h": 65,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFF2A8",
+        0
+       ],
+       [
+        "#FFCC33",
+        0.85
+       ],
+       [
+        "#F5BF25",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Coin"
+    },
+    {
+     "kind": "ellipse",
+     "x": 633,
+     "y": 256,
+     "w": 65,
+     "h": 65,
+     "stroke": "#7A5200",
+     "strokeWidth": 3,
+     "name": "Coin"
+    },
+    {
+     "kind": "icon",
+     "icon": "coin",
+     "x": 649,
+     "y": 272,
+     "w": 33,
+     "h": 33,
+     "color": "#7A5200"
+    },
+    {
+     "kind": "text",
+     "x": 57.5,
+     "y": -8.9,
+     "w": 666,
+     "h": 296,
+     "text": "$0",
+     "family": "Sora",
+     "size": 259,
+     "weight": 800,
+     "color": "#FFD23F",
+     "lineHeight": 1.06,
+     "upper": true,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 51,
+     "y": 378,
+     "w": 529,
+     "h": 174,
+     "rotation": -3,
+     "fill": "#FFD23F",
+     "radius": 10,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 76.5,
+     "y": 350.5,
+     "w": 619,
+     "h": 149,
+     "text": "PHONE",
+     "family": "Sora",
+     "size": 130,
+     "weight": 800,
+     "color": "#120B00",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 62.4,
+     "y": 524.3,
+     "w": 640,
+     "h": 107,
+     "text": "VS CAMERA",
+     "family": "Sora",
+     "size": 93,
+     "weight": 800,
+     "color": "#FFD23F",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n60",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n61",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

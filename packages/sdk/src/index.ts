@@ -294,6 +294,44 @@ export interface TemplateSummary {
 
 export type TemplateVisibility = "private" | "workspace" | "public";
 
+/** One listing of the ported template library: a variation of a distinct
+ *  design (its copy, format and palette), opened and applied like any
+ *  template through its id. */
+export interface TemplateVariation {
+  id: string;
+  title: string;
+  /** The distinct design (a built-in template id) this is a variation of. */
+  baseId: string;
+  format: string;
+  formatLabel: string;
+  width: number;
+  height: number;
+  niche?: string;
+  categories: string[];
+}
+
+export interface TemplateVariationPage {
+  items: TemplateVariation[];
+  total: number;
+  offset: number;
+  limit: number;
+}
+
+export interface TemplateVariationFilter {
+  q?: string;
+  /** Only variations of this base design. */
+  base?: string;
+  category?: string;
+  format?: string;
+  offset?: number;
+  limit?: number;
+}
+
+export interface TemplateVariationSummary {
+  total: number;
+  bases: { baseId: string; title: string; count: number; sample: string }[];
+}
+
 export interface TemplateListFilter {
   q?: string;
   category?: string;
@@ -552,11 +590,18 @@ export interface AiPolicy {
  *  the caller's personal one, or none. The configs never carry a key, and the
  *  personal ones are the caller's own. */
 export interface AiEffectiveView {
-  source: "workspace" | "personal" | "none";
+  /** "builtin" (aidir3 fork): neither the workspace nor the caller has a
+   *  provider, and the instance's built-in fallback serves; `config` then
+   *  describes it. */
+  source: "workspace" | "personal" | "builtin" | "none";
   config: AiConfigView | null;
   imageConfig: AiImageConfigView | null;
   personalKeysAllowed: boolean;
   hasPersonal: boolean;
+  /** aidir3 fork: the instance's built-in fallback provider (never a key),
+   *  present when the server has one. It serves any call the provider above
+   *  cannot, so AI works here even with no key connected. */
+  builtin?: AiConfigView | null;
 }
 
 /** A candidate main provider config, as the settings form sends it. */
@@ -1755,6 +1800,22 @@ export class HyCanvasClient {
     if (f.workspaceId) params.set("workspaceId", f.workspaceId);
     const qs = params.toString();
     return this.request("GET", `/v1/templates${qs ? `?${qs}` : ""}`);
+  }
+  /** Variations of the ported template library, one page at a time. */
+  listTemplateVariations(filter: TemplateVariationFilter = {}): Promise<TemplateVariationPage> {
+    const params = new URLSearchParams();
+    if (filter.q) params.set("q", filter.q);
+    if (filter.base) params.set("base", filter.base);
+    if (filter.category) params.set("category", filter.category);
+    if (filter.format) params.set("format", filter.format);
+    if (filter.offset) params.set("offset", String(filter.offset));
+    if (filter.limit) params.set("limit", String(filter.limit));
+    const qs = params.toString();
+    return this.request("GET", `/v1/templates/variations${qs ? `?${qs}` : ""}`);
+  }
+  /** How many variations there are, in all and per base design. */
+  templateVariationSummary(): Promise<TemplateVariationSummary> {
+    return this.request("GET", "/v1/templates/variations/summary");
   }
   getTemplateFile(id: string): Promise<DesignFile> {
     return this.request("GET", `/v1/templates/${id}/file`);

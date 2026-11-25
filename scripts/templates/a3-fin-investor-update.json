@@ -1,0 +1,870 @@
+{
+ "id": "a3-fin-investor-update",
+ "title": "Monthly Investor Update Letter",
+ "categories": [
+  "finance",
+  "business",
+  "documents"
+ ],
+ "tags": [
+  "investor update",
+  "startup",
+  "founder letter",
+  "monthly update",
+  "arr",
+  "fundraising",
+  "a4"
+ ],
+ "styleTags": [
+  "editorial",
+  "serif",
+  "personal"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -938,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 500
+  },
+  {
+   "role": "body",
+   "family": "EB Garamond",
+   "weight": 400
+  },
+  {
+   "role": "label",
+   "family": "Hanken Grotesk",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Letter",
+   "bg": "#FBF8F2",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 67,
+     "w": 16,
+     "h": 16,
+     "fill": "#A8482A"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 54,
+     "w": 200,
+     "h": 40,
+     "text": "Plover",
+     "family": "EB Garamond",
+     "size": 30,
+     "weight": 600,
+     "color": "#201C17",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 60,
+     "w": 300,
+     "h": 14,
+     "text": "Investor update No. 19",
+     "family": "Hanken Grotesk",
+     "size": 10,
+     "weight": 700,
+     "color": "#A8482A",
+     "align": "right",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 78,
+     "w": 300,
+     "h": 22,
+     "text": "October 2026",
+     "family": "EB Garamond",
+     "size": 17,
+     "weight": 400,
+     "color": "#201C17",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 110,
+     "w": 626,
+     "h": 1,
+     "fill": "#201C17"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 130,
+     "w": 300,
+     "h": 18,
+     "text": "6 November 2026",
+     "family": "EB Garamond",
+     "size": 14,
+     "weight": 400,
+     "color": "#7B7266"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 156,
+     "w": 300,
+     "h": 22,
+     "text": "Dear investors,",
+     "family": "EB Garamond",
+     "size": 17,
+     "weight": 400,
+     "color": "#201C17"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 190,
+     "w": 626,
+     "h": 80,
+     "text": "We crossed $2 million in ARR in October, and we lost our largest pilot.",
+     "family": "EB Garamond",
+     "size": 31,
+     "weight": 500,
+     "color": "#201C17",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 278,
+     "w": 626,
+     "h": 70,
+     "text": "Both deserve a plain account. October was our strongest month for new revenue, and the month our onboarding problems finally cost us a deal. The numbers come first, then what went well, what did not, and where I need your help.",
+     "family": "EB Garamond",
+     "size": 15,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 366,
+     "w": 626,
+     "h": 1,
+     "fill": "#D9D0C0"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 380,
+     "w": 130,
+     "h": 12,
+     "text": "ARR",
+     "family": "Hanken Grotesk",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#7B7266",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 394,
+     "w": 170,
+     "h": 40,
+     "text": "$2.04M",
+     "family": "EB Garamond",
+     "size": 32,
+     "weight": 500,
+     "color": "#201C17",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 435,
+     "w": 150,
+     "h": 16,
+     "text": "up 7.4% from $1.90M",
+     "family": "EB Garamond",
+     "size": 13,
+     "weight": 400,
+     "color": "#A8482A"
+    },
+    {
+     "kind": "rect",
+     "x": 236,
+     "y": 380,
+     "w": 1,
+     "h": 70,
+     "fill": "#D9D0C0"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 380,
+     "w": 130,
+     "h": 12,
+     "text": "Net burn",
+     "family": "Hanken Grotesk",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#7B7266",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 394,
+     "w": 170,
+     "h": 40,
+     "text": "$182K",
+     "family": "EB Garamond",
+     "size": 32,
+     "weight": 500,
+     "color": "#201C17",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 435,
+     "w": 150,
+     "h": 16,
+     "text": "down from $197K",
+     "family": "EB Garamond",
+     "size": 13,
+     "weight": 400,
+     "color": "#A8482A"
+    },
+    {
+     "kind": "rect",
+     "x": 382,
+     "y": 380,
+     "w": 1,
+     "h": 70,
+     "fill": "#D9D0C0"
+    },
+    {
+     "kind": "text",
+     "x": 402,
+     "y": 380,
+     "w": 130,
+     "h": 12,
+     "text": "Runway",
+     "family": "Hanken Grotesk",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#7B7266",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 402,
+     "y": 394,
+     "w": 170,
+     "h": 40,
+     "text": "17 months",
+     "family": "EB Garamond",
+     "size": 32,
+     "weight": 500,
+     "color": "#201C17",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 402,
+     "y": 435,
+     "w": 150,
+     "h": 16,
+     "text": "$3.1M in the bank",
+     "family": "EB Garamond",
+     "size": 13,
+     "weight": 400,
+     "color": "#A8482A"
+    },
+    {
+     "kind": "rect",
+     "x": 576,
+     "y": 380,
+     "w": 1,
+     "h": 70,
+     "fill": "#D9D0C0"
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 380,
+     "w": 130,
+     "h": 12,
+     "text": "Customers",
+     "family": "Hanken Grotesk",
+     "size": 9.5,
+     "weight": 700,
+     "color": "#7B7266",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 394,
+     "w": 170,
+     "h": 40,
+     "text": "148",
+     "family": "EB Garamond",
+     "size": 32,
+     "weight": 500,
+     "color": "#201C17",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 596,
+     "y": 435,
+     "w": 150,
+     "h": 16,
+     "text": "9 added, 1 lost",
+     "family": "EB Garamond",
+     "size": 13,
+     "weight": 400,
+     "color": "#A8482A"
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 464,
+     "w": 626,
+     "h": 1,
+     "fill": "#D9D0C0"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 486,
+     "w": 297,
+     "h": 28,
+     "text": "What went well",
+     "family": "EB Garamond",
+     "size": 21,
+     "weight": 600,
+     "color": "#201C17"
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 517,
+     "w": 297,
+     "h": 1,
+     "fill": "#201C17"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 530,
+     "w": 297,
+     "h": 70,
+     "spans": [
+      {
+       "text": "Brightwater signed. ",
+       "weight": 700,
+       "color": "#201C17"
+      },
+      {
+       "text": "A 41-store group and our largest contract yet, worth $186K a year over three years."
+      }
+     ],
+     "family": "EB Garamond",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.46
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 614,
+     "w": 297,
+     "h": 70,
+     "spans": [
+      {
+       "text": "Reconciliation shipped. ",
+       "weight": 700,
+       "color": "#201C17"
+      },
+      {
+       "text": "Automated controlled-drug reconciliation went live, and 60% of customers switched it on within three weeks."
+      }
+     ],
+     "family": "EB Garamond",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.46
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 698,
+     "w": 297,
+     "h": 70,
+     "spans": [
+      {
+       "text": "A VP of Engineering. ",
+       "weight": 700,
+       "color": "#201C17"
+      },
+      {
+       "text": "Tomasz Wren joins on 1 December from a logistics scale-up, where he led a team of forty."
+      }
+     ],
+     "family": "EB Garamond",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.46
+    },
+    {
+     "kind": "text",
+     "x": 413,
+     "y": 486,
+     "w": 297,
+     "h": 28,
+     "text": "What did not",
+     "family": "EB Garamond",
+     "size": 21,
+     "weight": 600,
+     "color": "#201C17"
+    },
+    {
+     "kind": "rect",
+     "x": 413,
+     "y": 517,
+     "w": 297,
+     "h": 1,
+     "fill": "#201C17"
+    },
+    {
+     "kind": "text",
+     "x": 413,
+     "y": 530,
+     "w": 297,
+     "h": 70,
+     "spans": [
+      {
+       "text": "We lost Northgate Health. ",
+       "weight": 700,
+       "color": "#201C17"
+      },
+      {
+       "text": "Our largest pilot chose an incumbent on price. We were too slow to quote a multi-year deal, and that is on me."
+      }
+     ],
+     "family": "EB Garamond",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.46
+    },
+    {
+     "kind": "text",
+     "x": 413,
+     "y": 614,
+     "w": 297,
+     "h": 70,
+     "spans": [
+      {
+       "text": "Onboarding is too slow. ",
+       "weight": 700,
+       "color": "#201C17"
+      },
+      {
+       "text": "New customers take 34 days to go live against a 21-day target. Two implementation roles are still open."
+      }
+     ],
+     "family": "EB Garamond",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.46
+    },
+    {
+     "kind": "text",
+     "x": 413,
+     "y": 698,
+     "w": 297,
+     "h": 70,
+     "spans": [
+      {
+       "text": "Sales cycles are longer. ",
+       "weight": 700,
+       "color": "#201C17"
+      },
+      {
+       "text": "Median time to close rose from 48 to 61 days as we sell to larger groups. We have not yet adapted the process."
+      }
+     ],
+     "family": "EB Garamond",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.46
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 790,
+     "w": 626,
+     "h": 132,
+     "fill": "#F2EADB",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 106,
+     "y": 804,
+     "w": 300,
+     "h": 28,
+     "text": "Where you can help",
+     "family": "EB Garamond",
+     "size": 21,
+     "weight": 600,
+     "color": "#201C17"
+    },
+    {
+     "kind": "text",
+     "x": 106,
+     "y": 839,
+     "w": 20,
+     "h": 30,
+     "text": "1",
+     "family": "EB Garamond",
+     "size": 24,
+     "weight": 500,
+     "color": "#A8482A",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 840,
+     "w": 164,
+     "h": 70,
+     "text": "Introductions to operations leaders at pharmacy chains with 20 to 200 stores.",
+     "family": "EB Garamond",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 304,
+     "y": 839,
+     "w": 20,
+     "h": 30,
+     "text": "2",
+     "family": "EB Garamond",
+     "size": 24,
+     "weight": 500,
+     "color": "#A8482A",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 326,
+     "y": 840,
+     "w": 164,
+     "h": 70,
+     "text": "Referrals for a senior implementation manager based in the UK.",
+     "family": "EB Garamond",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 502,
+     "y": 839,
+     "w": 20,
+     "h": 30,
+     "text": "3",
+     "family": "EB Garamond",
+     "size": 24,
+     "weight": 500,
+     "color": "#A8482A",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 840,
+     "w": 164,
+     "h": 70,
+     "text": "Fifteen minutes with anyone who has priced multi-year SaaS contracts.",
+     "family": "EB Garamond",
+     "size": 13.5,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 942,
+     "w": 626,
+     "h": 46,
+     "text": "We will hold the quarterly call on Thursday 10 December at 16:00 GMT; the agenda and full accounts follow next week. Thank you for backing us.",
+     "family": "EB Garamond",
+     "size": 15,
+     "weight": 400,
+     "color": "#2E2923",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "path",
+     "name": "Signature",
+     "stroke": "#201C17",
+     "strokeWidth": 1.5,
+     "points": [
+      {
+       "x": 84,
+       "y": 1026,
+       "cOut": {
+        "x": 88,
+        "y": 1008
+       }
+      },
+      {
+       "x": 102,
+       "y": 996,
+       "cIn": {
+        "x": 96,
+        "y": 994
+       },
+       "cOut": {
+        "x": 108,
+        "y": 998
+       }
+      },
+      {
+       "x": 108,
+       "y": 1028,
+       "cIn": {
+        "x": 110,
+        "y": 1014
+       },
+       "cOut": {
+        "x": 106,
+        "y": 1034
+       }
+      },
+      {
+       "x": 96,
+       "y": 1016,
+       "cIn": {
+        "x": 94,
+        "y": 1028
+       },
+       "cOut": {
+        "x": 100,
+        "y": 1008
+       }
+      },
+      {
+       "x": 130,
+       "y": 1022,
+       "cIn": {
+        "x": 114,
+        "y": 1010
+       },
+       "cOut": {
+        "x": 136,
+        "y": 1026
+       }
+      },
+      {
+       "x": 142,
+       "y": 1014,
+       "cIn": {
+        "x": 138,
+        "y": 1024
+       },
+       "cOut": {
+        "x": 146,
+        "y": 1006
+       }
+      },
+      {
+       "x": 152,
+       "y": 1024,
+       "cIn": {
+        "x": 150,
+        "y": 1014
+       },
+       "cOut": {
+        "x": 154,
+        "y": 1030
+       }
+      },
+      {
+       "x": 164,
+       "y": 1016,
+       "cIn": {
+        "x": 158,
+        "y": 1026
+       },
+       "cOut": {
+        "x": 170,
+        "y": 1008
+       }
+      },
+      {
+       "x": 174,
+       "y": 1024,
+       "cIn": {
+        "x": 172,
+        "y": 1016
+       },
+       "cOut": {
+        "x": 177,
+        "y": 1030
+       }
+      },
+      {
+       "x": 186,
+       "y": 1018,
+       "cIn": {
+        "x": 180,
+        "y": 1026
+       },
+       "cOut": {
+        "x": 194,
+        "y": 1010
+       }
+      },
+      {
+       "x": 196,
+       "y": 1025,
+       "cIn": {
+        "x": 195,
+        "y": 1018
+       },
+       "cOut": {
+        "x": 200,
+        "y": 1034
+       }
+      },
+      {
+       "x": 274,
+       "y": 1012,
+       "cIn": {
+        "x": 234,
+        "y": 1032
+       }
+      }
+     ]
+    },
+    {
+     "kind": "photo",
+     "name": "Founder photo",
+     "shape": "ellipse",
+     "x": 84,
+     "y": 1042,
+     "w": 40,
+     "h": 40,
+     "fill": "#E4DACA"
+    },
+    {
+     "kind": "text",
+     "x": 136,
+     "y": 1042,
+     "w": 300,
+     "h": 20,
+     "text": "Amara Lindgren",
+     "family": "EB Garamond",
+     "size": 15.5,
+     "weight": 700,
+     "color": "#201C17"
+    },
+    {
+     "kind": "text",
+     "x": 136,
+     "y": 1063,
+     "w": 320,
+     "h": 18,
+     "text": "Co-founder and CEO · amara@plover.example",
+     "family": "EB Garamond",
+     "size": 13,
+     "weight": 400,
+     "color": "#7B7266"
+    },
+    {
+     "kind": "text",
+     "x": 430,
+     "y": 1063,
+     "w": 280,
+     "h": 18,
+     "text": "Confidential. Figures are unaudited.",
+     "family": "EB Garamond",
+     "size": 12,
+     "weight": 400,
+     "color": "#7B7266",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline sentence",
+   "hint": "The month in one honest sentence"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Opening paragraph",
+   "hint": "Three lines"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "First key number",
+   "hint": "For example $2.04M"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "First win",
+   "hint": "A bold lead-in, then one or two sentences"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "First challenge",
+   "hint": "A bold lead-in, then one or two sentences"
+  },
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Signatory",
+   "hint": "Name"
+  }
+ ]
+}

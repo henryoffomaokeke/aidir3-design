@@ -1,0 +1,248 @@
+{
+ "id": "a3-lib-ad-photo",
+ "title": "Course Display Ad",
+ "categories": [
+  "education",
+  "marketing"
+ ],
+ "tags": [
+  "ad",
+  "display",
+  "course",
+  "bootcamp",
+  "display ad 300×250",
+  "education"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  600,
+  500
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FDF1EA",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 600,
+     "h": 250,
+     "shape": "rect",
+     "fill": "#3C3444",
+     "name": "Photo: students coding together on laptops",
+     "image": {
+      "asset": "tplph-ov-1fdb9216-5c48-4d54-abf6-041062494a62",
+      "url": "/api/v1/templates/photos/ov/1fdb9216-5c48-4d54-abf6-041062494a62.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Macbook Laptop",
+       "author": "Lauren Mancke",
+       "url": "https://stocksnap.io/photo/macbook-laptop-F7OLW2SG0C",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Macbook Laptop",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 24,
+     "y": 20,
+     "w": 200,
+     "h": 40,
+     "fill": "#FFFFFF",
+     "radius": 20,
+     "opacity": 0.92
+    },
+    {
+     "kind": "text",
+     "x": 24,
+     "y": 16.6,
+     "w": 200,
+     "h": 40,
+     "text": "Ada Coding School",
+     "family": "Figtree",
+     "size": 15,
+     "weight": 700,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 460,
+     "y": 170,
+     "w": 120,
+     "h": 120,
+     "fill": "#6C4EF5"
+    },
+    {
+     "kind": "text",
+     "x": 460,
+     "y": 166.4,
+     "w": 120,
+     "h": 120,
+     "text": "50%\nscholar",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 272.4,
+     "w": 400,
+     "h": 26,
+     "text": "Next cohort: 12 Jan",
+     "family": "Figtree",
+     "size": 16,
+     "weight": 700,
+     "color": "#6C4EF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 298.7,
+     "w": 536,
+     "h": 96,
+     "text": "Learn to code in 12 weeks",
+     "family": "Figtree",
+     "size": 42,
+     "weight": 800,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 408,
+     "w": 250,
+     "h": 60,
+     "fill": "#6C4EF5",
+     "radius": 30
+    },
+    {
+     "kind": "text",
+     "x": 53,
+     "y": 404,
+     "w": 196,
+     "h": 60,
+     "text": "Apply now",
+     "family": "Figtree",
+     "size": 18,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       249.79,
+       438.5
+      ],
+      [
+       263.21,
+       438.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       256.5,
+       431.79
+      ],
+      [
+       263.21,
+       438.5
+      ],
+      [
+       256.5,
+       445.21
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

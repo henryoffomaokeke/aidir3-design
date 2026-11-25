@@ -1,0 +1,683 @@
+{
+ "id": "a3-lib-premium-cover",
+ "title": "Happy New Month: Magazine Cover",
+ "categories": [
+  "celebrations",
+  "quotes",
+  "print"
+ ],
+ "tags": [
+  "happy new month",
+  "new month",
+  "monthly greeting",
+  "blessings",
+  "fresh start",
+  "square card",
+  "cover",
+  "quotes"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1500,
+  1500
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#050505",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 1500,
+     "h": 1500,
+     "shape": "rect",
+     "fill": "#1E1E1E",
+     "name": "Photo: calendar flowers desk",
+     "image": {
+      "asset": "tplph-ov-6aa6a1a3-bf06-441d-9be5-ae29e693d664",
+      "url": "/api/v1/templates/photos/ov/6aa6a1a3-bf06-441d-9be5-ae29e693d664.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "“Desk Writing Set Plum Flowers,”",
+       "author": "themet",
+       "url": "https://www.rawpixel.com/image/9086824/image-paper-flowers-art",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: “Desk Writing Set Plum Flowers,”",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.87,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 37.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.86,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 75,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.85,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 112.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.83,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 150,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.82,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 187.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.8,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 225,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.79,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 262.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.78,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 300,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.76,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 337.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.75,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 375,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.73,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 412.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.72,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 450,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.71,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 487.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.69,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 525,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.68,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 562.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.66,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.65,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 637.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.64,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 675,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.62,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 712.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.61,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 750,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.59,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 787.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.56,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 825,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.53,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 862.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.5,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 900,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.48,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 937.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.45,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 975,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.42,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1012.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.39,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1050,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.37,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1087.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.34,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1125,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.31,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1162.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.28,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.26,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1237.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.23,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1275,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.2,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1312.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.17,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1350,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.15,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1387.5,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.12,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1425,
+     "y": 0,
+     "w": 38.1,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.09,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1462.5,
+     "y": 0,
+     "w": 37.5,
+     "h": 1500,
+     "fill": "#000000",
+     "opacity": 0.06,
+     "name": "Scrim"
+    },
+    {
+     "kind": "text",
+     "x": 114,
+     "y": 103.6,
+     "w": 701,
+     "h": 87,
+     "text": "Kora Health",
+     "family": "Plus Jakarta Sans",
+     "size": 85,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 0.95,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 114,
+     "y": 225,
+     "w": 701,
+     "h": 2,
+     "fill": "#FFFFFF",
+     "opacity": 0.6
+    },
+    {
+     "kind": "text",
+     "x": 114,
+     "y": 243.9,
+     "w": 701,
+     "h": 62,
+     "text": "ISSUE 04  ·  WELCOME DECEMBER",
+     "family": "Red Hat Text",
+     "size": 23,
+     "weight": 700,
+     "color": "#00F0FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 7,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 114,
+     "y": 371,
+     "w": 167,
+     "h": 14,
+     "fill": "#00F0FF"
+    },
+    {
+     "kind": "text",
+     "x": 114,
+     "y": 398.7,
+     "w": 701,
+     "h": 592,
+     "text": "New month, new mercies",
+     "family": "Plus Jakarta Sans",
+     "size": 148,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "text",
+     "x": 114,
+     "y": 1038.1,
+     "w": 701,
+     "h": 141,
+     "text": "May this month bring you good health, open doors and answered prayers. Happy new month!",
+     "family": "Red Hat Text",
+     "size": 34,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.35,
+     "opacity": 0.88
+    },
+    {
+     "kind": "rect",
+     "x": 114,
+     "y": 1257,
+     "w": 548,
+     "h": 129,
+     "fill": "#00F0FF",
+     "radius": 64.5
+    },
+    {
+     "kind": "text",
+     "x": 159,
+     "y": 1247.5,
+     "w": 432,
+     "h": 129,
+     "text": "Share the love",
+     "family": "Red Hat Text",
+     "size": 43,
+     "weight": 700,
+     "color": "#050505",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       593.21,
+       1321.5
+      ],
+      [
+       621.79,
+       1321.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#050505",
+     "strokeWidth": 5.1,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       607.5,
+       1307.21
+      ],
+      [
+       621.79,
+       1321.5
+      ],
+      [
+       607.5,
+       1335.79
+      ]
+     ],
+     "closed": false,
+     "stroke": "#050505",
+     "strokeWidth": 5.1,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 982,
+     "y": 114,
+     "w": 405,
+     "h": 405,
+     "fill": "#00F0FF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1010,
+     "y": 142,
+     "w": 348,
+     "h": 348,
+     "stroke": "#050505",
+     "strokeWidth": 4.9,
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 1050,
+     "y": 172.7,
+     "w": 267,
+     "h": 267,
+     "text": "New\nmonth",
+     "family": "Plus Jakarta Sans",
+     "size": 63,
+     "weight": 800,
+     "color": "#050505",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n45",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n41",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n53",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n48",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 105 characters"
+  }
+ ]
+}

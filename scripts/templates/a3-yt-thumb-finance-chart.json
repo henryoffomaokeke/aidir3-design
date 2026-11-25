@@ -1,0 +1,300 @@
+{
+ "id": "a3-yt-thumb-finance-chart",
+ "title": "Personal Finance Growth Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "finance"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "finance",
+  "money",
+  "investing",
+  "growth",
+  "chart",
+  "arrow"
+ ],
+ "styleTags": [
+  "dark green",
+  "gold",
+  "bold"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1993,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": {
+    "angle": 160,
+    "stops": [
+     [
+      "#0C3A2B",
+      0
+     ],
+     [
+      "#082A1F",
+      1
+     ]
+    ]
+   },
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 160,
+     "w": 680,
+     "h": 2,
+     "fill": "#14553D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 280,
+     "w": 680,
+     "h": 2,
+     "fill": "#14553D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 400,
+     "w": 680,
+     "h": 2,
+     "fill": "#14553D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 520,
+     "w": 680,
+     "h": 2,
+     "fill": "#14553D",
+     "opacity": 0.6
+    },
+    {
+     "kind": "rect",
+     "x": 640,
+     "y": 630,
+     "w": 86,
+     "h": 90,
+     "fill": "#14553D"
+    },
+    {
+     "kind": "rect",
+     "x": 744,
+     "y": 570,
+     "w": 86,
+     "h": 150,
+     "fill": "#14553D"
+    },
+    {
+     "kind": "rect",
+     "x": 848,
+     "y": 500,
+     "w": 86,
+     "h": 220,
+     "fill": "#14553D"
+    },
+    {
+     "kind": "rect",
+     "x": 952,
+     "y": 420,
+     "w": 86,
+     "h": 300,
+     "fill": "#14553D"
+    },
+    {
+     "kind": "rect",
+     "x": 1056,
+     "y": 330,
+     "w": 86,
+     "h": 390,
+     "fill": "#14553D"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 220,
+     "w": 86,
+     "h": 500,
+     "fill": "#1E7A55"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       600,
+       640
+      ],
+      [
+       683,
+       584
+      ],
+      [
+       787,
+       524
+      ],
+      [
+       891,
+       454
+      ],
+      [
+       995,
+       374
+      ],
+      [
+       1099,
+       284
+      ],
+      [
+       1196,
+       150
+      ]
+     ],
+     "stroke": "#F7C440",
+     "strokeWidth": 22,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1252,
+       74
+      ],
+      [
+       1162,
+       104
+      ],
+      [
+       1228,
+       168
+      ]
+     ],
+     "closed": true,
+     "fill": "#F7C440"
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 56,
+     "w": 600,
+     "h": 170,
+     "text": "$0 TO",
+     "family": "Archivo Black",
+     "size": 168,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 214,
+     "w": 700,
+     "h": 190,
+     "text": "$100K",
+     "family": "Archivo Black",
+     "size": 196,
+     "weight": 400,
+     "color": "#F7C440",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 450,
+     "w": 520,
+     "h": 50,
+     "text": "THE BORING INDEX PLAN",
+     "family": "Manrope",
+     "size": 34,
+     "weight": 800,
+     "color": "#9FE3C1",
+     "lineHeight": 1,
+     "letterSpacing": 2
+    },
+    {
+     "kind": "photo",
+     "x": 60,
+     "y": 528,
+     "w": 152,
+     "h": 152,
+     "shape": "ellipse",
+     "name": "Host photo",
+     "fill": "#2A6B51"
+    },
+    {
+     "kind": "rect",
+     "x": 244,
+     "y": 558,
+     "w": 250,
+     "h": 92,
+     "fill": "#F7C440"
+    },
+    {
+     "kind": "text",
+     "x": 244,
+     "y": 558,
+     "w": 250,
+     "h": 92,
+     "text": "5 YEARS",
+     "family": "Archivo Black",
+     "size": 44,
+     "weight": 400,
+     "color": "#082A1F",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "Short: start point"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "The goal figure"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Subline",
+   "hint": "Up to 24 characters, caps"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Plaque",
+   "hint": "Timeframe, two words"
+  }
+ ]
+}

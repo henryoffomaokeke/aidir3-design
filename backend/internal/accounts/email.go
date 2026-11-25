@@ -76,11 +76,11 @@ func (s *Service) linkFor(kind, raw string) string {
 func subjectFor(kind string) string {
 	switch kind {
 	case "reset":
-		return "Reset your HyCanvas password"
+		return "Reset your aidir3 Design password"
 	case "magic":
-		return "Your HyCanvas sign-in link"
+		return "Your aidir3 Design sign-in link"
 	default:
-		return "Verify your HyCanvas email"
+		return "Verify your aidir3 Design email"
 	}
 }
 

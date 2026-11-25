@@ -77,7 +77,7 @@ export function Step2Database() {
     <WizardShell
       step={2}
       title={tr("installation.connect_postgresql")}
-      subtitle="HyCanvas stores designs and accounts in Postgres. The database must exist; tables are created automatically."
+      subtitle="aidir3 Design stores designs and accounts in Postgres. The database must exist; tables are created automatically."
     >
       <form onSubmit={onSubmit} className="flex flex-col gap-4">
         {mode === "fields" ? (

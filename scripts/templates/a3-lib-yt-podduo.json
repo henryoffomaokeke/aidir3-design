@@ -1,0 +1,225 @@
+{
+ "id": "a3-lib-yt-podduo",
+ "title": "House Tours: Podcast Duo YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "business",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "house tours",
+  "house tour",
+  "podcast",
+  "interview"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#00263A",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#0096C7",
+        0
+       ],
+       [
+        "#004D6C",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "photo",
+     "x": -13,
+     "y": 284,
+     "w": 461,
+     "h": 459,
+     "shape": "rect",
+     "fill": "#176C8C",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9c562d33-740d-447d-8010-50c174e3f79a-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9c562d33-740d-447d-8010-50c174e3f79a-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Woman Model",
+       "author": "Candace McDaniel",
+       "url": "https://stocksnap.io/photo/woman-model-TJHZP9PY4F",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 832,
+     "y": 321,
+     "w": 461,
+     "h": 420,
+     "shape": "rect",
+     "fill": "#176C8C",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-c22cf43a-6510-496a-a466-4826f151f92c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/c22cf43a-6510-496a-a466-4826f151f92c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Authentic Stock",
+       "url": "https://stocksnap.io/photo/smiling-woman-YANJF5SZTU",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true,
+      "flipX": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 572,
+     "y": 464,
+     "w": 137,
+     "h": 137,
+     "fill": "#FCBF49",
+     "stroke": "#000000",
+     "strokeWidth": 5,
+     "name": "Mic badge"
+    },
+    {
+     "kind": "icon",
+     "icon": "microphone",
+     "x": 600,
+     "y": 493,
+     "w": 79,
+     "h": 79,
+     "color": "#0B0B0B"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": -1.1,
+     "w": 768,
+     "h": 201,
+     "text": "SMALL",
+     "family": "Sora",
+     "size": 176,
+     "weight": 800,
+     "color": "#FCBF49",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true,
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 215.4,
+     "w": 768,
+     "h": 151,
+     "text": "BUT LUXE",
+     "family": "Sora",
+     "size": 132,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 34,
+     "y": 44,
+     "w": 358,
+     "h": 54,
+     "rotation": -3,
+     "fill": "#F77F00",
+     "radius": 10,
+     "stroke": "#000000",
+     "strokeWidth": 3,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 48.2,
+     "y": 28.5,
+     "w": 332,
+     "h": 54,
+     "text": "FULL EPISODE",
+     "family": "Inter",
+     "size": 32,
+     "weight": 800,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

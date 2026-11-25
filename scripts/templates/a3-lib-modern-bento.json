@@ -1,0 +1,380 @@
+{
+ "id": "a3-lib-modern-bento",
+ "title": "Court & Registry Wedding: Bento Grid",
+ "categories": [
+  "celebrations",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "court wedding",
+  "registry wedding",
+  "civil wedding",
+  "marriage registry",
+  "intimate wedding",
+  "instagram portrait",
+  "bento grid",
+  "weddings"
+ ],
+ "styleTags": [
+  "dark",
+  "bento",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Inter",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#06201F",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 52,
+     "w": 976,
+     "h": 374,
+     "fill": "#0D2F2D",
+     "radius": 37,
+     "name": "Title tile"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 84.9,
+     "w": 902,
+     "h": 32,
+     "text": "It's official",
+     "family": "Inter",
+     "size": 24,
+     "weight": 700,
+     "color": "#2DE2C5",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 122.3,
+     "w": 902,
+     "h": 141,
+     "text": "Just married",
+     "family": "Inter",
+     "size": 130,
+     "weight": 800,
+     "color": "#E9FFFB",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 294,
+     "w": 902,
+     "h": 85,
+     "text": "Small, sweet and official. Join us at the registry, then lunch with our closest people.",
+     "family": "Inter",
+     "size": 29,
+     "weight": 400,
+     "color": "#9CC7BF",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "photo",
+     "x": 52,
+     "y": 445,
+     "w": 479,
+     "h": 562,
+     "shape": "rect",
+     "radius": 37,
+     "fill": "#353D3D",
+     "name": "Photo: couple signing marriage"
+    },
+    {
+     "kind": "rect",
+     "x": 550,
+     "y": 445,
+     "w": 479,
+     "h": 272,
+     "fill": "#2DE2C5",
+     "radius": 37,
+     "name": "Stat tile"
+    },
+    {
+     "kind": "text",
+     "x": 587,
+     "y": 466.6,
+     "w": 405,
+     "h": 144,
+     "text": "09",
+     "family": "Inter",
+     "size": 139,
+     "weight": 800,
+     "color": "#06201F",
+     "vAlign": "middle",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "text",
+     "x": 587,
+     "y": 638.2,
+     "w": 405,
+     "h": 35,
+     "text": "Jan Â· Friday · 11:00 AM",
+     "family": "Inter",
+     "size": 26,
+     "weight": 500,
+     "color": "#06201F",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "rect",
+     "x": 550,
+     "y": 736,
+     "w": 479,
+     "h": 272,
+     "fill": "#E9FFFB",
+     "radius": 37,
+     "name": "Features tile"
+    },
+    {
+     "kind": "icon",
+     "icon": "home-2",
+     "x": 587,
+     "y": 783,
+     "w": 43,
+     "h": 43,
+     "color": "#111111"
+    },
+    {
+     "kind": "text",
+     "x": 647,
+     "y": 767.1,
+     "w": 345,
+     "h": 66,
+     "text": "Ikoyi Registry",
+     "family": "Inter",
+     "size": 28,
+     "weight": 500,
+     "color": "#06201F",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "clock",
+     "x": 587,
+     "y": 849,
+     "w": 43,
+     "h": 43,
+     "color": "#111111"
+    },
+    {
+     "kind": "text",
+     "x": 647,
+     "y": 832.1,
+     "w": 345,
+     "h": 66,
+     "text": "11:00 AM sharp",
+     "family": "Inter",
+     "size": 28,
+     "weight": 500,
+     "color": "#06201F",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "chef-hat",
+     "x": 587,
+     "y": 915,
+     "w": 43,
+     "h": 43,
+     "color": "#111111"
+    },
+    {
+     "kind": "text",
+     "x": 647,
+     "y": 898.1,
+     "w": 345,
+     "h": 66,
+     "text": "Lunch to follow",
+     "family": "Inter",
+     "size": 28,
+     "weight": 500,
+     "color": "#06201F",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 1026,
+     "w": 479,
+     "h": 272,
+     "fill": "#0D2F2D",
+     "radius": 37,
+     "name": "Brand tile"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1136,
+     "w": 46,
+     "h": 46,
+     "fill": "#2DE2C5",
+     "radius": 23,
+     "name": "Logo chip"
+    },
+    {
+     "kind": "icon",
+     "icon": "scale",
+     "x": 100,
+     "y": 1148,
+     "w": 24,
+     "h": 24,
+     "color": "#06201F"
+    },
+    {
+     "kind": "text",
+     "x": 148,
+     "y": 1130.9,
+     "w": 181,
+     "h": 46,
+     "text": "Kemi & Seun",
+     "family": "Inter",
+     "size": 24,
+     "weight": 700,
+     "color": "#E9FFFB",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 550,
+     "y": 1026,
+     "w": 479,
+     "h": 272,
+     "fill": "#FF7AA8",
+     "radius": 37,
+     "name": "CTA tile"
+    },
+    {
+     "kind": "text",
+     "x": 587,
+     "y": 1053.6,
+     "w": 319,
+     "h": 198,
+     "text": "Join us",
+     "family": "Inter",
+     "size": 69,
+     "weight": 800,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 913,
+     "y": 1123,
+     "w": 78,
+     "h": 78,
+     "fill": "#111111"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       942.83,
+       1171.17
+      ],
+      [
+       961.17,
+       1152.83
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 4.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-up-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       942.83,
+       1152.83
+      ],
+      [
+       961.17,
+       1152.83
+      ],
+      [
+       961.17,
+       1171.17
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 4.6,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-up-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 105 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

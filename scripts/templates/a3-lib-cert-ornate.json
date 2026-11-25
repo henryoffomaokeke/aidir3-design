@@ -1,0 +1,818 @@
+{
+ "id": "a3-lib-cert-ornate",
+ "title": "First Aid & CPR Certificate: Ornate Gold Frame",
+ "categories": [
+  "certificates"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "health",
+  "safety",
+  "training",
+  "first",
+  "ornate gold frame",
+  "certificates & awards"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  2000,
+  1414
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0033A0",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 36,
+     "w": 1928,
+     "h": 1342,
+     "fill": {
+      "angle": 55,
+      "stops": [
+       [
+        "#FFD60A",
+        0
+       ],
+       [
+        "#A99F3D",
+        0.25
+       ],
+       [
+        "#C6B12C",
+        0.5
+       ],
+       [
+        "#ECCA15",
+        0.75
+       ],
+       [
+        "#B3A537",
+        1
+       ]
+      ]
+     },
+     "radius": 10,
+     "name": "Fade"
+    },
+    {
+     "kind": "rect",
+     "x": 90,
+     "y": 90,
+     "w": 1820,
+     "h": 1234,
+     "fill": "#0033A0",
+     "radius": 6
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 116,
+       "y": 112,
+       "cIn": {
+        "x": 113.79,
+        "y": 112
+       }
+      },
+      {
+       "x": 1884,
+       "y": 112,
+       "cOut": {
+        "x": 1886.21,
+        "y": 112
+       }
+      },
+      {
+       "x": 1888,
+       "y": 116,
+       "cIn": {
+        "x": 1888,
+        "y": 113.79
+       }
+      },
+      {
+       "x": 1888,
+       "y": 1298,
+       "cOut": {
+        "x": 1888,
+        "y": 1300.21
+       }
+      },
+      {
+       "x": 1884,
+       "y": 1302,
+       "cIn": {
+        "x": 1886.21,
+        "y": 1302
+       }
+      },
+      {
+       "x": 116,
+       "y": 1302,
+       "cOut": {
+        "x": 113.79,
+        "y": 1302
+       }
+      },
+      {
+       "x": 112,
+       "y": 1298,
+       "cIn": {
+        "x": 112,
+        "y": 1300.21
+       }
+      },
+      {
+       "x": 112,
+       "y": 116,
+       "cOut": {
+        "x": 112,
+        "y": 113.79
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#FFD60A",
+     "strokeWidth": 3,
+     "dash": [
+      14,
+      10
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 28,
+     "y": 28,
+     "w": 70,
+     "h": 70,
+     "fill": "#FFD60A",
+     "stroke": "#0033A0",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "ellipse",
+     "x": 49,
+     "y": 49,
+     "w": 28,
+     "h": 28,
+     "fill": "#0033A0"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1902,
+     "y": 28,
+     "w": 70,
+     "h": 70,
+     "fill": "#FFD60A",
+     "stroke": "#0033A0",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "ellipse",
+     "x": 1923,
+     "y": 49,
+     "w": 28,
+     "h": 28,
+     "fill": "#0033A0"
+    },
+    {
+     "kind": "ellipse",
+     "x": 28,
+     "y": 1316,
+     "w": 70,
+     "h": 70,
+     "fill": "#FFD60A",
+     "stroke": "#0033A0",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "ellipse",
+     "x": 49,
+     "y": 1337,
+     "w": 28,
+     "h": 28,
+     "fill": "#0033A0"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1902,
+     "y": 1316,
+     "w": 70,
+     "h": 70,
+     "fill": "#FFD60A",
+     "stroke": "#0033A0",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "ellipse",
+     "x": 1923,
+     "y": 1337,
+     "w": 28,
+     "h": 28,
+     "fill": "#0033A0"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 243.6,
+     "w": 1600,
+     "h": 34,
+     "text": "LIFELINE TRAINING CENTRE",
+     "family": "Red Hat Text",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFD60A",
+     "align": "center",
+     "lineHeight": 1.2,
+     "letterSpacing": 5
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 326.8,
+     "w": 1600,
+     "h": 107,
+     "text": "First Aid & CPR Certificate",
+     "family": "Playfair Display",
+     "size": 94,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 493.8,
+     "w": 1600,
+     "h": 40,
+     "text": "This is to certify that",
+     "family": "Red Hat Text",
+     "size": 30,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 534,
+     "w": 1600,
+     "h": 173,
+     "text": "Chidera Obi",
+     "family": "Cormorant Garamond",
+     "size": 140,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 660,
+     "y": 797,
+     "w": 680,
+     "h": 3,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 848.5,
+     "w": 1600,
+     "h": 48,
+     "text": "has completed Basic Life Support, CPR and AED training. Valid for two years.",
+     "family": "Red Hat Text",
+     "size": 31,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 999.8,
+     "w": 420,
+     "h": 78,
+     "text": "B. Ade",
+     "family": "Instrument Serif",
+     "size": 60,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 180,
+     "y": 1097,
+     "w": 420,
+     "h": 3,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 1102.8,
+     "w": 420,
+     "h": 35,
+     "text": "Dr. Bola Ade",
+     "family": "Red Hat Text",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 1140.3,
+     "w": 420,
+     "h": 30,
+     "text": "Medical Director",
+     "family": "Red Hat Text",
+     "size": 23,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 999.8,
+     "w": 420,
+     "h": 78,
+     "text": "U. Obi",
+     "family": "Instrument Serif",
+     "size": 60,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 1400,
+     "y": 1097,
+     "w": 420,
+     "h": 3,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 1102.8,
+     "w": 420,
+     "h": 35,
+     "text": "Nurse Uche Obi",
+     "family": "Red Hat Text",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 1140.3,
+     "w": 420,
+     "h": 30,
+     "text": "Lead Instructor",
+     "family": "Red Hat Text",
+     "size": 23,
+     "weight": 400,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 937,
+     "y": 1138,
+     "w": 42,
+     "h": 88,
+     "rotation": 16,
+     "fill": "#FFD60A",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 1021,
+     "y": 1138,
+     "w": 42,
+     "h": 88,
+     "rotation": -16,
+     "fill": "#FFD60A",
+     "opacity": 0.8
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1000,
+       1008
+      ],
+      [
+       1004.12,
+       1065.93
+      ],
+      [
+       1018.23,
+       1009.6
+      ],
+      [
+       1012.23,
+       1067.36
+      ],
+      [
+       1035.91,
+       1014.33
+      ],
+      [
+       1019.97,
+       1070.18
+      ],
+      [
+       1052.5,
+       1022.07
+      ],
+      [
+       1027.1,
+       1074.3
+      ],
+      [
+       1067.49,
+       1032.57
+      ],
+      [
+       1033.41,
+       1079.59
+      ],
+      [
+       1080.43,
+       1045.51
+      ],
+      [
+       1038.7,
+       1085.9
+      ],
+      [
+       1090.93,
+       1060.5
+      ],
+      [
+       1042.82,
+       1093.03
+      ],
+      [
+       1098.67,
+       1077.09
+      ],
+      [
+       1045.64,
+       1100.77
+      ],
+      [
+       1103.4,
+       1094.77
+      ],
+      [
+       1047.07,
+       1108.88
+      ],
+      [
+       1105,
+       1113
+      ],
+      [
+       1047.07,
+       1117.12
+      ],
+      [
+       1103.4,
+       1131.23
+      ],
+      [
+       1045.64,
+       1125.23
+      ],
+      [
+       1098.67,
+       1148.91
+      ],
+      [
+       1042.82,
+       1132.97
+      ],
+      [
+       1090.93,
+       1165.5
+      ],
+      [
+       1038.7,
+       1140.1
+      ],
+      [
+       1080.43,
+       1180.49
+      ],
+      [
+       1033.41,
+       1146.41
+      ],
+      [
+       1067.49,
+       1193.43
+      ],
+      [
+       1027.1,
+       1151.7
+      ],
+      [
+       1052.5,
+       1203.93
+      ],
+      [
+       1019.97,
+       1155.82
+      ],
+      [
+       1035.91,
+       1211.67
+      ],
+      [
+       1012.23,
+       1158.64
+      ],
+      [
+       1018.23,
+       1216.4
+      ],
+      [
+       1004.12,
+       1160.07
+      ],
+      [
+       1000,
+       1218
+      ],
+      [
+       995.88,
+       1160.07
+      ],
+      [
+       981.77,
+       1216.4
+      ],
+      [
+       987.77,
+       1158.64
+      ],
+      [
+       964.09,
+       1211.67
+      ],
+      [
+       980.03,
+       1155.82
+      ],
+      [
+       947.5,
+       1203.93
+      ],
+      [
+       972.9,
+       1151.7
+      ],
+      [
+       932.51,
+       1193.43
+      ],
+      [
+       966.59,
+       1146.41
+      ],
+      [
+       919.57,
+       1180.49
+      ],
+      [
+       961.3,
+       1140.1
+      ],
+      [
+       909.07,
+       1165.5
+      ],
+      [
+       957.18,
+       1132.97
+      ],
+      [
+       901.33,
+       1148.91
+      ],
+      [
+       954.36,
+       1125.23
+      ],
+      [
+       896.6,
+       1131.23
+      ],
+      [
+       952.93,
+       1117.12
+      ],
+      [
+       895,
+       1113
+      ],
+      [
+       952.93,
+       1108.88
+      ],
+      [
+       896.6,
+       1094.77
+      ],
+      [
+       954.36,
+       1100.77
+      ],
+      [
+       901.33,
+       1077.09
+      ],
+      [
+       957.18,
+       1093.03
+      ],
+      [
+       909.07,
+       1060.5
+      ],
+      [
+       961.3,
+       1085.9
+      ],
+      [
+       919.57,
+       1045.51
+      ],
+      [
+       966.59,
+       1079.59
+      ],
+      [
+       932.51,
+       1032.57
+      ],
+      [
+       972.9,
+       1074.3
+      ],
+      [
+       947.5,
+       1022.07
+      ],
+      [
+       980.03,
+       1070.18
+      ],
+      [
+       964.09,
+       1014.33
+      ],
+      [
+       987.77,
+       1067.36
+      ],
+      [
+       981.77,
+       1009.6
+      ],
+      [
+       995.88,
+       1065.93
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 916,
+     "y": 1029,
+     "w": 168,
+     "h": 168,
+     "fill": "#FFD60A",
+     "stroke": "#0033A0",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "ellipse",
+     "x": 927,
+     "y": 1040,
+     "w": 147,
+     "h": 147,
+     "stroke": "#0033A0",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 927,
+     "y": 1062,
+     "w": 147,
+     "h": 92,
+     "text": "Valid\n2 years",
+     "family": "Red Hat Text",
+     "size": 29,
+     "weight": 700,
+     "color": "#0033A0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 190,
+     "y": 1239.1,
+     "w": 1620,
+     "h": 28,
+     "text": "Certificate No. HLT-2026-4160  ·  12 December 2026",
+     "family": "Red Hat Text",
+     "size": 22,
+     "weight": 600,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 95 characters"
+  }
+ ]
+}

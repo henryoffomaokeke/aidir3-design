@@ -1,0 +1,1025 @@
+{
+ "id": "a3-lib-modern-chrome",
+ "title": "Christmas: Y2K Chrome",
+ "categories": [
+  "celebrations",
+  "social"
+ ],
+ "tags": [
+  "christmas",
+  "holiday",
+  "merry christmas",
+  "season's greetings",
+  "december",
+  "story / reel / tiktok",
+  "y2k chrome",
+  "holidays"
+ ],
+ "styleTags": [
+  "dark",
+  "y2k"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2B1036",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1920,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#2B1036",
+        0
+       ],
+       [
+        "#593732",
+        1
+       ]
+      ]
+     },
+     "name": "Night"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       378,
+       1190
+      ],
+      [
+       -864,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       398.3,
+       1190
+      ],
+      [
+       -688.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       418.5,
+       1190
+      ],
+      [
+       -513,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       438.8,
+       1190
+      ],
+      [
+       -337.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       459,
+       1190
+      ],
+      [
+       -162,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       479.3,
+       1190
+      ],
+      [
+       13.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       499.5,
+       1190
+      ],
+      [
+       189,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       519.8,
+       1190
+      ],
+      [
+       364.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       1190
+      ],
+      [
+       540,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       560.3,
+       1190
+      ],
+      [
+       715.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       580.5,
+       1190
+      ],
+      [
+       891,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       600.8,
+       1190
+      ],
+      [
+       1066.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       621,
+       1190
+      ],
+      [
+       1242,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       641.3,
+       1190
+      ],
+      [
+       1417.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       661.5,
+       1190
+      ],
+      [
+       1593,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       681.8,
+       1190
+      ],
+      [
+       1768.5,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       702,
+       1190
+      ],
+      [
+       1944,
+       1920
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1207.34
+      ],
+      [
+       1080,
+       1207.34
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1250.22
+      ],
+      [
+       1080,
+       1250.22
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1314.83
+      ],
+      [
+       1080,
+       1314.83
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1399.69
+      ],
+      [
+       1080,
+       1399.69
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1503.35
+      ],
+      [
+       1080,
+       1503.35
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1624.9
+      ],
+      [
+       1080,
+       1624.9
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       1763.96
+      ],
+      [
+       1080,
+       1763.96
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FBBF24",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.45,
+     "name": "Grid floor"
+    },
+    {
+     "kind": "ellipse",
+     "x": -54,
+     "y": 854,
+     "w": 1188,
+     "h": 672,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#95692D",
+        0
+       ],
+       [
+        "#8B612E",
+        0.1
+       ],
+       [
+        "#80582F",
+        0.21
+       ],
+       [
+        "#77502F",
+        0.31
+       ],
+       [
+        "#6D4730",
+        0.41
+       ],
+       [
+        "#644031",
+        0.51
+       ],
+       [
+        "#5D3A32",
+        0.62
+       ],
+       [
+        "#563532",
+        0.72
+       ],
+       [
+        "#502F33",
+        0.82
+       ],
+       [
+        "#492933",
+        0.92
+       ],
+       [
+        "#442534",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 907,
+       "y": 149,
+       "cIn": {
+        "x": 902.14,
+        "y": 207.32
+       },
+       "cOut": {
+        "x": 911.86,
+        "y": 207.32
+       }
+      },
+      {
+       "x": 988,
+       "y": 230,
+       "cIn": {
+        "x": 929.68,
+        "y": 225.14
+       },
+       "cOut": {
+        "x": 929.68,
+        "y": 234.86
+       }
+      },
+      {
+       "x": 907,
+       "y": 311,
+       "cIn": {
+        "x": 911.86,
+        "y": 252.68
+       },
+       "cOut": {
+        "x": 902.14,
+        "y": 252.68
+       }
+      },
+      {
+       "x": 826,
+       "y": 230,
+       "cIn": {
+        "x": 884.32,
+        "y": 234.86
+       },
+       "cOut": {
+        "x": 884.32,
+        "y": 225.14
+       }
+      }
+     ],
+     "closed": true,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FFFFFF",
+        0
+       ],
+       [
+        "#D7DBE4",
+        0.42
+       ],
+       [
+        "#8A92A3",
+        0.5
+       ],
+       [
+        "#EEF1F6",
+        0.58
+       ],
+       [
+        "#FFFFFF",
+        1
+       ]
+      ]
+     },
+     "name": "Sparkle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 130,
+       "y": 538,
+       "cIn": {
+        "x": 127.72,
+        "y": 565.36
+       },
+       "cOut": {
+        "x": 132.28,
+        "y": 565.36
+       }
+      },
+      {
+       "x": 168,
+       "y": 576,
+       "cIn": {
+        "x": 140.64,
+        "y": 573.72
+       },
+       "cOut": {
+        "x": 140.64,
+        "y": 578.28
+       }
+      },
+      {
+       "x": 130,
+       "y": 614,
+       "cIn": {
+        "x": 132.28,
+        "y": 586.64
+       },
+       "cOut": {
+        "x": 127.72,
+        "y": 586.64
+       }
+      },
+      {
+       "x": 92,
+       "y": 576,
+       "cIn": {
+        "x": 119.36,
+        "y": 578.28
+       },
+       "cOut": {
+        "x": 119.36,
+        "y": 573.72
+       }
+      }
+     ],
+     "closed": true,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FFFFFF",
+        0
+       ],
+       [
+        "#D7DBE4",
+        0.42
+       ],
+       [
+        "#8A92A3",
+        0.5
+       ],
+       [
+        "#EEF1F6",
+        0.58
+       ],
+       [
+        "#FFFFFF",
+        1
+       ]
+      ]
+     },
+     "opacity": 0.8,
+     "name": "Sparkle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 972,
+       "y": 777,
+       "cIn": {
+        "x": 970.26,
+        "y": 797.88
+       },
+       "cOut": {
+        "x": 973.74,
+        "y": 797.88
+       }
+      },
+      {
+       "x": 1001,
+       "y": 806,
+       "cIn": {
+        "x": 980.12,
+        "y": 804.26
+       },
+       "cOut": {
+        "x": 980.12,
+        "y": 807.74
+       }
+      },
+      {
+       "x": 972,
+       "y": 835,
+       "cIn": {
+        "x": 973.74,
+        "y": 814.12
+       },
+       "cOut": {
+        "x": 970.26,
+        "y": 814.12
+       }
+      },
+      {
+       "x": 943,
+       "y": 806,
+       "cIn": {
+        "x": 963.88,
+        "y": 807.74
+       },
+       "cOut": {
+        "x": 963.88,
+        "y": 804.26
+       }
+      }
+     ],
+     "closed": true,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FFFFFF",
+        0
+       ],
+       [
+        "#D7DBE4",
+        0.42
+       ],
+       [
+        "#8A92A3",
+        0.5
+       ],
+       [
+        "#EEF1F6",
+        0.58
+       ],
+       [
+        "#FFFFFF",
+        1
+       ]
+      ]
+     },
+     "opacity": 0.7,
+     "name": "Sparkle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 86,
+     "y": 576,
+     "w": 907,
+     "h": 307,
+     "stroke": "#F5F6FA",
+     "strokeWidth": 3,
+     "opacity": 0.35,
+     "name": "Orbit ring"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 250,
+     "h": 53,
+     "radius": 26.5,
+     "stroke": "#F5F6FA",
+     "strokeWidth": 2,
+     "opacity": 0.6,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 73.1,
+     "w": 250,
+     "h": 53,
+     "text": "Lumen Labs",
+     "family": "Outfit",
+     "size": 24,
+     "weight": 700,
+     "color": "#F5F6FA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 202.9,
+     "w": 924,
+     "h": 34,
+     "text": "Season's greetings",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#FBBF24",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 250.5,
+     "w": 924,
+     "h": 633,
+     "text": "Merry Christmas",
+     "family": "Outfit",
+     "size": 129,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.95,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 914.1,
+     "w": 924,
+     "h": 94,
+     "text": "Thank you for an amazing year. Wishing you love, rest and joy this season.",
+     "family": "Outfit",
+     "size": 32,
+     "weight": 500,
+     "color": "#F5F6FA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42,
+     "opacity": 0.78
+    },
+    {
+     "kind": "rect",
+     "x": 408,
+     "y": 1055,
+     "w": 264,
+     "h": 75,
+     "radius": 37.5,
+     "stroke": "#F5F6FA",
+     "strokeWidth": 2,
+     "opacity": 0.8,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 408,
+     "y": 1048.9,
+     "w": 264,
+     "h": 75,
+     "text": "Shop gifts",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#F5F6FA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1141.7,
+     "w": 924,
+     "h": 36,
+     "text": "lumenlabs.io",
+     "family": "Outfit",
+     "size": 26,
+     "weight": 700,
+     "color": "#F5F6FA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1,
+     "opacity": 0.78
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n36",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n37",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

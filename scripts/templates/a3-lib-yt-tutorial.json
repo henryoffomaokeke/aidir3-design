@@ -1,0 +1,816 @@
+{
+ "id": "a3-lib-yt-tutorial",
+ "title": "Fintech Apps: Laptop Tutorial YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "finance",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "fintech apps",
+  "fintech",
+  "bank apps",
+  "nigeria"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Sora",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0D0221",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 147,
+      "stops": [
+       [
+        "#0D0221",
+        0
+       ],
+       [
+        "#2D00F7",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 43,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 86,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 129,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 172,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 215,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 258,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 301,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 344,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 387,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 430,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 473,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 516,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 559,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 645,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 688,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 731,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 774,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 817,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 860,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 903,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 946,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 989,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1032,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1075,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1118,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1161,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1204,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1247,
+     "y": 0,
+     "w": 2.2,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 43,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 86,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 129,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 172,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 215,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 258,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 301,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 344,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 387,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 430,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 473,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 516,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 559,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 602,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 645,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 688,
+     "w": 1280,
+     "h": 2.2,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 595.4,
+     "y": 144,
+     "w": 602.3,
+     "h": 406.8,
+     "fill": "#1D1D1F",
+     "radius": 14.3,
+     "name": "Laptop lid"
+    },
+    {
+     "kind": "photo",
+     "x": 620.5,
+     "y": 169.1,
+     "w": 552.1,
+     "h": 356.6,
+     "shape": "rect",
+     "fill": "#241B34",
+     "name": "Photo: person using banking app on phone",
+     "image": {
+      "asset": "tplph-ov-da8dde1e-d088-45fb-89db-e9cd4f3663f3",
+      "url": "/api/v1/templates/photos/ov/da8dde1e-d088-45fb-89db-e9cd4f3663f3.jpg",
+      "mime": "image/jpeg",
+      "license": "by",
+      "credit": {
+       "title": "can't come to the phone right now",
+       "author": "istolethetv",
+       "url": "https://www.flickr.com/photos/44124401641@N01/52164195121",
+       "licenseLabel": "CC BY 2.0"
+      },
+      "name": "Photo: can't come to the phone right now",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       538,
+       560.24
+      ],
+      [
+       1255,
+       560.24
+      ],
+      [
+       1226.32,
+       617
+      ],
+      [
+       566.68,
+       617
+      ]
+     ],
+     "closed": true,
+     "fill": "#C7CCD4",
+     "name": "Laptop base"
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 550.8,
+     "w": 717,
+     "h": 14.2,
+     "fill": "#E5E7EB",
+     "radius": 4.7,
+     "name": "Laptop hinge"
+    },
+    {
+     "kind": "rect",
+     "x": 846.3,
+     "y": 550.8,
+     "w": 100.4,
+     "h": 7.1,
+     "fill": "#9CA3AF",
+     "radius": 3.8,
+     "name": "Laptop notch"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 931.5,
+       "y": 250.9,
+       "cOut": {
+        "x": 1013.77,
+        "y": 247.5
+       }
+      },
+      {
+       "x": 1067.95,
+       "y": 325.7,
+       "cIn": {
+        "x": 1071.97,
+        "y": 281.5
+       },
+       "cOut": {
+        "x": 1063.94,
+        "y": 373.3
+       }
+      },
+      {
+       "x": 921.47,
+       "y": 398.8,
+       "cIn": {
+        "x": 995.71,
+        "y": 400.5
+       },
+       "cOut": {
+        "x": 843.21,
+        "y": 397.1
+       }
+      },
+      {
+       "x": 795.05,
+       "y": 322.3,
+       "cIn": {
+        "x": 793.04,
+        "y": 366.5
+       },
+       "cOut": {
+        "x": 797.05,
+        "y": 281.5
+       }
+      },
+      {
+       "x": 949.56,
+       "y": 257.7,
+       "cIn": {
+        "x": 851.23,
+        "y": 254.3
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#00F0FF",
+     "strokeWidth": 12,
+     "cap": "round",
+     "join": "round",
+     "name": "Circle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 514.9,
+       "y": 525.36,
+       "cOut": {
+        "x": 541.08,
+        "y": 505.4
+       }
+      },
+      {
+       "x": 589.62,
+       "y": 456.76,
+       "cIn": {
+        "x": 569.85,
+        "y": 481.51
+       }
+      },
+      [
+       575.22,
+       444.46
+      ],
+      [
+       636.56,
+       436.93
+      ],
+      [
+       614.8,
+       491.93
+      ],
+      {
+       "x": 603,
+       "y": 475.71,
+       "cOut": {
+        "x": 584.39,
+        "y": 496.15
+       }
+      },
+      {
+       "x": 526.04,
+       "y": 538.33,
+       "cIn": {
+        "x": 555.09,
+        "y": 519.13
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#00F0FF",
+     "stroke": "#000000",
+     "strokeWidth": 5,
+     "cap": "round",
+     "join": "round",
+     "name": "Arrow"
+    },
+    {
+     "kind": "photo",
+     "x": 38,
+     "y": 407,
+     "w": 435,
+     "h": 329,
+     "shape": "rect",
+     "fill": "#311896",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 54,
+     "y": 54,
+     "w": 590,
+     "h": 141,
+     "rotation": -2,
+     "fill": "#FF00A0",
+     "radius": 8,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 72.9,
+     "y": 32.6,
+     "w": 700,
+     "h": 121,
+     "text": "SAVINGS",
+     "family": "Sora",
+     "size": 106,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 60.9,
+     "y": 170.3,
+     "w": 717,
+     "h": 121,
+     "text": "APP RATED",
+     "family": "Sora",
+     "size": 106,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n57",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n58",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

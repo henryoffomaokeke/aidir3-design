@@ -1,0 +1,454 @@
+{
+ "id": "a3-lib-yt-stamp",
+ "title": "Poultry Farming: Score Stamp YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "business",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "poultry farming",
+  "poultry",
+  "chickens",
+  "farming"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Barlow Condensed",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Barlow Condensed",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B1026",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 108,
+      "stops": [
+       [
+        "#0B1026",
+        0
+       ],
+       [
+        "#2338FF",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 29,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 58,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 87,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 116,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 145,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 174,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 203,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 232,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 261,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 290,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 319,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 348,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 377,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 406,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 435,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 464,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 493,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 522,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 551,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 580,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 609,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 638,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 667,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 696,
+     "w": 1280,
+     "h": 11.6,
+     "fill": "#FFFFFF",
+     "opacity": 0.08,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 504,
+     "y": 106,
+     "w": 360,
+     "h": 360,
+     "rotation": -12,
+     "fill": "#FFFFFF",
+     "opacity": 0.92,
+     "name": "Stamp"
+    },
+    {
+     "kind": "ellipse",
+     "x": 504,
+     "y": 106,
+     "w": 360,
+     "h": 360,
+     "rotation": -12,
+     "stroke": "#D0002B",
+     "strokeWidth": 12,
+     "name": "Stamp"
+    },
+    {
+     "kind": "ellipse",
+     "x": 542,
+     "y": 131,
+     "w": 295,
+     "h": 295,
+     "rotation": -12,
+     "stroke": "#D0002B",
+     "strokeWidth": 4,
+     "name": "Stamp ring"
+    },
+    {
+     "kind": "text",
+     "x": 587.1,
+     "y": 164.4,
+     "w": 259,
+     "h": 144,
+     "text": "6 WEEKS",
+     "family": "Barlow Condensed",
+     "size": 66,
+     "weight": 700,
+     "color": "#D0002B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 858,
+     "y": 311,
+     "w": 410,
+     "h": 430,
+     "shape": "rect",
+     "fill": "#2C389C",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-7f127407-8a14-40d3-b553-35dfee6322ed-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/7f127407-8a14-40d3-b553-35dfee6322ed-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VDJ2M0I91U",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 50,
+     "y": 390,
+     "w": 271,
+     "h": 193,
+     "rotation": -3,
+     "fill": "#FFE600",
+     "radius": 12,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 77.9,
+     "y": 375.5,
+     "w": 617,
+     "h": 165,
+     "text": "500",
+     "family": "Barlow Condensed",
+     "size": 144,
+     "weight": 700,
+     "color": "#0B0B0B",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 63.4,
+     "y": 563.9,
+     "w": 640,
+     "h": 107,
+     "text": "BIRDS PROFIT",
+     "family": "Barlow Condensed",
+     "size": 93,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n29",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

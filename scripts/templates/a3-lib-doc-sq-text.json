@@ -1,0 +1,203 @@
+{
+ "id": "a3-lib-doc-sq-text",
+ "title": "SEO Agency: Headline Ad",
+ "categories": [
+  "marketing"
+ ],
+ "tags": [
+  "seo",
+  "google",
+  "search",
+  "ranking",
+  "website traffic",
+  "marketing",
+  "display ad 300×250",
+  "headline ad"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  600,
+  500
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0F2E24",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 440,
+     "y": -80,
+     "w": 240,
+     "h": 240,
+     "fill": "#3DDC97",
+     "opacity": 0.14,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": -10,
+     "y": 400,
+     "w": 140,
+     "h": 140,
+     "fill": "#F4D35E",
+     "opacity": 0.25,
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 43.8,
+     "w": 520,
+     "h": 25,
+     "text": "BE FOUND ON GOOGLE",
+     "family": "Inter",
+     "size": 20,
+     "weight": 800,
+     "color": "#3DDC97",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 70.6,
+     "w": 520,
+     "h": 150,
+     "text": "Customers are searching",
+     "family": "Bebas Neue",
+     "size": 72,
+     "weight": 400,
+     "color": "#EEF7F1",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 40,
+     "y": 404,
+     "w": 240,
+     "h": 64,
+     "fill": "#3DDC97",
+     "radius": 32
+    },
+    {
+     "kind": "text",
+     "x": 62,
+     "y": 399.4,
+     "w": 182,
+     "h": 64,
+     "text": "Free SEO audit",
+     "family": "Inter",
+     "size": 22,
+     "weight": 800,
+     "color": "#0F2E24",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       246,
+       436
+      ],
+      [
+       260,
+       436
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0F2E24",
+     "strokeWidth": 2.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       253,
+       429
+      ],
+      [
+       260,
+       436
+      ],
+      [
+       253,
+       443
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0F2E24",
+     "strokeWidth": 2.5,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 399.8,
+     "w": 260,
+     "h": 64,
+     "text": "RankRise SEO",
+     "family": "Inter",
+     "size": 20,
+     "weight": 800,
+     "color": "#EEF7F1",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

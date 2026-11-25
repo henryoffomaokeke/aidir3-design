@@ -16,29 +16,29 @@
    class can swap values at runtime. */
 @theme {
   /* THEME:colors:start (generated from src/theme.config.mjs - do not edit by hand) */
-  --color-brand-50: #FBEFF7;
-  --color-brand-100: #F6DDEE;
-  --color-brand-200: #EDBBDC;
-  --color-brand-300: #E195C7;
-  --color-brand-400: #CF67A8;
-  --color-brand-500: #B73E88;
-  --color-brand-600: #9B2C72;
-  --color-brand-700: #7E2059;
-  --color-brand-800: #681A49;
-  --color-brand-900: #54163B;
-  --color-brand-950: #3E1030;
+  --color-brand-50: #FFF4EE;
+  --color-brand-100: #FFE8DC;
+  --color-brand-200: #FFD3BD;
+  --color-brand-300: #FFB894;
+  --color-brand-400: #FF9A66;
+  --color-brand-500: #FF7A3D;
+  --color-brand-600: #FF5A1F;
+  --color-brand-700: #C2410C;
+  --color-brand-800: #9A3412;
+  --color-brand-900: #7C2D12;
+  --color-brand-950: #431407;
 
-  --color-accent-50: #FCEAF4;
-  --color-accent-100: #FAD5E9;
-  --color-accent-200: #F4AFD3;
-  --color-accent-300: #EE8FC2;
-  --color-accent-400: #E07AB8;
-  --color-accent-500: #D6409A;
-  --color-accent-600: #B82F80;
-  --color-accent-700: #8E2563;
-  --color-accent-800: #6B1C4A;
-  --color-accent-900: #4F1537;
-  --color-accent-950: #350D24;
+  --color-accent-50: #FFF7ED;
+  --color-accent-100: #FFEDD5;
+  --color-accent-200: #FED7AA;
+  --color-accent-300: #FDBA74;
+  --color-accent-400: #FFAE6B;
+  --color-accent-500: #FB923C;
+  --color-accent-600: #F97316;
+  --color-accent-700: #C2410C;
+  --color-accent-800: #9A3412;
+  --color-accent-900: #7C2D12;
+  --color-accent-950: #431407;
 
 
   /* The app's neutral ramp. Emitted (rather than left to Tailwind's
@@ -59,7 +59,9 @@
   /* Semantic chrome surfaces (dark mode swaps these; see THEME:dark). */
   --color-page: #ffffff;
   --color-surface: #ffffff;
-  --color-brand-ink: #7E2059;
+  --color-brand-ink: #C2410C;
+  /* Text and icons on top of the accent (aidir3: ink on ember, never white). */
+  --color-on-brand: #0B0C0E;
   /* THEME:colors:end */
 }
 
@@ -69,9 +71,9 @@
 
 :root {
   /* THEME:root:start (generated from src/theme.config.mjs - do not edit by hand) */
-  --oc-brand-start: #6D1E50;
-  --oc-brand-mid: var(--color-brand-600);
-  --oc-brand-end: #C84B9A;
+  --oc-brand-start: #FF5A1F;
+  --oc-brand-mid: #FF7A3D;
+  --oc-brand-end: #FFAE6B;
   --oc-gradient: linear-gradient(135deg, var(--oc-brand-start) 0%, var(--oc-brand-mid) 45%, var(--oc-brand-end) 100%);
 
   --color-selection: #2563eb;
@@ -84,31 +86,31 @@
 
   /* Non-token chrome details that flip with the theme (static, hand-edited). */
   --oc-scrollbar: #d4d4d8;
-  --oc-panel-dot: rgba(22, 10, 18, 0.07);
+  --oc-panel-dot: rgba(11, 12, 14, 0.07);
   --oc-swatch-border: rgba(0, 0, 0, 0.12);
 }
 
 /* THEME:dark:start (generated from src/theme.config.mjs - do not edit by hand) */
 .dark {
-  --color-page: #111114;
-  --color-surface: #1b1b20;
-  --color-brand-ink: #E195C7;
+  --color-page: #0A0B0D;
+  --color-surface: #101216;
+  --color-brand-ink: #FF8A55;
 
-  --color-neutral-50: #161619;
-  --color-neutral-100: #1e1e23;
-  --color-neutral-200: #2a2a31;
-  --color-neutral-300: #3a3a42;
-  --color-neutral-400: #8f8f9a;
-  --color-neutral-500: #a5a5b0;
-  --color-neutral-600: #c2c2cb;
-  --color-neutral-700: #d8d8de;
-  --color-neutral-800: #e8e8ed;
-  --color-neutral-900: #f4f4f6;
-  --color-neutral-950: #fbfbfc;
+  --color-neutral-50: #0E1013;
+  --color-neutral-100: #171A1F;
+  --color-neutral-200: #22262C;
+  --color-neutral-300: #313740;
+  --color-neutral-400: #8B93A0;
+  --color-neutral-500: #A6ADB8;
+  --color-neutral-600: #C3C8D0;
+  --color-neutral-700: #D9DCE1;
+  --color-neutral-800: #EDEEF0;
+  --color-neutral-900: #F5F6F7;
+  --color-neutral-950: #FBFBFC;
 
-  --color-brand-50: #2b1424;
-  --color-brand-100: #3a1b30;
-  --color-brand-200: #4e2340;
+  --color-brand-50: #24130A;
+  --color-brand-100: #33190B;
+  --color-brand-200: #4A230E;
 }
 
 /* Escape hatch: subtrees that must stay light even under a dark app chrome
@@ -118,7 +120,7 @@
   color-scheme: light;
   --color-page: #ffffff;
   --color-surface: #ffffff;
-  --color-brand-ink: #7E2059;
+  --color-brand-ink: #C2410C;
 
   --color-neutral-50: #fafafa;
   --color-neutral-100: #f5f5f5;
@@ -132,16 +134,16 @@
   --color-neutral-900: #171717;
   --color-neutral-950: #0a0a0a;
 
-  --color-brand-50: #FBEFF7;
-  --color-brand-100: #F6DDEE;
-  --color-brand-200: #EDBBDC;
+  --color-brand-50: #FFF4EE;
+  --color-brand-100: #FFE8DC;
+  --color-brand-200: #FFD3BD;
 }
 /* THEME:dark:end */
 
 .dark {
   color-scheme: dark;
-  --oc-scrollbar: #3f3f46;
-  --oc-panel-dot: rgba(244, 244, 246, 0.06);
+  --oc-scrollbar: #313740;
+  --oc-panel-dot: rgba(237, 238, 240, 0.06);
   --oc-swatch-border: rgba(255, 255, 255, 0.16);
 }
 
@@ -151,7 +153,7 @@
    never restyled: the `.light` escape hatch re-declares these tokens on a
    nearer ancestor, so document surfaces win inside their own subtrees. */
 .hc {
-  --color-brand-ink: #681A49;
+  --color-brand-ink: #7C2D12;
 
   --color-neutral-50: #f8f8f8;
   --color-neutral-100: #ededed;
@@ -169,7 +171,7 @@
 .hc.dark {
   --color-page: #000000;
   --color-surface: #0d0d0d;
-  --color-brand-ink: #EDBBDC;
+  --color-brand-ink: #FFD3BD;
 
   --color-neutral-50: #0d0d0d;
   --color-neutral-100: #161616;
@@ -239,6 +241,24 @@ body {
 .oc-gradient {
   background-image: var(--oc-gradient);
 }
+
+/* aidir3: text and icons on the ember accent are near-black ink, never
+   white (white on #ff5a1f is 3.1:1). Upstream pairs its accent fills with
+   text-white in ~65 places; this one unlayered rule re-inks all of them, and
+   anything merged from upstream later, without touching each call site. */
+.oc-gradient.text-white,
+.bg-brand-500.text-white,
+.bg-brand-600.text-white,
+.oc-gradient .text-white,
+.bg-brand-600 .text-white {
+  color: var(--color-on-brand);
+}
+/* Hover on a filled accent control lightens (the site's brand-hi step)
+   instead of darkening, so the ink label stays readable. */
+.bg-brand-600.hover\:bg-brand-700:hover,
+.bg-brand-600.hover\:bg-brand-800:hover {
+  background-color: var(--color-brand-500);
+}
 .oc-gradient-text {
   background-image: var(--oc-gradient);
   -webkit-background-clip: text;
@@ -269,13 +289,13 @@ body {
 /* The canvas floor (mirrors the marketing site): the brand ink surface with a
    design-tool dot grid, two slow ambient plum blobs, and film grain, used
    behind the auth showcase and landing cards so the app opens on the same
-   stage the marketing sets. Ink #160A12 is a brand SURFACE constant (like the
-   logo's paper), not the app accent, which stays in theme.config.mjs. */
+   stage the marketing sets. Graphite #0A0B0D is the aidir3 canvas, a brand
+   SURFACE constant, not the app accent, which stays in theme.config.mjs. */
 .oc-floor {
-  background: #160a12;
+  background: #0a0b0d;
 }
 .oc-floor-grid {
-  background-image: radial-gradient(circle, rgba(251, 247, 250, 0.13) 1px, transparent 1.4px);
+  background-image: radial-gradient(circle, rgba(237, 238, 240, 0.10) 1px, transparent 1.4px);
   background-size: 28px 28px;
   -webkit-mask-image: radial-gradient(140% 120% at 50% 30%, #000 55%, transparent 100%);
   mask-image: radial-gradient(140% 120% at 50% 30%, #000 55%, transparent 100%);
@@ -287,12 +307,12 @@ body {
 }
 .oc-floor-blob-a {
   background: var(--oc-brand-start);
-  opacity: 0.45;
+  opacity: 0.22;
   animation: oc-blob-a 38s ease-in-out infinite alternate;
 }
 .oc-floor-blob-b {
   background: var(--color-brand-800);
-  opacity: 0.5;
+  opacity: 0.3;
   animation: oc-blob-b 46s ease-in-out infinite alternate;
 }
 @keyframes oc-blob-a {

@@ -1,0 +1,463 @@
+{
+ "id": "a3-lib-invite-party",
+ "title": "Birthday Party Invitation",
+ "categories": [
+  "personal",
+  "print",
+  "events"
+ ],
+ "tags": [
+  "birthday",
+  "party",
+  "invitation",
+  "fun",
+  "personal"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Epilogue",
+   "weight": 900
+  },
+  {
+   "role": "body",
+   "family": "Host Grotesk",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FDF1EA",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 28,
+     "y": 28,
+     "w": 19,
+     "h": 42,
+     "fill": "#FF7AA2",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 1049,
+     "y": 367,
+     "w": 19,
+     "h": 42,
+     "rotation": 94,
+     "fill": "#FFD166",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 1242,
+     "y": 1764,
+     "w": 19,
+     "h": 42,
+     "rotation": 55,
+     "fill": "#9CC3FF",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 925,
+     "y": 327,
+     "w": 19,
+     "h": 42,
+     "rotation": 149,
+     "fill": "#06D6A0",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 1385,
+     "w": 19,
+     "h": 42,
+     "rotation": 16,
+     "fill": "#FF7AA2",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 1118,
+     "y": 1724,
+     "w": 19,
+     "h": 42,
+     "rotation": 110,
+     "fill": "#FFD166",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 801,
+     "y": 287,
+     "w": 19,
+     "h": 42,
+     "rotation": 24,
+     "fill": "#FF7AA2",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 1311,
+     "y": 1345,
+     "w": 19,
+     "h": 42,
+     "rotation": 71,
+     "fill": "#9CC3FF",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 994,
+     "y": 1684,
+     "w": 19,
+     "h": 42,
+     "rotation": 165,
+     "fill": "#06D6A0",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 166,
+     "y": 966,
+     "w": 19,
+     "h": 42,
+     "rotation": 32,
+     "fill": "#FF7AA2",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 677,
+     "y": 247,
+     "w": 19,
+     "h": 42,
+     "rotation": 79,
+     "fill": "#9CC3FF",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 42,
+     "y": 926,
+     "w": 19,
+     "h": 42,
+     "rotation": 87,
+     "fill": "#9CC3FF",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 552,
+     "y": 208,
+     "w": 19,
+     "h": 42,
+     "rotation": 134,
+     "fill": "#FFD166",
+     "radius": 6
+    },
+    {
+     "kind": "rect",
+     "x": 200,
+     "y": 364,
+     "w": 2,
+     "h": 306,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 97,
+     "y": 125,
+     "w": 208,
+     "h": 245,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "ellipse",
+     "x": 143,
+     "y": 167,
+     "w": 37,
+     "h": 54,
+     "fill": "#FFFFFF",
+     "opacity": 0.55
+    },
+    {
+     "kind": "rect",
+     "x": 361,
+     "y": 428,
+     "w": 2,
+     "h": 306,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 278,
+     "y": 236,
+     "w": 167,
+     "h": 197,
+     "fill": "#9CC3FF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 315,
+     "y": 269,
+     "w": 30,
+     "h": 43,
+     "fill": "#FFFFFF",
+     "opacity": 0.55
+    },
+    {
+     "kind": "rect",
+     "x": 1284,
+     "y": 392,
+     "w": 2,
+     "h": 306,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1181,
+     "y": 153,
+     "w": 208,
+     "h": 245,
+     "fill": "#FFD166"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1227,
+     "y": 195,
+     "w": 37,
+     "h": 54,
+     "fill": "#FFFFFF",
+     "opacity": 0.55
+    },
+    {
+     "kind": "text",
+     "x": 139,
+     "y": 620.3,
+     "w": 1222,
+     "h": 52,
+     "text": "You're invited",
+     "family": "Host Grotesk",
+     "size": 42,
+     "weight": 700,
+     "color": "#FF7AA2",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 139,
+     "y": 674.8,
+     "w": 1222,
+     "h": 181,
+     "text": "Zara turns",
+     "family": "Epilogue",
+     "size": 167,
+     "weight": 900,
+     "color": "#2B2135",
+     "align": "center",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 139,
+     "y": 863.2,
+     "w": 1222,
+     "h": 196,
+     "text": "thirty!",
+     "family": "Fraunces",
+     "size": 153,
+     "weight": 600,
+     "color": "#9CC3FF",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 139,
+     "y": 1100.1,
+     "w": 1222,
+     "h": 61,
+     "text": "Food, music, games and way too much cake.",
+     "family": "Host Grotesk",
+     "size": 42,
+     "weight": 400,
+     "color": "#7A6E85",
+     "align": "center",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 139,
+     "y": 1244,
+     "w": 389,
+     "h": 278,
+     "fill": "#FFFFFF",
+     "radius": 36,
+     "stroke": "#DBDBDB",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "icon": "calendar",
+     "x": 297,
+     "y": 1286,
+     "w": 72,
+     "h": 72,
+     "color": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 158,
+     "y": 1368.5,
+     "w": 350,
+     "h": 117,
+     "text": "Sat, 24 Jan",
+     "family": "Host Grotesk",
+     "size": 33,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 556,
+     "y": 1244,
+     "w": 389,
+     "h": 278,
+     "fill": "#FFFFFF",
+     "radius": 36,
+     "stroke": "#DBDBDB",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "icon": "clock",
+     "x": 714,
+     "y": 1286,
+     "w": 72,
+     "h": 72,
+     "color": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 575,
+     "y": 1368.5,
+     "w": 350,
+     "h": 117,
+     "text": "4 PM till late",
+     "family": "Host Grotesk",
+     "size": 33,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 972,
+     "y": 1244,
+     "w": 389,
+     "h": 278,
+     "fill": "#FFFFFF",
+     "radius": 36,
+     "stroke": "#DBDBDB",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 1131,
+     "y": 1286,
+     "w": 72,
+     "h": 72,
+     "color": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 991,
+     "y": 1368.5,
+     "w": 350,
+     "h": 117,
+     "text": "The Garden, Lekki",
+     "family": "Host Grotesk",
+     "size": 33,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 139,
+     "y": 1855.6,
+     "w": 1222,
+     "h": 61,
+     "text": "RSVP to Funmi · 0807 444 9090",
+     "family": "Host Grotesk",
+     "size": 36,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n35",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

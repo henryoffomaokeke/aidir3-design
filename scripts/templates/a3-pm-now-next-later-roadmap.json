@@ -1,0 +1,1263 @@
+{
+ "id": "a3-pm-now-next-later-roadmap",
+ "title": "Now, Next, Later Product Roadmap",
+ "categories": [
+  "product",
+  "presentations",
+  "business"
+ ],
+ "tags": [
+  "roadmap",
+  "now next later",
+  "product roadmap",
+  "planning",
+  "themes",
+  "slide",
+  "product management"
+ ],
+ "styleTags": [
+  "warm",
+  "light",
+  "structured"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -977,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Schibsted Grotesk",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  },
+  {
+   "role": "label",
+   "family": "IBM Plex Mono",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Roadmap",
+   "bg": "#F2EEE6",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 70,
+     "w": 14,
+     "h": 14,
+     "fill": "#DB4F33"
+    },
+    {
+     "kind": "text",
+     "x": 122,
+     "y": 64,
+     "w": 900,
+     "h": 26,
+     "text": "Parcelwise · Product roadmap · H1 2027",
+     "family": "IBM Plex Mono",
+     "size": 17,
+     "weight": 600,
+     "color": "#1C1B19",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 98,
+     "w": 900,
+     "h": 86,
+     "text": "Now, next, later",
+     "family": "Schibsted Grotesk",
+     "size": 70,
+     "weight": 800,
+     "color": "#1C1B19",
+     "lineHeight": 1.1,
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 64,
+     "w": 600,
+     "h": 26,
+     "text": "Updated 24 Nov 2026 · Reviewed monthly",
+     "family": "IBM Plex Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#55514A",
+     "align": "right",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 112,
+     "w": 600,
+     "h": 22,
+     "text": "Themes",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#8A8478",
+     "align": "right",
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 1208,
+     "y": 153,
+     "w": 18,
+     "h": 18,
+     "fill": "#0E7C6B",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1236,
+     "y": 146,
+     "w": 126,
+     "h": 30,
+     "text": "Activation",
+     "family": "Schibsted Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1C1B19",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1373,
+     "y": 153,
+     "w": 18,
+     "h": 18,
+     "fill": "#3F3BB8",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1401,
+     "y": 146,
+     "w": 126,
+     "h": 30,
+     "text": "Reliability",
+     "family": "Schibsted Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1C1B19",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1536,
+     "y": 153,
+     "w": 18,
+     "h": 18,
+     "fill": "#DB4F33",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1564,
+     "y": 146,
+     "w": 126,
+     "h": 30,
+     "text": "Expansion",
+     "family": "Schibsted Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1C1B19",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1701,
+     "y": 153,
+     "w": 18,
+     "h": 18,
+     "fill": "#B77A08",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1729,
+     "y": 146,
+     "w": 126,
+     "h": 30,
+     "text": "Platform",
+     "family": "Schibsted Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1C1B19",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 232,
+     "w": 552,
+     "h": 6,
+     "fill": "#1C1B19",
+     "opacity": 1
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 250,
+     "w": 300,
+     "h": 60,
+     "text": "Now",
+     "family": "Schibsted Grotesk",
+     "size": 48,
+     "weight": 800,
+     "color": "#1C1B19",
+     "lineHeight": 1.1,
+     "letterSpacing": -0.5
+    },
+    {
+     "kind": "text",
+     "x": 348,
+     "y": 256,
+     "w": 300,
+     "h": 24,
+     "text": "Jan – Mar 2027",
+     "family": "IBM Plex Mono",
+     "size": 17,
+     "weight": 600,
+     "color": "#1C1B19",
+     "align": "right",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 348,
+     "y": 284,
+     "w": 300,
+     "h": 26,
+     "text": "Committed",
+     "family": "Inter",
+     "size": 19,
+     "weight": 400,
+     "color": "#55514A",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 336,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 336,
+     "w": 8,
+     "h": 136,
+     "fill": "#0E7C6B"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 356,
+     "w": 360,
+     "h": 36,
+     "text": "Guided store setup",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 476,
+     "y": 363,
+     "w": 148,
+     "h": 20,
+     "text": "Activation",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E7C6B",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 398,
+     "w": 496,
+     "h": 60,
+     "text": "New merchants connect a store and send\na first tracked order in one sitting.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 486,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 486,
+     "w": 8,
+     "h": 136,
+     "fill": "#3F3BB8"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 506,
+     "w": 360,
+     "h": 36,
+     "text": "Live carrier status",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 476,
+     "y": 513,
+     "w": 148,
+     "h": 20,
+     "text": "Reliability",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#3F3BB8",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 548,
+     "w": 496,
+     "h": 60,
+     "text": "Tracking updates reach shoppers in under\na minute, down from nine.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 636,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 636,
+     "w": 8,
+     "h": 136,
+     "fill": "#DB4F33"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 656,
+     "w": 360,
+     "h": 36,
+     "text": "Branded tracking pages",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 476,
+     "y": 663,
+     "w": 148,
+     "h": 20,
+     "text": "Expansion",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB4F33",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 698,
+     "w": 496,
+     "h": 60,
+     "text": "Logo, colours and a promo slot on the\npage every shopper sees.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 786,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 786,
+     "w": 8,
+     "h": 136,
+     "fill": "#B77A08"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 806,
+     "w": 360,
+     "h": 36,
+     "text": "Webhooks v2",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 476,
+     "y": 813,
+     "w": 148,
+     "h": 20,
+     "text": "Platform",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#B77A08",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 848,
+     "w": 496,
+     "h": 60,
+     "text": "Signed, retried events so partners\ncan stop polling the API.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 232,
+     "w": 552,
+     "h": 6,
+     "fill": "#1C1B19",
+     "opacity": 0.55
+    },
+    {
+     "kind": "text",
+     "x": 684,
+     "y": 250,
+     "w": 300,
+     "h": 60,
+     "text": "Next",
+     "family": "Schibsted Grotesk",
+     "size": 48,
+     "weight": 800,
+     "color": "#1C1B19",
+     "lineHeight": 1.1,
+     "letterSpacing": -0.5
+    },
+    {
+     "kind": "text",
+     "x": 936,
+     "y": 256,
+     "w": 300,
+     "h": 24,
+     "text": "Apr – Jun 2027",
+     "family": "IBM Plex Mono",
+     "size": 17,
+     "weight": 600,
+     "color": "#1C1B19",
+     "align": "right",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 936,
+     "y": 284,
+     "w": 300,
+     "h": 26,
+     "text": "Planned",
+     "family": "Inter",
+     "size": 19,
+     "weight": 400,
+     "color": "#55514A",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 336,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 336,
+     "w": 8,
+     "h": 136,
+     "fill": "#0E7C6B"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 356,
+     "w": 360,
+     "h": 36,
+     "text": "Sample data sandbox",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1064,
+     "y": 363,
+     "w": 148,
+     "h": 20,
+     "text": "Activation",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#0E7C6B",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 398,
+     "w": 496,
+     "h": 60,
+     "text": "Try every feature on realistic orders\nbefore connecting a store.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 486,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 486,
+     "w": 8,
+     "h": 136,
+     "fill": "#3F3BB8"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 506,
+     "w": 360,
+     "h": 36,
+     "text": "Delay prediction",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1064,
+     "y": 513,
+     "w": 148,
+     "h": 20,
+     "text": "Reliability",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#3F3BB8",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 548,
+     "w": 496,
+     "h": 60,
+     "text": "Warn merchants a parcel will be late\nbefore the carrier does.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 636,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 636,
+     "w": 8,
+     "h": 136,
+     "fill": "#DB4F33"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 656,
+     "w": 360,
+     "h": 36,
+     "text": "Self-serve returns",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1064,
+     "y": 663,
+     "w": 148,
+     "h": 20,
+     "text": "Expansion",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB4F33",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 698,
+     "w": 496,
+     "h": 60,
+     "text": "Returns with printable labels, linked\nto the original tracking page.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 786,
+     "w": 552,
+     "h": 136,
+     "fill": "#FFFFFF",
+     "radius": 10,
+     "stroke": "#D9D2C3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 786,
+     "w": 8,
+     "h": 136,
+     "fill": "#B77A08"
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 806,
+     "w": 360,
+     "h": 36,
+     "text": "Role-based access",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1064,
+     "y": 813,
+     "w": 148,
+     "h": 20,
+     "text": "Platform",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#B77A08",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 716,
+     "y": 848,
+     "w": 496,
+     "h": 60,
+     "text": "Finance, support and operations roles\nfor teams above ten seats.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 1272,
+     "y": 232,
+     "w": 552,
+     "h": 6,
+     "fill": "#1C1B19",
+     "opacity": 0.25
+    },
+    {
+     "kind": "text",
+     "x": 1272,
+     "y": 250,
+     "w": 300,
+     "h": 60,
+     "text": "Later",
+     "family": "Schibsted Grotesk",
+     "size": 48,
+     "weight": 800,
+     "color": "#1C1B19",
+     "lineHeight": 1.1,
+     "letterSpacing": -0.5
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 256,
+     "w": 300,
+     "h": 24,
+     "text": "Jul – Dec 2027",
+     "family": "IBM Plex Mono",
+     "size": 17,
+     "weight": 600,
+     "color": "#1C1B19",
+     "align": "right",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 284,
+     "w": 300,
+     "h": 26,
+     "text": "Exploring",
+     "family": "Inter",
+     "size": 19,
+     "weight": 400,
+     "color": "#55514A",
+     "align": "right"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1272,
+       336
+      ],
+      [
+       1824,
+       336
+      ],
+      [
+       1824,
+       472
+      ],
+      [
+       1272,
+       472
+      ]
+     ],
+     "closed": true,
+     "fill": "#F8F5EF",
+     "stroke": "#8A8478",
+     "strokeWidth": 1.5,
+     "dash": [
+      8,
+      7
+     ],
+     "cap": "butt"
+    },
+    {
+     "kind": "rect",
+     "x": 1272,
+     "y": 336,
+     "w": 8,
+     "h": 136,
+     "fill": "#DB4F33"
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 356,
+     "w": 360,
+     "h": 36,
+     "text": "Marketplace order sync",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1652,
+     "y": 363,
+     "w": 148,
+     "h": 20,
+     "text": "Expansion",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB4F33",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 398,
+     "w": 496,
+     "h": 60,
+     "text": "One view of marketplace orders\nalongside the merchant's own store.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1272,
+       486
+      ],
+      [
+       1824,
+       486
+      ],
+      [
+       1824,
+       622
+      ],
+      [
+       1272,
+       622
+      ]
+     ],
+     "closed": true,
+     "fill": "#F8F5EF",
+     "stroke": "#8A8478",
+     "strokeWidth": 1.5,
+     "dash": [
+      8,
+      7
+     ],
+     "cap": "butt"
+    },
+    {
+     "kind": "rect",
+     "x": 1272,
+     "y": 486,
+     "w": 8,
+     "h": 136,
+     "fill": "#3F3BB8"
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 506,
+     "w": 360,
+     "h": 36,
+     "text": "Carrier switching rules",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1652,
+     "y": 513,
+     "w": 148,
+     "h": 20,
+     "text": "Reliability",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#3F3BB8",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 548,
+     "w": 496,
+     "h": 60,
+     "text": "Route parcels away from a carrier\nthat is running late in a region.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1272,
+       636
+      ],
+      [
+       1824,
+       636
+      ],
+      [
+       1824,
+       772
+      ],
+      [
+       1272,
+       772
+      ]
+     ],
+     "closed": true,
+     "fill": "#F8F5EF",
+     "stroke": "#8A8478",
+     "strokeWidth": 1.5,
+     "dash": [
+      8,
+      7
+     ],
+     "cap": "butt"
+    },
+    {
+     "kind": "rect",
+     "x": 1272,
+     "y": 636,
+     "w": 8,
+     "h": 136,
+     "fill": "#B77A08"
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 656,
+     "w": 360,
+     "h": 36,
+     "text": "Partner app directory",
+     "family": "Schibsted Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#1C1B19",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1652,
+     "y": 663,
+     "w": 148,
+     "h": 20,
+     "text": "Platform",
+     "family": "IBM Plex Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#B77A08",
+     "align": "right",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 698,
+     "w": 496,
+     "h": 60,
+     "text": "Partners list integrations that\nmerchants install in two clicks.",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#55514A",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1272,
+       786
+      ],
+      [
+       1824,
+       786
+      ],
+      [
+       1824,
+       922
+      ],
+      [
+       1272,
+       922
+      ]
+     ],
+     "closed": true,
+     "stroke": "#8A8478",
+     "strokeWidth": 1.5,
+     "dash": [
+      8,
+      7
+     ],
+     "cap": "butt"
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 786,
+     "w": 488,
+     "h": 136,
+     "text": "Held open for what we learn in the second quarter",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#8A8478",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 948,
+     "w": 552,
+     "h": 8,
+     "fill": "#1C1B19",
+     "opacity": 1
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 972,
+     "w": 240,
+     "h": 28,
+     "text": "High confidence",
+     "family": "Schibsted Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#1C1B19"
+    },
+    {
+     "kind": "text",
+     "x": 272,
+     "y": 972,
+     "w": 376,
+     "h": 28,
+     "text": "Scope and dates are committed.",
+     "family": "Inter",
+     "size": 19,
+     "weight": 400,
+     "color": "#55514A"
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 948,
+     "w": 552,
+     "h": 8,
+     "fill": "#1C1B19",
+     "opacity": 0.55
+    },
+    {
+     "kind": "text",
+     "x": 684,
+     "y": 972,
+     "w": 240,
+     "h": 28,
+     "text": "Medium confidence",
+     "family": "Schibsted Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#1C1B19"
+    },
+    {
+     "kind": "text",
+     "x": 894,
+     "y": 972,
+     "w": 342,
+     "h": 28,
+     "text": "Problem agreed, scope may change.",
+     "family": "Inter",
+     "size": 19,
+     "weight": 400,
+     "color": "#55514A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1272,
+       952
+      ],
+      [
+       1824,
+       952
+      ]
+     ],
+     "stroke": "#1C1B19",
+     "strokeWidth": 4,
+     "dash": [
+      10,
+      10
+     ],
+     "cap": "butt",
+     "opacity": 0.45
+    },
+    {
+     "kind": "text",
+     "x": 1272,
+     "y": 972,
+     "w": 240,
+     "h": 28,
+     "text": "Low confidence",
+     "family": "Schibsted Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#1C1B19"
+    },
+    {
+     "kind": "text",
+     "x": 1446,
+     "y": 972,
+     "w": 378,
+     "h": 28,
+     "text": "A direction, not a promise.",
+     "family": "Inter",
+     "size": 19,
+     "weight": 400,
+     "color": "#55514A"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Kicker",
+   "hint": "Product, document and period"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Slide title",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "First horizon name",
+   "hint": "For example Now, or Q1"
+  },
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "First initiative",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "First initiative outcome",
+   "hint": "One sentence, what changes for the customer"
+  }
+ ]
+}

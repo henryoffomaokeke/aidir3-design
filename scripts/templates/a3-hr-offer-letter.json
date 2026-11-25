@@ -1,0 +1,735 @@
+{
+ "id": "a3-hr-offer-letter",
+ "title": "Offer Letter on Letterhead",
+ "categories": [
+  "hr",
+  "business",
+  "documents",
+  "print"
+ ],
+ "tags": [
+  "offer letter",
+  "job offer",
+  "letterhead",
+  "hiring",
+  "employment",
+  "terms",
+  "signature",
+  "a4"
+ ],
+ "styleTags": [
+  "formal",
+  "serif",
+  "plum"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -948,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Libre Baskerville",
+   "weight": 400
+  },
+  {
+   "role": "label",
+   "family": "Albert Sans",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Offer letter",
+   "bg": "#FFFCF7",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 794,
+     "h": 10,
+     "fill": "#4B1F3D"
+    },
+    {
+     "kind": "ellipse",
+     "x": 368,
+     "y": 40,
+     "w": 58,
+     "h": 58,
+     "stroke": "#A9803F",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 373,
+     "y": 45,
+     "w": 48,
+     "h": 48,
+     "stroke": "#A9803F",
+     "strokeWidth": 0.75
+    },
+    {
+     "kind": "text",
+     "x": 368,
+     "y": 40,
+     "w": 58,
+     "h": 56,
+     "text": "H&V",
+     "family": "Playfair Display",
+     "size": 17,
+     "weight": 600,
+     "color": "#4B1F3D",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 197,
+     "y": 110,
+     "w": 400,
+     "h": 26,
+     "text": "Halden & Vos",
+     "family": "Playfair Display",
+     "size": 18,
+     "weight": 600,
+     "color": "#4B1F3D",
+     "align": "center",
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 197,
+     "y": 140,
+     "w": 400,
+     "h": 13,
+     "text": "Technologies  ·  Manchester",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#6F6269",
+     "align": "center",
+     "letterSpacing": 2.6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 172,
+     "w": 600,
+     "h": 1,
+     "fill": "#DCCDB9"
+    },
+    {
+     "kind": "rect",
+     "x": 373,
+     "y": 171,
+     "w": 48,
+     "h": 3,
+     "fill": "#A9803F"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 200,
+     "w": 300,
+     "h": 20,
+     "text": "24 November 2026",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "text",
+     "x": 377,
+     "y": 207,
+     "w": 320,
+     "h": 13,
+     "text": "Ref HV/OFF/2026-118  ·  Private and confidential",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#6F6269",
+     "align": "right",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 236,
+     "w": 320,
+     "h": 62,
+     "text": "Priya Raman\n14 Alder Court\nLeeds LS6 2QT",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 318,
+     "w": 600,
+     "h": 30,
+     "text": "Your offer to join Halden & Vos",
+     "family": "Playfair Display",
+     "size": 22,
+     "weight": 600,
+     "color": "#4B1F3D"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 364,
+     "w": 300,
+     "h": 20,
+     "text": "Dear Priya,",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 394,
+     "w": 600,
+     "h": 64,
+     "text": "We are delighted to offer you the role of Senior Product Designer. Everyone you met was struck by the care you bring to research and by how clearly you explain your decisions, and we would love you to join the Design team.",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 482,
+     "w": 600,
+     "h": 204,
+     "fill": "#F7EFE6",
+     "radius": 3
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 482,
+     "w": 600,
+     "h": 2,
+     "fill": "#A9803F"
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 504,
+     "w": 300,
+     "h": 13,
+     "text": "Summary of terms",
+     "family": "Albert Sans",
+     "size": 9,
+     "weight": 600,
+     "color": "#4B1F3D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 389,
+     "y": 504,
+     "w": 280,
+     "h": 13,
+     "text": "Full terms in the enclosed contract",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#6F6269",
+     "align": "right",
+     "letterSpacing": 0.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 536,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Role",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 551,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "Senior Product Designer",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 306.33333333333337,
+     "y": 536,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Start date",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 306.33333333333337,
+     "y": 551,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "Monday 11 January 2027",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 487.6666666666667,
+     "y": 536,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Reports to",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 487.6666666666667,
+     "y": 551,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "Mateo Fernandes",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "rect",
+     "x": 125,
+     "y": 574,
+     "w": 544,
+     "h": 1,
+     "fill": "#DCCDB9"
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 584,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Base salary",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 599,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "£78,000 a year",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 306.33333333333337,
+     "y": 584,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Share options",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 306.33333333333337,
+     "y": 599,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "6,000 over four years",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 487.6666666666667,
+     "y": 584,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Place of work",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 487.6666666666667,
+     "y": 599,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "Remote, United Kingdom",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "rect",
+     "x": 125,
+     "y": 622,
+     "w": 544,
+     "h": 1,
+     "fill": "#DCCDB9"
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 632,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Annual leave",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 647,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "28 days + bank holidays",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 306.33333333333337,
+     "y": 632,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Notice period",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 306.33333333333337,
+     "y": 647,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "Three months",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 487.6666666666667,
+     "y": 632,
+     "w": 171.33333333333334,
+     "h": 13,
+     "text": "Offer open until",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#7E5E26",
+     "letterSpacing": 1.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 487.6666666666667,
+     "y": 647,
+     "w": 173.33333333333334,
+     "h": 18,
+     "text": "Friday 4 December 2026",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 703,
+     "w": 600,
+     "h": 64,
+     "text": "This offer is subject to proof of your right to work in the UK and two satisfactory references. To accept, please sign below and return this letter by Friday 4 December 2026. Your contract and our benefits guide are enclosed.",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 781,
+     "w": 600,
+     "h": 42,
+     "text": "If you would like to talk anything through first, call me on 020 7946 0155. We are very much looking forward to working with you.",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 846,
+     "w": 300,
+     "h": 20,
+     "text": "Yours sincerely,",
+     "family": "Libre Baskerville",
+     "size": 12,
+     "weight": 400,
+     "color": "#2A2228",
+     "lineHeight": 1.7
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 924,
+     "w": 250,
+     "h": 1,
+     "fill": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 934,
+     "w": 250,
+     "h": 18,
+     "text": "Ingrid Solheim",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 952,
+     "w": 260,
+     "h": 16,
+     "text": "Chief People Officer, Halden & Vos",
+     "family": "Albert Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#6F6269"
+    },
+    {
+     "kind": "text",
+     "x": 427,
+     "y": 850,
+     "w": 270,
+     "h": 13,
+     "text": "Acceptance",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 600,
+     "color": "#4B1F3D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 427,
+     "y": 868,
+     "w": 270,
+     "h": 30,
+     "text": "I accept this offer on the terms summarised above and set out in the enclosed contract.",
+     "family": "Albert Sans",
+     "size": 9.5,
+     "weight": 400,
+     "color": "#6F6269",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 427,
+     "y": 924,
+     "w": 170,
+     "h": 1,
+     "fill": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 427,
+     "y": 934,
+     "w": 170,
+     "h": 18,
+     "text": "Priya Raman",
+     "family": "Albert Sans",
+     "size": 12,
+     "weight": 700,
+     "color": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 427,
+     "y": 952,
+     "w": 170,
+     "h": 16,
+     "text": "Signature",
+     "family": "Albert Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#6F6269"
+    },
+    {
+     "kind": "rect",
+     "x": 617,
+     "y": 924,
+     "w": 80,
+     "h": 1,
+     "fill": "#2A2228"
+    },
+    {
+     "kind": "text",
+     "x": 617,
+     "y": 952,
+     "w": 80,
+     "h": 16,
+     "text": "Date",
+     "family": "Albert Sans",
+     "size": 10,
+     "weight": 400,
+     "color": "#6F6269"
+    },
+    {
+     "kind": "rect",
+     "x": 97,
+     "y": 1046,
+     "w": 600,
+     "h": 1,
+     "fill": "#DCCDB9"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 1058,
+     "w": 600,
+     "h": 30,
+     "text": "Halden & Vos Technologies Ltd  ·  Registered in England and Wales, No. 09417336\n18 Canal Wharf, Manchester M1 5AB  ·  people@haldenvos.example  ·  haldenvos.example",
+     "family": "Albert Sans",
+     "size": 8.5,
+     "weight": 400,
+     "color": "#6F6269",
+     "align": "center",
+     "lineHeight": 1.6
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1113,
+     "w": 794,
+     "h": 10,
+     "fill": "#4B1F3D"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Addressee",
+   "hint": "Name, then two address lines"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Date",
+   "hint": "Day, month and year"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Subject line",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Salutation",
+   "hint": "Dear and first name"
+  },
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Base salary",
+   "hint": "Amount and period"
+  },
+  {
+   "node": "p0-n42",
+   "kind": "text",
+   "label": "Signatory",
+   "hint": "Name of the person signing for the company"
+  }
+ ]
+}

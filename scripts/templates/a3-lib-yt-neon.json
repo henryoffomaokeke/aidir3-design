@@ -1,0 +1,639 @@
+{
+ "id": "a3-lib-yt-neon",
+ "title": "Abuja Life: Gaming Neon YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "abuja life",
+  "abuja",
+  "nigeria",
+  "vlog"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Bebas Neue",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#4B00C2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#05010F",
+        0
+       ],
+       [
+        "#A11856",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       448,
+       396
+      ],
+      [
+       -1024,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       472.06,
+       396
+      ],
+      [
+       -816,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       496,
+       396
+      ],
+      [
+       -608,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       520.06,
+       396
+      ],
+      [
+       -400,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       544,
+       396
+      ],
+      [
+       -192,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       568.06,
+       396
+      ],
+      [
+       16,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       592,
+       396
+      ],
+      [
+       224,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       616.06,
+       396
+      ],
+      [
+       432,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       396
+      ],
+      [
+       640,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       664.06,
+       396
+      ],
+      [
+       848,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       688,
+       396
+      ],
+      [
+       1056,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       712.06,
+       396
+      ],
+      [
+       1264,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       736,
+       396
+      ],
+      [
+       1472,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       760.06,
+       396
+      ],
+      [
+       1680,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       784,
+       396
+      ],
+      [
+       1888,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       808.06,
+       396
+      ],
+      [
+       2096,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       832,
+       396
+      ],
+      [
+       2304,
+       720
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       403.7
+      ],
+      [
+       1280,
+       403.7
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       422.73
+      ],
+      [
+       1280,
+       422.73
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       451.4
+      ],
+      [
+       1280,
+       451.4
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       489.07
+      ],
+      [
+       1280,
+       489.07
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       535.08
+      ],
+      [
+       1280,
+       535.08
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       589.02
+      ],
+      [
+       1280,
+       589.02
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       650.75
+      ],
+      [
+       1280,
+       650.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#00F5D4",
+     "strokeWidth": 2,
+     "cap": "round",
+     "join": "round",
+     "opacity": 0.55,
+     "name": "Neon floor"
+    },
+    {
+     "kind": "rect",
+     "x": 14,
+     "y": 14,
+     "w": 1251,
+     "h": 691,
+     "radius": 22,
+     "stroke": "#FF8FD0",
+     "strokeWidth": 6,
+     "name": "Neon frame"
+    },
+    {
+     "kind": "photo",
+     "x": 724,
+     "y": 22,
+     "w": 446,
+     "h": 734,
+     "shape": "rect",
+     "fill": "#622245",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-e223c6de-08fb-4fbd-b370-c63ac1f6dfb6-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/e223c6de-08fb-4fbd-b370-c63ac1f6dfb6-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Woman Business",
+       "author": "Kristin Hardwick",
+       "url": "https://stocksnap.io/photo/woman-business-GATLQFNN0H",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 55.4,
+     "y": 108.1,
+     "w": 704,
+     "h": 265,
+     "text": "ABUJA",
+     "family": "Bebas Neue",
+     "size": 250,
+     "weight": 400,
+     "color": "#00F5D4",
+     "lineHeight": 0.98,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 63.1,
+     "y": 404.5,
+     "w": 704,
+     "h": 135,
+     "text": "RENT TRUTH",
+     "family": "Bebas Neue",
+     "size": 127,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 0.98,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

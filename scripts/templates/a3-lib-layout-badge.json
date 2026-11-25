@@ -1,0 +1,561 @@
+{
+ "id": "a3-lib-layout-badge",
+ "title": "Aquarium & Fish Store: Offer Badge",
+ "categories": [
+  "personal",
+  "print"
+ ],
+ "tags": [
+  "aquarium",
+  "fish tank",
+  "tropical fish",
+  "aquascaping",
+  "koi",
+  "pets",
+  "poster",
+  "offer badge"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1800,
+  2400
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#050505",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1800,
+     "h": 2400,
+     "fill": {
+      "angle": 143,
+      "stops": [
+       [
+        "#050505",
+        0
+       ],
+       [
+        "#141414",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       900,
+       585
+      ],
+      [
+       953.99,
+       928.57
+      ],
+      [
+       1135.35,
+       631.81
+      ],
+      [
+       1053.75,
+       969.89
+      ],
+      [
+       1334.87,
+       765.13
+      ],
+      [
+       1130.11,
+       1046.25
+      ],
+      [
+       1468.19,
+       964.65
+      ],
+      [
+       1171.43,
+       1146.01
+      ],
+      [
+       1515,
+       1200
+      ],
+      [
+       1171.43,
+       1253.99
+      ],
+      [
+       1468.19,
+       1435.35
+      ],
+      [
+       1130.11,
+       1353.75
+      ],
+      [
+       1334.87,
+       1634.87
+      ],
+      [
+       1053.75,
+       1430.11
+      ],
+      [
+       1135.35,
+       1768.19
+      ],
+      [
+       953.99,
+       1471.43
+      ],
+      [
+       900,
+       1815
+      ],
+      [
+       846.01,
+       1471.43
+      ],
+      [
+       664.65,
+       1768.19
+      ],
+      [
+       746.25,
+       1430.11
+      ],
+      [
+       465.13,
+       1634.87
+      ],
+      [
+       669.89,
+       1353.75
+      ],
+      [
+       331.81,
+       1435.35
+      ],
+      [
+       628.57,
+       1253.99
+      ],
+      [
+       285,
+       1200
+      ],
+      [
+       628.57,
+       1146.01
+      ],
+      [
+       331.81,
+       964.65
+      ],
+      [
+       669.89,
+       1046.25
+      ],
+      [
+       465.13,
+       765.13
+      ],
+      [
+       746.25,
+       969.89
+      ],
+      [
+       664.65,
+       631.81
+      ],
+      [
+       846.01,
+       928.57
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF2BD6",
+     "opacity": 0.55,
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 396,
+     "y": 696,
+     "w": 1008,
+     "h": 1008,
+     "fill": "#00F0FF"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 900.5,
+       "y": 767,
+       "cIn": {
+        "x": 661.08,
+        "y": 767
+       },
+       "cOut": {
+        "x": 1139.92,
+        "y": 767
+       }
+      },
+      {
+       "x": 1334,
+       "y": 1200.5,
+       "cIn": {
+        "x": 1334,
+        "y": 961.08
+       },
+       "cOut": {
+        "x": 1334,
+        "y": 1439.92
+       }
+      },
+      {
+       "x": 900.5,
+       "y": 1634,
+       "cIn": {
+        "x": 1139.92,
+        "y": 1634
+       },
+       "cOut": {
+        "x": 661.08,
+        "y": 1634
+       }
+      },
+      {
+       "x": 467,
+       "y": 1200.5,
+       "cIn": {
+        "x": 467,
+        "y": 1439.92
+       },
+       "cOut": {
+        "x": 467,
+        "y": 961.08
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#050505",
+     "strokeWidth": 5,
+     "dash": [
+      17,
+      17
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.6,
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 497,
+     "y": 931,
+     "w": 806,
+     "h": 371,
+     "text": "Free",
+     "family": "Archivo Black",
+     "size": 265,
+     "weight": 400,
+     "color": "#050505",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 547,
+     "y": 1351.3,
+     "w": 706,
+     "h": 133,
+     "text": "FIRST MONTH CARE",
+     "family": "DM Sans",
+     "size": 50,
+     "weight": 700,
+     "color": "#050505",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "ellipse",
+     "x": 117,
+     "y": 117,
+     "w": 87,
+     "h": 87,
+     "fill": "#00F0FF"
+    },
+    {
+     "kind": "icon",
+     "icon": "droplet",
+     "x": 139,
+     "y": 139,
+     "w": 43,
+     "h": 43,
+     "color": "#050505"
+    },
+    {
+     "kind": "text",
+     "x": 230,
+     "y": 106.9,
+     "w": 1453,
+     "h": 87,
+     "text": "Coral Bay Aquatics",
+     "family": "DM Sans",
+     "size": 43,
+     "weight": 700,
+     "color": "#F5F5F5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 117,
+     "y": 412.6,
+     "w": 1566,
+     "h": 159,
+     "text": "Starter offer",
+     "family": "Archivo Black",
+     "size": 147,
+     "weight": 400,
+     "color": "#F5F5F5",
+     "align": "center",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 592.5,
+       "y": 1821,
+       "cIn": {
+        "x": 560.19,
+        "y": 1821
+       }
+      },
+      {
+       "x": 1208.5,
+       "y": 1821,
+       "cOut": {
+        "x": 1240.81,
+        "y": 1821
+       }
+      },
+      {
+       "x": 1267,
+       "y": 1879.5,
+       "cIn": {
+        "x": 1267,
+        "y": 1847.19
+       }
+      },
+      {
+       "x": 1267,
+       "y": 1879.5,
+       "cOut": {
+        "x": 1267,
+        "y": 1911.81
+       }
+      },
+      {
+       "x": 1208.5,
+       "y": 1938,
+       "cIn": {
+        "x": 1240.81,
+        "y": 1938
+       }
+      },
+      {
+       "x": 592.5,
+       "y": 1938,
+       "cOut": {
+        "x": 560.19,
+        "y": 1938
+       }
+      },
+      {
+       "x": 534,
+       "y": 1879.5,
+       "cIn": {
+        "x": 534,
+        "y": 1911.81
+       }
+      },
+      {
+       "x": 534,
+       "y": 1879.5,
+       "cOut": {
+        "x": 534,
+        "y": 1847.19
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#F5F5F5",
+     "strokeWidth": 5,
+     "dash": [
+      20,
+      13
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 534,
+     "y": 1810.9,
+     "w": 733,
+     "h": 117,
+     "text": "CODE: REEF",
+     "family": "DM Sans",
+     "size": 43,
+     "weight": 700,
+     "color": "#F5F5F5",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 117,
+     "y": 1960.9,
+     "w": 1566,
+     "h": 67,
+     "text": "With any kit",
+     "family": "DM Sans",
+     "size": 43,
+     "weight": 500,
+     "color": "#9A9A9A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 567,
+     "y": 2136,
+     "w": 667,
+     "h": 147,
+     "fill": "#F5F5F5",
+     "radius": 73.5
+    },
+    {
+     "kind": "text",
+     "x": 618,
+     "y": 2125.9,
+     "w": 535,
+     "h": 147,
+     "text": "Visit the showroom",
+     "family": "DM Sans",
+     "size": 43,
+     "weight": 700,
+     "color": "#050505",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1155.67,
+       2210
+      ],
+      [
+       1188.33,
+       2210
+      ]
+     ],
+     "closed": false,
+     "stroke": "#050505",
+     "strokeWidth": 5.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1172,
+       2193.67
+      ],
+      [
+       1188.33,
+       2210
+      ],
+      [
+       1172,
+       2226.33
+      ]
+     ],
+     "closed": false,
+     "stroke": "#050505",
+     "strokeWidth": 5.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

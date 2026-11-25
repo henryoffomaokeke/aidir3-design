@@ -1,0 +1,340 @@
+{
+ "id": "a3-lib-modern-halftone",
+ "title": "Business Anniversary: Halftone Pop",
+ "categories": [
+  "celebrations",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "business anniversary",
+  "company anniversary",
+  "years in business",
+  "thank you customers",
+  "milestone",
+  "story / reel / tiktok",
+  "halftone pop",
+  "announcements"
+ ],
+ "styleTags": [
+  "light",
+  "halftone",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Unbounded",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Host Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F6F1E7",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1920,
+     "fill": "#FF48B0",
+     "opacity": 0.05,
+     "name": "Ben-Day dots"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540.5,
+       342
+      ],
+      [
+       581.28,
+       601.49
+      ],
+      [
+       718.26,
+       377.36
+      ],
+      [
+       656.63,
+       632.7
+      ],
+      [
+       868.95,
+       478.05
+      ],
+      [
+       714.3,
+       690.37
+      ],
+      [
+       969.64,
+       628.74
+      ],
+      [
+       745.51,
+       765.72
+      ],
+      [
+       1005,
+       806.5
+      ],
+      [
+       745.51,
+       847.28
+      ],
+      [
+       969.64,
+       984.26
+      ],
+      [
+       714.3,
+       922.63
+      ],
+      [
+       868.95,
+       1134.95
+      ],
+      [
+       656.63,
+       980.3
+      ],
+      [
+       718.26,
+       1235.64
+      ],
+      [
+       581.28,
+       1011.51
+      ],
+      [
+       540.5,
+       1271
+      ],
+      [
+       499.72,
+       1011.51
+      ],
+      [
+       362.74,
+       1235.64
+      ],
+      [
+       424.37,
+       980.3
+      ],
+      [
+       212.05,
+       1134.95
+      ],
+      [
+       366.7,
+       922.63
+      ],
+      [
+       111.36,
+       984.26
+      ],
+      [
+       335.49,
+       847.28
+      ],
+      [
+       76,
+       806.5
+      ],
+      [
+       335.49,
+       765.72
+      ],
+      [
+       111.36,
+       628.74
+      ],
+      [
+       366.7,
+       690.37
+      ],
+      [
+       212.05,
+       478.05
+      ],
+      [
+       424.37,
+       632.7
+      ],
+      [
+       362.74,
+       377.36
+      ],
+      [
+       499.72,
+       601.49
+      ]
+     ],
+     "closed": true,
+     "fill": "#0078BF",
+     "stroke": "#1B1B3A",
+     "strokeWidth": 6,
+     "join": "miter",
+     "name": "Burst"
+    },
+    {
+     "kind": "photo",
+     "x": 299,
+     "y": 565,
+     "w": 483,
+     "h": 483,
+     "shape": "ellipse",
+     "fill": "#557E96",
+     "name": "Photo: business celebration cake"
+    },
+    {
+     "kind": "ellipse",
+     "x": 299,
+     "y": 565,
+     "w": 483,
+     "h": 483,
+     "stroke": "#1B1B3A",
+     "strokeWidth": 6,
+     "name": "Photo border"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 356,
+     "h": 53,
+     "fill": "#1B1B3A",
+     "radius": 26.5,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 72.4,
+     "w": 356,
+     "h": 53,
+     "text": "10 years strong",
+     "family": "Host Grotesk",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1314.8,
+     "w": 924,
+     "h": 193,
+     "text": "Thank you for 10 years",
+     "family": "Unbounded",
+     "size": 97,
+     "weight": 800,
+     "color": "#1B1B3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.95,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1535.3,
+     "w": 924,
+     "h": 139,
+     "text": "From one small pot to five branches. Thank you to every customer who believed in us. Celebration week starts Monday.",
+     "family": "Host Grotesk",
+     "size": 32,
+     "weight": 400,
+     "color": "#56526B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 353,
+     "y": 1732,
+     "w": 394,
+     "h": 75,
+     "fill": "#1B1B3A",
+     "radius": 11,
+     "name": "Button shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 343,
+     "y": 1723,
+     "w": 394,
+     "h": 75,
+     "fill": "#FF48B0",
+     "radius": 11,
+     "stroke": "#1B1B3A",
+     "strokeWidth": 5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 343,
+     "y": 1716,
+     "w": 394,
+     "h": 75,
+     "text": "Celebrate with us",
+     "family": "Host Grotesk",
+     "size": 30,
+     "weight": 700,
+     "color": "#1B1B3A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 140 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

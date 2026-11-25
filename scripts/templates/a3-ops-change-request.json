@@ -1,0 +1,2155 @@
+{
+ "id": "a3-ops-change-request",
+ "title": "Change Request Form",
+ "categories": [
+  "devops",
+  "documents",
+  "technology",
+  "business"
+ ],
+ "tags": [
+  "change request",
+  "change management",
+  "rollback",
+  "approval",
+  "cab",
+  "form",
+  "itil",
+  "a4"
+ ],
+ "styleTags": [
+  "form",
+  "ruled",
+  "blue ink"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -987,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Public Sans",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Public Sans",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Red Hat Mono",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Change request",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 40,
+     "w": 698,
+     "h": 4,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 56,
+     "w": 400,
+     "h": 11,
+     "text": "Kestrow Freight · Change advisory board",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 70,
+     "w": 400,
+     "h": 38,
+     "text": "Change Request",
+     "family": "Public Sans",
+     "size": 30,
+     "weight": 700,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 110,
+     "w": 420,
+     "h": 16,
+     "text": "For production infrastructure and platform changes",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 482,
+     "y": 62,
+     "w": 132,
+     "h": 50,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 491,
+     "y": 69,
+     "w": 116,
+     "h": 11,
+     "text": "CR number",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 491,
+     "y": 84,
+     "w": 114,
+     "h": 24,
+     "text": "CR-2026-1184",
+     "family": "Red Hat Mono",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 614,
+     "y": 62,
+     "w": 132,
+     "h": 50,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 623,
+     "y": 69,
+     "w": 116,
+     "h": 11,
+     "text": "Date raised",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 623,
+     "y": 84,
+     "w": 114,
+     "h": 24,
+     "text": "19 Nov 2026",
+     "family": "Red Hat Mono",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 144,
+     "w": 18,
+     "h": 18,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 147,
+     "w": 18,
+     "h": 13,
+     "text": "A",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 147,
+     "w": 300,
+     "h": 13,
+     "text": "Summary",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 170,
+     "w": 698,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 177,
+     "w": 682,
+     "h": 11,
+     "text": "Change title",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 192,
+     "w": 680,
+     "h": 20,
+     "text": "Put a connection pooler in front of the orders database",
+     "family": "Public Sans",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 216,
+     "w": 174.5,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 223,
+     "w": 158.5,
+     "h": 11,
+     "text": "Requested by",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 238,
+     "w": 156.5,
+     "h": 20,
+     "text": "Ines Carvalho",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 222.5,
+     "y": 216,
+     "w": 174.5,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 231.5,
+     "y": 223,
+     "w": 158.5,
+     "h": 11,
+     "text": "Team",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 231.5,
+     "y": 238,
+     "w": 156.5,
+     "h": 20,
+     "text": "Platform Data",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 397,
+     "y": 216,
+     "w": 174.5,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 223,
+     "w": 158.5,
+     "h": 11,
+     "text": "Service affected",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 238,
+     "w": 156.5,
+     "h": 20,
+     "text": "order-service, orders-db",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 571.5,
+     "y": 216,
+     "w": 174.5,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 580.5,
+     "y": 223,
+     "w": 158.5,
+     "h": 11,
+     "text": "Environment",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 580.5,
+     "y": 238,
+     "w": 156.5,
+     "h": 20,
+     "text": "Production, eu-central",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 262,
+     "w": 174.5,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 269,
+     "w": 158.5,
+     "h": 11,
+     "text": "Planned start (UTC)",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 284,
+     "w": 156.5,
+     "h": 20,
+     "text": "26 Nov 2026, 01:00",
+     "family": "Red Hat Mono",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 222.5,
+     "y": 262,
+     "w": 174.5,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 231.5,
+     "y": 269,
+     "w": 158.5,
+     "h": 11,
+     "text": "Planned end (UTC)",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 231.5,
+     "y": 284,
+     "w": 156.5,
+     "h": 20,
+     "text": "26 Nov 2026, 03:30",
+     "family": "Red Hat Mono",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 397,
+     "y": 262,
+     "w": 349,
+     "h": 46,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 269,
+     "w": 333,
+     "h": 11,
+     "text": "Change type and expected downtime",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 406,
+     "y": 286,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 422,
+     "y": 285,
+     "w": 70,
+     "h": 13,
+     "text": "Standard",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 484,
+     "y": 286,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       486.2,
+       291.72
+      ],
+      [
+       488.62,
+       294.36
+      ],
+      [
+       493.02,
+       288.64
+      ]
+     ],
+     "stroke": "#111827",
+     "strokeWidth": 1.8
+    },
+    {
+     "kind": "text",
+     "x": 500,
+     "y": 285,
+     "w": 70,
+     "h": 13,
+     "text": "Normal",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 552,
+     "y": 286,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 568,
+     "y": 285,
+     "w": 70,
+     "h": 13,
+     "text": "Emergency",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 637,
+     "y": 282,
+     "w": 1,
+     "h": 18,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "text",
+     "x": 647,
+     "y": 285,
+     "w": 96,
+     "h": 13,
+     "text": "Downtime: none",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 308,
+     "w": 698,
+     "h": 68,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 315,
+     "w": 682,
+     "h": 11,
+     "text": "Description and reason",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 330,
+     "w": 680,
+     "h": 42,
+     "text": "order-service opens up to 900 direct connections at peak and has twice exhausted the database limit this quarter. A pooler caps server connections at 200 and removes that failure mode. There are no schema or data changes.",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#111827",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 396,
+     "w": 18,
+     "h": 18,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 399,
+     "w": 18,
+     "h": 13,
+     "text": "B",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 399,
+     "w": 300,
+     "h": 13,
+     "text": "Risk assessment",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 400,
+     "w": 330,
+     "h": 12,
+     "text": "Tick one level. High and critical need a CAB meeting.",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 400,
+     "color": "#475569",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 422,
+     "w": 103,
+     "h": 44,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 438,
+     "w": 12,
+     "h": 12,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 436,
+     "w": 68,
+     "h": 16,
+     "text": "Low",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 500,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 151,
+     "y": 422,
+     "w": 103,
+     "h": 44,
+     "fill": "#F5B301",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 163,
+     "y": 438,
+     "w": 12,
+     "h": 12,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       165.4,
+       444.24
+      ],
+      [
+       168.04,
+       447.12
+      ],
+      [
+       172.84,
+       440.88
+      ]
+     ],
+     "stroke": "#111827",
+     "strokeWidth": 1.8
+    },
+    {
+     "kind": "text",
+     "x": 183,
+     "y": 436,
+     "w": 68,
+     "h": 16,
+     "text": "Medium",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 800,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 254,
+     "y": 422,
+     "w": 103,
+     "h": 44,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 266,
+     "y": 438,
+     "w": 12,
+     "h": 12,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 286,
+     "y": 436,
+     "w": 68,
+     "h": 16,
+     "text": "High",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 500,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 357,
+     "y": 422,
+     "w": 103,
+     "h": 44,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 369,
+     "y": 438,
+     "w": 12,
+     "h": 12,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 389,
+     "y": 436,
+     "w": 68,
+     "h": 16,
+     "text": "Critical",
+     "family": "Public Sans",
+     "size": 12.5,
+     "weight": 500,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 466,
+     "w": 206,
+     "h": 54,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 473,
+     "w": 190,
+     "h": 11,
+     "text": "Impact if it fails",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 57,
+     "y": 488,
+     "w": 188,
+     "h": 28,
+     "text": "Checkout errors until rolled back",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 254,
+     "y": 466,
+     "w": 206,
+     "h": 54,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 263,
+     "y": 473,
+     "w": 190,
+     "h": 11,
+     "text": "Likelihood",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 263,
+     "y": 488,
+     "w": 188,
+     "h": 28,
+     "text": "Low: rehearsed twice in staging",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 476,
+     "y": 422,
+     "w": 270,
+     "h": 98,
+     "fill": "#EEF2FB",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 488,
+     "y": 431,
+     "w": 200,
+     "h": 11,
+     "text": "Pre-checks",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 488,
+     "y": 448,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       490.2,
+       453.72
+      ],
+      [
+       492.62,
+       456.36
+      ],
+      [
+       497.02,
+       450.64
+      ]
+     ],
+     "stroke": "#111827",
+     "strokeWidth": 1.8
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 447,
+     "w": 200,
+     "h": 13,
+     "text": "Tested in staging on 17 Nov",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 488,
+     "y": 465.5,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       490.2,
+       471.22
+      ],
+      [
+       492.62,
+       473.86
+      ],
+      [
+       497.02,
+       468.14
+      ]
+     ],
+     "stroke": "#111827",
+     "strokeWidth": 1.8
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 464.5,
+     "w": 200,
+     "h": 13,
+     "text": "Peer reviewed by R. Menon",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 488,
+     "y": 483,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       490.2,
+       488.72
+      ],
+      [
+       492.62,
+       491.36
+      ],
+      [
+       497.02,
+       485.64
+      ]
+     ],
+     "stroke": "#111827",
+     "strokeWidth": 1.8
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 482,
+     "w": 200,
+     "h": 13,
+     "text": "Backup verified within 24 hours",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 488,
+     "y": 500.5,
+     "w": 11,
+     "h": 11,
+     "fill": "#FFFFFF",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 499.5,
+     "w": 200,
+     "h": 13,
+     "text": "Customer notice required",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 540,
+     "w": 18,
+     "h": 18,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 543,
+     "w": 18,
+     "h": 13,
+     "text": "C",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 543,
+     "w": 300,
+     "h": 13,
+     "text": "Rollout steps",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 544,
+     "w": 330,
+     "h": 12,
+     "text": "Stop and roll back if any check fails.",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 400,
+     "color": "#475569",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 566,
+     "w": 698,
+     "h": 22,
+     "fill": "#EEF2FB"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 572,
+     "w": 30,
+     "h": 11,
+     "text": "#",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true,
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 572,
+     "w": 332,
+     "h": 11,
+     "text": "Step",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 431,
+     "y": 572,
+     "w": 94,
+     "h": 11,
+     "text": "Owner",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 537,
+     "y": 572,
+     "w": 48,
+     "h": 11,
+     "text": "Start",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 597,
+     "y": 572,
+     "w": 146,
+     "h": 11,
+     "text": "Verify before moving on",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 588,
+     "w": 698,
+     "h": 1,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 597,
+     "w": 30,
+     "h": 14,
+     "text": "1",
+     "family": "Red Hat Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3A8A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 597,
+     "w": 330,
+     "h": 14,
+     "text": "Deploy the pooler in shadow mode beside the live path",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 431,
+     "y": 597,
+     "w": 94,
+     "h": 14,
+     "text": "R. Menon",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 537,
+     "y": 597,
+     "w": 48,
+     "h": 14,
+     "text": "01:00",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 597,
+     "y": 597,
+     "w": 146,
+     "h": 14,
+     "text": "Health checks green",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 620,
+     "w": 698,
+     "h": 1,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 629,
+     "w": 30,
+     "h": 14,
+     "text": "2",
+     "family": "Red Hat Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3A8A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 629,
+     "w": 330,
+     "h": 14,
+     "text": "Route 5% of read traffic through the pooler and hold",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 431,
+     "y": 629,
+     "w": 94,
+     "h": 14,
+     "text": "R. Menon",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 537,
+     "y": 629,
+     "w": 48,
+     "h": 14,
+     "text": "01:20",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 597,
+     "y": 629,
+     "w": 146,
+     "h": 14,
+     "text": "Error rate under 0.1%",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 652,
+     "w": 698,
+     "h": 1,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 661,
+     "w": 30,
+     "h": 14,
+     "text": "3",
+     "family": "Red Hat Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3A8A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 661,
+     "w": 330,
+     "h": 14,
+     "text": "Raise reads to 50%, then to 100%",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 431,
+     "y": 661,
+     "w": 94,
+     "h": 14,
+     "text": "S. Lindgren",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 537,
+     "y": 661,
+     "w": 48,
+     "h": 14,
+     "text": "01:45",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 597,
+     "y": 661,
+     "w": 146,
+     "h": 14,
+     "text": "p95 query under 25 ms",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 684,
+     "w": 698,
+     "h": 1,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 693,
+     "w": 30,
+     "h": 14,
+     "text": "4",
+     "family": "Red Hat Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3A8A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 693,
+     "w": 330,
+     "h": 14,
+     "text": "Switch write traffic at the low point of the night",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 431,
+     "y": 693,
+     "w": 94,
+     "h": 14,
+     "text": "S. Lindgren",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 537,
+     "y": 693,
+     "w": 48,
+     "h": 14,
+     "text": "02:30",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 597,
+     "y": 693,
+     "w": 146,
+     "h": 14,
+     "text": "No failed order writes",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 716,
+     "w": 698,
+     "h": 1,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 725,
+     "w": 30,
+     "h": 14,
+     "text": "5",
+     "family": "Red Hat Mono",
+     "size": 11,
+     "weight": 600,
+     "color": "#1E3A8A",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 725,
+     "w": 330,
+     "h": 14,
+     "text": "Remove direct database access from the network policy",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 431,
+     "y": 725,
+     "w": 94,
+     "h": 14,
+     "text": "I. Carvalho",
+     "family": "Public Sans",
+     "size": 11,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 537,
+     "y": 725,
+     "w": 48,
+     "h": 14,
+     "text": "03:00",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 597,
+     "y": 725,
+     "w": 146,
+     "h": 14,
+     "text": "Connections under 200",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 566,
+     "w": 698,
+     "h": 182,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 566,
+     "w": 1,
+     "h": 182,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "rect",
+     "x": 422,
+     "y": 566,
+     "w": 1,
+     "h": 182,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 566,
+     "w": 1,
+     "h": 182,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "rect",
+     "x": 588,
+     "y": 566,
+     "w": 1,
+     "h": 182,
+     "fill": "#B4C0E0"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 768,
+     "w": 18,
+     "h": 18,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 771,
+     "w": 18,
+     "h": 13,
+     "text": "D",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 771,
+     "w": 300,
+     "h": 13,
+     "text": "Rollback plan",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 772,
+     "w": 330,
+     "h": 12,
+     "text": "Rehearsed in staging on 17 Nov.",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 400,
+     "color": "#475569",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 794,
+     "w": 214,
+     "h": 104,
+     "fill": "#EEF2FB",
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 803,
+     "w": 190,
+     "h": 11,
+     "text": "Roll back if",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 820,
+     "w": 194,
+     "h": 70,
+     "text": "p95 query time stays above 40 ms for 5 minutes, or connection errors pass 0.5%.",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#111827",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 262,
+     "y": 794,
+     "w": 322,
+     "h": 104,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 272,
+     "y": 803,
+     "w": 200,
+     "h": 11,
+     "text": "Steps",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 272,
+     "y": 821,
+     "w": 16,
+     "h": 14,
+     "text": "1",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 821,
+     "w": 288,
+     "h": 14,
+     "text": "Set the pooler weight to 0. Takes effect in 30 seconds.",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 272,
+     "y": 845,
+     "w": 16,
+     "h": 14,
+     "text": "2",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 845,
+     "w": 288,
+     "h": 14,
+     "text": "Restore the direct connection string, revision 212.",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 272,
+     "y": 869,
+     "w": 16,
+     "h": 14,
+     "text": "3",
+     "family": "Red Hat Mono",
+     "size": 10.5,
+     "weight": 600,
+     "color": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 869,
+     "w": 288,
+     "h": 14,
+     "text": "Confirm errors are under 0.1% and post in #change-log.",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 584,
+     "y": 794,
+     "w": 162,
+     "h": 52,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 801,
+     "w": 146,
+     "h": 11,
+     "text": "Time to roll back",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 816,
+     "w": 144,
+     "h": 26,
+     "text": "Under 5 minutes",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 584,
+     "y": 846,
+     "w": 162,
+     "h": 52,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 853,
+     "w": 146,
+     "h": 11,
+     "text": "Point of no return",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 593,
+     "y": 868,
+     "w": 144,
+     "h": 26,
+     "text": "None before step 5",
+     "family": "Public Sans",
+     "size": 11.5,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 918,
+     "w": 18,
+     "h": 18,
+     "fill": "#1E3A8A"
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 921,
+     "w": 18,
+     "h": 13,
+     "text": "E",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 921,
+     "w": 300,
+     "h": 13,
+     "text": "Approvals",
+     "family": "Public Sans",
+     "size": 10.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 416,
+     "y": 922,
+     "w": 330,
+     "h": 12,
+     "text": "All three signatures are needed before the window opens.",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 400,
+     "color": "#475569",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 48,
+     "y": 944,
+     "w": 232.66666666666666,
+     "h": 104,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 953,
+     "w": 200,
+     "h": 11,
+     "text": "Service owner",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 968,
+     "w": 212.66666666666666,
+     "h": 16,
+     "text": "Peter Adeyemi",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 1020,
+     "w": 132,
+     "h": 1,
+     "fill": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 1026,
+     "w": 100,
+     "h": 11,
+     "text": "Signature",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#475569",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 202,
+     "y": 1020,
+     "w": 68.66666666666666,
+     "h": 1,
+     "fill": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 202,
+     "y": 1026,
+     "w": 60,
+     "h": 11,
+     "text": "Date",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#475569",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 280.66666666666663,
+     "y": 944,
+     "w": 232.66666666666666,
+     "h": 104,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 290.66666666666663,
+     "y": 953,
+     "w": 200,
+     "h": 11,
+     "text": "SRE lead",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 290.66666666666663,
+     "y": 968,
+     "w": 212.66666666666666,
+     "h": 16,
+     "text": "Sofia Lindgren",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 290.66666666666663,
+     "y": 1020,
+     "w": 132,
+     "h": 1,
+     "fill": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 290.66666666666663,
+     "y": 1026,
+     "w": 100,
+     "h": 11,
+     "text": "Signature",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#475569",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 434.66666666666663,
+     "y": 1020,
+     "w": 68.66666666666666,
+     "h": 1,
+     "fill": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 434.66666666666663,
+     "y": 1026,
+     "w": 60,
+     "h": 11,
+     "text": "Date",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#475569",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 513.3333333333333,
+     "y": 944,
+     "w": 232.66666666666666,
+     "h": 104,
+     "stroke": "#1E3A8A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 523.3333333333333,
+     "y": 953,
+     "w": 200,
+     "h": 11,
+     "text": "Change manager",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#1E3A8A",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 523.3333333333333,
+     "y": 968,
+     "w": 212.66666666666666,
+     "h": 16,
+     "text": "Hannah Weiss",
+     "family": "Public Sans",
+     "size": 12,
+     "weight": 600,
+     "color": "#111827"
+    },
+    {
+     "kind": "rect",
+     "x": 523.3333333333333,
+     "y": 1020,
+     "w": 132,
+     "h": 1,
+     "fill": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 523.3333333333333,
+     "y": 1026,
+     "w": 100,
+     "h": 11,
+     "text": "Signature",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#475569",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 667.3333333333333,
+     "y": 1020,
+     "w": 68.66666666666666,
+     "h": 1,
+     "fill": "#111827"
+    },
+    {
+     "kind": "text",
+     "x": 667.3333333333333,
+     "y": 1026,
+     "w": 60,
+     "h": 11,
+     "text": "Date",
+     "family": "Public Sans",
+     "size": 7.5,
+     "weight": 700,
+     "color": "#475569",
+     "letterSpacing": 0.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 48,
+     "y": 1068,
+     "w": 460,
+     "h": 12,
+     "text": "Form OPS-12, revision 4 · Keep with the change record for 24 months",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 400,
+     "color": "#475569"
+    },
+    {
+     "kind": "text",
+     "x": 626,
+     "y": 1068,
+     "w": 120,
+     "h": 12,
+     "text": "Page 1 of 1",
+     "family": "Public Sans",
+     "size": 9,
+     "weight": 400,
+     "color": "#475569",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Change request number",
+   "hint": "Your reference"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Change title",
+   "hint": "One line, what is changing"
+  },
+  {
+   "node": "p0-n18",
+   "kind": "text",
+   "label": "Requested by",
+   "hint": "Full name"
+  },
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Description and reason",
+   "hint": "Two or three sentences"
+  },
+  {
+   "node": "p0-n96",
+   "kind": "text",
+   "label": "First rollout step",
+   "hint": "One action per row"
+  }
+ ]
+}

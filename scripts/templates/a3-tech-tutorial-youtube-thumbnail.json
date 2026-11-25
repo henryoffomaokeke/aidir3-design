@@ -1,0 +1,378 @@
+{
+ "id": "a3-tech-tutorial-youtube-thumbnail",
+ "title": "Coding Tutorial YouTube Thumbnail",
+ "categories": [
+  "technology",
+  "social",
+  "education"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "coding",
+  "tutorial",
+  "terminal",
+  "programming",
+  "video"
+ ],
+ "styleTags": [
+  "bold",
+  "cream",
+  "pink accent"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -962,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "code",
+   "family": "JetBrains Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#F3EEE3",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 930,
+     "y": 6,
+     "w": 330,
+     "h": 300,
+     "text": ">_",
+     "family": "JetBrains Mono",
+     "size": 250,
+     "weight": 800,
+     "color": "#FF2D78",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 22,
+     "w": 900,
+     "h": 150,
+     "text": "RUST CLI",
+     "family": "Archivo Black",
+     "size": 150,
+     "weight": 400,
+     "color": "#121014",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 196,
+     "w": 864,
+     "h": 144,
+     "fill": "#FF2D78"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 170,
+     "w": 900,
+     "h": 150,
+     "text": "IN 20 MIN",
+     "family": "Archivo Black",
+     "size": 150,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 396,
+     "w": 1264,
+     "h": 364,
+     "fill": "#17141C",
+     "radius": 22,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 396,
+     "w": 1264,
+     "h": 58,
+     "fill": "#25212D",
+     "radius": 22,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 86,
+     "y": 415,
+     "w": 20,
+     "h": 20,
+     "fill": "#FF2D78"
+    },
+    {
+     "kind": "ellipse",
+     "x": 118,
+     "y": 415,
+     "w": 20,
+     "h": 20,
+     "fill": "#4C4657"
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 415,
+     "w": 20,
+     "h": 20,
+     "fill": "#4C4657"
+    },
+    {
+     "kind": "text",
+     "x": 206,
+     "y": 396,
+     "w": 480,
+     "h": 58,
+     "text": "rust-from-zero · episode 07",
+     "family": "JetBrains Mono",
+     "size": 20,
+     "weight": 500,
+     "color": "#8F899B",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 716,
+     "y": 396,
+     "w": 2,
+     "h": 364,
+     "fill": "#322C3B",
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 746,
+     "y": 396,
+     "w": 300,
+     "h": 58,
+     "text": "src/main.rs",
+     "family": "JetBrains Mono",
+     "size": 20,
+     "weight": 500,
+     "color": "#8F899B",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 471,
+     "w": 610,
+     "h": 38,
+     "spans": [
+      {
+       "text": "$ ",
+       "color": "#FF2D78",
+       "weight": 800
+      },
+      {
+       "text": "cargo new greet && cd greet"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 28,
+     "weight": 500,
+     "color": "#F3EEE3"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 518,
+     "w": 610,
+     "h": 38,
+     "spans": [
+      {
+       "text": "$ ",
+       "color": "#FF2D78",
+       "weight": 800
+      },
+      {
+       "text": "cargo run -- --name Ada"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 28,
+     "weight": 500,
+     "color": "#F3EEE3"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 565,
+     "w": 610,
+     "h": 38,
+     "text": "    Finished dev profile in 0.42s",
+     "family": "JetBrains Mono",
+     "size": 28,
+     "weight": 500,
+     "color": "#8F899B"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 612,
+     "w": 610,
+     "h": 38,
+     "text": "Hello, Ada!",
+     "family": "JetBrains Mono",
+     "size": 28,
+     "weight": 800,
+     "color": "#F3EEE3"
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 659,
+     "w": 60,
+     "h": 38,
+     "text": "$",
+     "family": "JetBrains Mono",
+     "size": 28,
+     "weight": 800,
+     "color": "#FF2D78"
+    },
+    {
+     "kind": "rect",
+     "x": 126,
+     "y": 662,
+     "w": 17,
+     "h": 33,
+     "fill": "#FF2D78"
+    },
+    {
+     "kind": "text",
+     "x": 748,
+     "y": 473,
+     "w": 500,
+     "h": 34,
+     "spans": [
+      {
+       "text": "fn ",
+       "color": "#FF2D78",
+       "weight": 800
+      },
+      {
+       "text": "main"
+      },
+      {
+       "text": "() {",
+       "color": "#8F899B"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 500,
+     "color": "#F3EEE3"
+    },
+    {
+     "kind": "text",
+     "x": 748,
+     "y": 520,
+     "w": 500,
+     "h": 34,
+     "spans": [
+      {
+       "text": "    let ",
+       "color": "#FF2D78",
+       "weight": 800
+      },
+      {
+       "text": "who "
+      },
+      {
+       "text": "= ",
+       "color": "#8F899B"
+      },
+      {
+       "text": "arg"
+      },
+      {
+       "text": "(\"--name\");",
+       "color": "#8F899B"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 500,
+     "color": "#F3EEE3"
+    },
+    {
+     "kind": "text",
+     "x": 748,
+     "y": 567,
+     "w": 500,
+     "h": 34,
+     "spans": [
+      {
+       "text": "    println!"
+      },
+      {
+       "text": "(",
+       "color": "#8F899B"
+      },
+      {
+       "text": "\"Hello, {who}!\"",
+       "color": "#FF2D78"
+      },
+      {
+       "text": ");",
+       "color": "#8F899B"
+      }
+     ],
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 500,
+     "color": "#F3EEE3"
+    },
+    {
+     "kind": "text",
+     "x": 748,
+     "y": 614,
+     "w": 500,
+     "h": 34,
+     "text": "}",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 500,
+     "color": "#8F899B"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "Two short words"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "Two or three short words"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Series and episode",
+   "hint": "Shown as the window title"
+  }
+ ]
+}

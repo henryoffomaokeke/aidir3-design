@@ -1,0 +1,116 @@
+{
+ "id": "a3-lib-logo-ring",
+ "title": "Kora Health Clinic: Outline Ring Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "clinic & doctor",
+  "outline ring logo",
+  "health & wellness",
+  "clinic",
+  "doctor"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Manrope",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B1020",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 339,
+     "y": 249,
+     "w": 323,
+     "h": 323,
+     "stroke": "#6D8BFF",
+     "strokeWidth": 10
+    },
+    {
+     "kind": "ellipse",
+     "x": 488,
+     "y": 237,
+     "w": 24,
+     "h": 24,
+     "fill": "#6D8BFF"
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 424,
+     "y": 334,
+     "w": 151,
+     "h": 151,
+     "color": "#6D8BFF"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 615.3,
+     "w": 780,
+     "h": 87,
+     "text": "Kora Health Clinic",
+     "family": "Manrope",
+     "size": 72,
+     "weight": 800,
+     "color": "#EEF2FF",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 219,
+     "y": 730,
+     "w": 562,
+     "h": 28,
+     "text": "Clinic & doctor",
+     "family": "Source Sans 3",
+     "size": 23,
+     "weight": 700,
+     "color": "#94A0C4",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 4.1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

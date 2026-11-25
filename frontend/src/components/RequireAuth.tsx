@@ -6,6 +6,7 @@ import { useEffect, type ReactNode } from "react";
 import { useRouter } from "next/router";
 import { useAuth } from "@/store/auth";
 import { FullScreenLoader } from "@/components/ui/BrandLoader";
+import { aidir3SsoConfig, aidir3SsoUrl } from "@/lib/aidir3";
 
 export function RequireAuth({ children }: { children: ReactNode }) {
   const router = useRouter();
@@ -23,7 +24,20 @@ export function RequireAuth({ children }: { children: ReactNode }) {
     // `next` as a same-origin relative path before honoring it.
     const path = router.asPath;
     const next = path && path !== "/" ? `?next=${encodeURIComponent(path)}` : "";
-    void router.replace(`/login${next}`);
+    // aidir3 fork: when single sign-on from aidir3.com is configured, go
+    // straight to the site (it signs the visitor in and returns them here)
+    // instead of showing a second sign-in page. A failed hand-off lands on
+    // /login?error=sso, which is not behind this guard, so there is no loop.
+    let cancelled = false;
+    void aidir3SsoConfig().then((cfg) => {
+      if (cancelled) return;
+      const sso = aidir3SsoUrl(cfg, path && path !== "/" ? path : null);
+      if (sso) window.location.assign(sso);
+      else void router.replace(`/login${next}`);
+    });
+    return () => {
+      cancelled = true;
+    };
   }, [status, router]);
 
   if (status !== "authed") {

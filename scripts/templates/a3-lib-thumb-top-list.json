@@ -1,0 +1,263 @@
+{
+ "id": "a3-lib-thumb-top-list",
+ "title": "Top Picks Tech Thumbnail",
+ "categories": [
+  "thumbnails",
+  "technology",
+  "social"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "gadgets",
+  "review",
+  "youtube thumbnail",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#06283D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 512,
+     "h": 720,
+     "fill": "#47B5FF"
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 52.4,
+     "w": 432,
+     "h": 50,
+     "text": "Under $100",
+     "family": "Figtree",
+     "size": 34,
+     "weight": 700,
+     "color": "#06283D",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 115.8,
+     "w": 452,
+     "h": 180,
+     "text": "TOP 3",
+     "family": "Anton",
+     "size": 160,
+     "weight": 400,
+     "color": "#06283D",
+     "vAlign": "middle",
+     "lineHeight": 0.9
+    },
+    {
+     "kind": "rect",
+     "x": 50,
+     "y": 316,
+     "w": 120,
+     "h": 8,
+     "fill": "#06283D"
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 354.2,
+     "w": 432,
+     "h": 300,
+     "text": "Desk gadgets I use daily",
+     "family": "Anton",
+     "size": 76,
+     "weight": 400,
+     "color": "#06283D",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 538,
+     "y": 90,
+     "w": 221,
+     "h": 460,
+     "shape": "rect",
+     "radius": 18,
+     "fill": "#DCDEE1",
+     "name": "Photo: mechanical keyboard on desk"
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 90,
+     "w": 221,
+     "h": 460,
+     "radius": 18,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 6,
+     "name": "Photo border"
+    },
+    {
+     "kind": "ellipse",
+     "x": 606,
+     "y": 508,
+     "w": 84,
+     "h": 84,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 606,
+     "y": 502.3,
+     "w": 84,
+     "h": 84,
+     "text": "#1",
+     "family": "Anton",
+     "size": 38,
+     "weight": 400,
+     "color": "#06283D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 778,
+     "y": 170,
+     "w": 221,
+     "h": 460,
+     "shape": "rect",
+     "radius": 18,
+     "fill": "#DCDEE1",
+     "name": "Photo: wireless earbuds case"
+    },
+    {
+     "kind": "rect",
+     "x": 778,
+     "y": 170,
+     "w": 221,
+     "h": 460,
+     "radius": 18,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 6,
+     "name": "Photo border"
+    },
+    {
+     "kind": "ellipse",
+     "x": 847,
+     "y": 588,
+     "w": 84,
+     "h": 84,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 847,
+     "y": 582.3,
+     "w": 84,
+     "h": 84,
+     "text": "#2",
+     "family": "Anton",
+     "size": 38,
+     "weight": 400,
+     "color": "#06283D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 1019,
+     "y": 90,
+     "w": 221,
+     "h": 460,
+     "shape": "rect",
+     "radius": 18,
+     "fill": "#DCDEE1",
+     "name": "Photo: desk lamp minimal setup"
+    },
+    {
+     "kind": "rect",
+     "x": 1019,
+     "y": 90,
+     "w": 221,
+     "h": 460,
+     "radius": 18,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 6,
+     "name": "Photo border"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1088,
+     "y": 508,
+     "w": 84,
+     "h": 84,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1088,
+     "y": 502.3,
+     "w": 84,
+     "h": 84,
+     "text": "#3",
+     "family": "Anton",
+     "size": 38,
+     "weight": 400,
+     "color": "#06283D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

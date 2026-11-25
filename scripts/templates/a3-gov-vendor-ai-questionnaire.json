@@ -1,0 +1,2211 @@
+{
+ "id": "a3-gov-vendor-ai-questionnaire",
+ "title": "Supplier AI Due-Diligence Questionnaire",
+ "categories": [
+  "governance",
+  "business",
+  "documents",
+  "security"
+ ],
+ "tags": [
+  "questionnaire",
+  "vendor risk",
+  "due diligence",
+  "supplier",
+  "ai procurement",
+  "checklist",
+  "a4"
+ ],
+ "styleTags": [
+  "form",
+  "checklist",
+  "berry accent"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -934,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 500
+  },
+  {
+   "role": "data",
+   "family": "Geist Mono",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Questionnaire",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 45,
+     "w": 11,
+     "h": 11,
+     "fill": "#A3154A"
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 44,
+     "w": 360,
+     "h": 14,
+     "text": "Pellham Group  ·  Third-party risk",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 700,
+     "color": "#1D1B22",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 618,
+     "y": 43,
+     "w": 120,
+     "h": 14,
+     "text": "PART 2 OF 4",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "align": "right",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "rect",
+     "x": 624,
+     "y": 63,
+     "w": 24,
+     "h": 5,
+     "fill": "#A3154A",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 654,
+     "y": 63,
+     "w": 24,
+     "h": 5,
+     "fill": "#A3154A",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 684,
+     "y": 63,
+     "w": 24,
+     "h": 5,
+     "fill": "#DAD7DF",
+     "radius": 2
+    },
+    {
+     "kind": "rect",
+     "x": 714,
+     "y": 63,
+     "w": 24,
+     "h": 5,
+     "fill": "#DAD7DF",
+     "radius": 2
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 70,
+     "w": 540,
+     "h": 72,
+     "text": "Supplier AI due-diligence\nquestionnaire",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 800,
+     "color": "#1D1B22",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 148,
+     "w": 520,
+     "h": 18,
+     "text": "Part 2: AI governance, data and model safety",
+     "family": "Figtree",
+     "size": 13,
+     "weight": 500,
+     "color": "#5C5964"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 186,
+     "w": 150,
+     "h": 14,
+     "text": "Supplier",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 202,
+     "w": 150,
+     "h": 18,
+     "text": "Orrin Labs Ltd",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 226,
+     "w": 150,
+     "h": 1,
+     "fill": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 222,
+     "y": 186,
+     "w": 190,
+     "h": 14,
+     "text": "Service assessed",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 222,
+     "y": 202,
+     "w": 190,
+     "h": 18,
+     "text": "Orrin Assist (hosted)",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 222,
+     "y": 226,
+     "w": 190,
+     "h": 1,
+     "fill": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 428,
+     "y": 186,
+     "w": 180,
+     "h": 14,
+     "text": "Completed by",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 428,
+     "y": 202,
+     "w": 180,
+     "h": 18,
+     "text": "Daniela Roche, Compliance",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 428,
+     "y": 226,
+     "w": 180,
+     "h": 1,
+     "fill": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 624,
+     "y": 186,
+     "w": 114,
+     "h": 14,
+     "text": "Date",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 624,
+     "y": 202,
+     "w": 114,
+     "h": 18,
+     "text": "21 November 2026",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 600,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 624,
+     "y": 226,
+     "w": 114,
+     "h": 1,
+     "fill": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 250,
+     "w": 682,
+     "h": 26,
+     "fill": "#1D1B22",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 257,
+     "w": 40,
+     "h": 14,
+     "text": "No.",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 257,
+     "w": 200,
+     "h": 14,
+     "text": "Question",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 468,
+     "y": 257,
+     "w": 40,
+     "h": 14,
+     "text": "Yes",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 508,
+     "y": 257,
+     "w": 40,
+     "h": 14,
+     "text": "No",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 257,
+     "w": 170,
+     "h": 14,
+     "text": "Evidence provided",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 276,
+     "w": 682,
+     "h": 30,
+     "fill": "#F8E8EE"
+    },
+    {
+     "kind": "rect",
+     "x": 66,
+     "y": 282,
+     "w": 18,
+     "h": 18,
+     "fill": "#A3154A",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 281,
+     "w": 18,
+     "h": 18,
+     "text": "A",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 283,
+     "w": 330,
+     "h": 16,
+     "text": "Governance and accountability",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 630,
+     "y": 284,
+     "w": 96,
+     "h": 14,
+     "text": "6 / 8",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A3154A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 306,
+     "w": 36,
+     "h": 37,
+     "text": "A1",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 305,
+     "w": 344,
+     "h": 37,
+     "text": "Is one named executive accountable for AI risk?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 317.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       325.5
+      ],
+      [
+       487,
+       328.5
+      ],
+      [
+       492,
+       322
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 317.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 312,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 311,
+     "w": 164,
+     "h": 26,
+     "text": "Org chart, page 3",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 342,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 343,
+     "w": 36,
+     "h": 37,
+     "text": "A2",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 342,
+     "w": 344,
+     "h": 37,
+     "text": "Is your AI management system certified to ISO/IEC 42001?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 354.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 354.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#1D1B22",
+     "radius": 3,
+     "stroke": "#1D1B22",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       524,
+       362.5
+      ],
+      [
+       527,
+       365.5
+      ],
+      [
+       532,
+       359
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 349,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 348,
+     "w": 164,
+     "h": 26,
+     "text": "Audit booked for March 2027",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 379,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 380,
+     "w": 36,
+     "h": 37,
+     "text": "A3",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 379,
+     "w": 344,
+     "h": 37,
+     "text": "Do you keep an inventory of every AI model used in the service?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 391.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       399.5
+      ],
+      [
+       487,
+       402.5
+      ],
+      [
+       492,
+       396
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 391.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 386,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 385,
+     "w": 164,
+     "h": 26,
+     "text": "Model register, 14 Nov 2026",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 416,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 417,
+     "w": 36,
+     "h": 37,
+     "text": "A4",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 416,
+     "w": 344,
+     "h": 37,
+     "text": "Do you tell customers which sub-processors supply AI models?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 428.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       436.5
+      ],
+      [
+       487,
+       439.5
+      ],
+      [
+       492,
+       433
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 428.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 423,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 422,
+     "w": 164,
+     "h": 26,
+     "text": "Sub-processor list, version 7",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 453,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 454,
+     "w": 682,
+     "h": 30,
+     "fill": "#F8E8EE"
+    },
+    {
+     "kind": "rect",
+     "x": 66,
+     "y": 460,
+     "w": 18,
+     "h": 18,
+     "fill": "#A3154A",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 459,
+     "w": 18,
+     "h": 18,
+     "text": "B",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 461,
+     "w": 330,
+     "h": 16,
+     "text": "Data and privacy",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 630,
+     "y": 462,
+     "w": 96,
+     "h": 14,
+     "text": "6 / 8",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A3154A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 484,
+     "w": 36,
+     "h": 37,
+     "text": "B1",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 483,
+     "w": 344,
+     "h": 37,
+     "text": "Is customer data excluded from model training by default?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 495.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       503.5
+      ],
+      [
+       487,
+       506.5
+      ],
+      [
+       492,
+       500
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 495.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 490,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 489,
+     "w": 164,
+     "h": 26,
+     "text": "Data processing terms, 9.2",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 520,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 521,
+     "w": 36,
+     "h": 37,
+     "text": "B2",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 520,
+     "w": 344,
+     "h": 37,
+     "text": "Can all customer data be stored and processed in the UK or EU?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 532.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       540.5
+      ],
+      [
+       487,
+       543.5
+      ],
+      [
+       492,
+       537
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 532.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 527,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 526,
+     "w": 164,
+     "h": 26,
+     "text": "Architecture diagram",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 557,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 558,
+     "w": 36,
+     "h": 37,
+     "text": "B3",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 557,
+     "w": 344,
+     "h": 37,
+     "text": "Are prompts and outputs deleted within 30 days?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 569.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 569.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#1D1B22",
+     "radius": 3,
+     "stroke": "#1D1B22",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       524,
+       577.5
+      ],
+      [
+       527,
+       580.5
+      ],
+      [
+       532,
+       574
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 564,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 563,
+     "w": 164,
+     "h": 26,
+     "text": "Retention is 90 days",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 594,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 595,
+     "w": 36,
+     "h": 37,
+     "text": "B4",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 594,
+     "w": 344,
+     "h": 37,
+     "text": "Have you completed a data protection impact assessment?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 606.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       614.5
+      ],
+      [
+       487,
+       617.5
+      ],
+      [
+       492,
+       611
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 606.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 601,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 600,
+     "w": 164,
+     "h": 26,
+     "text": "DPIA summary, October 2026",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 631,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 632,
+     "w": 682,
+     "h": 30,
+     "fill": "#F8E8EE"
+    },
+    {
+     "kind": "rect",
+     "x": 66,
+     "y": 638,
+     "w": 18,
+     "h": 18,
+     "fill": "#A3154A",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 66,
+     "y": 637,
+     "w": 18,
+     "h": 18,
+     "text": "C",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 639,
+     "w": 330,
+     "h": 16,
+     "text": "Model safety and security",
+     "family": "Figtree",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 630,
+     "y": 640,
+     "w": 96,
+     "h": 14,
+     "text": "6 / 8",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A3154A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 662,
+     "w": 36,
+     "h": 37,
+     "text": "C1",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 661,
+     "w": 344,
+     "h": 37,
+     "text": "Do you test for bias before each major model release?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 673.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       681.5
+      ],
+      [
+       487,
+       684.5
+      ],
+      [
+       492,
+       678
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 673.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 668,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 667,
+     "w": 164,
+     "h": 26,
+     "text": "Fairness report 3.2",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 698,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 699,
+     "w": 36,
+     "h": 37,
+     "text": "C2",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 698,
+     "w": 344,
+     "h": 37,
+     "text": "Has an independent red team tested the service in the last year?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 710.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       718.5
+      ],
+      [
+       487,
+       721.5
+      ],
+      [
+       492,
+       715
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 710.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 705,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 704,
+     "w": 164,
+     "h": 26,
+     "text": "Test summary, August 2026",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 735,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 736,
+     "w": 36,
+     "h": 37,
+     "text": "C3",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 735,
+     "w": 344,
+     "h": 37,
+     "text": "Can customers turn off features that act without review?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 747.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 747.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#1D1B22",
+     "radius": 3,
+     "stroke": "#1D1B22",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       524,
+       755.5
+      ],
+      [
+       527,
+       758.5
+      ],
+      [
+       532,
+       752
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 742,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 741,
+     "w": 164,
+     "h": 26,
+     "text": "On roadmap, no date given",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 772,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 68,
+     "y": 773,
+     "w": 36,
+     "h": 37,
+     "text": "C4",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 772,
+     "w": 344,
+     "h": 37,
+     "text": "Will you notify us of an AI incident within 48 hours?",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.35,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 480.5,
+     "y": 784.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#A3154A",
+     "radius": 3,
+     "stroke": "#A3154A",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       484,
+       792.5
+      ],
+      [
+       487,
+       795.5
+      ],
+      [
+       492,
+       789
+      ]
+     ],
+     "stroke": "#FFFFFF",
+     "strokeWidth": 1.8,
+     "cap": "round"
+    },
+    {
+     "kind": "rect",
+     "x": 520.5,
+     "y": 784.5,
+     "w": 15,
+     "h": 15,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "stroke": "#8E8A97",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 779,
+     "w": 178,
+     "h": 26,
+     "fill": "#F3F1F5",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 570,
+     "y": 778,
+     "w": 164,
+     "h": 26,
+     "text": "Master agreement, schedule 4",
+     "family": "Figtree",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 809,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 838,
+     "w": 200,
+     "h": 14,
+     "text": "Scoring key",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 56.5,
+     "y": 862.5,
+     "w": 19,
+     "h": 19,
+     "radius": 3,
+     "stroke": "#1D1B22",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 862,
+     "w": 20,
+     "h": 20,
+     "text": "2",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 864,
+     "w": 180,
+     "h": 16,
+     "text": "Yes, with evidence attached",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 56.5,
+     "y": 890.5,
+     "w": 19,
+     "h": 19,
+     "radius": 3,
+     "stroke": "#1D1B22",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 890,
+     "w": 20,
+     "h": 20,
+     "text": "1",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 892,
+     "w": 180,
+     "h": 16,
+     "text": "Yes, evidence to follow",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 56.5,
+     "y": 918.5,
+     "w": 19,
+     "h": 19,
+     "radius": 3,
+     "stroke": "#1D1B22",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 918,
+     "w": 20,
+     "h": 20,
+     "text": "0",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#1D1B22",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 920,
+     "w": 180,
+     "h": 16,
+     "text": "No, or left unanswered",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 296,
+     "y": 838,
+     "w": 200,
+     "h": 14,
+     "text": "Section scores",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 296,
+     "y": 864,
+     "w": 110,
+     "h": 16,
+     "text": "Governance",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 404,
+     "y": 869,
+     "w": 64,
+     "h": 6,
+     "fill": "#DAD7DF",
+     "radius": 3
+    },
+    {
+     "kind": "rect",
+     "x": 404,
+     "y": 869,
+     "w": 48,
+     "h": 6,
+     "fill": "#A3154A",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 865,
+     "w": 36,
+     "h": 14,
+     "text": "6 / 8",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 500,
+     "color": "#5C5964",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 296,
+     "y": 892,
+     "w": 110,
+     "h": 16,
+     "text": "Data and privacy",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 404,
+     "y": 897,
+     "w": 64,
+     "h": 6,
+     "fill": "#DAD7DF",
+     "radius": 3
+    },
+    {
+     "kind": "rect",
+     "x": 404,
+     "y": 897,
+     "w": 48,
+     "h": 6,
+     "fill": "#A3154A",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 893,
+     "w": 36,
+     "h": 14,
+     "text": "6 / 8",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 500,
+     "color": "#5C5964",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 296,
+     "y": 920,
+     "w": 110,
+     "h": 16,
+     "text": "Model safety",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 500,
+     "color": "#1D1B22"
+    },
+    {
+     "kind": "rect",
+     "x": 404,
+     "y": 925,
+     "w": 64,
+     "h": 6,
+     "fill": "#DAD7DF",
+     "radius": 3
+    },
+    {
+     "kind": "rect",
+     "x": 404,
+     "y": 925,
+     "w": 48,
+     "h": 6,
+     "fill": "#A3154A",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 472,
+     "y": 921,
+     "w": 36,
+     "h": 14,
+     "text": "6 / 8",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 500,
+     "color": "#5C5964",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 536,
+     "y": 834,
+     "w": 202,
+     "h": 110,
+     "fill": "#A3154A",
+     "radius": 6
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 848,
+     "w": 170,
+     "h": 14,
+     "text": "Result for part 2",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#F1C6D6",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 864,
+     "w": 170,
+     "h": 44,
+     "text": "18 / 24",
+     "family": "Figtree",
+     "size": 34,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 552,
+     "y": 912,
+     "w": 176,
+     "h": 16,
+     "text": "75%: approve with conditions",
+     "family": "Figtree",
+     "size": 11.5,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 952,
+     "w": 682,
+     "h": 14,
+     "text": "Approve at 85% or more  ·  Approve with conditions from 60% to 84%  ·  Do not onboard below 60%",
+     "family": "Figtree",
+     "size": 10,
+     "weight": 500,
+     "color": "#5C5964"
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 978,
+     "w": 682,
+     "h": 1,
+     "fill": "#1D1B22"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 992,
+     "w": 300,
+     "h": 14,
+     "text": "Follow-up on the three “no” answers",
+     "family": "Figtree",
+     "size": 8.5,
+     "weight": 700,
+     "color": "#5C5964",
+     "letterSpacing": 1.3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1014,
+     "w": 26,
+     "h": 14,
+     "text": "A2",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A3154A"
+    },
+    {
+     "kind": "text",
+     "x": 86,
+     "y": 1012,
+     "w": 184,
+     "h": 32,
+     "text": "Send the ISO/IEC 42001 certificate, or the stage 1 audit date.",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 1014,
+     "w": 26,
+     "h": 14,
+     "text": "B3",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A3154A"
+    },
+    {
+     "kind": "text",
+     "x": 320,
+     "y": 1012,
+     "w": 184,
+     "h": 32,
+     "text": "Cut retention of prompts and outputs to 30 days in the contract.",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 524,
+     "y": 1014,
+     "w": 26,
+     "h": 14,
+     "text": "C3",
+     "family": "Geist Mono",
+     "size": 10.5,
+     "weight": 500,
+     "color": "#A3154A"
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 1012,
+     "w": 184,
+     "h": 32,
+     "text": "Give a delivery date for the human-review switch.",
+     "family": "Figtree",
+     "size": 11,
+     "weight": 500,
+     "color": "#1D1B22",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 1066,
+     "w": 682,
+     "h": 1,
+     "fill": "#DAD7DF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 1076,
+     "w": 520,
+     "h": 14,
+     "text": "Form TPR-AI v3  ·  Third-Party Risk checks every answer against the evidence supplied",
+     "family": "Figtree",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#5C5964"
+    },
+    {
+     "kind": "text",
+     "x": 588,
+     "y": 1076,
+     "w": 150,
+     "h": 14,
+     "text": "Page 2 of 4",
+     "family": "Figtree",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#5C5964",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Questionnaire title",
+   "hint": "Two lines, up to 26 characters each"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Part and topics covered",
+   "hint": "Up to 60 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Supplier name",
+   "hint": "Up to 22 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Your organisation and team",
+   "hint": "Company, then the owning team"
+  },
+  {
+   "node": "p0-n163",
+   "kind": "text",
+   "label": "Score",
+   "hint": "Points scored out of the maximum"
+  }
+ ]
+}

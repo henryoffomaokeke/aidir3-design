@@ -1,0 +1,487 @@
+{
+ "id": "a3-lib-doc-gv-classic",
+ "title": "Mobile Game Studio: Classic Gift Voucher",
+ "categories": [
+  "social",
+  "marketing",
+  "print"
+ ],
+ "tags": [
+  "mobile game",
+  "app game",
+  "casual game",
+  "download",
+  "game studio",
+  "gaming",
+  "gift voucher",
+  "classic gift voucher"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1800,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Lexend",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#DFF3FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 640,
+     "h": 800,
+     "fill": "#FF5D8F"
+    },
+    {
+     "kind": "ellipse",
+     "x": 580,
+     "y": 340,
+     "w": 120,
+     "h": 120,
+     "fill": "#FF5D8F"
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 180,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 210,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 240,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 270,
+     "y": 680,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 150,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 180,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 210,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 240,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 270,
+     "y": 710,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 72.1,
+     "w": 560,
+     "h": 50,
+     "text": "GIFT VOUCHER",
+     "family": "Onest",
+     "size": 32,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 8
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 181.6,
+     "w": 560,
+     "h": 260,
+     "text": "Gift card",
+     "family": "Lexend",
+     "size": 123,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 471.6,
+     "w": 560,
+     "h": 42,
+     "text": "ANY AMOUNT",
+     "family": "Onest",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 720,
+     "y": 70,
+     "w": 64,
+     "h": 64,
+     "fill": "#FF5D8F"
+    },
+    {
+     "kind": "icon",
+     "icon": "device-mobile",
+     "x": 736,
+     "y": 86,
+     "w": 32,
+     "h": 32,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 803,
+     "y": 62.9,
+     "w": 917,
+     "h": 64,
+     "text": "Kolanut Games",
+     "family": "Onest",
+     "size": 29,
+     "weight": 700,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 720,
+     "y": 154.6,
+     "w": 1000,
+     "h": 106,
+     "text": "A gift for you",
+     "family": "Lexend",
+     "size": 96,
+     "weight": 700,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 720,
+     "y": 392.6,
+     "w": 100,
+     "h": 44,
+     "text": "To",
+     "family": "Onest",
+     "size": 30,
+     "weight": 700,
+     "color": "#4E6A85",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 830,
+     "y": 440,
+     "w": 880,
+     "h": 2,
+     "fill": "#0B2239",
+     "opacity": 0.3
+    },
+    {
+     "kind": "text",
+     "x": 720,
+     "y": 472.6,
+     "w": 100,
+     "h": 44,
+     "text": "From",
+     "family": "Onest",
+     "size": 30,
+     "weight": 700,
+     "color": "#4E6A85",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 830,
+     "y": 520,
+     "w": 880,
+     "h": 2,
+     "fill": "#0B2239",
+     "opacity": 0.3
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 734,
+       "y": 640,
+       "cIn": {
+        "x": 726.27,
+        "y": 640
+       }
+      },
+      {
+       "x": 1686,
+       "y": 640,
+       "cOut": {
+        "x": 1693.73,
+        "y": 640
+       }
+      },
+      {
+       "x": 1700,
+       "y": 654,
+       "cIn": {
+        "x": 1700,
+        "y": 646.27
+       }
+      },
+      {
+       "x": 1700,
+       "y": 716,
+       "cOut": {
+        "x": 1700,
+        "y": 723.73
+       }
+      },
+      {
+       "x": 1686,
+       "y": 730,
+       "cIn": {
+        "x": 1693.73,
+        "y": 730
+       }
+      },
+      {
+       "x": 734,
+       "y": 730,
+       "cOut": {
+        "x": 726.27,
+        "y": 730
+       }
+      },
+      {
+       "x": 720,
+       "y": 716,
+       "cIn": {
+        "x": 720,
+        "y": 723.73
+       }
+      },
+      {
+       "x": 720,
+       "y": 654,
+       "cOut": {
+        "x": 720,
+        "y": 646.27
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#FF5D8F",
+     "strokeWidth": 3,
+     "dash": [
+      12,
+      8
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 750,
+     "y": 632.6,
+     "w": 420,
+     "h": 90,
+     "text": "Code KOLA-2730",
+     "family": "Onest",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B2239",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1180,
+     "y": 634.1,
+     "w": 500,
+     "h": 90,
+     "text": "Valid for 12 months from issue",
+     "family": "Onest",
+     "size": 24,
+     "weight": 600,
+     "color": "#4E6A85",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n18",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

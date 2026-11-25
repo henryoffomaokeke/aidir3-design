@@ -615,7 +615,7 @@ function pageDocument(args: {
 export function renderSite(site: Site, pages: Page[], ctx: RenderContext): RenderSiteResult {
   const baseUrl = ctx.navContext && (ctx as { baseUrl?: string }).baseUrl
     ? ((ctx as { baseUrl?: string }).baseUrl as string)
-    : `https://${site.slug}.hycanvas.site`;
+    : `https://${site.slug}.design.aidir3.com`;
 
   const slugs = pageSlugMap(site, pages);
   const navCtx: NavContext = ctx.navContext ?? {

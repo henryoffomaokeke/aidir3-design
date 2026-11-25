@@ -1,0 +1,385 @@
+{
+ "id": "a3-lib-doc-tk-admit",
+ "title": "Gym & Fitness: Admission Pass",
+ "categories": [
+  "marketing",
+  "events",
+  "print"
+ ],
+ "tags": [
+  "gym",
+  "fitness",
+  "workout",
+  "training",
+  "membership",
+  "event ticket",
+  "admission pass"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  2000,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#04251C",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 1880,
+     "h": 600,
+     "fill": "#0A3328",
+     "radius": 32
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 40,
+     "h": 600,
+     "fill": "#34D399",
+     "radius": 20
+    },
+    {
+     "kind": "rect",
+     "x": 1460,
+     "y": 60,
+     "w": 480,
+     "h": 600,
+     "fill": "#34D399",
+     "opacity": 0.12
+    },
+    {
+     "kind": "ellipse",
+     "x": 1420,
+     "y": 20,
+     "w": 80,
+     "h": 80,
+     "fill": "#04251C"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1420,
+     "y": 620,
+     "w": 80,
+     "h": 80,
+     "fill": "#04251C"
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 120,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 157,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 194,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 231,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 268,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 305,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 342,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 379,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 416,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 453,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 490,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 527,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 564,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1458,
+     "y": 601,
+     "w": 4,
+     "h": 18,
+     "fill": "#ECFDF5",
+     "opacity": 0.3
+    },
+    {
+     "kind": "text",
+     "x": 160,
+     "y": 104.5,
+     "w": 1220,
+     "h": 32,
+     "text": "ADMISSION PASS · IRONHOUSE GYM",
+     "family": "Inter",
+     "size": 26,
+     "weight": 700,
+     "color": "#34D399",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 160,
+     "y": 153.3,
+     "w": 1220,
+     "h": 217,
+     "text": "No excuses. Just results.",
+     "family": "Space Grotesk",
+     "size": 102,
+     "weight": 700,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "icon",
+     "icon": "calendar",
+     "x": 160,
+     "y": 448,
+     "w": 35,
+     "h": 35,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 214,
+     "y": 430.7,
+     "w": 1166,
+     "h": 56,
+     "text": "Admit one · Valid for one entry",
+     "family": "Inter",
+     "size": 30,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 160,
+     "y": 518,
+     "w": 35,
+     "h": 35,
+     "color": "#34D399"
+    },
+    {
+     "kind": "text",
+     "x": 214,
+     "y": 500.7,
+     "w": 1166,
+     "h": 56,
+     "text": "Call 0901 333 2211",
+     "family": "Inter",
+     "size": 30,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1500,
+     "y": 102,
+     "w": 400,
+     "h": 47,
+     "text": "ADMIT ONE",
+     "family": "Inter",
+     "size": 38,
+     "weight": 700,
+     "color": "#34D399",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6
+    },
+    {
+     "kind": "text",
+     "x": 1500,
+     "y": 174,
+     "w": 400,
+     "h": 220,
+     "text": "Admit one",
+     "family": "Space Grotesk",
+     "size": 104,
+     "weight": 700,
+     "color": "#ECFDF5",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 1500,
+     "y": 422.9,
+     "w": 400,
+     "h": 39,
+     "text": "Valid for one entry",
+     "family": "Inter",
+     "size": 30,
+     "weight": 500,
+     "color": "#ECFDF5",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 1500,
+     "y": 554.5,
+     "w": 400,
+     "h": 40,
+     "text": "No. 5445",
+     "family": "Inter",
+     "size": 26,
+     "weight": 700,
+     "color": "#A7C9BB",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

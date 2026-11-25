@@ -111,7 +111,7 @@ func (o *openverse) search(ctx context.Context, q Query) []map[string]any {
 		return nil
 	}
 	// Openverse asks anonymous clients to identify themselves.
-	req.Header.Set("User-Agent", "HyCanvas/1.0 (self-hosted; https://github.com/hyscaler/hycanvas)")
+	req.Header.Set("User-Agent", "design-studio/1.0 (self-hosted)")
 	res, err := o.client.Do(req)
 	if err != nil {
 		return nil

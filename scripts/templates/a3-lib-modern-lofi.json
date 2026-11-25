@@ -1,0 +1,1488 @@
+{
+ "id": "a3-lib-modern-lofi",
+ "title": "Burgers & Fast Food: Lo-fi UI Windows",
+ "categories": [
+  "food",
+  "social"
+ ],
+ "tags": [
+  "burger",
+  "pizza",
+  "fast food",
+  "combo",
+  "deal",
+  "instagram post",
+  "lo-fi ui windows",
+  "food"
+ ],
+ "styleTags": [
+  "dark",
+  "lo-fi",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "JetBrains Mono",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F2F3FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1080,
+     "fill": "#050617",
+     "name": "Desktop"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 9,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 18,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 27,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 36,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 45,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 54,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 63,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 72,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 81,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 90,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 99,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 108,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 117,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 126,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 135,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 144,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 153,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 162,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 171,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 180,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 189,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 198,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 207,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 216,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 225,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 234,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 243,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 252,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 261,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 270,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 279,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 288,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 297,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 306,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 315,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 324,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 333,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 342,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 351,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 360,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 369,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 378,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 387,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 396,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 405,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 414,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 423,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 432,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 441,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 450,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 459,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 468,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 477,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 486,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 495,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 504,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 513,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 522,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 531,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 540,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 549,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 558,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 567,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 576,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 585,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 594,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 603,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 612,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 621,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 630,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 639,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 648,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 657,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 666,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 675,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 684,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 693,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 702,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 711,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 720,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 729,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 738,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 747,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 756,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 765,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 774,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 783,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 792,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 801,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 810,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 819,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 828,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 837,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 846,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 855,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 864,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 873,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 882,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 891,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 900,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 909,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 918,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 927,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 936,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 945,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 954,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 963,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 972,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 981,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 990,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 999,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1008,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1017,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1026,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1035,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1044,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1053,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1062,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1071,
+     "w": 1080,
+     "h": 3.6,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Pattern (stripes)"
+    },
+    {
+     "kind": "rect",
+     "x": 91,
+     "y": 91,
+     "w": 920,
+     "h": 624,
+     "fill": "#000000",
+     "opacity": 0.6,
+     "name": "Window shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 80,
+     "w": 920,
+     "h": 624,
+     "fill": "#141525",
+     "stroke": "#9D95FF",
+     "strokeWidth": 3,
+     "name": "Window"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 80,
+     "w": 920,
+     "h": 56,
+     "fill": "#9D95FF",
+     "name": "Title bar"
+    },
+    {
+     "kind": "text",
+     "x": 97,
+     "y": 74.8,
+     "w": 790,
+     "h": 56,
+     "text": "stackd_burgers.exe",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 700,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 896,
+     "y": 74.8,
+     "w": 86,
+     "h": 56,
+     "text": "[x]",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 700,
+     "color": "#111111",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 115,
+     "y": 159.8,
+     "w": 851,
+     "h": 32,
+     "text": "> Combo deal",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 700,
+     "color": "#9D95FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 115,
+     "y": 201.4,
+     "w": 851,
+     "h": 238,
+     "text": "Double smash burger",
+     "family": "Space Grotesk",
+     "size": 114,
+     "weight": 700,
+     "color": "#E9F2EA",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 115,
+     "y": 474.9,
+     "w": 851,
+     "h": 85,
+     "text": "Two smashed patties, cheddar, house sauce and fries. Delivered hot in 30 minutes.",
+     "family": "JetBrains Mono",
+     "size": 29,
+     "weight": 400,
+     "color": "#E9F2EA",
+     "vAlign": "middle",
+     "lineHeight": 1.42,
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 115,
+     "y": 607,
+     "w": 249,
+     "h": 68,
+     "fill": "#9D95FF",
+     "radius": 9,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 115,
+     "y": 601.2,
+     "w": 249,
+     "h": 68,
+     "text": "Order now",
+     "family": "JetBrains Mono",
+     "size": 27,
+     "weight": 700,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 134,
+     "y": 758,
+     "w": 880,
+     "h": 256,
+     "fill": "#000000",
+     "opacity": 0.6,
+     "name": "Window shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 123,
+     "y": 747,
+     "w": 880,
+     "h": 256,
+     "fill": "#141525",
+     "stroke": "#9D95FF",
+     "strokeWidth": 3,
+     "name": "Window"
+    },
+    {
+     "kind": "rect",
+     "x": 123,
+     "y": 747,
+     "w": 880,
+     "h": 56,
+     "fill": "#9D95FF",
+     "name": "Title bar"
+    },
+    {
+     "kind": "text",
+     "x": 140,
+     "y": 741.8,
+     "w": 750,
+     "h": 56,
+     "text": "photo.png",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 700,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 899,
+     "y": 741.8,
+     "w": 86,
+     "h": 56,
+     "text": "[x]",
+     "family": "JetBrains Mono",
+     "size": 24,
+     "weight": 700,
+     "color": "#111111",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "photo",
+     "x": 136,
+     "y": 816,
+     "w": 854,
+     "h": 174,
+     "shape": "rect",
+     "fill": "#39393E",
+     "name": "Photo: juicy burger with fries"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n127",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n128",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 100 characters"
+  },
+  {
+   "node": "p0-n130",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n124",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n125",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

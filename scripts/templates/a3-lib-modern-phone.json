@@ -1,0 +1,280 @@
+{
+ "id": "a3-lib-modern-phone",
+ "title": "Corporate Law & Advisory: Phone Mockup",
+ "categories": [
+  "business",
+  "social"
+ ],
+ "tags": [
+  "corporate law",
+  "legal",
+  "advisory",
+  "compliance",
+  "law firm",
+  "enterprise",
+  "instagram portrait",
+  "phone mockup"
+ ],
+ "styleTags": [
+  "dark",
+  "mockup",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#10231B",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1350,
+     "fill": {
+      "angle": 126,
+      "stops": [
+       [
+        "#10231B",
+        0
+       ],
+       [
+        "#4C4F2E",
+        1
+       ]
+      ]
+     },
+     "name": "Backdrop"
+    },
+    {
+     "kind": "ellipse",
+     "x": 162,
+     "y": 216,
+     "w": 1296,
+     "h": 1188,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#375A40",
+        0
+       ],
+       [
+        "#35553D",
+        0.1
+       ],
+       [
+        "#345139",
+        0.2
+       ],
+       [
+        "#334D36",
+        0.3
+       ],
+       [
+        "#324933",
+        0.4
+       ],
+       [
+        "#314630",
+        0.5
+       ],
+       [
+        "#31442E",
+        0.59
+       ],
+       [
+        "#30412B",
+        0.69
+       ],
+       [
+        "#2F3E29",
+        0.79
+       ],
+       [
+        "#2F3C27",
+        0.89
+       ],
+       [
+        "#2E3925",
+        0.99
+       ],
+       [
+        "#2E3925",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 51,
+     "h": 51,
+     "fill": "#D8B45A",
+     "radius": 25.5,
+     "name": "Logo chip"
+    },
+    {
+     "kind": "icon",
+     "icon": "scale",
+     "x": 90,
+     "y": 90,
+     "w": 27,
+     "h": 27,
+     "color": "#10231B"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 72.5,
+     "w": 250,
+     "h": 51,
+     "text": "Okafor Chambers",
+     "family": "Outfit",
+     "size": 27,
+     "weight": 700,
+     "color": "#F5EFDC",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 371,
+     "y": 597,
+     "w": 338,
+     "h": 675,
+     "fill": "#0D0F14",
+     "radius": 43.9,
+     "name": "Phone body"
+    },
+    {
+     "kind": "photo",
+     "x": 386.2,
+     "y": 612.2,
+     "w": 307.6,
+     "h": 644.6,
+     "shape": "rect",
+     "radius": 30.4,
+     "fill": "#565D55",
+     "name": "Photo: lawyer office books"
+    },
+    {
+     "kind": "rect",
+     "x": 492.7,
+     "y": 620.7,
+     "w": 94.6,
+     "h": 23.7,
+     "fill": "#0D0F14",
+     "radius": 11.8,
+     "name": "Phone notch"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 145.9,
+     "w": 924,
+     "h": 34,
+     "text": "Corporate & commercial law",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#D8B45A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 192.4,
+     "w": 924,
+     "h": 233,
+     "text": "Your deals, protected",
+     "family": "Outfit",
+     "size": 112,
+     "weight": 800,
+     "color": "#F5EFDC",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 476,
+     "w": 361,
+     "h": 75,
+     "fill": "#D8B45A",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 469.9,
+     "w": 361,
+     "h": 75,
+     "text": "Speak to counsel",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#10231B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

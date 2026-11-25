@@ -1,0 +1,106 @@
+{
+ "id": "a3-lib-logo-lockup",
+ "title": "Ledgerline Accountants: Horizontal Lockup Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "accounting & tax",
+  "horizontal lockup logo",
+  "finance",
+  "accounting",
+  "tax"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Manrope",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 91,
+     "y": 371,
+     "w": 258,
+     "h": 258,
+     "fill": "#1D4ED8",
+     "radius": 72.2
+    },
+    {
+     "kind": "icon",
+     "icon": "calculator",
+     "x": 150,
+     "y": 430,
+     "w": 139,
+     "h": 139,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 450.1,
+     "w": 520,
+     "h": 47,
+     "text": "Ledgerline Accountants",
+     "family": "Manrope",
+     "size": 39,
+     "weight": 800,
+     "color": "#0B1F3A",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 410,
+     "y": 506.8,
+     "w": 520,
+     "h": 31,
+     "text": "Accounting & tax",
+     "family": "Red Hat Text",
+     "size": 25,
+     "weight": 700,
+     "color": "#5B6B82",
+     "lineHeight": 1.12,
+     "letterSpacing": 4.5,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

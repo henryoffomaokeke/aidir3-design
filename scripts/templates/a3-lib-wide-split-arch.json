@@ -1,0 +1,249 @@
+{
+ "id": "a3-lib-wide-split-arch",
+ "title": "Restaurant Post: Arch Photo",
+ "categories": [
+  "food",
+  "social"
+ ],
+ "tags": [
+  "food",
+  "restaurant",
+  "facebook",
+  "brunch",
+  "facebook post"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1200,
+  630
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bodoni Moda",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F3ECE0",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 644,
+     "y": 48,
+     "w": 508,
+     "h": 582,
+     "fill": "#C2683F",
+     "radius": 254,
+     "opacity": 0.25
+    },
+    {
+     "kind": "photo",
+     "x": 664,
+     "y": 70,
+     "w": 468,
+     "h": 560,
+     "shape": "ellipse",
+     "fill": "#BDB4AD",
+     "name": "Photo: brunch table pancakes eggs coffee"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 56,
+     "w": 44,
+     "h": 44,
+     "fill": "#C2683F"
+    },
+    {
+     "kind": "icon",
+     "icon": "chef-hat",
+     "x": 67,
+     "y": 67,
+     "w": 22,
+     "h": 22,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 52.2,
+     "w": 471,
+     "h": 44,
+     "text": "The Brunch Club",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 700,
+     "color": "#2F2A24",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 120.6,
+     "w": 528,
+     "h": 23,
+     "text": "Every Sunday",
+     "family": "Hanken Grotesk",
+     "size": 18,
+     "weight": 700,
+     "color": "#C2683F",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 151.7,
+     "w": 528,
+     "h": 123,
+     "text": "Bottomless brunch is back",
+     "family": "Bodoni Moda",
+     "size": 58,
+     "weight": 800,
+     "color": "#2F2A24",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 291.4,
+     "w": 528,
+     "h": 61,
+     "text": "Pancakes, shakshuka, fresh juice and live acoustic music from 10am.",
+     "family": "Hanken Grotesk",
+     "size": 21,
+     "weight": 400,
+     "color": "#7D7263",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 514,
+     "w": 250,
+     "h": 60,
+     "fill": "#C2683F",
+     "radius": 30
+    },
+    {
+     "kind": "text",
+     "x": 77,
+     "y": 510.4,
+     "w": 196,
+     "h": 60,
+     "text": "Reserve a table",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       273.79,
+       544.5
+      ],
+      [
+       287.21,
+       544.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       280.5,
+       537.79
+      ],
+      [
+       287.21,
+       544.5
+      ],
+      [
+       280.5,
+       551.21
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 326,
+     "y": 510.8,
+     "w": 258,
+     "h": 60,
+     "text": "Lekki Phase 1",
+     "family": "Hanken Grotesk",
+     "size": 17,
+     "weight": 700,
+     "color": "#7D7263",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 85 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "id": "a3-lib-invite-elegant-photo",
+ "title": "Graduation Party Invitation",
+ "categories": [
+  "education",
+  "print",
+  "events"
+ ],
+ "tags": [
+  "graduation",
+  "party",
+  "invitation",
+  "class of",
+  "education"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E1A3D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 69,
+     "y": 69,
+     "w": 1361,
+     "h": 1961,
+     "stroke": "#F2C14E",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "rect",
+     "x": 106,
+     "y": 106,
+     "w": 1289,
+     "h": 1889,
+     "stroke": "#F2C14E",
+     "strokeWidth": 3,
+     "opacity": 0.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       138.5,
+       97
+      ],
+      [
+       151.71,
+       125.29
+      ],
+      [
+       180,
+       138.5
+      ],
+      [
+       151.71,
+       151.71
+      ],
+      [
+       138.5,
+       180
+      ],
+      [
+       125.29,
+       151.71
+      ],
+      [
+       97,
+       138.5
+      ],
+      [
+       125.29,
+       125.29
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1360.5,
+       97
+      ],
+      [
+       1373.71,
+       125.29
+      ],
+      [
+       1402,
+       138.5
+      ],
+      [
+       1373.71,
+       151.71
+      ],
+      [
+       1360.5,
+       180
+      ],
+      [
+       1347.29,
+       151.71
+      ],
+      [
+       1319,
+       138.5
+      ],
+      [
+       1347.29,
+       125.29
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       138.5,
+       1919
+      ],
+      [
+       151.71,
+       1947.29
+      ],
+      [
+       180,
+       1960.5
+      ],
+      [
+       151.71,
+       1973.71
+      ],
+      [
+       138.5,
+       2002
+      ],
+      [
+       125.29,
+       1973.71
+      ],
+      [
+       97,
+       1960.5
+      ],
+      [
+       125.29,
+       1947.29
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1360.5,
+       1919
+      ],
+      [
+       1373.71,
+       1947.29
+      ],
+      [
+       1402,
+       1960.5
+      ],
+      [
+       1373.71,
+       1973.71
+      ],
+      [
+       1360.5,
+       2002
+      ],
+      [
+       1347.29,
+       1973.71
+      ],
+      [
+       1319,
+       1960.5
+      ],
+      [
+       1347.29,
+       1947.29
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "photo",
+     "x": 542,
+     "y": 194,
+     "w": 417,
+     "h": 417,
+     "shape": "ellipse",
+     "fill": "#383D48",
+     "name": "Photo: smiling graduate in cap and gown"
+    },
+    {
+     "kind": "ellipse",
+     "x": 542,
+     "y": 194,
+     "w": 417,
+     "h": 417,
+     "stroke": "#F2C14E",
+     "strokeWidth": 7,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 645.3,
+     "w": 1138,
+     "h": 41,
+     "text": "Please join us to celebrate",
+     "family": "DM Sans",
+     "size": 33,
+     "weight": 500,
+     "color": "#AAB4D6",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 7,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 676.9,
+     "w": 1138,
+     "h": 365,
+     "text": "Chidera, Class of 2027",
+     "family": "Instrument Serif",
+     "size": 167,
+     "weight": 400,
+     "color": "#F2C14E",
+     "align": "center",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 1105.7,
+     "w": 1138,
+     "h": 63,
+     "text": "B.Sc. Computer Science, University of Lagos",
+     "family": "DM Serif Display",
+     "size": 44,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "rect",
+     "x": 472,
+     "y": 1239,
+     "w": 208,
+     "h": 3,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       750,
+       1218
+      ],
+      [
+       755.82,
+       1231.99
+      ],
+      [
+       770.92,
+       1233.2
+      ],
+      [
+       759.42,
+       1243.06
+      ],
+      [
+       762.93,
+       1257.8
+      ],
+      [
+       750,
+       1249.9
+      ],
+      [
+       737.07,
+       1257.8
+      ],
+      [
+       740.58,
+       1243.06
+      ],
+      [
+       729.08,
+       1233.2
+      ],
+      [
+       744.18,
+       1231.99
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 819,
+     "y": 1239,
+     "w": 208,
+     "h": 3,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 1285.6,
+     "w": 1138,
+     "h": 79,
+     "text": "Saturday, 31 July 2027",
+     "family": "DM Serif Display",
+     "size": 64,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 1384.6,
+     "w": 1138,
+     "h": 45,
+     "text": "3 PM · Dinner & dancing",
+     "family": "DM Sans",
+     "size": 36,
+     "weight": 500,
+     "color": "#AAB4D6",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 1464.1,
+     "w": 1138,
+     "h": 104,
+     "text": "Harbour Point Event Centre\nVictoria Island, Lagos",
+     "family": "DM Sans",
+     "size": 36,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 181,
+     "y": 1786.3,
+     "w": 1138,
+     "h": 56,
+     "text": "RSVP · 0816 777 1234",
+     "family": "DM Sans",
+     "size": 33,
+     "weight": 700,
+     "color": "#F2C14E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 55 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 60 characters"
+  }
+ ]
+}

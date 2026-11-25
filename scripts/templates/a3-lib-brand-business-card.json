@@ -1,0 +1,248 @@
+{
+ "id": "a3-lib-brand-business-card",
+ "title": "Kora Health: Business Card",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "healthcare jobs",
+  "badge logo",
+  "hiring",
+  "nurse",
+  "hospital"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Barlow Condensed",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0033A0",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 314,
+     "y": 69,
+     "w": 422,
+     "h": 422,
+     "fill": "#0A3FB8"
+    },
+    {
+     "kind": "ellipse",
+     "x": 314,
+     "y": 69,
+     "w": 422,
+     "h": 422,
+     "stroke": "#FFD60A",
+     "strokeWidth": 13
+    },
+    {
+     "kind": "ellipse",
+     "x": 339,
+     "y": 94,
+     "w": 372,
+     "h": 372,
+     "stroke": "#FFD60A",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "icon",
+     "icon": "heart",
+     "x": 489,
+     "y": 174,
+     "w": 72,
+     "h": 72,
+     "color": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 386,
+     "y": 258.4,
+     "w": 279,
+     "h": 52,
+     "text": "Kora Health",
+     "family": "Barlow Condensed",
+     "size": 43,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 474,
+     "y": 330,
+     "w": 101,
+     "h": 4,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "text",
+     "x": 419,
+     "y": 345.5,
+     "w": 211,
+     "h": 20,
+     "text": "Healthcare jobs",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#C3D4FF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.9,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       368.5,
+       269
+      ],
+      [
+       371.28,
+       275.68
+      ],
+      [
+       378.49,
+       276.26
+      ],
+      [
+       372.99,
+       280.96
+      ],
+      [
+       374.67,
+       287.99
+      ],
+      [
+       368.5,
+       284.23
+      ],
+      [
+       362.33,
+       287.99
+      ],
+      [
+       364.01,
+       280.96
+      ],
+      [
+       358.51,
+       276.26
+      ],
+      [
+       365.72,
+       275.68
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       681.5,
+       269
+      ],
+      [
+       684.28,
+       275.68
+      ],
+      [
+       691.49,
+       276.26
+      ],
+      [
+       685.99,
+       280.96
+      ],
+      [
+       687.67,
+       287.99
+      ],
+      [
+       681.5,
+       284.23
+      ],
+      [
+       675.33,
+       287.99
+      ],
+      [
+       677.01,
+       280.96
+      ],
+      [
+       671.51,
+       276.26
+      ],
+      [
+       678.72,
+       275.68
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD60A",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 560,
+     "w": 1050,
+     "h": 40,
+     "fill": "#FFD60A"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 560,
+     "w": 350,
+     "h": 40,
+     "fill": "#7FB3FF"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

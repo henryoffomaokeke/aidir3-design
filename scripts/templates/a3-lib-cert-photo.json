@@ -1,0 +1,636 @@
+{
+ "id": "a3-lib-cert-photo",
+ "title": "First Holy Communion Certificate: Photo Certificate",
+ "categories": [
+  "certificates"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "church",
+  "faith",
+  "religious",
+  "first",
+  "holy",
+  "communion"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2B1036",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 526,
+     "shape": "rect",
+     "fill": "#433A47",
+     "name": "Photo: church interior light",
+     "image": {
+      "asset": "tplph-ov-42e4de93-aa27-436b-ad97-fd468eac4032",
+      "url": "/api/v1/templates/photos/ov/42e4de93-aa27-436b-ad97-fd468eac4032.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Room Interior",
+       "author": "Travel Adventures",
+       "url": "https://stocksnap.io/photo/room-interior-WKMVXACB6C",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Room Interior",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 15.9,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.03,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 31.9,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.04,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 47.8,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.06,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 63.8,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.08,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 79.7,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.09,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 95.6,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.11,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 111.6,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.13,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 127.5,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.14,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 143.5,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.16,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 159.4,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.18,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 175.3,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.19,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 191.3,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.21,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 207.2,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.23,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 223.2,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.24,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 239.1,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.26,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 255,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.28,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 271,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.29,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 286.9,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.31,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 302.8,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.33,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 318.8,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.34,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 334.7,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.36,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 350.7,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.38,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 366.6,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.39,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 382.5,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.41,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 398.5,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.43,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 414.4,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.44,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 430.4,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.46,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 446.3,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.48,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 462.2,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.49,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 478.2,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.51,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 494.1,
+     "w": 1240,
+     "h": 16.5,
+     "fill": "#F0ABFC",
+     "opacity": 0.53,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 510.1,
+     "w": 1240,
+     "h": 15.9,
+     "fill": "#F0ABFC",
+     "opacity": 0.54,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 526,
+     "w": 1240,
+     "h": 14,
+     "fill": "#F0ABFC"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1017,
+     "y": 452,
+     "w": 149,
+     "h": 149,
+     "fill": "#F0ABFC",
+     "stroke": "#2B1036",
+     "strokeWidth": 7
+    },
+    {
+     "kind": "icon",
+     "icon": "leaf",
+     "x": 1056,
+     "y": 491,
+     "w": 70,
+     "h": 70,
+     "color": "#2B1036"
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 697.5,
+     "w": 1064,
+     "h": 30,
+     "text": "ST. MICHAEL'S PARISH",
+     "family": "Albert Sans",
+     "size": 23,
+     "weight": 700,
+     "color": "#F0ABFC",
+     "lineHeight": 1.2,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 781.9,
+     "w": 1064,
+     "h": 84,
+     "text": "First Holy Communion",
+     "family": "Playfair Display",
+     "size": 74,
+     "weight": 700,
+     "color": "#FDF2FF",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 928.1,
+     "w": 1064,
+     "h": 35,
+     "text": "This is to certify that",
+     "family": "Albert Sans",
+     "size": 26,
+     "weight": 400,
+     "color": "#CDB3D6",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 973.1,
+     "w": 1064,
+     "h": 152,
+     "text": "Kofi Asante",
+     "family": "Cormorant Garamond",
+     "size": 123,
+     "weight": 600,
+     "color": "#F0ABFC",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 88,
+     "y": 1215,
+     "w": 223,
+     "h": 3,
+     "fill": "#F0ABFC"
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 1270.1,
+     "w": 1064,
+     "h": 42,
+     "text": "received First Holy Communion with joy at St. Michael's Parish.",
+     "family": "Albert Sans",
+     "size": 27,
+     "weight": 400,
+     "color": "#FDF2FF",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 1438.8,
+     "w": 351,
+     "h": 68,
+     "text": "A. Eze",
+     "family": "Instrument Serif",
+     "size": 53,
+     "weight": 400,
+     "color": "#FDF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 88,
+     "y": 1529,
+     "w": 351,
+     "h": 3,
+     "fill": "#FDF2FF",
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 1534.6,
+     "w": 351,
+     "h": 31,
+     "text": "Fr. Anthony Eze",
+     "family": "Albert Sans",
+     "size": 25,
+     "weight": 700,
+     "color": "#FDF2FF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 1567.2,
+     "w": 351,
+     "h": 26,
+     "text": "Parish Priest",
+     "family": "Albert Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#CDB3D6",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 801,
+     "y": 1438.8,
+     "w": 351,
+     "h": 68,
+     "text": "A. Udo",
+     "family": "Instrument Serif",
+     "size": 53,
+     "weight": 400,
+     "color": "#FDF2FF",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 801,
+     "y": 1529,
+     "w": 351,
+     "h": 3,
+     "fill": "#FDF2FF",
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 801,
+     "y": 1534.6,
+     "w": 351,
+     "h": 31,
+     "text": "Sr. Agnes Udo",
+     "family": "Albert Sans",
+     "size": 25,
+     "weight": 700,
+     "color": "#FDF2FF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 801,
+     "y": 1567.2,
+     "w": 351,
+     "h": 26,
+     "text": "Catechist",
+     "family": "Albert Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#CDB3D6",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 88,
+     "y": 1661.9,
+     "w": 1064,
+     "h": 24,
+     "text": "Certificate No. FTH-2026-2604  ·  21 June 2027",
+     "family": "Albert Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#CDB3D6",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n39",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n37",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n42",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n41",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 80 characters"
+  }
+ ]
+}

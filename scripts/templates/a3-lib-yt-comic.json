@@ -1,0 +1,956 @@
+{
+ "id": "a3-lib-yt-comic",
+ "title": "Gele & Headwrap: Comic Burst YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "gele & headwrap",
+  "gele",
+  "headwrap",
+  "owambe"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Archivo Black",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFE600",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -69.6,
+     "y": -605.6,
+     "w": 1931.2,
+     "h": 1931.2,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFB800",
+        0
+       ],
+       [
+        "#FFE600",
+        0.8
+       ],
+       [
+        "#FFE600",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       3021,
+       360
+      ],
+      [
+       3007,
+       628
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2965,
+       892
+      ],
+      [
+       2896,
+       1151
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2799,
+       1401
+      ],
+      [
+       2678,
+       1640
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2532,
+       1865
+      ],
+      [
+       2363,
+       2073
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2174,
+       2262
+      ],
+      [
+       1966,
+       2431
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       1741,
+       2577
+      ],
+      [
+       1502,
+       2699
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       1252,
+       2795
+      ],
+      [
+       993,
+       2864
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       728,
+       2906
+      ],
+      [
+       461,
+       2920
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       193,
+       2906
+      ],
+      [
+       -71,
+       2864
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -330,
+       2795
+      ],
+      [
+       -580,
+       2699
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -819,
+       2577
+      ],
+      [
+       -1044,
+       2431
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -1252,
+       2262
+      ],
+      [
+       -1442,
+       2073
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -1610,
+       1865
+      ],
+      [
+       -1756,
+       1640
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -1878,
+       1401
+      ],
+      [
+       -1974,
+       1151
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -2043,
+       892
+      ],
+      [
+       -2085,
+       628
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -2099,
+       360
+      ],
+      [
+       -2085,
+       92
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -2043,
+       -172
+      ],
+      [
+       -1974,
+       -431
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -1878,
+       -681
+      ],
+      [
+       -1756,
+       -920
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -1610,
+       -1145
+      ],
+      [
+       -1442,
+       -1353
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -1252,
+       -1542
+      ],
+      [
+       -1044,
+       -1711
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -819,
+       -1857
+      ],
+      [
+       -580,
+       -1979
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       -330,
+       -2075
+      ],
+      [
+       -71,
+       -2144
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       193,
+       -2186
+      ],
+      [
+       461,
+       -2200
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       728,
+       -2186
+      ],
+      [
+       993,
+       -2144
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       1252,
+       -2075
+      ],
+      [
+       1502,
+       -1979
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       1741,
+       -1857
+      ],
+      [
+       1966,
+       -1711
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2174,
+       -1542
+      ],
+      [
+       2363,
+       -1353
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2532,
+       -1145
+      ],
+      [
+       2678,
+       -920
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2799,
+       -681
+      ],
+      [
+       2896,
+       -431
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       461,
+       360
+      ],
+      [
+       2965,
+       -172
+      ],
+      [
+       3007,
+       92
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.2,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.02,
+     "name": "Halftone"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       473.5,
+       52.48
+      ],
+      [
+       536.88,
+       124.9
+      ],
+      [
+       629.82,
+       82.81
+      ],
+      [
+       656.02,
+       158.94
+      ],
+      [
+       759.11,
+       150.28
+      ],
+      [
+       737.14,
+       230.13
+      ],
+      [
+       845.3,
+       246.84
+      ],
+      [
+       773.48,
+       315.55
+      ],
+      [
+       875.72,
+       359.5
+      ],
+      [
+       799.67,
+       407.16
+      ],
+      [
+       841.92,
+       471.54
+      ],
+      [
+       736.3,
+       487.63
+      ],
+      [
+       755.73,
+       566.25
+      ],
+      [
+       660.25,
+       564.39
+      ],
+      [
+       629.82,
+       636.81
+      ],
+      [
+       537.72,
+       594.72
+      ],
+      [
+       473.5,
+       653.53
+      ],
+      [
+       409.28,
+       596.58
+      ],
+      [
+       314.64,
+       640.53
+      ],
+      [
+       301.97,
+       547.68
+      ],
+      [
+       191.27,
+       566.25
+      ],
+      [
+       195.5,
+       495.68
+      ],
+      [
+       84.8,
+       477.73
+      ],
+      [
+       154.94,
+       405.93
+      ],
+      [
+       53.54,
+       359.5
+      ],
+      [
+       164.23,
+       314.31
+      ],
+      [
+       96.63,
+       244.99
+      ],
+      [
+       201.41,
+       226.42
+      ],
+      [
+       185.36,
+       148.42
+      ],
+      [
+       300.27,
+       169.47
+      ],
+      [
+       314.64,
+       77.86
+      ],
+      [
+       410.97,
+       129.85
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0002B",
+     "stroke": "#000000",
+     "strokeWidth": 6,
+     "cap": "round",
+     "join": "round",
+     "name": "Comic burst"
+    },
+    {
+     "kind": "photo",
+     "x": 794,
+     "y": 389,
+     "w": 461,
+     "h": 349,
+     "shape": "rect",
+     "fill": "#E8C115",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 182.3,
+     "y": 197.2,
+     "w": 574,
+     "h": 173,
+     "text": "AUTO",
+     "family": "Archivo Black",
+     "size": 151,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 192.4,
+     "y": 388.6,
+     "w": 574,
+     "h": 89,
+     "text": "GELE HACK",
+     "family": "Archivo Black",
+     "size": 78,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.06,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n35",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

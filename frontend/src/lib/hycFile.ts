@@ -25,17 +25,17 @@ export function parseHycFile(text: string): DesignFile {
   try {
     parsed = JSON.parse(text);
   } catch {
-    throw new CodedError("errors.hyc_not_json", "This file is not a HyCanvas design file (not valid JSON).");
+    throw new CodedError("errors.hyc_not_json", "This file is not a design file (not valid JSON).");
   }
   if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
-    throw new CodedError("errors.hyc_not_design_file", "This file is not a HyCanvas design file.");
+    throw new CodedError("errors.hyc_not_design_file", "This file is not a design file.");
   }
   const file = parsed as DesignFile;
   if (typeof file.schemaVersion !== "number" || !Array.isArray(file.pages) || file.pages.length === 0) {
-    throw new CodedError("errors.hyc_missing_fields", "This file is not a HyCanvas design file (missing pages or schema version).");
+    throw new CodedError("errors.hyc_missing_fields", "This file is not a design file (missing pages or schema version).");
   }
   if (file.schemaVersion > currentSchemaVersion) {
-    throw new CodedError("errors.hyc_newer_version", "This file was made by a newer version of HyCanvas. Update this instance to open it.");
+    throw new CodedError("errors.hyc_newer_version", "This file was made by a newer version of aidir3 Design. Update this instance to open it.");
   }
   // Older files forward-migrate (forward-only and idempotent); a current file
   // passes through untouched.
@@ -53,7 +53,7 @@ export function parseHycFile(text: string): DesignFile {
   const probe = { ...migrated, id: (migrated.id as string) || "import-probe", title: (migrated.title as string) || tr("app.imported") } as DesignFile;
   const result = validate(probe);
   if (!result.ok) {
-    throw new CodedError("errors.hyc_invalid_design", `This file is not a valid HyCanvas design (${result.message}).`, { detail: result.message });
+    throw new CodedError("errors.hyc_invalid_design", `This file is not a valid design file (${result.message}).`, { detail: result.message });
   }
   return migrated;
 }

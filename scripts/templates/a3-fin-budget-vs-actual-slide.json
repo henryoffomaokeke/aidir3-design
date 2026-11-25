@@ -1,0 +1,1184 @@
+{
+ "id": "a3-fin-budget-vs-actual-slide",
+ "title": "Budget vs Actual by Department Slide",
+ "categories": [
+  "finance",
+  "presentations",
+  "business"
+ ],
+ "tags": [
+  "budget",
+  "actual",
+  "variance",
+  "department spend",
+  "finance review",
+  "slide",
+  "opex"
+ ],
+ "styleTags": [
+  "clean",
+  "light",
+  "data"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -956,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Manrope",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Manrope",
+   "weight": 500
+  },
+  {
+   "role": "data",
+   "family": "Red Hat Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Budget vs actual",
+   "bg": "#EEF1EC",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 76,
+     "w": 18,
+     "h": 18,
+     "fill": "#1E7B4F"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 70,
+     "w": 700,
+     "h": 30,
+     "text": "Kestrel Robotics · Q3 finance review",
+     "family": "Manrope",
+     "size": 20,
+     "weight": 700,
+     "color": "#55635B",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 116,
+     "w": 1180,
+     "h": 84,
+     "text": "Budget vs actual by department",
+     "family": "Manrope",
+     "size": 66,
+     "weight": 800,
+     "color": "#12261E",
+     "lineHeight": 1.15,
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 206,
+     "w": 1180,
+     "h": 36,
+     "text": "Operating expenses for Q3 FY26, July to September 2026, in $K",
+     "family": "Manrope",
+     "size": 26,
+     "weight": 500,
+     "color": "#55635B"
+    },
+    {
+     "kind": "text",
+     "x": 1384,
+     "y": 80,
+     "w": 440,
+     "h": 24,
+     "text": "Total operating spend",
+     "family": "Manrope",
+     "size": 18,
+     "weight": 700,
+     "color": "#55635B",
+     "align": "right",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1384,
+     "y": 106,
+     "w": 440,
+     "h": 90,
+     "text": "$7.58M",
+     "family": "Manrope",
+     "size": 72,
+     "weight": 800,
+     "color": "#12261E",
+     "align": "right",
+     "lineHeight": 1.15,
+     "letterSpacing": -1
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#CF4327",
+     "points": [
+      [
+       1508,
+       228.8
+      ],
+      [
+       1516,
+       216
+      ],
+      [
+       1524,
+       228.8
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1534,
+     "y": 206,
+     "w": 290,
+     "h": 34,
+     "text": "1.4% over $7.48M budget",
+     "family": "Manrope",
+     "size": 24,
+     "weight": 700,
+     "color": "#CF4327",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 272,
+     "w": 980,
+     "h": 528,
+     "fill": "#FFFFFF",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 132,
+     "y": 298,
+     "w": 600,
+     "h": 36,
+     "text": "Spend by department",
+     "family": "Manrope",
+     "size": 27,
+     "weight": 800,
+     "color": "#12261E"
+    },
+    {
+     "kind": "text",
+     "x": 736,
+     "y": 304,
+     "w": 304,
+     "h": 28,
+     "text": "$K, quarter to date",
+     "family": "Red Hat Mono",
+     "size": 18,
+     "weight": 500,
+     "color": "#7C8A82",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "name": "Budget vs actual",
+     "x": 112,
+     "y": 344,
+     "w": 948,
+     "h": 444,
+     "chartType": "barGrouped",
+     "fontSize": 20,
+     "valueLabels": true,
+     "legend": true,
+     "categories": [
+      "Engineering",
+      "Sales",
+      "Marketing",
+      "Support",
+      "Operations",
+      "G&A"
+     ],
+     "series": [
+      {
+       "name": "Budget",
+       "values": [
+        2400,
+        1850,
+        1280,
+        760,
+        540,
+        650
+       ],
+       "color": "#B4C2B9"
+      },
+      {
+       "name": "Actual",
+       "values": [
+        2610,
+        1790,
+        1210,
+        785,
+        520,
+        668
+       ],
+       "color": "#1E7B4F"
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 1124,
+     "y": 272,
+     "w": 700,
+     "h": 528,
+     "fill": "#FFFFFF",
+     "radius": 18
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 298,
+     "w": 500,
+     "h": 36,
+     "text": "Variance to budget",
+     "family": "Manrope",
+     "size": 27,
+     "weight": 800,
+     "color": "#12261E"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 356,
+     "w": 180,
+     "h": 20,
+     "text": "Department",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 700,
+     "color": "#7C8A82",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 356,
+     "w": 110,
+     "h": 20,
+     "text": "Budget",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 700,
+     "color": "#7C8A82",
+     "align": "right",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 356,
+     "w": 110,
+     "h": 20,
+     "text": "Actual",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 700,
+     "color": "#7C8A82",
+     "align": "right",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 356,
+     "w": 100,
+     "h": 20,
+     "text": "Var $K",
+     "family": "Manrope",
+     "size": 15,
+     "weight": 700,
+     "color": "#7C8A82",
+     "align": "right",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 384,
+     "w": 628,
+     "h": 2,
+     "fill": "#12261E"
+    },
+    {
+     "kind": "rect",
+     "x": 1142,
+     "y": 394,
+     "w": 664,
+     "h": 48,
+     "fill": "#FDF1ED",
+     "radius": 8
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 392,
+     "w": 200,
+     "h": 52,
+     "text": "Engineering",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 600,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 392,
+     "w": 110,
+     "h": 52,
+     "text": "2,400",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 400,
+     "color": "#55635B",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 392,
+     "w": 110,
+     "h": 52,
+     "text": "2,610",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 500,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 392,
+     "w": 100,
+     "h": 52,
+     "text": "+210",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#CF4327",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 402,
+     "w": 144,
+     "h": 32,
+     "fill": "#FBE4DD",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#CF4327",
+     "points": [
+      [
+       1658,
+       422.9
+      ],
+      [
+       1664.5,
+       412.5
+      ],
+      [
+       1671,
+       422.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 402,
+     "w": 108,
+     "h": 32,
+     "text": "Over 8.8%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#CF4327",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 444,
+     "w": 628,
+     "h": 1,
+     "fill": "#DDE3DD"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 444,
+     "w": 200,
+     "h": 52,
+     "text": "Sales",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 600,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 444,
+     "w": 110,
+     "h": 52,
+     "text": "1,850",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 400,
+     "color": "#55635B",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 444,
+     "w": 110,
+     "h": 52,
+     "text": "1,790",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 500,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 444,
+     "w": 100,
+     "h": 52,
+     "text": "−60",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#1E7B4F",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 454,
+     "w": 144,
+     "h": 32,
+     "fill": "#DDF0E4",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#1E7B4F",
+     "points": [
+      [
+       1658,
+       464.5
+      ],
+      [
+       1671,
+       464.5
+      ],
+      [
+       1664.5,
+       474.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 454,
+     "w": 108,
+     "h": 32,
+     "text": "Under 3.2%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#1E7B4F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 496,
+     "w": 628,
+     "h": 1,
+     "fill": "#DDE3DD"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 496,
+     "w": 200,
+     "h": 52,
+     "text": "Marketing",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 600,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 496,
+     "w": 110,
+     "h": 52,
+     "text": "1,280",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 400,
+     "color": "#55635B",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 496,
+     "w": 110,
+     "h": 52,
+     "text": "1,210",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 500,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 496,
+     "w": 100,
+     "h": 52,
+     "text": "−70",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#1E7B4F",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 506,
+     "w": 144,
+     "h": 32,
+     "fill": "#DDF0E4",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#1E7B4F",
+     "points": [
+      [
+       1658,
+       516.5
+      ],
+      [
+       1671,
+       516.5
+      ],
+      [
+       1664.5,
+       526.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 506,
+     "w": 108,
+     "h": 32,
+     "text": "Under 5.5%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#1E7B4F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 548,
+     "w": 628,
+     "h": 1,
+     "fill": "#DDE3DD"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 548,
+     "w": 200,
+     "h": 52,
+     "text": "Support",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 600,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 548,
+     "w": 110,
+     "h": 52,
+     "text": "760",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 400,
+     "color": "#55635B",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 548,
+     "w": 110,
+     "h": 52,
+     "text": "785",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 500,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 548,
+     "w": 100,
+     "h": 52,
+     "text": "+25",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#CF4327",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 558,
+     "w": 144,
+     "h": 32,
+     "fill": "#FBE4DD",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#CF4327",
+     "points": [
+      [
+       1658,
+       578.9
+      ],
+      [
+       1664.5,
+       568.5
+      ],
+      [
+       1671,
+       578.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 558,
+     "w": 108,
+     "h": 32,
+     "text": "Over 3.3%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#CF4327",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 600,
+     "w": 628,
+     "h": 1,
+     "fill": "#DDE3DD"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 600,
+     "w": 200,
+     "h": 52,
+     "text": "Operations",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 600,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 600,
+     "w": 110,
+     "h": 52,
+     "text": "540",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 400,
+     "color": "#55635B",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 600,
+     "w": 110,
+     "h": 52,
+     "text": "520",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 500,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 600,
+     "w": 100,
+     "h": 52,
+     "text": "−20",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#1E7B4F",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 610,
+     "w": 144,
+     "h": 32,
+     "fill": "#DDF0E4",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#1E7B4F",
+     "points": [
+      [
+       1658,
+       620.5
+      ],
+      [
+       1671,
+       620.5
+      ],
+      [
+       1664.5,
+       630.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 610,
+     "w": 108,
+     "h": 32,
+     "text": "Under 3.7%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#1E7B4F",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 652,
+     "w": 628,
+     "h": 1,
+     "fill": "#DDE3DD"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 652,
+     "w": 200,
+     "h": 52,
+     "text": "G&A",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 600,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 652,
+     "w": 110,
+     "h": 52,
+     "text": "650",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 400,
+     "color": "#55635B",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 652,
+     "w": 110,
+     "h": 52,
+     "text": "668",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 500,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 652,
+     "w": 100,
+     "h": 52,
+     "text": "+18",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#CF4327",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 662,
+     "w": 144,
+     "h": 32,
+     "fill": "#FBE4DD",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#CF4327",
+     "points": [
+      [
+       1658,
+       682.9
+      ],
+      [
+       1664.5,
+       672.5
+      ],
+      [
+       1671,
+       682.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 662,
+     "w": 108,
+     "h": 32,
+     "text": "Over 2.8%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#CF4327",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1160,
+     "y": 706,
+     "w": 628,
+     "h": 2,
+     "fill": "#12261E"
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 716,
+     "w": 200,
+     "h": 52,
+     "text": "Total",
+     "family": "Manrope",
+     "size": 23,
+     "weight": 800,
+     "color": "#12261E",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1294,
+     "y": 716,
+     "w": 110,
+     "h": 52,
+     "text": "7,480",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1408,
+     "y": 716,
+     "w": 110,
+     "h": 52,
+     "text": "7,583",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#12261E",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 716,
+     "w": 100,
+     "h": 52,
+     "text": "+103",
+     "family": "Red Hat Mono",
+     "size": 21,
+     "weight": 700,
+     "color": "#CF4327",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1644,
+     "y": 726,
+     "w": 144,
+     "h": 32,
+     "fill": "#FBE4DD",
+     "radius": 16
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#CF4327",
+     "points": [
+      [
+       1658,
+       746.9
+      ],
+      [
+       1664.5,
+       736.5
+      ],
+      [
+       1671,
+       746.9
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1676,
+     "y": 726,
+     "w": 108,
+     "h": 32,
+     "text": "Over 1.4%",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#CF4327",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 832,
+     "w": 1728,
+     "h": 140,
+     "fill": "#12261E",
+     "radius": 18
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 832,
+     "w": 12,
+     "h": 140,
+     "fill": "#CF4327"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 856,
+     "w": 600,
+     "h": 22,
+     "text": "Largest variance",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 800,
+     "color": "#FF8E73",
+     "letterSpacing": 2.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 886,
+     "w": 640,
+     "h": 60,
+     "text": "Engineering is $210K over",
+     "family": "Manrope",
+     "size": 42,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.2,
+     "letterSpacing": -0.5
+    },
+    {
+     "kind": "rect",
+     "x": 812,
+     "y": 860,
+     "w": 2,
+     "h": 84,
+     "fill": "#2F473C"
+    },
+    {
+     "kind": "text",
+     "x": 848,
+     "y": 868,
+     "w": 936,
+     "h": 80,
+     "text": "Cloud spend ran $140K over plan after the data-platform migration, and contractor cover for two unfilled roles added $70K. The Q4 forecast is back within 2% of budget.",
+     "family": "Manrope",
+     "size": 23.5,
+     "weight": 500,
+     "color": "#D7E2DB",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 1004,
+     "w": 1200,
+     "h": 26,
+     "text": "Source: general ledger actuals closed 9 October 2026 · Budget v2, approved March 2026",
+     "family": "Manrope",
+     "size": 17,
+     "weight": 500,
+     "color": "#7C8A82"
+    },
+    {
+     "kind": "text",
+     "x": 1624,
+     "y": 1004,
+     "w": 200,
+     "h": 26,
+     "text": "6",
+     "family": "Red Hat Mono",
+     "size": 17,
+     "weight": 500,
+     "color": "#7C8A82",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Slide title",
+   "hint": "Up to 34 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subtitle",
+   "hint": "Period and units"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Total spend",
+   "hint": "For example $7.58M"
+  },
+  {
+   "node": "p0-n78",
+   "kind": "text",
+   "label": "Callout headline",
+   "hint": "Name the department and the gap"
+  },
+  {
+   "node": "p0-n80",
+   "kind": "text",
+   "label": "Callout explanation",
+   "hint": "Two sentences: cause, then outlook"
+  }
+ ]
+}

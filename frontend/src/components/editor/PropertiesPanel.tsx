@@ -48,6 +48,8 @@ import { directUploadWithProgress, oc, resolveAssetUrl } from "@/lib/sdk";
 import { MagicResizeButton } from "./MagicResizeDialog";
 import { useToast } from "@/components/ui/Toast";
 import { tr } from "@/lib/i18n";
+// aidir3 fork: W and H edits scale a path's geometry (see commitGeo).
+import { applyPathGeometry } from "@/lib/toolbox/pathResize";
 import { CodedError, userMessage } from "@/lib/errors";
 
 type IconType = ComponentType<{ size?: number | string; strokeWidth?: number; className?: string }>;
@@ -750,6 +752,11 @@ export function PropertiesPanel({ workspaceId }: { workspaceId?: string | null }
     // (mirrors the resize gizmo). The store commits transform + size + box as one step.
     if (single.node.type === "text") {
       useEditor.getState().applyTextGeometry(single.node.id, nextT, nextSz);
+      return;
+    }
+    // aidir3 fork: a path draws from its anchors, so W/H edits scale them too.
+    if (single.node.type === "path") {
+      applyPathGeometry(useEditor.getState, single.node.id, nextT, nextSz);
       return;
     }
     // A line draws from its points, so W/H edits must scale the polyline too.

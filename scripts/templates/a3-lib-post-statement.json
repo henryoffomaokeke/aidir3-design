@@ -1,0 +1,220 @@
+{
+ "id": "a3-lib-post-statement",
+ "title": "Milestone Celebration",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "milestone",
+  "celebration",
+  "followers",
+  "thank you",
+  "instagram portrait",
+  "announcements"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": {
+    "angle": 141,
+    "stops": [
+     [
+      "#FFF8D6",
+      0
+     ],
+     [
+      "#FFE58A",
+      1
+     ]
+    ]
+   },
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 0,
+     "y": -5.1,
+     "w": 1080,
+     "h": 360,
+     "text": "10K",
+     "family": "Anton",
+     "size": 330,
+     "weight": 400,
+     "color": "#1B1B1B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true,
+     "opacity": 0.05,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 452,
+     "w": 80,
+     "h": 12,
+     "fill": "#1B1B1B",
+     "radius": 6
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 432.6,
+     "w": 812,
+     "h": 40,
+     "text": "Thank you",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 515.9,
+     "w": 912,
+     "h": 238,
+     "text": "10,000 of you. Wow.",
+     "family": "Anton",
+     "size": 120,
+     "weight": 400,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 0.95,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 789.6,
+     "w": 775,
+     "h": 89,
+     "text": "From one Lagos kitchen to ten thousand home cooks. More recipes coming.",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 400,
+     "color": "#5D5A4A",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 1090,
+     "w": 180,
+     "h": 180,
+     "fill": "#1B1B1B"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       888.33,
+       1201.67
+      ],
+      [
+       931.67,
+       1158.33
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFF8D6",
+     "strokeWidth": 10.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-up-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       888.33,
+       1158.33
+      ],
+      [
+       931.67,
+       1158.33
+      ],
+      [
+       931.67,
+       1201.67
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFF8D6",
+     "strokeWidth": 10.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-up-right)"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 1220.6,
+     "w": 672,
+     "h": 40,
+     "text": "@cookingwithfunmi",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#1B1B1B",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

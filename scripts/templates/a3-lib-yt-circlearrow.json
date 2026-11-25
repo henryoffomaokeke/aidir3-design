@@ -1,0 +1,687 @@
+{
+ "id": "a3-lib-yt-circlearrow",
+ "title": "Football Games: Circle & Arrow YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "football games",
+  "fc",
+  "football game",
+  "gaming"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Bebas Neue",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFE600",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": "#FFE600",
+     "name": "Background"
+    },
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "shape": "rect",
+     "fill": "#2F3239",
+     "name": "Photo: game controller",
+     "image": {
+      "asset": "tplph-ov-26039345-13f2-4436-acc4-a14b73cb8e60",
+      "url": "/api/v1/templates/photos/ov/26039345-13f2-4436-acc4-a14b73cb8e60.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Game Controller",
+       "author": "50Fish",
+       "url": "https://stocksnap.io/photo/game-controller-MEPDFBUFYJ",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Game Controller",
+      "fit": "cover",
+      "crop": {
+       "x": 0,
+       "y": 0.04,
+       "width": 1,
+       "height": 0.8
+      }
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.54,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 32,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.53,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.52,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.5,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 128,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.49,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 160,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.47,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 192,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.46,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 224,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.45,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 256,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.43,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 288,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.42,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 320,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.41,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 352,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.39,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 384,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.38,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 416,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.36,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 448,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.35,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 480,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.34,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 512,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.32,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 544,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.31,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 576,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.3,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 608,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.28,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 640,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.27,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 672,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.25,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 704,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.24,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 736,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.23,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 768,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.22,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 800,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.21,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 832,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.2,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 864,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.19,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 896,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.18,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 928,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.17,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 960,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.15,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 992,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.14,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1024,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.13,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1056,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.12,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1088,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.11,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1120,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.1,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1152,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.09,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1184,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.08,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1216,
+     "y": 0,
+     "w": 32.6,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.07,
+     "name": "Scrim"
+    },
+    {
+     "kind": "rect",
+     "x": 1248,
+     "y": 0,
+     "w": 32,
+     "h": 720,
+     "fill": "#000000",
+     "opacity": 0.06,
+     "name": "Scrim"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 870.5,
+       "y": 335.13,
+       "cOut": {
+        "x": 961.52,
+        "y": 329.95
+       }
+      },
+      {
+       "x": 1021.46,
+       "y": 449.09,
+       "cIn": {
+        "x": 1025.9,
+        "y": 381.75
+       },
+       "cOut": {
+        "x": 1017.02,
+        "y": 521.61
+       }
+      },
+      {
+       "x": 859.4,
+       "y": 560.46,
+       "cIn": {
+        "x": 941.54,
+        "y": 563.05
+       },
+       "cOut": {
+        "x": 772.82,
+        "y": 557.87
+       }
+      },
+      {
+       "x": 719.54,
+       "y": 443.91,
+       "cIn": {
+        "x": 717.32,
+        "y": 511.25
+       },
+       "cOut": {
+        "x": 721.76,
+        "y": 381.75
+       }
+      },
+      {
+       "x": 890.48,
+       "y": 345.49,
+       "cIn": {
+        "x": 781.7,
+        "y": 340.31
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#E0002B",
+     "strokeWidth": 12,
+     "cap": "round",
+     "join": "round",
+     "name": "Circle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 572.08,
+       "y": 305.94,
+       "cOut": {
+        "x": 605.81,
+        "y": 318.66
+       }
+      },
+      {
+       "x": 679.14,
+       "y": 335.51,
+       "cIn": {
+        "x": 644.69,
+        "y": 331.52
+       }
+      },
+      [
+       682.21,
+       315
+      ],
+      [
+       724.78,
+       367.59
+      ],
+      [
+       661.08,
+       379.31
+      ],
+      {
+       "x": 669.3,
+       "y": 358.93,
+       "cOut": {
+        "x": 639.52,
+        "y": 353.52
+       }
+      },
+      {
+       "x": 566.5,
+       "y": 323.81,
+       "cIn": {
+        "x": 601.18,
+        "y": 339.64
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#E0002B",
+     "stroke": "#000000",
+     "strokeWidth": 5,
+     "cap": "round",
+     "join": "round",
+     "name": "Arrow"
+    },
+    {
+     "kind": "photo",
+     "x": 13,
+     "y": 407,
+     "w": 435,
+     "h": 329,
+     "shape": "rect",
+     "fill": "#35373C",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 1006,
+     "y": 41,
+     "w": 220,
+     "h": 136,
+     "rotation": 2,
+     "fill": "#E0002B",
+     "radius": 9,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 462.7,
+     "y": 24.2,
+     "w": 744,
+     "h": 116,
+     "text": "PACK",
+     "family": "Bebas Neue",
+     "size": 109,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 0.98,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 458.7,
+     "y": 157.5,
+     "w": 761,
+     "h": 116,
+     "text": "LUCK",
+     "family": "Bebas Neue",
+     "size": 109,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 0.98,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n47",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

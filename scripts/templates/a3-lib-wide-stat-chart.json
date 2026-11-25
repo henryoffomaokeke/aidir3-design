@@ -1,0 +1,308 @@
+{
+ "id": "a3-lib-wide-stat-chart",
+ "title": "AI Adoption Stat",
+ "categories": [
+  "technology",
+  "social"
+ ],
+ "tags": [
+  "stat",
+  "ai",
+  "x",
+  "data",
+  "x post",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1600,
+  900
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Inter",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2A1468",
+   "nodes": [
+    {
+     "kind": "icon",
+     "icon": "report-analytics",
+     "x": 80,
+     "y": 91,
+     "w": 35,
+     "h": 35,
+     "color": "#FF6EC7"
+    },
+    {
+     "kind": "text",
+     "x": 134,
+     "y": 73.9,
+     "w": 602,
+     "h": 57,
+     "text": "aidir3 Insights",
+     "family": "Inter",
+     "size": 29,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 180.5,
+     "w": 656,
+     "h": 32,
+     "text": "AI tools adoption",
+     "family": "Inter",
+     "size": 26,
+     "weight": 700,
+     "color": "#C4B8F0",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 201.4,
+     "w": 656,
+     "h": 221,
+     "text": "71%",
+     "family": "Space Grotesk",
+     "size": 214,
+     "weight": 700,
+     "color": "#FF6EC7",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 451.6,
+     "w": 656,
+     "h": 100,
+     "text": "of African startups now use AI weekly",
+     "family": "Inter",
+     "size": 40,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 800,
+     "y": 80,
+     "w": 720,
+     "h": 740,
+     "fill": "#371F80",
+     "radius": 34
+    },
+    {
+     "kind": "rect",
+     "x": 857,
+     "y": 583,
+     "w": 110,
+     "h": 122,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FF6EC7",
+        0
+       ],
+       [
+        "#5EF2FF",
+        1
+       ]
+      ]
+     },
+     "radius": 11
+    },
+    {
+     "kind": "rect",
+     "x": 1022,
+     "y": 494,
+     "w": 110,
+     "h": 211,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FF6EC7",
+        0
+       ],
+       [
+        "#5EF2FF",
+        1
+       ]
+      ]
+     },
+     "radius": 11
+    },
+    {
+     "kind": "rect",
+     "x": 1188,
+     "y": 400,
+     "w": 110,
+     "h": 305,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FF6EC7",
+        0
+       ],
+       [
+        "#5EF2FF",
+        1
+       ]
+      ]
+     },
+     "radius": 11
+    },
+    {
+     "kind": "rect",
+     "x": 1353,
+     "y": 312,
+     "w": 110,
+     "h": 393,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#FF6EC7",
+        0
+       ],
+       [
+        "#5EF2FF",
+        1
+       ]
+      ]
+     },
+     "radius": 11
+    },
+    {
+     "kind": "text",
+     "x": 857,
+     "y": 715.6,
+     "w": 152,
+     "h": 43,
+     "text": "2023",
+     "family": "Inter",
+     "size": 21,
+     "weight": 500,
+     "color": "#C4B8F0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1009,
+     "y": 715.6,
+     "w": 152,
+     "h": 43,
+     "text": "2024",
+     "family": "Inter",
+     "size": 21,
+     "weight": 500,
+     "color": "#C4B8F0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1160,
+     "y": 715.6,
+     "w": 152,
+     "h": 43,
+     "text": "2025",
+     "family": "Inter",
+     "size": 21,
+     "weight": 500,
+     "color": "#C4B8F0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1312,
+     "y": 715.6,
+     "w": 152,
+     "h": 43,
+     "text": "2026",
+     "family": "Inter",
+     "size": 21,
+     "weight": 500,
+     "color": "#C4B8F0",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 772.8,
+     "w": 656,
+     "h": 43,
+     "text": "Sample data for illustration",
+     "family": "Inter",
+     "size": 20,
+     "weight": 400,
+     "color": "#C4B8F0",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 45 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

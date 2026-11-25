@@ -1,0 +1,1857 @@
+{
+ "id": "a3-sales-account-plan",
+ "title": "Strategic Account Plan Slide",
+ "categories": [
+  "sales",
+  "presentations",
+  "business"
+ ],
+ "tags": [
+  "account plan",
+  "relationship map",
+  "stakeholders",
+  "whitespace",
+  "key account",
+  "risks",
+  "goals"
+ ],
+ "styleTags": [
+  "dark",
+  "midnight",
+  "diagram"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -976,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Account plan",
+   "bg": "#0A1330",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 1140,
+     "y": 0,
+     "w": 780,
+     "h": 1080,
+     "fill": "#111D45"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 78,
+     "w": 10,
+     "h": 10,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 72,
+     "w": 600,
+     "h": 22,
+     "text": "Strategic account plan · FY2027",
+     "family": "Hanken Grotesk",
+     "size": 16,
+     "weight": 700,
+     "color": "#4FD5E7",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 100,
+     "w": 980,
+     "h": 84,
+     "text": "Thorncastle Energy",
+     "family": "Space Grotesk",
+     "size": 66,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "letterSpacing": -1.6
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 204,
+     "w": 980,
+     "h": 28,
+     "text": "Customer since 2022 · Renewal 30 September 2027 · Account director Rowan Achebe",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 268,
+     "w": 400,
+     "h": 30,
+     "text": "Relationship map",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 520,
+     "y": 277,
+     "w": 12,
+     "h": 12,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 271,
+     "w": 120,
+     "h": 22,
+     "text": "Supporter",
+     "family": "Hanken Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 662,
+     "y": 277,
+     "w": 12,
+     "h": 12,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 682,
+     "y": 271,
+     "w": 120,
+     "h": 22,
+     "text": "Neutral",
+     "family": "Hanken Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 804,
+     "y": 277,
+     "w": 12,
+     "h": 12,
+     "fill": "#FF6A5C"
+    },
+    {
+     "kind": "text",
+     "x": 824,
+     "y": 271,
+     "w": 120,
+     "h": 22,
+     "text": "Blocker",
+     "family": "Hanken Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 946,
+     "y": 277,
+     "w": 12,
+     "h": 12,
+     "fill": "#7C88AC"
+    },
+    {
+     "kind": "text",
+     "x": 966,
+     "y": 271,
+     "w": 120,
+     "h": 22,
+     "text": "No contact",
+     "family": "Hanken Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       580,
+       436
+      ],
+      [
+       580,
+       471
+      ],
+      [
+       196,
+       471
+      ],
+      [
+       196,
+       506
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       580,
+       436
+      ],
+      [
+       580,
+       471
+      ],
+      [
+       580,
+       471
+      ],
+      [
+       580,
+       506
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       580,
+       436
+      ],
+      [
+       580,
+       471
+      ],
+      [
+       964,
+       471
+      ],
+      [
+       964,
+       506
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       196,
+       616
+      ],
+      [
+       196,
+       651
+      ],
+      [
+       196,
+       651
+      ],
+      [
+       196,
+       686
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       580,
+       616
+      ],
+      [
+       580,
+       651
+      ],
+      [
+       452,
+       651
+      ],
+      [
+       452,
+       686
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       580,
+       616
+      ],
+      [
+       580,
+       651
+      ],
+      [
+       708,
+       651
+      ],
+      [
+       708,
+       686
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       964,
+       616
+      ],
+      [
+       964,
+       651
+      ],
+      [
+       964,
+       651
+      ],
+      [
+       964,
+       686
+      ]
+     ],
+     "stroke": "#40528F",
+     "strokeWidth": 2,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       322,
+       561
+      ],
+      [
+       454,
+       561
+      ]
+     ],
+     "stroke": "#4FD5E7",
+     "strokeWidth": 3,
+     "dash": [
+      3,
+      9
+     ],
+     "cap": "round"
+    },
+    {
+     "kind": "text",
+     "x": 312,
+     "y": 528,
+     "w": 152,
+     "h": 20,
+     "text": "trusted peer",
+     "family": "Hanken Grotesk",
+     "size": 14,
+     "weight": 600,
+     "color": "#4FD5E7",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 464,
+     "y": 326,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 464,
+     "y": 326,
+     "w": 6,
+     "h": 110,
+     "fill": "#7C88AC"
+    },
+    {
+     "kind": "text",
+     "x": 488,
+     "y": 341,
+     "w": 198,
+     "h": 28,
+     "text": "Marguerite Okafor",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 488,
+     "y": 371,
+     "w": 198,
+     "h": 20,
+     "text": "Chief Executive",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 488,
+     "y": 406,
+     "w": 9,
+     "h": 9,
+     "fill": "#7C88AC"
+    },
+    {
+     "kind": "text",
+     "x": 505,
+     "y": 401,
+     "w": 182,
+     "h": 18,
+     "text": "No contact yet",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#7C88AC",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 506,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 506,
+     "w": 6,
+     "h": 110,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 521,
+     "w": 198,
+     "h": 28,
+     "text": "Dev Ramaswamy",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 551,
+     "w": 198,
+     "h": 20,
+     "text": "Chief Financial Officer",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 104,
+     "y": 586,
+     "w": 9,
+     "h": 9,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 581,
+     "w": 182,
+     "h": 18,
+     "text": "Economic buyer",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#F6B745",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 464,
+     "y": 506,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 464,
+     "y": 506,
+     "w": 6,
+     "h": 110,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 488,
+     "y": 521,
+     "w": 198,
+     "h": 28,
+     "text": "Halina Brodeur",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 488,
+     "y": 551,
+     "w": 198,
+     "h": 20,
+     "text": "Chief Operating Officer",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 488,
+     "y": 586,
+     "w": 9,
+     "h": 9,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 505,
+     "y": 581,
+     "w": 182,
+     "h": 18,
+     "text": "Executive sponsor",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#4AD6A0",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 848,
+     "y": 506,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 848,
+     "y": 506,
+     "w": 6,
+     "h": 110,
+     "fill": "#FF6A5C"
+    },
+    {
+     "kind": "text",
+     "x": 872,
+     "y": 521,
+     "w": 198,
+     "h": 28,
+     "text": "Piet Vandermeer",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 872,
+     "y": 551,
+     "w": 198,
+     "h": 20,
+     "text": "Chief Information Officer",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 872,
+     "y": 586,
+     "w": 9,
+     "h": 9,
+     "fill": "#FF6A5C"
+    },
+    {
+     "kind": "text",
+     "x": 889,
+     "y": 581,
+     "w": 182,
+     "h": 18,
+     "text": "Blocker",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#FF6A5C",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 686,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 686,
+     "w": 6,
+     "h": 110,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 701,
+     "w": 198,
+     "h": 28,
+     "text": "Ola Lindqvist",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 731,
+     "w": 198,
+     "h": 20,
+     "text": "Head of Procurement",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 104,
+     "y": 766,
+     "w": 9,
+     "h": 9,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 761,
+     "w": 182,
+     "h": 18,
+     "text": "Gatekeeper",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#F6B745",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 336,
+     "y": 686,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 336,
+     "y": 686,
+     "w": 6,
+     "h": 110,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 701,
+     "w": 198,
+     "h": 28,
+     "text": "Tamsin Whitlock",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 731,
+     "w": 198,
+     "h": 20,
+     "text": "VP Grid Operations",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 360,
+     "y": 766,
+     "w": 9,
+     "h": 9,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 377,
+     "y": 761,
+     "w": 182,
+     "h": 18,
+     "text": "Champion",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#4AD6A0",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 592,
+     "y": 686,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 592,
+     "y": 686,
+     "w": 6,
+     "h": 110,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 616,
+     "y": 701,
+     "w": 198,
+     "h": 28,
+     "text": "Joss Adeyemi",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 616,
+     "y": 731,
+     "w": 198,
+     "h": 20,
+     "text": "Head of Field Services",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 616,
+     "y": 766,
+     "w": 9,
+     "h": 9,
+     "fill": "#4AD6A0"
+    },
+    {
+     "kind": "text",
+     "x": 633,
+     "y": 761,
+     "w": 182,
+     "h": 18,
+     "text": "Key user",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#4AD6A0",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 848,
+     "y": 686,
+     "w": 232,
+     "h": 110,
+     "fill": "#16234F",
+     "radius": 10,
+     "stroke": "#2B3A6E",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 848,
+     "y": 686,
+     "w": 6,
+     "h": 110,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 872,
+     "y": 701,
+     "w": 198,
+     "h": 28,
+     "text": "Carmen Baptiste",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 872,
+     "y": 731,
+     "w": 198,
+     "h": 20,
+     "text": "Head of Architecture",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 872,
+     "y": 766,
+     "w": 9,
+     "h": 9,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 889,
+     "y": 761,
+     "w": 182,
+     "h": 18,
+     "text": "Evaluator",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#F6B745",
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 846,
+     "w": 1000,
+     "h": 162,
+     "fill": "#16234F",
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 846,
+     "w": 6,
+     "h": 162,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "text",
+     "x": 112,
+     "y": 870,
+     "w": 300,
+     "h": 18,
+     "text": "Next move",
+     "family": "Hanken Grotesk",
+     "size": 14,
+     "weight": 700,
+     "color": "#4FD5E7",
+     "letterSpacing": 1.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 112,
+     "y": 899,
+     "w": 930,
+     "h": 90,
+     "text": "Five of eight stakeholders met in the last 90 days, but none above the COO. Halina Brodeur has offered to bring the CEO and CFO to the January value review. Prepare the outage-cost model with Tamsin Whitlock first.",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 72,
+     "w": 200,
+     "h": 18,
+     "text": "ARR today",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#9DAACB",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 94,
+     "w": 210,
+     "h": 58,
+     "text": "$1.24M",
+     "family": "Space Grotesk",
+     "size": 46,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 156,
+     "w": 200,
+     "h": 20,
+     "text": "3 of 5 products live",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 1420,
+     "y": 72,
+     "w": 200,
+     "h": 18,
+     "text": "FY27 target",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#9DAACB",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1420,
+     "y": 94,
+     "w": 210,
+     "h": 58,
+     "text": "$2.10M",
+     "family": "Space Grotesk",
+     "size": 46,
+     "weight": 600,
+     "color": "#4FD5E7",
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 1420,
+     "y": 156,
+     "w": 200,
+     "h": 20,
+     "text": "69% growth on today",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 1640,
+     "y": 72,
+     "w": 200,
+     "h": 18,
+     "text": "Whitespace",
+     "family": "Hanken Grotesk",
+     "size": 13.5,
+     "weight": 700,
+     "color": "#9DAACB",
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1640,
+     "y": 94,
+     "w": 210,
+     "h": 58,
+     "text": "$3.4M",
+     "family": "Space Grotesk",
+     "size": 46,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "letterSpacing": -1
+    },
+    {
+     "kind": "text",
+     "x": 1640,
+     "y": 156,
+     "w": 200,
+     "h": 20,
+     "text": "open across four units",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 204,
+     "w": 640,
+     "h": 1,
+     "fill": "#2B3A6E"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 228,
+     "w": 360,
+     "h": 30,
+     "text": "Whitespace",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1594,
+     "y": 238,
+     "w": 12,
+     "h": 12,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "text",
+     "x": 1612,
+     "y": 233,
+     "w": 50,
+     "h": 20,
+     "text": "Live",
+     "family": "Hanken Grotesk",
+     "size": 14,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1662,
+     "y": 238,
+     "w": 12,
+     "h": 12,
+     "stroke": "#F6B745",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 1666,
+     "y": 242,
+     "w": 4,
+     "h": 4,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "text",
+     "x": 1680,
+     "y": 233,
+     "w": 90,
+     "h": 20,
+     "text": "FY27 target",
+     "family": "Hanken Grotesk",
+     "size": 14,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1780,
+     "y": 238,
+     "w": 12,
+     "h": 12,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 1798,
+     "y": 233,
+     "w": 44,
+     "h": 20,
+     "text": "Open",
+     "family": "Hanken Grotesk",
+     "size": 14,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 1380,
+     "y": 274,
+     "w": 92,
+     "h": 20,
+     "text": "Registry",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 600,
+     "color": "#9DAACB",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 1472,
+     "y": 274,
+     "w": 92,
+     "h": 20,
+     "text": "Work orders",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 600,
+     "color": "#9DAACB",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 1564,
+     "y": 274,
+     "w": 92,
+     "h": 20,
+     "text": "Mobile",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 600,
+     "color": "#9DAACB",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 1656,
+     "y": 274,
+     "w": 92,
+     "h": 20,
+     "text": "Predictive",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 600,
+     "color": "#9DAACB",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 1748,
+     "y": 274,
+     "w": 92,
+     "h": 20,
+     "text": "Contractors",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 600,
+     "color": "#9DAACB",
+     "align": "center"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 304,
+     "w": 640,
+     "h": 1,
+     "fill": "#2B3A6E"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 304,
+     "w": 180,
+     "h": 42,
+     "text": "Generation",
+     "family": "Hanken Grotesk",
+     "size": 17,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1416,
+     "y": 315,
+     "w": 20,
+     "h": 20,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1508,
+     "y": 315,
+     "w": 20,
+     "h": 20,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1600,
+     "y": 315,
+     "w": 20,
+     "h": 20,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1692,
+     "y": 315,
+     "w": 20,
+     "h": 20,
+     "stroke": "#F6B745",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1698,
+     "y": 321,
+     "w": 8,
+     "h": 8,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1784,
+     "y": 315,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 346,
+     "w": 640,
+     "h": 1,
+     "fill": "#2B3A6E"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 346,
+     "w": 180,
+     "h": 42,
+     "text": "Transmission",
+     "family": "Hanken Grotesk",
+     "size": 17,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1416,
+     "y": 357,
+     "w": 20,
+     "h": 20,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1508,
+     "y": 357,
+     "w": 20,
+     "h": 20,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1600,
+     "y": 357,
+     "w": 20,
+     "h": 20,
+     "stroke": "#F6B745",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1606,
+     "y": 363,
+     "w": 8,
+     "h": 8,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1692,
+     "y": 357,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 1784,
+     "y": 357,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 388,
+     "w": 640,
+     "h": 1,
+     "fill": "#2B3A6E"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 388,
+     "w": 180,
+     "h": 42,
+     "text": "Distribution",
+     "family": "Hanken Grotesk",
+     "size": 17,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1416,
+     "y": 399,
+     "w": 20,
+     "h": 20,
+     "fill": "#4FD5E7"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1508,
+     "y": 399,
+     "w": 20,
+     "h": 20,
+     "stroke": "#F6B745",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1514,
+     "y": 405,
+     "w": 8,
+     "h": 8,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1600,
+     "y": 399,
+     "w": 20,
+     "h": 20,
+     "stroke": "#F6B745",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1606,
+     "y": 405,
+     "w": 8,
+     "h": 8,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1692,
+     "y": 399,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1788,
+     "y": 408,
+     "w": 12,
+     "h": 2,
+     "fill": "#6F7DA6"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 430,
+     "w": 640,
+     "h": 1,
+     "fill": "#2B3A6E"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 430,
+     "w": 180,
+     "h": 42,
+     "text": "Renewables",
+     "family": "Hanken Grotesk",
+     "size": 17,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1416,
+     "y": 441,
+     "w": 20,
+     "h": 20,
+     "stroke": "#F6B745",
+     "strokeWidth": 2.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 1422,
+     "y": 447,
+     "w": 8,
+     "h": 8,
+     "fill": "#F6B745"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1508,
+     "y": 441,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 1600,
+     "y": 441,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 1692,
+     "y": 441,
+     "w": 20,
+     "h": 20,
+     "stroke": "#6F7DA6",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 1788,
+     "y": 450,
+     "w": 12,
+     "h": 2,
+     "fill": "#6F7DA6"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 472,
+     "w": 640,
+     "h": 1,
+     "fill": "#2B3A6E"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 512,
+     "w": 400,
+     "h": 30,
+     "text": "Goals for FY2027",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 560,
+     "w": 40,
+     "h": 26,
+     "text": "01",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#4FD5E7"
+    },
+    {
+     "kind": "text",
+     "x": 1250,
+     "y": 560,
+     "w": 590,
+     "h": 26,
+     "text": "Grow ARR from $1.24M to $2.10M",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1250,
+     "y": 588,
+     "w": 590,
+     "h": 22,
+     "text": "Mobile in Transmission and Distribution, Predictive in Generation",
+     "family": "Hanken Grotesk",
+     "size": 15.5,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 626,
+     "w": 40,
+     "h": 26,
+     "text": "02",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#4FD5E7"
+    },
+    {
+     "kind": "text",
+     "x": 1250,
+     "y": 626,
+     "w": 590,
+     "h": 26,
+     "text": "Make the CFO a sponsor by June",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1250,
+     "y": 654,
+     "w": 590,
+     "h": 22,
+     "text": "Joint value review of $4.6M in avoided outage costs",
+     "family": "Hanken Grotesk",
+     "size": 15.5,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 692,
+     "w": 40,
+     "h": 26,
+     "text": "03",
+     "family": "Space Grotesk",
+     "size": 20,
+     "weight": 600,
+     "color": "#4FD5E7"
+    },
+    {
+     "kind": "text",
+     "x": 1250,
+     "y": 692,
+     "w": 590,
+     "h": 26,
+     "text": "Sign a three-year renewal by 30 June",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1250,
+     "y": 720,
+     "w": 590,
+     "h": 22,
+     "text": "Ahead of the ERP re-platform decision in Q3",
+     "family": "Hanken Grotesk",
+     "size": 15.5,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 772,
+     "w": 400,
+     "h": 30,
+     "text": "Risks",
+     "family": "Space Grotesk",
+     "size": 24,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 822,
+     "w": 64,
+     "h": 24,
+     "radius": 12,
+     "stroke": "#FF6A5C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 820,
+     "w": 64,
+     "h": 24,
+     "text": "High",
+     "family": "Hanken Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#FF6A5C",
+     "align": "center",
+     "letterSpacing": 1,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1284,
+     "y": 820,
+     "w": 556,
+     "h": 26,
+     "text": "The CIO prefers the ERP suite's maintenance module",
+     "family": "Hanken Grotesk",
+     "size": 18,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1284,
+     "y": 847,
+     "w": 556,
+     "h": 22,
+     "text": "Architecture workshop with Carmen Baptiste in February",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 884,
+     "w": 64,
+     "h": 24,
+     "radius": 12,
+     "stroke": "#F6B745",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 882,
+     "w": 64,
+     "h": 24,
+     "text": "Med",
+     "family": "Hanken Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#F6B745",
+     "align": "center",
+     "letterSpacing": 1,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1284,
+     "y": 882,
+     "w": 556,
+     "h": 26,
+     "text": "Our champion may move to the renewables unit",
+     "family": "Hanken Grotesk",
+     "size": 18,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1284,
+     "y": 909,
+     "w": 556,
+     "h": 22,
+     "text": "Build Joss Adeyemi into a second champion by March",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 946,
+     "w": 64,
+     "h": 24,
+     "radius": 12,
+     "stroke": "#F6B745",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 1200,
+     "y": 944,
+     "w": 64,
+     "h": 24,
+     "text": "Med",
+     "family": "Hanken Grotesk",
+     "size": 12.5,
+     "weight": 700,
+     "color": "#F6B745",
+     "align": "center",
+     "letterSpacing": 1,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1284,
+     "y": 944,
+     "w": 556,
+     "h": 26,
+     "text": "Capital budgets face a freeze in the second half",
+     "family": "Hanken Grotesk",
+     "size": 18,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1284,
+     "y": 971,
+     "w": 556,
+     "h": 22,
+     "text": "Close expansion in H1; price Mobile as operating spend",
+     "family": "Hanken Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#9DAACB"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Account name",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Account facts",
+   "hint": "Customer since, renewal date, owner"
+  },
+  {
+   "node": "p0-n76",
+   "kind": "text",
+   "label": "ARR today",
+   "hint": "e.g. $1.24M"
+  },
+  {
+   "node": "p0-n79",
+   "kind": "text",
+   "label": "Target for the year",
+   "hint": "e.g. $2.10M"
+  },
+  {
+   "node": "p0-n134",
+   "kind": "text",
+   "label": "First goal",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n74",
+   "kind": "text",
+   "label": "Next move",
+   "hint": "Two or three sentences"
+  }
+ ]
+}

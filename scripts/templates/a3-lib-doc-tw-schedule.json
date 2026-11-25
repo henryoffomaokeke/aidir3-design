@@ -1,0 +1,339 @@
+{
+ "id": "a3-lib-doc-tw-schedule",
+ "title": "Photography Studio: Stream Schedule Banner",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "photography",
+  "photo studio",
+  "photoshoot",
+  "portrait",
+  "wedding photos",
+  "twitch / stream banner",
+  "stream schedule banner"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1200,
+  480
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Libre Baskerville",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Work Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#23281A",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 450,
+     "w": 1200,
+     "h": 30,
+     "fill": "#C8D96F"
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 221,
+     "h": 40,
+     "fill": "#C8D96F",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 55.8,
+     "w": 221,
+     "h": 40,
+     "text": "LIVE SCHEDULE",
+     "family": "Work Sans",
+     "size": 18,
+     "weight": 700,
+     "color": "#23281A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 105.4,
+     "w": 520,
+     "h": 73,
+     "text": "Frame Studio",
+     "family": "Libre Baskerville",
+     "size": 66,
+     "weight": 600,
+     "color": "#F2F0E1",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 196.5,
+     "w": 520,
+     "h": 35,
+     "text": "@framestudio",
+     "family": "Work Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#C8D96F",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 256.9,
+     "w": 520,
+     "h": 54,
+     "text": "Studio and outdoor shoots for birthdays, couples, brands and weddings.",
+     "family": "Work Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#B0B39A",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 640,
+     "y": 90,
+     "w": 160,
+     "h": 290,
+     "fill": "#2E3522",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 640,
+     "y": 101,
+     "w": 160,
+     "h": 50,
+     "text": "MON",
+     "family": "Libre Baskerville",
+     "size": 40,
+     "weight": 600,
+     "color": "#C8D96F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 640,
+     "y": 162.5,
+     "w": 160,
+     "h": 34,
+     "text": "7 PM",
+     "family": "Work Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#F2F0E1",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 690,
+     "y": 216,
+     "w": 60,
+     "h": 3,
+     "fill": "#C8D96F"
+    },
+    {
+     "kind": "text",
+     "x": 652,
+     "y": 230.4,
+     "w": 136,
+     "h": 29,
+     "text": "Portraits",
+     "family": "Work Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F2F0E1",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 820,
+     "y": 90,
+     "w": 160,
+     "h": 290,
+     "fill": "#C8D96F",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 101,
+     "w": 160,
+     "h": 50,
+     "text": "WED",
+     "family": "Libre Baskerville",
+     "size": 40,
+     "weight": 600,
+     "color": "#23281A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 162.5,
+     "w": 160,
+     "h": 34,
+     "text": "8 PM",
+     "family": "Work Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#23281A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 870,
+     "y": 216,
+     "w": 60,
+     "h": 3,
+     "fill": "#23281A"
+    },
+    {
+     "kind": "text",
+     "x": 832,
+     "y": 230.4,
+     "w": 136,
+     "h": 29,
+     "text": "Events",
+     "family": "Work Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#23281A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 1000,
+     "y": 90,
+     "w": 160,
+     "h": 290,
+     "fill": "#2E3522",
+     "radius": 20
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 101,
+     "w": 160,
+     "h": 50,
+     "text": "FRI",
+     "family": "Libre Baskerville",
+     "size": 40,
+     "weight": 600,
+     "color": "#C8D96F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1000,
+     "y": 162.5,
+     "w": 160,
+     "h": 34,
+     "text": "6 PM",
+     "family": "Work Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#F2F0E1",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1050,
+     "y": 216,
+     "w": 60,
+     "h": 3,
+     "fill": "#C8D96F"
+    },
+    {
+     "kind": "text",
+     "x": 1012,
+     "y": 230.4,
+     "w": 136,
+     "h": 29,
+     "text": "Brands",
+     "family": "Work Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F2F0E1",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

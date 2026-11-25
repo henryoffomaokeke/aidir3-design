@@ -223,7 +223,7 @@ export default function SharedLinkPage() {
         <>
           <Head>
             <meta key="viewport" name="viewport" content={VIEWPORT} />
-            <title>{designTitle} · HyCanvas</title>
+            <title>{designTitle} · aidir3 Design</title>
           </Head>
           <RemoteControlScreen token={token} password={password || undefined} title={designTitle} />
         </>
@@ -255,7 +255,7 @@ export default function SharedLinkPage() {
       <>
         <Head>
           <meta key="viewport" name="viewport" content={VIEWPORT} />
-          <title>{designTitle} · HyCanvas</title>
+          <title>{designTitle} · aidir3 Design</title>
         </Head>
         {/* A column flex screen so the deck player can fill the space under the
             header (a scroll-stack render for a single page still scrolls). */}

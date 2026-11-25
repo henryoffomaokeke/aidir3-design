@@ -156,6 +156,11 @@ type EffectiveView struct {
 	PersonalKeysAllowed bool `json:"personalKeysAllowed"`
 	// HasPersonal reports whether the caller has a personal provider at all.
 	HasPersonal bool `json:"hasPersonal"`
+	// Builtin describes the instance's fallback provider (aidir3 fork,
+	// fallback.go), never its key; nil when the instance has none. It serves
+	// whenever the provider above is missing or fails, so the UI can say AI
+	// works here even with no key connected.
+	Builtin *ConfigView `json:"builtin,omitempty"`
 }
 
 // Effective resolves the provider in effect for the context's user.
@@ -181,7 +186,14 @@ func (s *Service) Effective(ctx context.Context, workspaceID string) (EffectiveV
 	if v.ImageConfig, err = s.getImageConfig(ctx, o); err != nil {
 		return v, err
 	}
+	v.Builtin = s.BuiltinView() // aidir3 fork
 	switch {
+	case v.Config == nil && v.ImageConfig == nil && v.Builtin != nil:
+		// aidir3 fork: nothing of the workspace's or the caller's own, so the
+		// instance fallback serves; Config describes it so existing clients
+		// that read Config see a working provider.
+		v.Source = "builtin"
+		v.Config = v.Builtin
 	case v.Config == nil && v.ImageConfig == nil:
 		v.Source = "none"
 	case o.Personal():

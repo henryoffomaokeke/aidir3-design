@@ -1,0 +1,353 @@
+{
+ "id": "a3-lib-wide-share-card",
+ "title": "Article Share Card",
+ "categories": [
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "blog",
+  "article",
+  "x",
+  "thread",
+  "x post",
+  "marketing"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1600,
+  900
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF6F0",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 1507.71,
+       "y": 68.5,
+       "cIn": {
+        "x": 1473.56,
+        "y": 41
+       },
+       "cOut": {
+        "x": 1541.86,
+        "y": 96
+       }
+      },
+      {
+       "x": 1580.53,
+       "y": 167.75,
+       "cIn": {
+        "x": 1565.85,
+        "y": 129.75
+       },
+       "cOut": {
+        "x": 1595.2,
+        "y": 205.75
+       }
+      },
+      {
+       "x": 1584.19,
+       "y": 282.25,
+       "cIn": {
+        "x": 1600.56,
+        "y": 248
+       },
+       "cOut": {
+        "x": 1567.82,
+        "y": 316.5
+       }
+      },
+      {
+       "x": 1488.8,
+       "y": 365.25,
+       "cIn": {
+        "x": 1529.72,
+        "y": 342.75
+       },
+       "cOut": {
+        "x": 1447.87,
+        "y": 387.75
+       }
+      },
+      {
+       "x": 1358.41,
+       "y": 410.5,
+       "cIn": {
+        "x": 1404.13,
+        "y": 406.5
+       },
+       "cOut": {
+        "x": 1312.68,
+        "y": 414.5
+       }
+      },
+      {
+       "x": 1231.96,
+       "y": 377.5,
+       "cIn": {
+        "x": 1264.98,
+        "y": 403.75
+       },
+       "cOut": {
+        "x": 1198.94,
+        "y": 351.25
+       }
+      },
+      {
+       "x": 1174.95,
+       "y": 267.5,
+       "cIn": {
+        "x": 1180.6,
+        "y": 309.5
+       },
+       "cOut": {
+        "x": 1169.31,
+        "y": 225.5
+       }
+      },
+      {
+       "x": 1198.66,
+       "y": 149.5,
+       "cIn": {
+        "x": 1176.36,
+        "y": 183.25
+       },
+       "cOut": {
+        "x": 1220.96,
+        "y": 115.75
+       }
+      },
+      {
+       "x": 1297.72,
+       "y": 65.25,
+       "cIn": {
+        "x": 1258.49,
+        "y": 90.5
+       },
+       "cOut": {
+        "x": 1336.96,
+        "y": 40
+       }
+      },
+      {
+       "x": 1418.24,
+       "y": 20.75,
+       "cIn": {
+        "x": 1378.16,
+        "y": 14.75
+       },
+       "cOut": {
+        "x": 1458.32,
+        "y": 26.75
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#FFB199",
+     "opacity": 0.6,
+     "name": "Shape",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 15,
+     "y": 657,
+     "w": 229,
+     "h": 229,
+     "fill": "#FF5A1F",
+     "opacity": 0.5
+    },
+    {
+     "kind": "rect",
+     "x": 57,
+     "y": 57,
+     "w": 1486,
+     "h": 786,
+     "fill": "#FFFFFF",
+     "radius": 40,
+     "stroke": "#DBDBDB",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 126,
+     "y": 126,
+     "w": 286,
+     "h": 60,
+     "fill": "#FF5A1F",
+     "radius": 30,
+     "opacity": 0.14
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 120.6,
+     "w": 286,
+     "h": 60,
+     "text": "Thread",
+     "family": "DM Sans",
+     "size": 23,
+     "weight": 700,
+     "color": "#FF5A1F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 207.8,
+     "w": 1000,
+     "h": 357,
+     "text": "How we grew to 10k users with zero ad spend",
+     "family": "Archivo Black",
+     "size": 74,
+     "weight": 400,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 1.08
+    },
+    {
+     "kind": "photo",
+     "x": 126,
+     "y": 683,
+     "w": 91,
+     "h": 91,
+     "shape": "ellipse",
+     "fill": "#DEDEDE",
+     "name": "Photo: young african woman founder portrait"
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 673.2,
+     "w": 886,
+     "h": 49,
+     "text": "Amara Obi",
+     "family": "DM Sans",
+     "size": 29,
+     "weight": 700,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 723.6,
+     "w": 886,
+     "h": 43,
+     "text": "Founder, Brightside · 6 min read",
+     "family": "DM Sans",
+     "size": 23,
+     "weight": 400,
+     "color": "#6B6460",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1114,
+     "y": 126,
+     "w": 360,
+     "h": 649,
+     "fill": {
+      "angle": 151,
+      "stops": [
+       [
+        "#FF5A1F",
+        0
+       ],
+       [
+        "#FFB199",
+        1
+       ]
+      ]
+     },
+     "radius": 31
+    },
+    {
+     "kind": "icon",
+     "icon": "graph",
+     "x": 1209,
+     "y": 243,
+     "w": 171,
+     "h": 171,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1114,
+     "y": 622.2,
+     "w": 360,
+     "h": 57,
+     "text": "BRIGHTSIDE",
+     "family": "DM Sans",
+     "size": 29,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 55 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  }
+ ]
+}

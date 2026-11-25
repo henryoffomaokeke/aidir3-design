@@ -48,6 +48,8 @@ import { useComments } from "@/store/comments";
 import { designSurfaceDir } from "@/lib/locale";
 import { tr } from "@/lib/i18n";
 import { subscribeStickyEditRequests } from "@/lib/stickyEditRequests";
+// aidir3 fork: the docked pro toolbox (see the hooks marked "aidir3 fork:" below).
+import { onPickToolRequest, pathsSelectAsBoxes, useProToolbox } from "@/store/proToolbox";
 
 
 // The crop overlay assumes an axis-aligned, unit-scaled node (it positions an
@@ -1290,6 +1292,11 @@ export function Canvas() {
   // combines into a two-digit percent (Figma-style: "2" then "5" -> 25%).
   const opacityKey = useRef<{ first: number; at: number } | null>(null);
   const tool = useEditor((s) => s.tool);
+  // aidir3 fork: while the docked pro toolbox is on screen it carries every
+  // tool of the floating strip below, so the strip steps aside; and a single
+  // selected path gets the resize box unless the toolbox's Shape tool is on.
+  const toolboxDocked = useProToolbox((s) => s.docked);
+  const pathBoxes = useProToolbox(pathsSelectAsBoxes);
   const brush = useEditor((s) => s.brush);
   // Whiteboard surface enables drag-to-connect; harmless elsewhere (never shown).
   const isWhiteboard = useEditor((s) => (s.doc.meta as { kind?: string } | undefined)?.kind === "whiteboard");
@@ -1348,6 +1355,9 @@ export function Canvas() {
     setPencilPreview(null);
     useEditor.getState().setTool("select");
   });
+  // aidir3 fork: the toolbox's Pick tool returns to Select the way the strip's
+  // own button does, dropping any half-drawn path.
+  useEffect(() => onPickToolRequest(finishPen), [finishPen]);
 
   // Abandon any in-progress single-pointer gesture/draft WITHOUT changing the tool
   // or committing anything. Used when a pinch takes over (FR-31) and on pointer
@@ -1459,6 +1469,10 @@ export function Canvas() {
       // zooms the fill within the shape (the crop overlay edits fills[0].crop).
       const fill = (loc.node as unknown as { fills?: { type: string }[] }).fills?.[0];
       if (fill?.type === "image") useEditor.getState().setCropping(hit.id);
+    } else if (loc?.node.type === "path" && useProToolbox.getState().docked) {
+      // aidir3 fork: with paths selected as boxes, double-click opens the
+      // node editor (the toolbox's Shape tool).
+      useProToolbox.getState().setNodeEdit(true);
     } else if (loc?.node.type === "frame") {
       // An EMPTY image frame (single frame or photo-grid cell) is a photo
       // placeholder: double-click opens the image picker and the chosen file
@@ -2875,7 +2889,8 @@ export function Canvas() {
           }}
         />
       )}
-      {toolsFolded ? (() => {
+      {/* aidir3 fork: no floating strip while the docked toolbox is on screen. */}
+      {toolboxDocked ? null : toolsFolded ? (() => {
         const cur = toolbar().find((b): b is Exclude<ReturnType<typeof toolbar>[number], "sep"> => b !== "sep" && b.tool === tool);
         const Icon = tool === "comment" ? MessageSquarePlus : (cur?.icon ?? MousePointer2);
         return (
@@ -2924,9 +2939,10 @@ export function Canvas() {
       </div>
       )}
       {/* Brush options: shown for the pencil and board ink tools. Width / opacity /
-          color feed addPencilPath / addInkStroke via the store's brush settings. */}
+          color feed addPencilPath / addInkStroke via the store's brush settings.
+          aidir3 fork: with the strip gone (toolbox docked) the bar takes its corner. */}
       {(tool === "pencil" || tool === "ink") && (
-        <div className={`absolute z-10 flex items-center gap-3 rounded-xl border border-neutral-200 bg-surface px-3 py-2 shadow-md ${isPhone ? "left-3 top-16 max-w-[calc(100%-1.5rem)] flex-wrap" : "left-16 top-3"}`}>
+        <div className={`absolute z-10 flex items-center gap-3 rounded-xl border border-neutral-200 bg-surface px-3 py-2 shadow-md ${isPhone ? "left-3 top-16 max-w-[calc(100%-1.5rem)] flex-wrap" : toolboxDocked ? "left-3 top-3" : "left-16 top-3"}`}>
           <label className="flex items-center gap-1.5 text-[11px] text-neutral-500">
             {tr("editor.size")}
             <input type="range" min={1} max={40} value={brush.width} onChange={(e) => useEditor.getState().setBrush({ width: Number(e.target.value) })} className="w-20 accent-brand-600" />
@@ -3396,8 +3412,10 @@ export function Canvas() {
       ) : tool !== "select" ? (
         // While a draw tool is active, show no interactive overlay - the Gizmo's
         // resize handles would otherwise intercept pen clicks / draw drags.
+        // aidir3 fork: below, a single path only gets the node editor when the
+        // toolbox is not asking for paths to be selected as boxes.
         null
-      ) : singlePath ? (
+      ) : singlePath && !pathBoxes ? (
         <PathEditor api={api} />
       ) : (
         <>

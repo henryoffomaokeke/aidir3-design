@@ -1,0 +1,635 @@
+{
+ "id": "a3-lib-award-classic",
+ "title": "Classic Achievement Certificate",
+ "categories": [
+  "certificates",
+  "education"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "classic",
+  "gold",
+  "education"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  2000,
+  1414
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFDF6",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 50,
+     "y": 50,
+     "w": 1900,
+     "h": 1314,
+     "stroke": "#B08A4A",
+     "strokeWidth": 10
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 80,
+     "w": 1840,
+     "h": 1254,
+     "stroke": "#B08A4A",
+     "strokeWidth": 3,
+     "opacity": 0.5
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       140,
+       90
+      ],
+      [
+       155.91,
+       124.09
+      ],
+      [
+       190,
+       140
+      ],
+      [
+       155.91,
+       155.91
+      ],
+      [
+       140,
+       190
+      ],
+      [
+       124.09,
+       155.91
+      ],
+      [
+       90,
+       140
+      ],
+      [
+       124.09,
+       124.09
+      ]
+     ],
+     "closed": true,
+     "fill": "#B08A4A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1860,
+       90
+      ],
+      [
+       1875.91,
+       124.09
+      ],
+      [
+       1910,
+       140
+      ],
+      [
+       1875.91,
+       155.91
+      ],
+      [
+       1860,
+       190
+      ],
+      [
+       1844.09,
+       155.91
+      ],
+      [
+       1810,
+       140
+      ],
+      [
+       1844.09,
+       124.09
+      ]
+     ],
+     "closed": true,
+     "fill": "#B08A4A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       140,
+       1224
+      ],
+      [
+       155.91,
+       1258.09
+      ],
+      [
+       190,
+       1274
+      ],
+      [
+       155.91,
+       1289.91
+      ],
+      [
+       140,
+       1324
+      ],
+      [
+       124.09,
+       1289.91
+      ],
+      [
+       90,
+       1274
+      ],
+      [
+       124.09,
+       1258.09
+      ]
+     ],
+     "closed": true,
+     "fill": "#B08A4A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1860,
+       1224
+      ],
+      [
+       1875.91,
+       1258.09
+      ],
+      [
+       1910,
+       1274
+      ],
+      [
+       1875.91,
+       1289.91
+      ],
+      [
+       1860,
+       1324
+      ],
+      [
+       1844.09,
+       1289.91
+      ],
+      [
+       1810,
+       1274
+      ],
+      [
+       1844.09,
+       1258.09
+      ]
+     ],
+     "closed": true,
+     "fill": "#B08A4A",
+     "name": "Shape"
+    },
+    {
+     "kind": "icon",
+     "icon": "award",
+     "x": 950,
+     "y": 150,
+     "w": 100,
+     "h": 100,
+     "color": "#B08A4A"
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 253.3,
+     "w": 1600,
+     "h": 120,
+     "text": "Certificate of Achievement",
+     "family": "Cormorant Garamond",
+     "size": 92.5,
+     "weight": 600,
+     "color": "#2B2418",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "letterSpacing": 3.9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 402.5,
+     "w": 1600,
+     "h": 50,
+     "text": "This certificate is proudly presented to",
+     "family": "Red Hat Text",
+     "size": 34,
+     "weight": 600,
+     "color": "#7A6A52",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 200,
+     "y": 451.3,
+     "w": 1600,
+     "h": 180,
+     "text": "Chidera Obi",
+     "family": "Instrument Serif",
+     "size": 150,
+     "weight": 400,
+     "color": "#B08A4A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 690,
+     "w": 800,
+     "h": 3,
+     "fill": "#B08A4A"
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 707.4,
+     "w": 1280,
+     "h": 110,
+     "text": "for completing the 12-week Frontend Development Bootcamp with distinction.",
+     "family": "Red Hat Text",
+     "size": 34,
+     "weight": 400,
+     "color": "#2B2418",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1000,
+       900
+      ],
+      [
+       1006.46,
+       960.92
+      ],
+      [
+       1028.47,
+       903.75
+      ],
+      [
+       1018.94,
+       964.27
+      ],
+      [
+       1055,
+       914.74
+      ],
+      [
+       1030.13,
+       970.73
+      ],
+      [
+       1077.78,
+       932.22
+      ],
+      [
+       1039.27,
+       979.87
+      ],
+      [
+       1095.26,
+       955
+      ],
+      [
+       1045.73,
+       991.06
+      ],
+      [
+       1106.25,
+       981.53
+      ],
+      [
+       1049.08,
+       1003.54
+      ],
+      [
+       1110,
+       1010
+      ],
+      [
+       1049.08,
+       1016.46
+      ],
+      [
+       1106.25,
+       1038.47
+      ],
+      [
+       1045.73,
+       1028.94
+      ],
+      [
+       1095.26,
+       1065
+      ],
+      [
+       1039.27,
+       1040.13
+      ],
+      [
+       1077.78,
+       1087.78
+      ],
+      [
+       1030.13,
+       1049.27
+      ],
+      [
+       1055,
+       1105.26
+      ],
+      [
+       1018.94,
+       1055.73
+      ],
+      [
+       1028.47,
+       1116.25
+      ],
+      [
+       1006.46,
+       1059.08
+      ],
+      [
+       1000,
+       1120
+      ],
+      [
+       993.54,
+       1059.08
+      ],
+      [
+       971.53,
+       1116.25
+      ],
+      [
+       981.06,
+       1055.73
+      ],
+      [
+       945,
+       1105.26
+      ],
+      [
+       969.87,
+       1049.27
+      ],
+      [
+       922.22,
+       1087.78
+      ],
+      [
+       960.73,
+       1040.13
+      ],
+      [
+       904.74,
+       1065
+      ],
+      [
+       954.27,
+       1028.94
+      ],
+      [
+       893.75,
+       1038.47
+      ],
+      [
+       950.92,
+       1016.46
+      ],
+      [
+       890,
+       1010
+      ],
+      [
+       950.92,
+       1003.54
+      ],
+      [
+       893.75,
+       981.53
+      ],
+      [
+       954.27,
+       991.06
+      ],
+      [
+       904.74,
+       955
+      ],
+      [
+       960.73,
+       979.87
+      ],
+      [
+       922.22,
+       932.22
+      ],
+      [
+       969.87,
+       970.73
+      ],
+      [
+       945,
+       914.74
+      ],
+      [
+       981.06,
+       964.27
+      ],
+      [
+       971.53,
+       903.75
+      ],
+      [
+       993.54,
+       960.92
+      ]
+     ],
+     "closed": true,
+     "fill": "#B08A4A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 925,
+     "y": 935,
+     "w": 150,
+     "h": 150,
+     "fill": "#FFFDF6"
+    },
+    {
+     "kind": "text",
+     "x": 925,
+     "y": 930.1,
+     "w": 150,
+     "h": 150,
+     "text": "15 Dec\n2026",
+     "family": "Red Hat Text",
+     "size": 22,
+     "weight": 700,
+     "color": "#B08A4A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 300,
+     "y": 1110,
+     "w": 460,
+     "h": 2,
+     "fill": "#2B2418"
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 1119.3,
+     "w": 460,
+     "h": 44,
+     "text": "Ada Eze",
+     "family": "Red Hat Text",
+     "size": 30,
+     "weight": 700,
+     "color": "#2B2418",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 1166.7,
+     "w": 460,
+     "h": 36,
+     "text": "Programme Director",
+     "family": "Red Hat Text",
+     "size": 24,
+     "weight": 400,
+     "color": "#7A6A52",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1240,
+     "y": 1110,
+     "w": 460,
+     "h": 2,
+     "fill": "#2B2418"
+    },
+    {
+     "kind": "text",
+     "x": 1240,
+     "y": 1119.3,
+     "w": 460,
+     "h": 44,
+     "text": "Femi Bello",
+     "family": "Red Hat Text",
+     "size": 30,
+     "weight": 700,
+     "color": "#2B2418",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1240,
+     "y": 1166.7,
+     "w": 460,
+     "h": 36,
+     "text": "Lead Instructor",
+     "family": "Red Hat Text",
+     "size": 24,
+     "weight": 400,
+     "color": "#7A6A52",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

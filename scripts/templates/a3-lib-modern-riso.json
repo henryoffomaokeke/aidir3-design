@@ -1,0 +1,937 @@
+{
+ "id": "a3-lib-modern-riso",
+ "title": "Christening & Baptism: Risograph Print",
+ "categories": [
+  "celebrations",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "christening",
+  "baptism",
+  "infant baptism",
+  "church",
+  "godparents",
+  "instagram post",
+  "risograph print",
+  "faith & community"
+ ],
+ "styleTags": [
+  "light",
+  "riso",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF1E8",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 78,
+     "y": 78,
+     "w": 924,
+     "h": 518,
+     "shape": "rect",
+     "fill": "#D8D3D0",
+     "name": "Photo: baby baptism church",
+     "image": {
+      "asset": "tplph-ov-0385657b-4b33-45ba-a9dc-195840ba3a54",
+      "url": "/api/v1/templates/photos/ov/0385657b-4b33-45ba-a9dc-195840ba3a54.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Black Family Church Messiah Chicago's",
+       "author": "U.S. National Archives",
+       "url": "https://www.rawpixel.com/image/8769935/photo-image-vintage-woman-people",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Black Family Church Messiah Chicago's",
+      "fit": "cover",
+      "crop": {
+       "x": 0,
+       "y": 0.04,
+       "width": 1,
+       "height": 0.8
+      }
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 797,
+     "y": 434,
+     "w": 324,
+     "h": 324,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Ink circle",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 473.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 497.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 521.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 545.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 569.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 593.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 85.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 109.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 157.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 181.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 229.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 253.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 301.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 325.7,
+     "y": 617.7,
+     "w": 8.6,
+     "h": 8.6,
+     "fill": "#E8684A",
+     "opacity": 0.85,
+     "name": "Pattern (dots)"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 658.2,
+     "w": 794,
+     "h": 34,
+     "text": "Holy baptism",
+     "family": "DM Sans",
+     "size": 25,
+     "weight": 700,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 708.9,
+     "w": 794,
+     "h": 168,
+     "text": "Christening day",
+     "family": "Archivo Black",
+     "size": 76,
+     "weight": 400,
+     "color": "#33190F",
+     "vAlign": "middle",
+     "lineHeight": 0.96,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 924,
+     "w": 237,
+     "h": 75,
+     "fill": "#33190F",
+     "radius": 11,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 917,
+     "w": 237,
+     "h": 75,
+     "text": "RSVP now",
+     "family": "DM Sans",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFF1E8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n80",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n82",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n79",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "id": "a3-lib-banner-grid",
+ "title": "Community Group Cover",
+ "categories": [
+  "events",
+  "social"
+ ],
+ "tags": [
+  "cover",
+  "community",
+  "group",
+  "events",
+  "facebook cover"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1640,
+  624
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E1A3D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 0,
+     "w": 1,
+     "h": 624,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1191,
+     "y": 0,
+     "w": 1,
+     "h": 624,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1300,
+     "y": 0,
+     "w": 1,
+     "h": 624,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1409,
+     "y": 0,
+     "w": 1,
+     "h": 624,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1518,
+     "y": 0,
+     "w": 1,
+     "h": 624,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1627,
+     "y": 0,
+     "w": 1,
+     "h": 624,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 0,
+     "w": 558,
+     "h": 1,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 109,
+     "w": 558,
+     "h": 1,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 218,
+     "w": 558,
+     "h": 1,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 327,
+     "w": 558,
+     "h": 1,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 436,
+     "w": 558,
+     "h": 1,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "rect",
+     "x": 1082,
+     "y": 545,
+     "w": 558,
+     "h": 1,
+     "fill": "#F2C14E",
+     "opacity": 0.25
+    },
+    {
+     "kind": "ellipse",
+     "x": 1190,
+     "y": 141,
+     "w": 343,
+     "h": 343,
+     "fill": "#F2C14E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1268,
+     "y": 219,
+     "w": 187,
+     "h": 187,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 1305,
+     "y": 256,
+     "w": 112,
+     "h": 112,
+     "color": "#0E1A3D"
+    },
+    {
+     "kind": "text",
+     "x": 98,
+     "y": 54.8,
+     "w": 937,
+     "h": 254,
+     "text": "Lagos Builders",
+     "family": "Playfair Display",
+     "size": 122,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 98,
+     "y": 329.1,
+     "w": 937,
+     "h": 110,
+     "text": "Monthly meetups for developers, designers and founders.",
+     "family": "Albert Sans",
+     "size": 41,
+     "weight": 500,
+     "color": "#AAB4D6",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 98,
+     "y": 488,
+     "w": 184,
+     "h": 69,
+     "fill": "#F2C14E",
+     "radius": 34.5,
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 98,
+     "y": 482.2,
+     "w": 184,
+     "h": 69,
+     "text": "Meetups",
+     "family": "Albert Sans",
+     "size": 27,
+     "weight": 700,
+     "color": "#F2C14E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 301,
+     "y": 488,
+     "w": 244,
+     "h": 69,
+     "fill": "#F2C14E",
+     "radius": 34.5,
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 301,
+     "y": 482.2,
+     "w": 244,
+     "h": 69,
+     "text": "Jobs board",
+     "family": "Albert Sans",
+     "size": 27,
+     "weight": 700,
+     "color": "#F2C14E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 564,
+     "y": 488,
+     "w": 244,
+     "h": 69,
+     "fill": "#F2C14E",
+     "radius": 34.5,
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 564,
+     "y": 482.2,
+     "w": 244,
+     "h": 69,
+     "text": "Mentorship",
+     "family": "Albert Sans",
+     "size": 27,
+     "weight": 700,
+     "color": "#F2C14E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1141,
+     "y": 537,
+     "w": 452,
+     "h": 56,
+     "text": "lagosbuilders.dev",
+     "family": "Albert Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 70 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n18",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

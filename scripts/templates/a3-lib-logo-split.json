@@ -1,0 +1,108 @@
+{
+ "id": "a3-lib-logo-split",
+ "title": "Corridor Freight: Split Colour Logo",
+ "categories": [
+  "branding",
+  "social"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "supply chain & logistics",
+  "split colour logo",
+  "enterprise",
+  "logistics",
+  "supply chain"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Space Grotesk",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FF7A00",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 40,
+     "y": 40,
+     "w": 1000,
+     "h": 1000,
+     "fill": "#FF9433"
+    },
+    {
+     "kind": "rect",
+     "x": 290,
+     "y": 215,
+     "w": 250,
+     "h": 500,
+     "fill": "#1A0E00"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 215,
+     "w": 250,
+     "h": 500,
+     "fill": "#FFF1DB"
+    },
+    {
+     "kind": "text",
+     "x": 290,
+     "y": 178.5,
+     "w": 500,
+     "h": 500,
+     "text": "CF",
+     "family": "Space Grotesk",
+     "size": 237,
+     "weight": 700,
+     "color": "#FF7A00",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 260,
+     "y": 757.2,
+     "w": 560,
+     "h": 72,
+     "text": "Corridor Freight",
+     "family": "Space Grotesk",
+     "size": 60,
+     "weight": 700,
+     "color": "#1A0E00",
+     "align": "center",
+     "lineHeight": 1.12
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

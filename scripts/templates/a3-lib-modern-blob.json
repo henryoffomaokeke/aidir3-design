@@ -1,0 +1,467 @@
+{
+ "id": "a3-lib-modern-blob",
+ "title": "First Holy Communion: Organic Blob",
+ "categories": [
+  "celebrations",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "first communion",
+  "holy communion",
+  "catholic",
+  "church",
+  "celebration",
+  "instagram portrait",
+  "organic blob",
+  "faith & community"
+ ],
+ "styleTags": [
+  "light",
+  "editorial",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#E9F4FF",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 873.4,
+       "y": 167.06,
+       "cIn": {
+        "x": 823.97,
+        "y": 124.37
+       },
+       "cOut": {
+        "x": 922.84,
+        "y": 209.75
+       }
+      },
+      {
+       "x": 978.81,
+       "y": 321.14,
+       "cIn": {
+        "x": 957.57,
+        "y": 262.15
+       },
+       "cOut": {
+        "x": 1000.05,
+        "y": 380.14
+       }
+      },
+      {
+       "x": 984.12,
+       "y": 498.91,
+       "cIn": {
+        "x": 1007.82,
+        "y": 445.73
+       },
+       "cOut": {
+        "x": 960.43,
+        "y": 552.08
+       }
+      },
+      {
+       "x": 846.03,
+       "y": 627.76,
+       "cIn": {
+        "x": 905.27,
+        "y": 592.83
+       },
+       "cOut": {
+        "x": 786.79,
+        "y": 662.69
+       }
+      },
+      {
+       "x": 657.28,
+       "y": 698.01,
+       "cIn": {
+        "x": 723.46,
+        "y": 691.8
+       },
+       "cOut": {
+        "x": 591.09,
+        "y": 704.22
+       }
+      },
+      {
+       "x": 474.25,
+       "y": 646.78,
+       "cIn": {
+        "x": 522.05,
+        "y": 687.53
+       },
+       "cOut": {
+        "x": 426.45,
+        "y": 606.03
+       }
+      },
+      {
+       "x": 391.72,
+       "y": 476.01,
+       "cIn": {
+        "x": 399.89,
+        "y": 541.21
+       },
+       "cOut": {
+        "x": 383.55,
+        "y": 410.8
+       }
+      },
+      {
+       "x": 426.04,
+       "y": 292.81,
+       "cIn": {
+        "x": 393.76,
+        "y": 345.21
+       },
+       "cOut": {
+        "x": 458.31,
+        "y": 240.41
+       }
+      },
+      {
+       "x": 569.44,
+       "y": 162.01,
+       "cIn": {
+        "x": 512.65,
+        "y": 201.21
+       },
+       "cOut": {
+        "x": 626.23,
+        "y": 122.81
+       }
+      },
+      {
+       "x": 743.89,
+       "y": 92.93,
+       "cIn": {
+        "x": 685.88,
+        "y": 83.61
+       },
+       "cOut": {
+        "x": 801.91,
+        "y": 102.24
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#56E0C8",
+     "opacity": 0.65,
+     "name": "Blob"
+    },
+    {
+     "kind": "photo",
+     "x": 436,
+     "y": 47,
+     "w": 621,
+     "h": 621,
+     "shape": "ellipse",
+     "fill": "#ABC2C1",
+     "name": "Photo: first communion girl"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 277.3,
+       "y": 1083.58,
+       "cIn": {
+        "x": 251.51,
+        "y": 1064.27
+       },
+       "cOut": {
+        "x": 303.09,
+        "y": 1102.9
+       }
+      },
+      {
+       "x": 332.29,
+       "y": 1153.31,
+       "cIn": {
+        "x": 321.21,
+        "y": 1126.61
+       },
+       "cOut": {
+        "x": 343.38,
+        "y": 1180
+       }
+      },
+      {
+       "x": 335.06,
+       "y": 1233.74,
+       "cIn": {
+        "x": 347.43,
+        "y": 1209.68
+       },
+       "cOut": {
+        "x": 322.7,
+        "y": 1257.8
+       }
+      },
+      {
+       "x": 263.02,
+       "y": 1292.05,
+       "cIn": {
+        "x": 293.92,
+        "y": 1276.24
+       },
+       "cOut": {
+        "x": 232.11,
+        "y": 1307.86
+       }
+      },
+      {
+       "x": 164.54,
+       "y": 1323.84,
+       "cIn": {
+        "x": 199.07,
+        "y": 1321.03
+       },
+       "cOut": {
+        "x": 130.01,
+        "y": 1326.65
+       }
+      },
+      {
+       "x": 69.04,
+       "y": 1300.66,
+       "cIn": {
+        "x": 93.98,
+        "y": 1319.1
+       },
+       "cOut": {
+        "x": 44.1,
+        "y": 1282.22
+       }
+      },
+      {
+       "x": 25.98,
+       "y": 1223.38,
+       "cIn": {
+        "x": 30.25,
+        "y": 1252.89
+       },
+       "cOut": {
+        "x": 21.72,
+        "y": 1193.88
+       }
+      },
+      {
+       "x": 43.89,
+       "y": 1140.49,
+       "cIn": {
+        "x": 27.05,
+        "y": 1164.2
+       },
+       "cOut": {
+        "x": 60.73,
+        "y": 1116.78
+       }
+      },
+      {
+       "x": 118.71,
+       "y": 1081.3,
+       "cIn": {
+        "x": 89.08,
+        "y": 1099.04
+       },
+       "cOut": {
+        "x": 148.34,
+        "y": 1063.56
+       }
+      },
+      {
+       "x": 209.73,
+       "y": 1050.04,
+       "cIn": {
+        "x": 179.46,
+        "y": 1045.82
+       },
+       "cOut": {
+        "x": 239.99,
+        "y": 1054.25
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#0A6CFF",
+     "opacity": 0.25,
+     "name": "Blob"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 78,
+     "w": 51,
+     "h": 51,
+     "fill": "#0A6CFF",
+     "radius": 25.5,
+     "name": "Logo chip"
+    },
+    {
+     "kind": "icon",
+     "icon": "book",
+     "x": 90,
+     "y": 90,
+     "w": 27,
+     "h": 27,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 74.1,
+     "w": 275,
+     "h": 51,
+     "text": "Chinonso's first communion",
+     "family": "Outfit",
+     "size": 19,
+     "weight": 700,
+     "color": "#0A2540",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 738.9,
+     "w": 924,
+     "h": 34,
+     "text": "A sacred day",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#0A6CFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 782.1,
+     "w": 924,
+     "h": 141,
+     "text": "A blessed day",
+     "family": "Outfit",
+     "size": 128,
+     "weight": 800,
+     "color": "#0A2540",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 958.1,
+     "w": 924,
+     "h": 94,
+     "text": "Celebrate with us as Chinonso receives her first holy communion. Lunch reception follows the Mass.",
+     "family": "Outfit",
+     "size": 32,
+     "weight": 500,
+     "color": "#476283",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 1100,
+     "w": 215,
+     "h": 75,
+     "fill": "#0A6CFF",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1093.9,
+     "w": 215,
+     "h": 75,
+     "text": "Join us",
+     "family": "Outfit",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1186.7,
+     "w": 924,
+     "h": 36,
+     "text": "Chinonso's first communion",
+     "family": "Outfit",
+     "size": 26,
+     "weight": 700,
+     "color": "#476283",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 120 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

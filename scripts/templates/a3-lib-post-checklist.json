@@ -1,0 +1,356 @@
+{
+ "id": "a3-lib-post-checklist",
+ "title": "5 Interview Tips Carousel",
+ "categories": [
+  "education",
+  "social"
+ ],
+ "tags": [
+  "tips",
+  "career",
+  "carousel",
+  "interview",
+  "instagram post",
+  "education"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FDF1EA",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 820,
+     "y": 0,
+     "w": 260,
+     "h": 260,
+     "fill": "#FF7AA2",
+     "radius": 40,
+     "opacity": 0.12
+    },
+    {
+     "kind": "ellipse",
+     "x": 890,
+     "y": 70,
+     "w": 120,
+     "h": 120,
+     "stroke": "#FF7AA2",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 78.2,
+     "w": 912,
+     "h": 32,
+     "text": "Career tips",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 700,
+     "color": "#FF7AA2",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 119.2,
+     "w": 912,
+     "h": 170,
+     "text": "5 ways to ace a tech interview",
+     "family": "Figtree",
+     "size": 80,
+     "weight": 800,
+     "color": "#2B2135",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 346,
+     "w": 66,
+     "h": 66,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 340.6,
+     "w": 66,
+     "h": 66,
+     "text": "01",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 338,
+     "w": 812,
+     "h": 66,
+     "text": "Research the product, not just the company",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 500,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 459,
+     "w": 66,
+     "h": 66,
+     "fill": "#9CC3FF"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 453.6,
+     "w": 66,
+     "h": 66,
+     "text": "02",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 451,
+     "w": 812,
+     "h": 66,
+     "text": "Tell stories with numbers and outcomes",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 500,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 572,
+     "w": 66,
+     "h": 66,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 566.6,
+     "w": 66,
+     "h": 66,
+     "text": "03",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 564,
+     "w": 812,
+     "h": 66,
+     "text": "Ask how success is measured in 90 days",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 500,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 686,
+     "w": 66,
+     "h": 66,
+     "fill": "#9CC3FF"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 680.6,
+     "w": 66,
+     "h": 66,
+     "text": "04",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#2B2135",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 678,
+     "w": 812,
+     "h": 66,
+     "text": "Show your work: repos, demos, case studies",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 500,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 84,
+     "y": 799,
+     "w": 66,
+     "h": 66,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 793.6,
+     "w": 66,
+     "h": 66,
+     "text": "05",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 184,
+     "y": 791,
+     "w": 812,
+     "h": 66,
+     "text": "Send a specific thank-you within 24 hours",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 500,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 928,
+     "w": 912,
+     "h": 2,
+     "fill": "#2B2135",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 946.6,
+     "w": 456,
+     "h": 44,
+     "text": "@aidir3.careers",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "bookmark",
+     "x": 960,
+     "y": 956,
+     "w": 36,
+     "h": 36,
+     "color": "#FF7AA2"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 946.6,
+     "w": 406,
+     "h": 44,
+     "text": "Save for later",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 500,
+     "color": "#7A6E85",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 55 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 55 characters"
+  }
+ ]
+}

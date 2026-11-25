@@ -1,0 +1,182 @@
+{
+ "id": "a3-lib-modern-cinema",
+ "title": "Bakery & Cakes: Cinematic Title Card",
+ "categories": [
+  "food",
+  "social"
+ ],
+ "tags": [
+  "bakery",
+  "cake",
+  "pastry",
+  "birthday cake",
+  "dessert",
+  "story / reel / tiktok",
+  "cinematic title card",
+  "food"
+ ],
+ "styleTags": [
+  "dark",
+  "cinematic",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1920
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Fraunces",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EFE6DA",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1080,
+     "h": 1920,
+     "fill": "#0A0A0A",
+     "name": "Letterbox"
+    },
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 734,
+     "w": 1080,
+     "h": 452,
+     "shape": "rect",
+     "fill": "#2F2F2F",
+     "name": "Photo: decorated birthday cake",
+     "image": {
+      "asset": "tplph-ov-d78767b7-4f10-4702-a3c8-b86cc25b40c2",
+      "url": "/api/v1/templates/photos/ov/d78767b7-4f10-4702-a3c8-b86cc25b40c2.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Cake Food",
+       "author": "Candace McDaniel",
+       "url": "https://stocksnap.io/photo/cake-food-HPU9DW6NCN",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Cake Food",
+      "fit": "cover",
+      "crop": {
+       "x": 0,
+       "y": 0.04,
+       "width": 1,
+       "height": 0.8
+      }
+     }
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 344.4,
+     "w": 928,
+     "h": 35,
+     "text": "SUGAR & CRUMB PRESENTS",
+     "family": "Inter",
+     "size": 22,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true,
+     "opacity": 0.82
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 1209.9,
+     "w": 928,
+     "h": 603,
+     "text": "Celebrate sweeter",
+     "family": "Fraunces",
+     "size": 108,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 1836.4,
+     "w": 928,
+     "h": 35,
+     "text": "CAKES  ·  CUPCAKES  ·  PASTRIES",
+     "family": "Inter",
+     "size": 22,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true,
+     "opacity": 0.82
+    },
+    {
+     "kind": "text",
+     "x": 76,
+     "y": 1871.4,
+     "w": 928,
+     "h": 35,
+     "text": "ORDER A CAKE  ·  SUGARANDCRUMB.NG",
+     "family": "Inter",
+     "size": 22,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  }
+ ]
+}

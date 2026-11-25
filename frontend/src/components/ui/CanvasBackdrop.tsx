@@ -65,7 +65,7 @@ function ArtPalette() {
       <circle cx="35" cy="48" r="6" fill="#fff" stroke="#9aa1ad" strokeWidth="2.2" />
       <circle cx="27" cy="24" r="5" style={{ fill: "var(--color-brand-500)" }} />
       <circle cx="45" cy="19" r="5" style={{ fill: "var(--color-accent-500)" }} />
-      <circle cx="61" cy="25" r="5" fill="#ec4899" />
+      <circle cx="61" cy="25" r="5" fill="#ff5a1f" />
       <circle cx="60" cy="41" r="5" fill="#f59e0b" />
     </svg>
   );
@@ -76,7 +76,7 @@ function ArtSplash() {
     <svg width="72" height="66" viewBox="0 0 72 66" fill="none">
       <path
         d="M31 5 C41 1 53 7 55 18 C57 28 65 30 66 41 C67 52 56 62 44 62 C32 62 24 56 16 49 C7 41 3 30 8 20 C12 11 21 9 31 5 Z"
-        fill="#ec4899"
+        fill="#ff5a1f"
         opacity="0.45"
       />
     </svg>
@@ -147,7 +147,7 @@ function ArtMarker() {
   return (
     <svg width="42" height="78" viewBox="0 0 42 78" fill="none">
       <path d="M14 24 L21 8 L28 24 Z" style={{ fill: "var(--color-brand-500)" }} />
-      <rect x="12" y="24" width="18" height="44" rx="4" fill="#ec4899" stroke="#9aa1ad" strokeWidth="2.2" />
+      <rect x="12" y="24" width="18" height="44" rx="4" fill="#ff5a1f" stroke="#9aa1ad" strokeWidth="2.2" />
       <path d="M12 34 L30 34 M12 60 L30 60" stroke="#9aa1ad" strokeWidth="2" />
     </svg>
   );
@@ -156,7 +156,7 @@ function ArtMarker() {
 function ArtHeart() {
   return (
     <svg width="26" height="24" viewBox="0 0 26 24" fill="none">
-      <path d="M13 22 C2 13 4 4 9 4 C12 4 13 7 13 8 C13 7 14 4 17 4 C22 4 24 13 13 22 Z" fill="#ec4899" />
+      <path d="M13 22 C2 13 4 4 9 4 C12 4 13 7 13 8 C13 7 14 4 17 4 C22 4 24 13 13 22 Z" fill="#ff5a1f" />
     </svg>
   );
 }
@@ -193,7 +193,7 @@ export function CanvasBackdrop({ compact = false }: { compact?: boolean }) {
       {/* gradient blobs */}
       <div className="absolute -left-32 -top-32 h-96 w-96 rounded-full bg-brand-400/30 blur-3xl" />
       <div className="absolute -bottom-32 -right-24 h-[28rem] w-[28rem] rounded-full bg-accent-400/25 blur-3xl" />
-      <div className="absolute left-1/2 top-1/4 h-80 w-80 -translate-x-1/2 rounded-full bg-fuchsia-300/20 blur-3xl" />
+      <div className="absolute left-1/2 top-1/4 h-80 w-80 -translate-x-1/2 rounded-full bg-brand-400/10 blur-3xl" />
 
       {/* canvas dot grid, faded toward the edges */}
       <div
@@ -260,7 +260,7 @@ export function CanvasBackdrop({ compact = false }: { compact?: boolean }) {
             <ArtNote bg="#fef08a" fold="#fde047" line="#ca8a04" />
           </Float>
           <Float className="left-[30%] bottom-[10%] -rotate-6 hidden lg:block" delay={1.7} duration={7.5} shadow>
-            <ArtNote bg="#fbcfe8" fold="#f9a8d4" line="#db2777" />
+            <ArtNote bg="#fed7aa" fold="#fdba74" line="#c2410c" />
           </Float>
         </>
       )}

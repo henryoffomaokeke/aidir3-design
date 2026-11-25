@@ -45,7 +45,7 @@ export function Step6Admin() {
     <WizardShell
       step={6}
       title={tr("installation.create_your_account")}
-      subtitle="HyCanvas is running. Create the first account; it gets its own workspace and you land straight in the dashboard."
+      subtitle="aidir3 Design is running. Create the first account; it gets its own workspace and you land straight in the dashboard."
       stage="configured"
     >
       <form onSubmit={onSubmit} className="flex flex-col gap-4">

@@ -1,0 +1,236 @@
+{
+ "id": "a3-lib-card-classic",
+ "title": "Quanta Analytics: Business Card Front (Classic)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "classic",
+  "data & ai services",
+  "enterprise"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F0F7FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 18,
+     "h": 600,
+     "fill": "#2B7FFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 830,
+     "y": 400,
+     "w": 320,
+     "h": 320,
+     "fill": "#2B7FFF",
+     "opacity": 0.1,
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 71,
+     "y": 61,
+     "w": 67,
+     "h": 67,
+     "stroke": "#2B7FFF",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 77,
+     "y": 67,
+     "w": 56,
+     "h": 56,
+     "stroke": "#2B7FFF",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "icon": "device-desktop",
+     "x": 92,
+     "y": 82,
+     "w": 25,
+     "h": 25,
+     "color": "#2B7FFF"
+    },
+    {
+     "kind": "text",
+     "x": 161,
+     "y": 69.2,
+     "w": 469,
+     "h": 42,
+     "text": "Quanta Analytics",
+     "family": "Anton",
+     "size": 35,
+     "weight": 400,
+     "color": "#0B2545",
+     "lineHeight": 1.12,
+     "letterSpacing": 1.1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 222.7,
+     "w": 620,
+     "h": 65,
+     "text": "Halima Yusuf",
+     "family": "Anton",
+     "size": 54,
+     "weight": 400,
+     "color": "#0B2545",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 298.8,
+     "w": 620,
+     "h": 25,
+     "text": "BRAND MANAGER",
+     "family": "Figtree",
+     "size": 20,
+     "weight": 700,
+     "color": "#2B7FFF",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 70,
+     "y": 398,
+     "w": 28,
+     "h": 28,
+     "color": "#2B7FFF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 385.1,
+     "w": 557,
+     "h": 45,
+     "text": "+234 802 555 4376",
+     "family": "Figtree",
+     "size": 22,
+     "weight": 500,
+     "color": "#0B2545",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 70,
+     "y": 454,
+     "w": 28,
+     "h": 28,
+     "color": "#2B7FFF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 441.1,
+     "w": 557,
+     "h": 45,
+     "text": "halima@quanta.ai",
+     "family": "Figtree",
+     "size": 22,
+     "weight": 500,
+     "color": "#0B2545",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 70,
+     "y": 510,
+     "w": 28,
+     "h": 28,
+     "color": "#2B7FFF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 497.1,
+     "w": 557,
+     "h": 45,
+     "text": "quanta.ai",
+     "family": "Figtree",
+     "size": 22,
+     "weight": 500,
+     "color": "#0B2545",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

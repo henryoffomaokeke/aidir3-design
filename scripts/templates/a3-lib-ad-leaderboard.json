@@ -1,0 +1,194 @@
+{
+ "id": "a3-lib-ad-leaderboard",
+ "title": "SaaS Free Trial Leaderboard",
+ "categories": [
+  "technology",
+  "marketing"
+ ],
+ "tags": [
+  "ad",
+  "leaderboard",
+  "saas",
+  "trial",
+  "leaderboard ad 728×90",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1456,
+  180
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0A0A12",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 14,
+     "h": 180,
+     "fill": "#C6FF3D"
+    },
+    {
+     "kind": "ellipse",
+     "x": 54,
+     "y": 34,
+     "w": 112,
+     "h": 112,
+     "fill": "#C6FF3D"
+    },
+    {
+     "kind": "icon",
+     "icon": "plane",
+     "x": 82,
+     "y": 62,
+     "w": 56,
+     "h": 56,
+     "color": "#0A0A12"
+    },
+    {
+     "kind": "text",
+     "x": 196,
+     "y": 23.2,
+     "w": 840,
+     "h": 64,
+     "text": "Release notes, written by AI",
+     "family": "Space Grotesk",
+     "size": 44,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 196,
+     "y": 95.4,
+     "w": 840,
+     "h": 40,
+     "text": "Pilot · Free for 14 days, no card needed",
+     "family": "Inter",
+     "size": 22,
+     "weight": 500,
+     "color": "#A1A1B5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 1036,
+     "y": 15,
+     "w": 150,
+     "h": 150,
+     "stroke": "#C6FF3D",
+     "strokeWidth": 3,
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 1076,
+     "y": 48,
+     "w": 340,
+     "h": 84,
+     "fill": "#C6FF3D",
+     "radius": 42
+    },
+    {
+     "kind": "text",
+     "x": 1105,
+     "y": 42.5,
+     "w": 264,
+     "h": 84,
+     "text": "Start free trial",
+     "family": "Inter",
+     "size": 26,
+     "weight": 700,
+     "color": "#0A0A12",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1371.67,
+       90
+      ],
+      [
+       1390.33,
+       90
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0A0A12",
+     "strokeWidth": 3.3,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1381,
+       80.67
+      ],
+      [
+       1390.33,
+       90
+      ],
+      [
+       1381,
+       99.33
+      ]
+     ],
+     "closed": false,
+     "stroke": "#0A0A12",
+     "strokeWidth": 3.3,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  }
+ ]
+}

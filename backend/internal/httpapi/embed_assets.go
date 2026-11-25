@@ -129,6 +129,7 @@ func embedDesignFileAssets(fetch assetContent, file map[string]any) map[string]a
 	if fetch == nil {
 		return file
 	}
+	fetch = withTemplatePictures(fetch, file)
 	f2 := make(map[string]any, len(file))
 	for k, v := range file {
 		f2[k] = v

@@ -1,0 +1,877 @@
+{
+ "id": "a3-pm-sprint-review-slide",
+ "title": "Sprint Review Slide",
+ "categories": [
+  "product",
+  "presentations",
+  "technology"
+ ],
+ "tags": [
+  "sprint review",
+  "agile",
+  "scrum",
+  "velocity",
+  "sprint goal",
+  "delivery",
+  "slide"
+ ],
+ "styleTags": [
+  "dark",
+  "bold",
+  "data"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -941,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "JetBrains Mono",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Sprint review",
+   "bg": "#0F1312",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 56,
+     "w": 900,
+     "h": 24,
+     "text": "Checkout squad · Sprint 31 review",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#C6F135",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 56,
+     "w": 600,
+     "h": 24,
+     "text": "10 – 21 Nov 2026 · Slide 2 of 6",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#8A9690",
+     "align": "right",
+     "letterSpacing": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 104,
+     "w": 1728,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 152,
+     "w": 290,
+     "h": 64,
+     "fill": "#C6F135",
+     "radius": 32
+    },
+    {
+     "kind": "icon",
+     "x": 118,
+     "y": 168,
+     "w": 32,
+     "h": 32,
+     "icon": "circle-check",
+     "color": "#111614"
+    },
+    {
+     "kind": "text",
+     "x": 162,
+     "y": 152,
+     "w": 210,
+     "h": 62,
+     "text": "Goal met",
+     "family": "Sora",
+     "size": 28,
+     "weight": 700,
+     "color": "#111614",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 256,
+     "w": 500,
+     "h": 24,
+     "text": "Sprint goal",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#8A9690",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 290,
+     "w": 680,
+     "h": 232,
+     "text": "Guests can pay\nin one step\non mobile.",
+     "family": "Sora",
+     "size": 68,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12,
+     "letterSpacing": -1.5
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 548,
+     "w": 534,
+     "h": 108,
+     "text": "One-tap guest checkout reached all mobile traffic on 19 November. Mobile conversion rose from 2.9% to 3.4% in the first 48 hours.",
+     "family": "Hanken Grotesk",
+     "size": 23,
+     "weight": 400,
+     "color": "#C7D0CA",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 742,
+     "w": 664,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 764,
+     "w": 200,
+     "h": 90,
+     "text": "34",
+     "family": "Sora",
+     "size": 72,
+     "weight": 700,
+     "color": "#C6F135",
+     "lineHeight": 1.1,
+     "letterSpacing": -1.5
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 862,
+     "w": 200,
+     "h": 60,
+     "text": "of 38 points\ncompleted",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#C7D0CA",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 298,
+     "y": 770,
+     "w": 1,
+     "h": 160,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "text",
+     "x": 326,
+     "y": 764,
+     "w": 200,
+     "h": 90,
+     "text": "89%",
+     "family": "Sora",
+     "size": 72,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1,
+     "letterSpacing": -1.5
+    },
+    {
+     "kind": "text",
+     "x": 326,
+     "y": 862,
+     "w": 200,
+     "h": 60,
+     "text": "of the commitment\ndelivered",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#C7D0CA",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 528,
+     "y": 770,
+     "w": 1,
+     "h": 160,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 764,
+     "w": 200,
+     "h": 90,
+     "text": "0",
+     "family": "Sora",
+     "size": 72,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.1,
+     "letterSpacing": -1.5
+    },
+    {
+     "kind": "text",
+     "x": 556,
+     "y": 862,
+     "w": 200,
+     "h": 60,
+     "text": "defects escaped\nto production",
+     "family": "Hanken Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#C7D0CA",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 152,
+     "w": 984,
+     "h": 430,
+     "fill": "#F2F5EF",
+     "radius": 16
+    },
+    {
+     "kind": "text",
+     "x": 876,
+     "y": 178,
+     "w": 520,
+     "h": 34,
+     "text": "Planned against completed",
+     "family": "Sora",
+     "size": 25,
+     "weight": 700,
+     "color": "#111614"
+    },
+    {
+     "kind": "text",
+     "x": 1388,
+     "y": 183,
+     "w": 400,
+     "h": 26,
+     "text": "Story points, last six sprints",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 400,
+     "color": "#55605A",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "x": 868,
+     "y": 232,
+     "w": 928,
+     "h": 334,
+     "chartType": "barGrouped",
+     "name": "Planned against completed",
+     "categories": [
+      "S26",
+      "S27",
+      "S28",
+      "S29",
+      "S30",
+      "S31"
+     ],
+     "series": [
+      {
+       "name": "Planned",
+       "values": [
+        36,
+        40,
+        38,
+        42,
+        36,
+        38
+       ],
+       "color": "#B4C0B8"
+      },
+      {
+       "name": "Completed",
+       "values": [
+        31,
+        33,
+        38,
+        35,
+        34,
+        34
+       ],
+       "color": "#111614"
+      }
+     ],
+     "fontSize": 19,
+     "legend": true,
+     "valueLabels": true
+    },
+    {
+     "kind": "text",
+     "x": 840,
+     "y": 626,
+     "w": 500,
+     "h": 24,
+     "text": "Shipped",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#C6F135",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 626,
+     "w": 260,
+     "h": 24,
+     "text": "5 stories · 34 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#8A9690",
+     "align": "right",
+     "letterSpacing": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 664,
+     "w": 560,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 840,
+     "y": 681,
+     "w": 26,
+     "h": 26,
+     "icon": "circle-check",
+     "color": "#C6F135"
+    },
+    {
+     "kind": "text",
+     "x": 882,
+     "y": 665,
+     "w": 340,
+     "h": 55,
+     "text": "One-tap guest checkout",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 665,
+     "w": 100,
+     "h": 55,
+     "text": "CHK-412",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1324,
+     "y": 665,
+     "w": 76,
+     "h": 55,
+     "text": "13 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 720,
+     "w": 560,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 840,
+     "y": 737,
+     "w": 26,
+     "h": 26,
+     "icon": "circle-check",
+     "color": "#C6F135"
+    },
+    {
+     "kind": "text",
+     "x": 882,
+     "y": 721,
+     "w": 340,
+     "h": 55,
+     "text": "UK address autocomplete",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 721,
+     "w": 100,
+     "h": 55,
+     "text": "CHK-398",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1324,
+     "y": 721,
+     "w": 76,
+     "h": 55,
+     "text": "8 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 776,
+     "w": 560,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 840,
+     "y": 793,
+     "w": 26,
+     "h": 26,
+     "icon": "circle-check",
+     "color": "#C6F135"
+    },
+    {
+     "kind": "text",
+     "x": 882,
+     "y": 777,
+     "w": 340,
+     "h": 55,
+     "text": "Wallet button above the fold",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 777,
+     "w": 100,
+     "h": 55,
+     "text": "CHK-420",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1324,
+     "y": 777,
+     "w": 76,
+     "h": 55,
+     "text": "5 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 832,
+     "w": 560,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 840,
+     "y": 849,
+     "w": 26,
+     "h": 26,
+     "icon": "circle-check",
+     "color": "#C6F135"
+    },
+    {
+     "kind": "text",
+     "x": 882,
+     "y": 833,
+     "w": 340,
+     "h": 55,
+     "text": "Retry on declined payment",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 833,
+     "w": 100,
+     "h": 55,
+     "text": "CHK-377",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1324,
+     "y": 833,
+     "w": 76,
+     "h": 55,
+     "text": "5 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 888,
+     "w": 560,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 840,
+     "y": 905,
+     "w": 26,
+     "h": 26,
+     "icon": "circle-check",
+     "color": "#C6F135"
+    },
+    {
+     "kind": "text",
+     "x": 882,
+     "y": 889,
+     "w": 340,
+     "h": 55,
+     "text": "Clearer checkout error copy",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1224,
+     "y": 889,
+     "w": 100,
+     "h": 55,
+     "text": "CHK-431",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1324,
+     "y": 889,
+     "w": 76,
+     "h": 55,
+     "text": "3 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 944,
+     "w": 560,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "text",
+     "x": 1448,
+     "y": 626,
+     "w": 200,
+     "h": 24,
+     "text": "Carries over",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 700,
+     "color": "#FFB547",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1624,
+     "y": 626,
+     "w": 200,
+     "h": 24,
+     "text": "2 stories · 4 pts",
+     "family": "JetBrains Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#8A9690",
+     "align": "right",
+     "letterSpacing": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 1448,
+     "y": 664,
+     "w": 376,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 1448,
+     "y": 683,
+     "w": 26,
+     "h": 26,
+     "icon": "hourglass",
+     "color": "#FFB547"
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 679,
+     "w": 334,
+     "h": 32,
+     "text": "Saved cards for guests",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 713,
+     "w": 334,
+     "h": 22,
+     "text": "CHK-405 · 3 pts",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690"
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 741,
+     "w": 330,
+     "h": 56,
+     "text": "Waiting on the provider's tokenisation review, now 26 Nov.",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 400,
+     "color": "#C7D0CA",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 1448,
+     "y": 804,
+     "w": 376,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "icon",
+     "x": 1448,
+     "y": 823,
+     "w": 26,
+     "h": 26,
+     "icon": "hourglass",
+     "color": "#FFB547"
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 819,
+     "w": 334,
+     "h": 32,
+     "text": "Order summary on mobile",
+     "family": "Hanken Grotesk",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 853,
+     "w": 334,
+     "h": 22,
+     "text": "CHK-433 · 1 pt",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690"
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 881,
+     "w": 330,
+     "h": 56,
+     "text": "Design fix agreed; the build starts on Monday 24 Nov.",
+     "family": "Hanken Grotesk",
+     "size": 19,
+     "weight": 400,
+     "color": "#C7D0CA",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 1448,
+     "y": 944,
+     "w": 376,
+     "h": 1,
+     "fill": "#2A3330"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 1000,
+     "w": 1100,
+     "h": 24,
+     "text": "Next: Sprint 32, 24 Nov – 5 Dec · Goal: returning guests pay with a saved card",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "letterSpacing": 0.6
+    },
+    {
+     "kind": "text",
+     "x": 1324,
+     "y": 1000,
+     "w": 500,
+     "h": 24,
+     "text": "Six-sprint average velocity: 34.2",
+     "family": "JetBrains Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#8A9690",
+     "align": "right",
+     "letterSpacing": 0.6
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n0",
+   "kind": "text",
+   "label": "Team and sprint",
+   "hint": "Team name and sprint number"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Verdict",
+   "hint": "Goal met, Goal partly met or Goal missed"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Sprint goal",
+   "hint": "The goal as the team wrote it, up to 40 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Evidence",
+   "hint": "What shipped and the first result, in two sentences"
+  },
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "First shipped item",
+   "hint": "Up to 28 characters"
+  },
+  {
+   "node": "p0-n54",
+   "kind": "text",
+   "label": "First carried-over item",
+   "hint": "Up to 28 characters"
+  }
+ ]
+}

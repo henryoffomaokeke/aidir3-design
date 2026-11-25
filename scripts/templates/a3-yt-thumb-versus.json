@@ -1,0 +1,254 @@
+{
+ "id": "a3-yt-thumb-versus",
+ "title": "Versus Split YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "technology"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "versus",
+  "comparison",
+  "split",
+  "review",
+  "phone",
+  "price"
+ ],
+ "styleTags": [
+  "bold",
+  "split",
+  "blue and orange"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1986,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Barlow",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#0C0C10",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       0
+      ],
+      [
+       712,
+       0
+      ],
+      [
+       568,
+       720
+      ],
+      [
+       0,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#1C3FF2"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       712,
+       0
+      ],
+      [
+       1280,
+       0
+      ],
+      [
+       1280,
+       720
+      ],
+      [
+       568,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF5A1F"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       700,
+       0
+      ],
+      [
+       724,
+       0
+      ],
+      [
+       580,
+       720
+      ],
+      [
+       556,
+       720
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 8,
+     "w": 520,
+     "h": 190,
+     "text": "$299",
+     "family": "Bebas Neue",
+     "size": 184,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 664,
+     "y": 8,
+     "w": 520,
+     "h": 190,
+     "text": "$1,199",
+     "family": "Bebas Neue",
+     "size": 184,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "right"
+    },
+    {
+     "kind": "photo",
+     "x": 96,
+     "y": 236,
+     "w": 380,
+     "h": 350,
+     "shape": "rect",
+     "radius": 18,
+     "name": "Left product photo",
+     "fill": "#4A66F5"
+    },
+    {
+     "kind": "photo",
+     "x": 804,
+     "y": 236,
+     "w": 380,
+     "h": 350,
+     "shape": "rect",
+     "radius": 18,
+     "name": "Right product photo",
+     "fill": "#FF8050"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 612,
+     "w": 440,
+     "h": 64,
+     "text": "NOVA A5",
+     "family": "Barlow",
+     "size": 46,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "letterSpacing": 1
+    },
+    {
+     "kind": "text",
+     "x": 744,
+     "y": 612,
+     "w": 440,
+     "h": 64,
+     "text": "NOVA ULTRA",
+     "family": "Barlow",
+     "size": 46,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "right",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 534,
+     "y": 254,
+     "w": 212,
+     "h": 212,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 546,
+     "y": 266,
+     "w": 188,
+     "h": 188,
+     "fill": "#0C0C10"
+    },
+    {
+     "kind": "text",
+     "x": 546,
+     "y": 266,
+     "w": 188,
+     "h": 188,
+     "text": "VS",
+     "family": "Bebas Neue",
+     "size": 120,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Left price",
+   "hint": "Short: a price or a name"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Right price",
+   "hint": "Short: a price or a name"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Left label",
+   "hint": "Model name or tier"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Right label",
+   "hint": "Model name or tier"
+  }
+ ]
+}

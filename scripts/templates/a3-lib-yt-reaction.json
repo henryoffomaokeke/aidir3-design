@@ -1,0 +1,1124 @@
+{
+ "id": "a3-lib-yt-reaction",
+ "title": "Personal Finance: Reaction Sticker YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "finance",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "personal finance",
+  "budget",
+  "money",
+  "reaction"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0040FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 61,
+      "stops": [
+       [
+        "#0040FF",
+        0
+       ],
+       [
+        "#00B2FF",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       2944,
+       360
+      ],
+      [
+       2912,
+       760
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       2819,
+       1151
+      ],
+      [
+       2665,
+       1522
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       2455,
+       1865
+      ],
+      [
+       2194,
+       2170
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       1889,
+       2431
+      ],
+      [
+       1546,
+       2641
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       1175,
+       2795
+      ],
+      [
+       784,
+       2888
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       384,
+       2920
+      ],
+      [
+       -16,
+       2888
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -407,
+       2795
+      ],
+      [
+       -778,
+       2641
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -1121,
+       2431
+      ],
+      [
+       -1426,
+       2170
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -1687,
+       1865
+      ],
+      [
+       -1897,
+       1522
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -2051,
+       1151
+      ],
+      [
+       -2144,
+       760
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -2176,
+       360
+      ],
+      [
+       -2144,
+       -40
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -2051,
+       -431
+      ],
+      [
+       -1897,
+       -802
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -1687,
+       -1145
+      ],
+      [
+       -1426,
+       -1450
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -1121,
+       -1711
+      ],
+      [
+       -778,
+       -1921
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       -407,
+       -2075
+      ],
+      [
+       -16,
+       -2168
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       384,
+       -2200
+      ],
+      [
+       784,
+       -2168
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       1175,
+       -2075
+      ],
+      [
+       1546,
+       -1921
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       1889,
+       -1711
+      ],
+      [
+       2194,
+       -1450
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       2455,
+       -1145
+      ],
+      [
+       2665,
+       -802
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       384,
+       360
+      ],
+      [
+       2819,
+       -431
+      ],
+      [
+       2912,
+       -40
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.12,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 7,
+     "y": 9,
+     "w": 702,
+     "h": 702,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 16,
+     "y": 18,
+     "w": 684,
+     "h": 684,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 25,
+     "y": 27,
+     "w": 666,
+     "h": 666,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 34,
+     "y": 36,
+     "w": 648,
+     "h": 648,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 43,
+     "y": 45,
+     "w": 630,
+     "h": 630,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 52,
+     "y": 54,
+     "w": 612,
+     "h": 612,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 61,
+     "y": 63,
+     "w": 594,
+     "h": 594,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 72,
+     "w": 576,
+     "h": 576,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 79,
+     "y": 81,
+     "w": 558,
+     "h": 558,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 88,
+     "y": 90,
+     "w": 540,
+     "h": 540,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 97,
+     "y": 99,
+     "w": 522,
+     "h": 522,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 106,
+     "y": 108,
+     "w": 504,
+     "h": 504,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 115,
+     "y": 117,
+     "w": 486,
+     "h": 486,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 124,
+     "y": 126,
+     "w": 468,
+     "h": 468,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 133,
+     "y": 135,
+     "w": 450,
+     "h": 450,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 142,
+     "y": 144,
+     "w": 432,
+     "h": 432,
+     "fill": "#FFFFFF",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 151,
+     "y": 153,
+     "w": 414,
+     "h": 414,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 160,
+     "y": 162,
+     "w": 396,
+     "h": 396,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 169,
+     "y": 171,
+     "w": 378,
+     "h": 378,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 178,
+     "y": 180,
+     "w": 360,
+     "h": 360,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 187,
+     "y": 189,
+     "w": 342,
+     "h": 342,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 196,
+     "y": 198,
+     "w": 324,
+     "h": 324,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 205,
+     "y": 207,
+     "w": 306,
+     "h": 306,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 214,
+     "y": 216,
+     "w": 288,
+     "h": 288,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 223,
+     "y": 225,
+     "w": 270,
+     "h": 270,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 232,
+     "y": 234,
+     "w": 252,
+     "h": 252,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 241,
+     "y": 243,
+     "w": 234,
+     "h": 234,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 250,
+     "y": 252,
+     "w": 216,
+     "h": 216,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 259,
+     "y": 261,
+     "w": 198,
+     "h": 198,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 268,
+     "y": 270,
+     "w": 180,
+     "h": 180,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 277,
+     "y": 279,
+     "w": 162,
+     "h": 162,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 286,
+     "y": 288,
+     "w": 144,
+     "h": 144,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 295,
+     "y": 297,
+     "w": 126,
+     "h": 126,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 304,
+     "y": 306,
+     "w": 108,
+     "h": 108,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 313,
+     "y": 315,
+     "w": 90,
+     "h": 90,
+     "fill": "#FFFFFF",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 322,
+     "y": 324,
+     "w": 72,
+     "h": 72,
+     "fill": "#FFFFFF",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 331,
+     "y": 333,
+     "w": 54,
+     "h": 54,
+     "fill": "#FFFFFF",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 340,
+     "y": 342,
+     "w": 36,
+     "h": 36,
+     "fill": "#FFFFFF",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 349,
+     "y": 351,
+     "w": 18,
+     "h": 18,
+     "fill": "#FFFFFF",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "photo",
+     "x": 26,
+     "y": 315,
+     "w": 563,
+     "h": 426,
+     "shape": "rect",
+     "fill": "#4A98ED",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 489,
+     "y": 482,
+     "w": 158,
+     "h": 158,
+     "rotation": 12,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFE769",
+        0
+       ],
+       [
+        "#FFC61A",
+        0.99
+       ],
+       [
+        "#FFC519",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Sticker face"
+    },
+    {
+     "kind": "ellipse",
+     "x": 489,
+     "y": 482,
+     "w": 158,
+     "h": 158,
+     "rotation": 12,
+     "stroke": "#000000",
+     "strokeWidth": 6,
+     "name": "Sticker face"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 507.81,
+       "y": 557.2,
+       "cOut": {
+        "x": 516.43,
+        "y": 545.51
+       }
+      },
+      {
+       "x": 535.2,
+       "y": 563.02,
+       "cIn": {
+        "x": 532.08,
+        "y": 548.84
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#2B1700",
+     "strokeWidth": 8,
+     "cap": "round",
+     "join": "round",
+     "name": "Eye"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 569.81,
+       "y": 570.2,
+       "cOut": {
+        "x": 578.43,
+        "y": 558.51
+       }
+      },
+      {
+       "x": 597.2,
+       "y": 576.02,
+       "cIn": {
+        "x": 594.08,
+        "y": 561.84
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#2B1700",
+     "strokeWidth": 8,
+     "cap": "round",
+     "join": "round",
+     "name": "Eye"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 505,
+       "y": 576,
+       "cIn": {
+        "x": 498.78,
+        "y": 605.26
+       }
+      },
+      {
+       "x": 591.08,
+       "y": 594.3,
+       "cOut": {
+        "x": 584.86,
+        "y": 623.55
+       }
+      },
+      {
+       "x": 538.27,
+       "y": 631.12,
+       "cIn": {
+        "x": 559.79,
+        "y": 635.7
+       },
+       "cOut": {
+        "x": 516.75,
+        "y": 626.55
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#5A1A00",
+     "stroke": "#2B1700",
+     "strokeWidth": 3,
+     "cap": "round",
+     "join": "round",
+     "name": "Mouth"
+    },
+    {
+     "kind": "rect",
+     "x": 511,
+     "y": 579,
+     "w": 76,
+     "h": 11,
+     "rotation": 12,
+     "fill": "#FFFFFF",
+     "radius": 3,
+     "name": "Teeth"
+    },
+    {
+     "kind": "rect",
+     "x": 742,
+     "y": 88,
+     "w": 513,
+     "h": 215,
+     "rotation": 3,
+     "fill": "#FFE600",
+     "radius": 13,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 644.8,
+     "y": 82.8,
+     "w": 580,
+     "h": 185,
+     "text": "SAVE",
+     "family": "Figtree",
+     "size": 159,
+     "weight": 800,
+     "color": "#0B0B0B",
+     "align": "right",
+     "lineHeight": 1.08,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 634.2,
+     "y": 295.5,
+     "w": 605,
+     "h": 166,
+     "text": "$1000",
+     "family": "Figtree",
+     "size": 143,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 1.08,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n68",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n69",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

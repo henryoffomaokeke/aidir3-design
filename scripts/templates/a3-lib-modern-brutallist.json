@@ -1,0 +1,311 @@
+{
+ "id": "a3-lib-modern-brutallist",
+ "title": "Welcome Home: Brutalist List",
+ "categories": [
+  "celebrations",
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "welcome home",
+  "homecoming",
+  "returning home",
+  "family",
+  "party",
+  "instagram post",
+  "brutalist list",
+  "kids & family"
+ ],
+ "styleTags": [
+  "light",
+  "brutalist"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Outfit",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Outfit",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FBF3D0",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 113.9,
+     "w": 924,
+     "h": 34,
+     "text": "Back at last",
+     "family": "Outfit",
+     "size": 25,
+     "weight": 700,
+     "color": "#2D4BFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 162.2,
+     "w": 924,
+     "h": 219,
+     "text": "You made it back",
+     "family": "Outfit",
+     "size": 107,
+     "weight": 800,
+     "color": "#1F1A0E",
+     "vAlign": "middle",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 477,
+     "w": 913,
+     "h": 115,
+     "fill": "#1F1A0E",
+     "radius": 19,
+     "name": "Row shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 466,
+     "w": 913,
+     "h": 115,
+     "fill": "#2D4BFF",
+     "radius": 19,
+     "stroke": "#1F1A0E",
+     "strokeWidth": 6,
+     "name": "Row"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 451.9,
+     "w": 119,
+     "h": 115,
+     "text": "01",
+     "family": "Outfit",
+     "size": 69,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 459,
+     "w": 719,
+     "h": 115,
+     "text": "Airport pickup at noon",
+     "family": "Outfit",
+     "size": 34,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 614,
+     "w": 913,
+     "h": 115,
+     "fill": "#1F1A0E",
+     "radius": 19,
+     "name": "Row shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 603,
+     "w": 913,
+     "h": 115,
+     "fill": "#FFFBE8",
+     "radius": 19,
+     "stroke": "#1F1A0E",
+     "strokeWidth": 6,
+     "name": "Row"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 588.9,
+     "w": 119,
+     "h": 115,
+     "text": "02",
+     "family": "Outfit",
+     "size": 69,
+     "weight": 800,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 596,
+     "w": 719,
+     "h": 115,
+     "text": "Thanksgiving prayer",
+     "family": "Outfit",
+     "size": 34,
+     "weight": 700,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 751,
+     "w": 913,
+     "h": 115,
+     "fill": "#1F1A0E",
+     "radius": 19,
+     "name": "Row shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 740,
+     "w": 913,
+     "h": 115,
+     "fill": "#FFD84D",
+     "radius": 19,
+     "stroke": "#1F1A0E",
+     "strokeWidth": 6,
+     "name": "Row"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 725.9,
+     "w": 119,
+     "h": 115,
+     "text": "03",
+     "family": "Outfit",
+     "size": 69,
+     "weight": 800,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 733,
+     "w": 719,
+     "h": 115,
+     "text": "Family lunch",
+     "family": "Outfit",
+     "size": 34,
+     "weight": 700,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 887,
+     "w": 913,
+     "h": 115,
+     "fill": "#1F1A0E",
+     "radius": 19,
+     "name": "Row shadow"
+    },
+    {
+     "kind": "rect",
+     "x": 78,
+     "y": 876,
+     "w": 913,
+     "h": 115,
+     "fill": "#FFFBE8",
+     "radius": 19,
+     "stroke": "#1F1A0E",
+     "strokeWidth": 6,
+     "name": "Row"
+    },
+    {
+     "kind": "text",
+     "x": 108,
+     "y": 861.9,
+     "w": 119,
+     "h": 115,
+     "text": "04",
+     "family": "Outfit",
+     "size": 69,
+     "weight": 800,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 869,
+     "w": 719,
+     "h": 115,
+     "text": "Music and dancing",
+     "family": "Outfit",
+     "size": 34,
+     "weight": 700,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

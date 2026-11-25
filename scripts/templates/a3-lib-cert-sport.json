@@ -1,0 +1,427 @@
+{
+ "id": "a3-lib-cert-sport",
+ "title": "Pitch Competition Winner Certificate: Sports Badge",
+ "categories": [
+  "certificates"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "competition",
+  "contest",
+  "winner",
+  "prize",
+  "pitch",
+  "sports badge"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  2000,
+  1414
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2A1468",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 1580,
+     "y": -60,
+     "w": 50,
+     "h": 707,
+     "rotation": 25,
+     "fill": "#FF6EC7",
+     "opacity": 0.18,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 1690,
+     "y": -60,
+     "w": 50,
+     "h": 707,
+     "rotation": 25,
+     "fill": "#FF6EC7",
+     "opacity": 0.28,
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 1800,
+     "y": -60,
+     "w": 50,
+     "h": 707,
+     "rotation": 25,
+     "fill": "#FF6EC7",
+     "opacity": 0.38,
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       340,
+       406
+      ],
+      [
+       521.87,
+       526.75
+      ],
+      [
+       521.87,
+       768.25
+      ],
+      [
+       340,
+       889
+      ],
+      [
+       158.13,
+       768.25
+      ],
+      [
+       158.13,
+       526.75
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF6EC7",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       340.5,
+       443
+      ],
+      [
+       493.35,
+       544.75
+      ],
+      [
+       493.35,
+       748.25
+      ],
+      [
+       340.5,
+       850
+      ],
+      [
+       187.65,
+       748.25
+      ],
+      [
+       187.65,
+       544.75
+      ]
+     ],
+     "closed": true,
+     "stroke": "#2A1468",
+     "strokeWidth": 5,
+     "join": "miter",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       339.5,
+       490
+      ],
+      [
+       353.92,
+       524.66
+      ],
+      [
+       391.33,
+       527.66
+      ],
+      [
+       362.82,
+       552.08
+      ],
+      [
+       371.53,
+       588.59
+      ],
+      [
+       339.5,
+       569.03
+      ],
+      [
+       307.47,
+       588.59
+      ],
+      [
+       316.18,
+       552.08
+      ],
+      [
+       287.67,
+       527.66
+      ],
+      [
+       325.08,
+       524.66
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A1468",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 193,
+     "y": 599.2,
+     "w": 294,
+     "h": 143,
+     "text": "WINNER",
+     "family": "Bebas Neue",
+     "size": 84,
+     "weight": 400,
+     "color": "#2A1468",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 223.4,
+     "w": 1230,
+     "h": 32,
+     "text": "STARTUP WEEK LAGOS",
+     "family": "Albert Sans",
+     "size": 26,
+     "weight": 700,
+     "color": "#FF6EC7",
+     "lineHeight": 1.15,
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 299,
+     "w": 1230,
+     "h": 238,
+     "text": "PITCH COMPETITION\nWINNER",
+     "family": "Bebas Neue",
+     "size": 120,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 0.95,
+     "letterSpacing": 2
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 615.5,
+     "w": 1230,
+     "h": 37,
+     "text": "Awarded to",
+     "family": "Albert Sans",
+     "size": 30,
+     "weight": 400,
+     "color": "#C4B8F0",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 700.3,
+     "w": 1230,
+     "h": 109,
+     "text": "Sophia Martins",
+     "family": "Anton",
+     "size": 96,
+     "weight": 400,
+     "color": "#FF6EC7",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 870,
+     "w": 1230,
+     "h": 90,
+     "text": "for the best investor pitch at Startup Week 2027, with a ₦10 million prize.",
+     "family": "Albert Sans",
+     "size": 30,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 1072.5,
+     "w": 400,
+     "h": 78,
+     "text": "I. Cole",
+     "family": "Fraunces",
+     "size": 60,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 660,
+     "y": 1164,
+     "w": 400,
+     "h": 3,
+     "fill": "#FFFFFF",
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 1170,
+     "w": 400,
+     "h": 35,
+     "text": "Ife Cole",
+     "family": "Albert Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 1207.5,
+     "w": 400,
+     "h": 30,
+     "text": "Head Judge",
+     "family": "Albert Sans",
+     "size": 23,
+     "weight": 400,
+     "color": "#C4B8F0",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 1072.5,
+     "w": 400,
+     "h": 78,
+     "text": "U. Daniels",
+     "family": "Fraunces",
+     "size": 60,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 1490,
+     "y": 1164,
+     "w": 400,
+     "h": 3,
+     "fill": "#FFFFFF",
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 1170,
+     "w": 400,
+     "h": 35,
+     "text": "Uche Daniels",
+     "family": "Albert Sans",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1490,
+     "y": 1207.5,
+     "w": 400,
+     "h": 30,
+     "text": "Programme Lead",
+     "family": "Albert Sans",
+     "size": 23,
+     "weight": 400,
+     "color": "#C4B8F0",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1388,
+     "w": 2000,
+     "h": 26,
+     "fill": "#FF6EC7"
+    },
+    {
+     "kind": "text",
+     "x": 660,
+     "y": 1309.2,
+     "w": 1230,
+     "h": 28,
+     "text": "Certificate No. WIN-2027-7553  ·  28 March 2027",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#C4B8F0",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

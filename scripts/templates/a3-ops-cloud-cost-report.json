@@ -1,0 +1,1268 @@
+{
+ "id": "a3-ops-cloud-cost-report",
+ "title": "Cloud Cost Review Slide",
+ "categories": [
+  "devops",
+  "finance",
+  "presentations",
+  "data"
+ ],
+ "tags": [
+  "cloud cost",
+  "finops",
+  "spend review",
+  "budget",
+  "savings",
+  "infrastructure",
+  "slide",
+  "kpi"
+ ],
+ "styleTags": [
+  "hero panel",
+  "plum",
+  "data-rich"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -978,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Azeret Mono",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Cloud spend review",
+   "bg": "#FAF7FB",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 620,
+     "h": 1080,
+     "fill": "#2A0B3F"
+    },
+    {
+     "kind": "ellipse",
+     "x": 250,
+     "y": -250,
+     "w": 560,
+     "h": 560,
+     "fill": "#3A1456",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 620,
+     "y": 0,
+     "w": 1300,
+     "h": 1080,
+     "fill": "#FAF7FB"
+    },
+    {
+     "kind": "rect",
+     "x": 620,
+     "y": 0,
+     "w": 6,
+     "h": 1080,
+     "fill": "#DB2777"
+    },
+    {
+     "kind": "icon",
+     "icon": "cloud",
+     "x": 72,
+     "y": 66,
+     "w": 34,
+     "h": 34,
+     "color": "#F9A8D4"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 68,
+     "w": 380,
+     "h": 32,
+     "text": "Orvane FinOps",
+     "family": "Plus Jakarta Sans",
+     "size": 22,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 172,
+     "w": 476,
+     "h": 24,
+     "text": "Cloud spend review",
+     "family": "Azeret Mono",
+     "size": 17,
+     "weight": 500,
+     "color": "#F9A8D4",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 204,
+     "w": 476,
+     "h": 72,
+     "text": "October 2026",
+     "family": "Plus Jakarta Sans",
+     "size": 56,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 322,
+     "w": 476,
+     "h": 22,
+     "text": "Total spend",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#CDBBDD",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 326,
+     "w": 496,
+     "h": 130,
+     "text": "$412.6K",
+     "family": "Plus Jakarta Sans",
+     "size": 104,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 484,
+     "w": 132,
+     "h": 46,
+     "fill": "#DB2777",
+     "radius": 23
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       94,
+       515
+      ],
+      [
+       104,
+       499
+      ],
+      [
+       114,
+       515
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 124,
+     "y": 493,
+     "w": 76,
+     "h": 30,
+     "text": "6.8%",
+     "family": "Plus Jakarta Sans",
+     "size": 22,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 222,
+     "y": 494,
+     "w": 330,
+     "h": 28,
+     "text": "on September ($386.4K)",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#CDBBDD"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 596,
+     "w": 476,
+     "h": 1,
+     "fill": "#4E2470"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 622,
+     "w": 170,
+     "h": 58,
+     "text": "96%",
+     "family": "Plus Jakarta Sans",
+     "size": 44,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 254,
+     "y": 624,
+     "w": 300,
+     "h": 28,
+     "text": "of the October budget used",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 254,
+     "y": 656,
+     "w": 300,
+     "h": 24,
+     "text": "$430K budget, $17.4K to spare",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#CDBBDD"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 714,
+     "w": 476,
+     "h": 1,
+     "fill": "#4E2470"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 740,
+     "w": 170,
+     "h": 58,
+     "text": "71%",
+     "family": "Plus Jakarta Sans",
+     "size": 44,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 254,
+     "y": 742,
+     "w": 300,
+     "h": 28,
+     "text": "covered by commitments",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 254,
+     "y": 774,
+     "w": 300,
+     "h": 24,
+     "text": "Target is 85% of steady compute",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#CDBBDD"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 832,
+     "w": 476,
+     "h": 1,
+     "fill": "#4E2470"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 858,
+     "w": 170,
+     "h": 58,
+     "text": "$0.41",
+     "family": "Plus Jakarta Sans",
+     "size": 44,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 254,
+     "y": 860,
+     "w": 300,
+     "h": 28,
+     "text": "per 1,000 requests",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 254,
+     "y": 892,
+     "w": 300,
+     "h": 24,
+     "text": "Down 4% while traffic grew 11%",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#CDBBDD"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 990,
+     "w": 476,
+     "h": 22,
+     "text": "Prepared by FinOps · 4 November 2026",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#CDBBDD"
+    },
+    {
+     "kind": "rect",
+     "x": 690,
+     "y": 64,
+     "w": 730,
+     "h": 590,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E6DCEE",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 722,
+     "y": 90,
+     "w": 600,
+     "h": 36,
+     "text": "Monthly spend by service",
+     "family": "Plus Jakarta Sans",
+     "size": 26,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 722,
+     "y": 132,
+     "w": 600,
+     "h": 22,
+     "text": "USD thousands, May to October 2026",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "chart",
+     "name": "Spend by service",
+     "x": 710,
+     "y": 172,
+     "w": 690,
+     "h": 466,
+     "chartType": "barStacked",
+     "fontSize": 18,
+     "valueLabels": false,
+     "legend": true,
+     "categories": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+     ],
+     "series": [
+      {
+       "name": "Compute",
+       "values": [
+        150,
+        158,
+        166,
+        171,
+        176,
+        188.4
+       ],
+       "color": "#2A0B3F"
+      },
+      {
+       "name": "Databases",
+       "values": [
+        78,
+        82,
+        85,
+        90,
+        93,
+        96.2
+       ],
+       "color": "#7C3AED"
+      },
+      {
+       "name": "Storage",
+       "values": [
+        48,
+        51,
+        54,
+        57,
+        59,
+        61.5
+       ],
+       "color": "#DB2777"
+      },
+      {
+       "name": "Data transfer",
+       "values": [
+        30,
+        33,
+        35,
+        37,
+        36,
+        42.3
+       ],
+       "color": "#F4A6C8"
+      },
+      {
+       "name": "Other",
+       "values": [
+        20,
+        21,
+        22,
+        23,
+        22.4,
+        24.2
+       ],
+       "color": "#D8CFE2"
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 90,
+     "w": 400,
+     "h": 36,
+     "text": "Top five cost drivers",
+     "family": "Plus Jakarta Sans",
+     "size": 26,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 132,
+     "w": 400,
+     "h": 22,
+     "text": "October, change on September",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 186,
+     "w": 36,
+     "h": 24,
+     "text": "01",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB2777"
+    },
+    {
+     "kind": "text",
+     "x": 1496,
+     "y": 184,
+     "w": 250,
+     "h": 28,
+     "text": "GPU inference pool",
+     "family": "Plus Jakarta Sans",
+     "size": 20,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 185,
+     "w": 110,
+     "h": 26,
+     "text": "$74.2K",
+     "family": "Azeret Mono",
+     "size": 19,
+     "weight": 600,
+     "color": "#1F1230",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 224,
+     "w": 400,
+     "h": 8,
+     "fill": "#EDE5F3",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 224,
+     "w": 400,
+     "h": 8,
+     "fill": "#DB2777",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 240,
+     "w": 220,
+     "h": 20,
+     "text": "Compute",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 240,
+     "w": 110,
+     "h": 20,
+     "text": "+18%",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#DB2777",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 280,
+     "w": 36,
+     "h": 24,
+     "text": "02",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB2777"
+    },
+    {
+     "kind": "text",
+     "x": 1496,
+     "y": 278,
+     "w": 250,
+     "h": 28,
+     "text": "Orders database cluster",
+     "family": "Plus Jakarta Sans",
+     "size": 20,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 279,
+     "w": 110,
+     "h": 26,
+     "text": "$51.8K",
+     "family": "Azeret Mono",
+     "size": 19,
+     "weight": 600,
+     "color": "#1F1230",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 318,
+     "w": 400,
+     "h": 8,
+     "fill": "#EDE5F3",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 318,
+     "w": 279,
+     "h": 8,
+     "fill": "#2A0B3F",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 334,
+     "w": 220,
+     "h": 20,
+     "text": "Databases",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 334,
+     "w": 110,
+     "h": 20,
+     "text": "+3%",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#54456A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 374,
+     "w": 36,
+     "h": 24,
+     "text": "03",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB2777"
+    },
+    {
+     "kind": "text",
+     "x": 1496,
+     "y": 372,
+     "w": 250,
+     "h": 28,
+     "text": "Media archive storage",
+     "family": "Plus Jakarta Sans",
+     "size": 20,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 373,
+     "w": 110,
+     "h": 26,
+     "text": "$38.6K",
+     "family": "Azeret Mono",
+     "size": 19,
+     "weight": 600,
+     "color": "#1F1230",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 412,
+     "w": 400,
+     "h": 8,
+     "fill": "#EDE5F3",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 412,
+     "w": 208,
+     "h": 8,
+     "fill": "#2A0B3F",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 428,
+     "w": 220,
+     "h": 20,
+     "text": "Storage",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 428,
+     "w": 110,
+     "h": 20,
+     "text": "+5%",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#54456A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 468,
+     "w": 36,
+     "h": 24,
+     "text": "04",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB2777"
+    },
+    {
+     "kind": "text",
+     "x": 1496,
+     "y": 466,
+     "w": 250,
+     "h": 28,
+     "text": "Cross-region transfer",
+     "family": "Plus Jakarta Sans",
+     "size": 20,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 467,
+     "w": 110,
+     "h": 26,
+     "text": "$29.4K",
+     "family": "Azeret Mono",
+     "size": 19,
+     "weight": 600,
+     "color": "#1F1230",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 506,
+     "w": 400,
+     "h": 8,
+     "fill": "#EDE5F3",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 506,
+     "w": 158,
+     "h": 8,
+     "fill": "#DB2777",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 522,
+     "w": 220,
+     "h": 20,
+     "text": "Data transfer",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 522,
+     "w": 110,
+     "h": 20,
+     "text": "+22%",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#DB2777",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 562,
+     "w": 36,
+     "h": 24,
+     "text": "05",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#DB2777"
+    },
+    {
+     "kind": "text",
+     "x": 1496,
+     "y": 560,
+     "w": 250,
+     "h": 28,
+     "text": "CI build runners",
+     "family": "Plus Jakarta Sans",
+     "size": 20,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 561,
+     "w": 110,
+     "h": 26,
+     "text": "$21.7K",
+     "family": "Azeret Mono",
+     "size": 19,
+     "weight": 600,
+     "color": "#1F1230",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 600,
+     "w": 400,
+     "h": 8,
+     "fill": "#EDE5F3",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 1456,
+     "y": 600,
+     "w": 117,
+     "h": 8,
+     "fill": "#2A0B3F",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 1456,
+     "y": 616,
+     "w": 220,
+     "h": 20,
+     "text": "Compute",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A"
+    },
+    {
+     "kind": "text",
+     "x": 1746,
+     "y": 616,
+     "w": 110,
+     "h": 20,
+     "text": "-6%",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#54456A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 690,
+     "y": 690,
+     "w": 500,
+     "h": 36,
+     "text": "Three savings actions",
+     "family": "Plus Jakarta Sans",
+     "size": 26,
+     "weight": 800,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1296,
+     "y": 698,
+     "w": 560,
+     "h": 24,
+     "text": "Worth $35.5K a month, 8.6% of spend",
+     "family": "Azeret Mono",
+     "size": 16,
+     "weight": 600,
+     "color": "#DB2777",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 690,
+     "y": 744,
+     "w": 372.6666666666667,
+     "h": 272,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E6DCEE",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 690,
+     "y": 744,
+     "w": 372.6666666666667,
+     "h": 6,
+     "fill": "#DB2777",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 718,
+     "y": 770,
+     "w": 220,
+     "h": 56,
+     "text": "$14.5K",
+     "family": "Plus Jakarta Sans",
+     "size": 44,
+     "weight": 800,
+     "color": "#2A0B3F"
+    },
+    {
+     "kind": "text",
+     "x": 914.6666666666667,
+     "y": 790,
+     "w": 120,
+     "h": 24,
+     "text": "a month",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#75668A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 718,
+     "y": 838,
+     "w": 316.6666666666667,
+     "h": 60,
+     "text": "Scale the GPU pool to zero overnight",
+     "family": "Plus Jakarta Sans",
+     "size": 22,
+     "weight": 800,
+     "color": "#1F1230",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 718,
+     "y": 902,
+     "w": 320.6666666666667,
+     "h": 52,
+     "text": "Two regions sit idle from 22:00 to 06:00. An autoscaler change, no code.",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#54456A",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 718,
+     "y": 966,
+     "w": 316.6666666666667,
+     "h": 1,
+     "fill": "#E6DCEE"
+    },
+    {
+     "kind": "text",
+     "x": 718,
+     "y": 978,
+     "w": 200,
+     "h": 20,
+     "text": "ML Platform",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 894.6666666666667,
+     "y": 978,
+     "w": 140,
+     "h": 20,
+     "text": "by 15 Dec",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1086.6666666666667,
+     "y": 744,
+     "w": 372.6666666666667,
+     "h": 272,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E6DCEE",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 1086.6666666666667,
+     "y": 744,
+     "w": 372.6666666666667,
+     "h": 6,
+     "fill": "#2A0B3F",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1114.6666666666667,
+     "y": 770,
+     "w": 220,
+     "h": 56,
+     "text": "$11.8K",
+     "family": "Plus Jakarta Sans",
+     "size": 44,
+     "weight": 800,
+     "color": "#2A0B3F"
+    },
+    {
+     "kind": "text",
+     "x": 1311.3333333333335,
+     "y": 790,
+     "w": 120,
+     "h": 24,
+     "text": "a month",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#75668A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1114.6666666666667,
+     "y": 838,
+     "w": 316.6666666666667,
+     "h": 60,
+     "text": "Commit the steady compute baseline",
+     "family": "Plus Jakarta Sans",
+     "size": 22,
+     "weight": 800,
+     "color": "#1F1230",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 1114.6666666666667,
+     "y": 902,
+     "w": 320.6666666666667,
+     "h": 52,
+     "text": "A one-year commitment lifts coverage from 71% to 85%.",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#54456A",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 1114.6666666666667,
+     "y": 966,
+     "w": 316.6666666666667,
+     "h": 1,
+     "fill": "#E6DCEE"
+    },
+    {
+     "kind": "text",
+     "x": 1114.6666666666667,
+     "y": 978,
+     "w": 200,
+     "h": 20,
+     "text": "FinOps",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1291.3333333333335,
+     "y": 978,
+     "w": 140,
+     "h": 20,
+     "text": "by 10 Dec",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1483.3333333333335,
+     "y": 744,
+     "w": 372.6666666666667,
+     "h": 272,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E6DCEE",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 1483.3333333333335,
+     "y": 744,
+     "w": 372.6666666666667,
+     "h": 6,
+     "fill": "#2A0B3F",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1511.3333333333335,
+     "y": 770,
+     "w": 220,
+     "h": 56,
+     "text": "$9.2K",
+     "family": "Plus Jakarta Sans",
+     "size": 44,
+     "weight": 800,
+     "color": "#2A0B3F"
+    },
+    {
+     "kind": "text",
+     "x": 1708.0000000000002,
+     "y": 790,
+     "w": 120,
+     "h": 24,
+     "text": "a month",
+     "family": "Azeret Mono",
+     "size": 15,
+     "weight": 500,
+     "color": "#75668A",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1511.3333333333335,
+     "y": 838,
+     "w": 316.6666666666667,
+     "h": 60,
+     "text": "Move cold media to the archive tier",
+     "family": "Plus Jakarta Sans",
+     "size": 22,
+     "weight": 800,
+     "color": "#1F1230",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 1511.3333333333335,
+     "y": 902,
+     "w": 320.6666666666667,
+     "h": 52,
+     "text": "180 TB untouched for 90 days. A lifecycle rule, and reversible.",
+     "family": "DM Sans",
+     "size": 16,
+     "weight": 400,
+     "color": "#54456A",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 1511.3333333333335,
+     "y": 966,
+     "w": 316.6666666666667,
+     "h": 1,
+     "fill": "#E6DCEE"
+    },
+    {
+     "kind": "text",
+     "x": 1511.3333333333335,
+     "y": 978,
+     "w": 200,
+     "h": 20,
+     "text": "Storage",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 600,
+     "color": "#1F1230"
+    },
+    {
+     "kind": "text",
+     "x": 1688.0000000000002,
+     "y": 978,
+     "w": 140,
+     "h": 20,
+     "text": "by 30 Nov",
+     "family": "Azeret Mono",
+     "size": 14,
+     "weight": 500,
+     "color": "#75668A",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Review period",
+   "hint": "Month and year"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Total spend",
+   "hint": "Headline figure"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Chart title",
+   "hint": "What the chart shows"
+  },
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Largest cost driver",
+   "hint": "Name of the line item"
+  },
+  {
+   "node": "p0-n74",
+   "kind": "text",
+   "label": "First savings action",
+   "hint": "Start with a verb"
+  }
+ ]
+}

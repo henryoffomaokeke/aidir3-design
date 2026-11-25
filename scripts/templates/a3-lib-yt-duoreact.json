@@ -1,0 +1,850 @@
+{
+ "id": "a3-lib-yt-duoreact",
+ "title": "Nursing & Medicine: Double Reaction YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "nursing & medicine",
+  "nursing",
+  "nclex",
+  "medicine"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FF3D00",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -221,
+     "y": -285,
+     "w": 1722.1,
+     "h": 1722.1,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFB300",
+        0
+       ],
+       [
+        "#FF3D00",
+        0.9
+       ],
+       [
+        "#FF3D00",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Background",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       3200,
+       648
+      ],
+      [
+       3181,
+       957
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       3126,
+       1261
+      ],
+      [
+       3034,
+       1556
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       2907,
+       1838
+      ],
+      [
+       2747,
+       2102
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       2556,
+       2346
+      ],
+      [
+       2338,
+       2564
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       2094,
+       2755
+      ],
+      [
+       1830,
+       2915
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       1548,
+       3042
+      ],
+      [
+       1253,
+       3134
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       949,
+       3189
+      ],
+      [
+       640,
+       3208
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       331,
+       3189
+      ],
+      [
+       27,
+       3134
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -268,
+       3042
+      ],
+      [
+       -550,
+       2915
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -814,
+       2755
+      ],
+      [
+       -1058,
+       2564
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1276,
+       2346
+      ],
+      [
+       -1467,
+       2102
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1627,
+       1838
+      ],
+      [
+       -1754,
+       1556
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1846,
+       1261
+      ],
+      [
+       -1901,
+       957
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1920,
+       648
+      ],
+      [
+       -1901,
+       339
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1846,
+       35
+      ],
+      [
+       -1754,
+       -260
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1627,
+       -542
+      ],
+      [
+       -1467,
+       -806
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -1276,
+       -1050
+      ],
+      [
+       -1058,
+       -1268
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -814,
+       -1459
+      ],
+      [
+       -550,
+       -1619
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       -268,
+       -1746
+      ],
+      [
+       27,
+       -1838
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       331,
+       -1893
+      ],
+      [
+       640,
+       -1912
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       949,
+       -1893
+      ],
+      [
+       1253,
+       -1838
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       1548,
+       -1746
+      ],
+      [
+       1830,
+       -1619
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       2094,
+       -1459
+      ],
+      [
+       2338,
+       -1268
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       2556,
+       -1050
+      ],
+      [
+       2747,
+       -806
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       2907,
+       -542
+      ],
+      [
+       3034,
+       -260
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       640,
+       648
+      ],
+      [
+       3126,
+       35
+      ],
+      [
+       3181,
+       339
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 150,
+     "y": 228,
+     "w": 315,
+     "h": 518,
+     "shape": "rect",
+     "fill": "#ED760D",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-e223c6de-08fb-4fbd-b370-c63ac1f6dfb6-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/e223c6de-08fb-4fbd-b370-c63ac1f6dfb6-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Woman Business",
+       "author": "Kristin Hardwick",
+       "url": "https://stocksnap.io/photo/woman-business-GATLQFNN0H",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 627,
+     "y": 370,
+     "w": 486,
+     "h": 368,
+     "shape": "rect",
+     "fill": "#ED7911",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-9cde2c1e-6d3e-4d4f-b671-d1b569148187-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/9cde2c1e-6d3e-4d4f-b671-d1b569148187-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Smiling Woman",
+       "author": "Matt Moloney",
+       "url": "https://stocksnap.io/photo/smiling-woman-VTHPEAGBVR",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true,
+      "flipX": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 531,
+     "y": 396,
+     "w": 122,
+     "h": 122,
+     "rotation": -10,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#FFE769",
+        0
+       ],
+       [
+        "#FFC61A",
+        0.99
+       ],
+       [
+        "#FFC519",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Sticker face"
+    },
+    {
+     "kind": "ellipse",
+     "x": 531,
+     "y": 396,
+     "w": 122,
+     "h": 122,
+     "rotation": -10,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Sticker face"
+    },
+    {
+     "kind": "ellipse",
+     "x": 561,
+     "y": 429,
+     "w": 24,
+     "h": 24,
+     "rotation": -10,
+     "fill": "#FFFFFF",
+     "stroke": "#2B1700",
+     "strokeWidth": 2,
+     "name": "Eye"
+    },
+    {
+     "kind": "ellipse",
+     "x": 570,
+     "y": 435,
+     "w": 11,
+     "h": 11,
+     "rotation": -10,
+     "fill": "#2B1700",
+     "name": "Pupil"
+    },
+    {
+     "kind": "ellipse",
+     "x": 610,
+     "y": 420,
+     "w": 24,
+     "h": 24,
+     "rotation": -10,
+     "fill": "#FFFFFF",
+     "stroke": "#2B1700",
+     "strokeWidth": 2,
+     "name": "Eye"
+    },
+    {
+     "kind": "ellipse",
+     "x": 618,
+     "y": 427,
+     "w": 11,
+     "h": 11,
+     "rotation": -10,
+     "fill": "#2B1700",
+     "name": "Pupil"
+    },
+    {
+     "kind": "ellipse",
+     "x": 591,
+     "y": 462,
+     "w": 27,
+     "h": 27,
+     "rotation": -10,
+     "fill": "#5A1A00",
+     "stroke": "#2B1700",
+     "strokeWidth": 2,
+     "name": "Mouth"
+    },
+    {
+     "kind": "rect",
+     "x": 472,
+     "y": 35,
+     "w": 328,
+     "h": 153,
+     "rotation": -2,
+     "fill": "#111111",
+     "radius": 9,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 55.9,
+     "y": 28.5,
+     "w": 1164,
+     "h": 130,
+     "text": "NIGHT",
+     "family": "Anton",
+     "size": 116,
+     "weight": 400,
+     "color": "#FFE600",
+     "align": "center",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 61.3,
+     "y": 178.8,
+     "w": 1164,
+     "h": 92,
+     "text": "SHIFT",
+     "family": "Anton",
+     "size": 82,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n37",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n38",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

@@ -264,6 +264,13 @@ func (s *Service) StoreBuiltin(ctx context.Context, workspaceID, ownerID, filena
 	return s.store(ctx, ownerID, workspaceID, data, name, nil, "", true)
 }
 
+// FetchImage downloads an image from a public URL under the same per-hop
+// SSRF policy as ImportFromURL, without storing it (template pictures are
+// fetched this way and cached by their own service).
+func (s *Service) FetchImage(ctx context.Context, rawURL string) ([]byte, error) {
+	return s.fetchImage(ctx, rawURL)
+}
+
 // ImportFromURL imports an image from a remote URL with a per-hop SSRF guard
 // (literal authority + resolved-IP re-check against private ranges, FR-12).
 // Every hop, including each redirect target, is re-vetted and then fetched
@@ -341,6 +348,9 @@ func (s *Service) getPinned(ctx context.Context, rawURL string, ip net.IP) (*htt
 	if err != nil {
 		return nil, err
 	}
+	// Some image hosts (Flickr's CDN among them) refuse Go's default client
+	// name, so imports say what they are in the form those hosts accept.
+	req.Header.Set("User-Agent", "Mozilla/5.0 (compatible; aidir3-design image import)")
 	pinned := ip.String()
 	transport := &http.Transport{
 		DisableKeepAlives: true,

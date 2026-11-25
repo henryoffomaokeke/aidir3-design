@@ -1,0 +1,1019 @@
+{
+ "id": "a3-lib-modern-retro70",
+ "title": "Child Dedication: 70s Retro",
+ "categories": [
+  "celebrations",
+  "events",
+  "social"
+ ],
+ "tags": [
+  "child dedication",
+  "baby dedication",
+  "church",
+  "thanksgiving",
+  "new baby",
+  "instagram portrait",
+  "70s retro",
+  "faith & community"
+ ],
+ "styleTags": [
+  "light",
+  "retro"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bodoni Moda",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F6E9DE",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       2160,
+       486
+      ],
+      [
+       2149.85,
+       649.2
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       2119.39,
+       810.45
+      ],
+      [
+       2069.06,
+       967.53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1999.62,
+       1118.58
+      ],
+      [
+       1911.71,
+       1261.66
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1806.52,
+       1395.01
+      ],
+      [
+       1685.56,
+       1517
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1550.02,
+       1625.86
+      ],
+      [
+       1401.84,
+       1720.54
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1242.86,
+       1799.66
+      ],
+      [
+       1075.03,
+       1862.16
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       900.5,
+       1907.45
+      ],
+      [
+       721.33,
+       1934.86
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       540,
+       1944
+      ],
+      [
+       358.67,
+       1934.86
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       179.5,
+       1907.45
+      ],
+      [
+       4.97,
+       1862.16
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -162.86,
+       1799.66
+      ],
+      [
+       -321.84,
+       1720.54
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -470.02,
+       1625.86
+      ],
+      [
+       -605.56,
+       1517
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -726.52,
+       1395.01
+      ],
+      [
+       -831.71,
+       1261.66
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -919.62,
+       1118.58
+      ],
+      [
+       -989.06,
+       967.53
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -1039.39,
+       810.45
+      ],
+      [
+       -1069.85,
+       649.2
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -1080,
+       486
+      ],
+      [
+       -1069.85,
+       322.8
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -1039.39,
+       161.55
+      ],
+      [
+       -989.06,
+       4.47
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -919.62,
+       -146.58
+      ],
+      [
+       -831.71,
+       -289.66
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -726.52,
+       -423.01
+      ],
+      [
+       -605.56,
+       -545
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -470.02,
+       -653.86
+      ],
+      [
+       -321.84,
+       -748.54
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       -162.86,
+       -827.66
+      ],
+      [
+       4.97,
+       -890.16
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       179.5,
+       -935.45
+      ],
+      [
+       358.67,
+       -962.86
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       540,
+       -972
+      ],
+      [
+       721.33,
+       -962.86
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       900.5,
+       -935.45
+      ],
+      [
+       1075.03,
+       -890.16
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1242.86,
+       -827.66
+      ],
+      [
+       1401.84,
+       -748.54
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1550.02,
+       -653.86
+      ],
+      [
+       1685.56,
+       -545
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1806.52,
+       -423.01
+      ],
+      [
+       1911.71,
+       -289.66
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       1999.62,
+       -146.58
+      ],
+      [
+       2069.06,
+       4.47
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       540,
+       486
+      ],
+      [
+       2119.39,
+       161.55
+      ],
+      [
+       2149.85,
+       322.8
+      ]
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "opacity": 0.2,
+     "name": "Sunburst",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 86,
+       "y": 1350,
+       "cOut": {
+        "x": 86,
+        "y": 1099.26
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 896,
+       "cIn": {
+        "x": 289.04,
+        "y": 896
+       },
+       "cOut": {
+        "x": 789.96,
+        "y": 896
+       }
+      },
+      {
+       "x": 993,
+       "y": 1350,
+       "cIn": {
+        "x": 993,
+        "y": 1099.26
+       }
+      },
+      {
+       "x": 899.86,
+       "y": 1350,
+       "cOut": {
+        "x": 899.86,
+        "y": 1150.76
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 989.25,
+       "cIn": {
+        "x": 738.52,
+        "y": 989.25
+       },
+       "cOut": {
+        "x": 340.48,
+        "y": 989.25
+       }
+      },
+      {
+       "x": 179.14,
+       "y": 1350,
+       "cIn": {
+        "x": 179.14,
+        "y": 1150.76
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#C4572F",
+     "name": "Rainbow arc"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 184.59,
+       "y": 1350,
+       "cOut": {
+        "x": 184.59,
+        "y": 1153.77
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 994.7,
+       "cIn": {
+        "x": 343.49,
+        "y": 994.7
+       },
+       "cOut": {
+        "x": 735.51,
+        "y": 994.7
+       }
+      },
+      {
+       "x": 894.41,
+       "y": 1350,
+       "cIn": {
+        "x": 894.41,
+        "y": 1153.77
+       }
+      },
+      {
+       "x": 801.27,
+       "y": 1350,
+       "cOut": {
+        "x": 801.27,
+        "y": 1205.27
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 1087.94,
+       "cIn": {
+        "x": 684.07,
+        "y": 1087.94
+       },
+       "cOut": {
+        "x": 394.93,
+        "y": 1087.94
+       }
+      },
+      {
+       "x": 277.73,
+       "y": 1350,
+       "cIn": {
+        "x": 277.73,
+        "y": 1205.27
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#E9B48A",
+     "name": "Rainbow arc"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 283.17,
+       "y": 1350,
+       "cOut": {
+        "x": 283.17,
+        "y": 1208.28
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 1093.39,
+       "cIn": {
+        "x": 397.94,
+        "y": 1093.39
+       },
+       "cOut": {
+        "x": 681.06,
+        "y": 1093.39
+       }
+      },
+      {
+       "x": 795.83,
+       "y": 1350,
+       "cIn": {
+        "x": 795.83,
+        "y": 1208.28
+       }
+      },
+      {
+       "x": 702.68,
+       "y": 1350,
+       "cOut": {
+        "x": 702.68,
+        "y": 1259.78
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 1186.64,
+       "cIn": {
+        "x": 629.62,
+        "y": 1186.64
+       },
+       "cOut": {
+        "x": 449.38,
+        "y": 1186.64
+       }
+      },
+      {
+       "x": 376.32,
+       "y": 1350,
+       "cIn": {
+        "x": 376.32,
+        "y": 1259.78
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#944427",
+     "name": "Rainbow arc"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 381.76,
+       "y": 1350,
+       "cOut": {
+        "x": 381.76,
+        "y": 1262.79
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 1192.09,
+       "cIn": {
+        "x": 452.38,
+        "y": 1192.09
+       },
+       "cOut": {
+        "x": 626.62,
+        "y": 1192.09
+       }
+      },
+      {
+       "x": 697.24,
+       "y": 1350,
+       "cIn": {
+        "x": 697.24,
+        "y": 1262.79
+       }
+      },
+      {
+       "x": 604.09,
+       "y": 1350,
+       "cOut": {
+        "x": 604.09,
+        "y": 1314.29
+       }
+      },
+      {
+       "x": 539.5,
+       "y": 1285.33,
+       "cIn": {
+        "x": 575.17,
+        "y": 1285.33
+       },
+       "cOut": {
+        "x": 503.83,
+        "y": 1285.33
+       }
+      },
+      {
+       "x": 474.91,
+       "y": 1350,
+       "cIn": {
+        "x": 474.91,
+        "y": 1314.29
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#EFCCB0",
+     "name": "Rainbow arc"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 94.9,
+     "w": 568,
+     "h": 147,
+     "text": "Dedication & thanksgiving",
+     "family": "Hanken Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#C4572F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5.8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 269.8,
+     "w": 924,
+     "h": 331,
+     "text": "Thank you, Lord",
+     "family": "Bodoni Moda",
+     "size": 162,
+     "weight": 800,
+     "color": "#3A2218",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 0.98
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 635.7,
+     "w": 924,
+     "h": 94,
+     "text": "We give thanks for baby Chidera and dedicate her to God. Join us for the service and lunch after.",
+     "family": "Hanken Grotesk",
+     "size": 32,
+     "weight": 400,
+     "color": "#85665A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 433,
+     "y": 776,
+     "w": 215,
+     "h": 75,
+     "fill": "#3A2218",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 433,
+     "y": 770.4,
+     "w": 215,
+     "h": 75,
+     "text": "Join us",
+     "family": "Hanken Grotesk",
+     "size": 30,
+     "weight": 700,
+     "color": "#F6E9DE",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n34",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 120 characters"
+  },
+  {
+   "node": "p0-n36",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

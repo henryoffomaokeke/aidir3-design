@@ -1,0 +1,188 @@
+{
+ "id": "a3-lib-wide-quote",
+ "title": "Quote Post with Portrait",
+ "categories": [
+  "quotes",
+  "social"
+ ],
+ "tags": [
+  "quote",
+  "facebook",
+  "leadership",
+  "portrait",
+  "facebook post",
+  "quotes"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1200,
+  630
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Playfair Display",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F2F2F0",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 725,
+     "y": 80,
+     "w": 470,
+     "h": 470,
+     "fill": "#FF5A1F"
+    },
+    {
+     "kind": "ellipse",
+     "x": 765,
+     "y": 440,
+     "w": 90,
+     "h": 90,
+     "fill": "#0A0A0A"
+    },
+    {
+     "kind": "photo",
+     "x": 760,
+     "y": 115,
+     "w": 400,
+     "h": 400,
+     "shape": "ellipse",
+     "fill": "#8D5A48",
+     "name": "Photo: smiling black woman marketer portrait"
+    },
+    {
+     "kind": "ellipse",
+     "x": 760,
+     "y": 115,
+     "w": 400,
+     "h": 400,
+     "stroke": "#F2F2F0",
+     "strokeWidth": 8,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 58.4,
+     "y": 126.6,
+     "w": 72.8,
+     "h": 84,
+     "text": "“",
+     "family": "Playfair Display",
+     "size": 106,
+     "weight": 700,
+     "color": "#FF5A1F",
+     "lineHeight": 1,
+     "name": "Quotation mark"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 201.5,
+     "w": 656,
+     "h": 170,
+     "text": "Customers don't buy features. They buy a better version of their day.",
+     "family": "Playfair Display",
+     "size": 46,
+     "weight": 700,
+     "color": "#0A0A0A",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 408,
+     "w": 60,
+     "h": 4,
+     "fill": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 418.8,
+     "w": 656,
+     "h": 34,
+     "text": "Kemi Adeyemi",
+     "family": "Albert Sans",
+     "size": 24,
+     "weight": 700,
+     "color": "#0A0A0A",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 454.1,
+     "w": 656,
+     "h": 28,
+     "text": "Growth lead, Orbit AI",
+     "family": "Albert Sans",
+     "size": 18,
+     "weight": 400,
+     "color": "#5C5C5C",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 64,
+     "y": 570.5,
+     "w": 656,
+     "h": 28,
+     "text": "Monday motivation",
+     "family": "Albert Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#5C5C5C",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 85 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

@@ -33,7 +33,7 @@ const apiDocsHTML = `<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>HyCanvas Generation API</title>
+<title>aidir3 Design Generation API</title>
 <style>
   body { font: 15px/1.6 system-ui, -apple-system, sans-serif; color: #1f2937; max-width: 46rem; margin: 2rem auto; padding: 0 1.25rem; }
   h1 { font-size: 1.5rem; } h2 { font-size: 1.1rem; margin-top: 2rem; }
@@ -48,7 +48,7 @@ const apiDocsHTML = `<!doctype html>
 </style>
 </head>
 <body>
-<h1>HyCanvas Generation API</h1>
+<h1>aidir3 Design Generation API</h1>
 <p>Generate complete, editable presentations programmatically. Machine contract: <a href="/api/docs/openapi.json">openapi.json</a>.</p>
 
 <h2>Authentication</h2>

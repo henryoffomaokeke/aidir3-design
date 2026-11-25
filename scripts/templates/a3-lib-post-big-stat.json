@@ -1,0 +1,421 @@
+{
+ "id": "a3-lib-post-big-stat",
+ "title": "Big Stat: AI Hiring",
+ "categories": [
+  "technology",
+  "social"
+ ],
+ "tags": [
+  "stat",
+  "data",
+  "ai",
+  "report",
+  "chart",
+  "instagram post",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Inter",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#06283D",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 836,
+     "y": 98,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 866,
+     "y": 98,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 896,
+     "y": 98,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 926,
+     "y": 98,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 956,
+     "y": 98,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 986,
+     "y": 98,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 836,
+     "y": 128,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 866,
+     "y": 128,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 896,
+     "y": 128,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 926,
+     "y": 128,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 956,
+     "y": 128,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 986,
+     "y": 128,
+     "w": 8,
+     "h": 8,
+     "fill": "#9FC3D9",
+     "opacity": 0.45
+    },
+    {
+     "kind": "icon",
+     "icon": "graph",
+     "x": 84,
+     "y": 93,
+     "w": 30,
+     "h": 30,
+     "color": "#47B5FF"
+    },
+    {
+     "kind": "text",
+     "x": 131,
+     "y": 78.1,
+     "w": 474,
+     "h": 48,
+     "text": "aidir3 Insights",
+     "family": "Inter",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 134.9,
+     "w": 912,
+     "h": 40,
+     "text": "State of AI hiring 2026",
+     "family": "Inter",
+     "size": 24,
+     "weight": 500,
+     "color": "#9FC3D9",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 166.6,
+     "w": 912,
+     "h": 240,
+     "text": "3.4×",
+     "family": "Space Grotesk",
+     "size": 240,
+     "weight": 700,
+     "color": "#47B5FF",
+     "lineHeight": 0.92
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 436.7,
+     "w": 912,
+     "h": 105,
+     "text": "more AI engineering roles posted than in 2024",
+     "family": "Inter",
+     "size": 44,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 595,
+     "w": 912,
+     "h": 321,
+     "fill": "#0B3A57",
+     "radius": 28
+    },
+    {
+     "kind": "rect",
+     "x": 132,
+     "y": 796,
+     "w": 84,
+     "h": 72,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 254,
+     "y": 776,
+     "w": 84,
+     "h": 92,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 376,
+     "y": 783,
+     "w": 84,
+     "h": 86,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 498,
+     "y": 744,
+     "w": 84,
+     "h": 124,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 620,
+     "y": 729,
+     "w": 84,
+     "h": 140,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 742,
+     "y": 693,
+     "w": 84,
+     "h": 176,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "rect",
+     "x": 864,
+     "y": 654,
+     "w": 84,
+     "h": 214,
+     "fill": {
+      "angle": 90,
+      "stops": [
+       [
+        "#47B5FF",
+        0
+       ],
+       [
+        "#DFF6FF",
+        1
+       ]
+      ]
+     },
+     "radius": 12
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 951.4,
+     "w": 912,
+     "h": 40,
+     "text": "Source: aidir3 Jobs index, Jan–Oct 2026 (sample data)",
+     "family": "Inter",
+     "size": 22,
+     "weight": 400,
+     "color": "#9FC3D9",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 55 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 65 characters"
+  }
+ ]
+}

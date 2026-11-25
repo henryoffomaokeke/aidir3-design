@@ -1,0 +1,526 @@
+{
+ "id": "a3-lib-post-hiring",
+ "title": "Hiring: Data Analyst",
+ "categories": [
+  "hr",
+  "social"
+ ],
+ "tags": [
+  "hiring",
+  "job",
+  "data",
+  "lagos",
+  "instagram portrait"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#151515",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 720,
+     "y": 30,
+     "w": 300,
+     "h": 300,
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#FFB347",
+        0
+       ],
+       [
+        "#FF5A1F",
+        1
+       ]
+      ]
+     },
+     "opacity": 0.95
+    },
+    {
+     "kind": "ellipse",
+     "x": 660,
+     "y": 64,
+     "w": 120,
+     "h": 120,
+     "stroke": "#FF5A1F",
+     "strokeWidth": 3,
+     "opacity": 0.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 830,
+     "y": 360,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 858,
+     "y": 360,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 886,
+     "y": 360,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 914,
+     "y": 360,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 942,
+     "y": 360,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 360,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 830,
+     "y": 388,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 858,
+     "y": 388,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 886,
+     "y": 388,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 914,
+     "y": 388,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 942,
+     "y": 388,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 388,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 830,
+     "y": 416,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 858,
+     "y": 416,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 886,
+     "y": 416,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 914,
+     "y": 416,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 942,
+     "y": 416,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 416,
+     "w": 8,
+     "h": 8,
+     "fill": "#A3A3A3",
+     "opacity": 0.5
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 84,
+     "w": 300,
+     "h": 62,
+     "fill": "#FF5A1F",
+     "radius": 31
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 78.6,
+     "w": 300,
+     "h": 62,
+     "text": "WE'RE HIRING",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "icon",
+     "icon": "briefcase",
+     "x": 84,
+     "y": 197,
+     "w": 30,
+     "h": 30,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 131,
+     "y": 181.7,
+     "w": 514,
+     "h": 48,
+     "text": "Northwind Pay · Lagos",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 500,
+     "color": "#A3A3A3",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 326.9,
+     "w": 912,
+     "h": 278,
+     "text": "Data\nAnalyst",
+     "family": "Anton",
+     "size": 140,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 0.95,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 84,
+     "y": 658,
+     "w": 32,
+     "h": 32,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 134,
+     "y": 641.3,
+     "w": 862,
+     "h": 52,
+     "text": "SQL, dbt and Looker every day",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 84,
+     "y": 724,
+     "w": 32,
+     "h": 32,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 134,
+     "y": 707.3,
+     "w": 862,
+     "h": 52,
+     "text": "Hybrid: 2 days in Lekki office",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 84,
+     "y": 790,
+     "w": 32,
+     "h": 32,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 134,
+     "y": 773.3,
+     "w": 862,
+     "h": 52,
+     "text": "Health cover for you + 3 family",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "circle-check",
+     "x": 84,
+     "y": 856,
+     "w": 32,
+     "h": 32,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 134,
+     "y": 839.3,
+     "w": 862,
+     "h": 52,
+     "text": "Laptop + monthly data stipend",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 84,
+     "y": 1126,
+     "w": 912,
+     "h": 2,
+     "fill": "#FFFFFF",
+     "opacity": 0.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 1163.7,
+     "w": 472,
+     "h": 48,
+     "text": "Lekki, Lagos · Hybrid",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 1212.6,
+     "w": 472,
+     "h": 48,
+     "text": "northwindpay.ng/careers",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 400,
+     "color": "#A3A3A3",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 596,
+     "y": 1170,
+     "w": 400,
+     "h": 96,
+     "fill": "#FF5A1F",
+     "radius": 48
+    },
+    {
+     "kind": "text",
+     "x": 630,
+     "y": 1163.3,
+     "w": 314,
+     "h": 96,
+     "text": "Apply today",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       945.5,
+       1218
+      ],
+      [
+       966.5,
+       1218
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       956,
+       1207.5
+      ],
+      [
+       966.5,
+       1218
+      ],
+      [
+       956,
+       1228.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n30",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 40 characters"
+  },
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": "a3-lib-logo-stacked",
+ "title": "MedPlus Corner: Stacked Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "pharmacy",
+  "stacked logo",
+  "health & wellness",
+  "medicine",
+  "drugstore"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1600,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Archivo Black",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EAFBFB",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 159,
+     "y": 244,
+     "w": 312,
+     "h": 312,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "icon": "pill",
+     "x": 233,
+     "y": 319,
+     "w": 162,
+     "h": 162,
+     "color": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 545,
+     "y": 287.4,
+     "w": 925,
+     "h": 121,
+     "text": "MedPlus Corner",
+     "family": "Archivo Black",
+     "size": 100,
+     "weight": 400,
+     "color": "#0F2E33",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 545,
+     "y": 442,
+     "w": 925,
+     "h": 41,
+     "text": "Pharmacy",
+     "family": "Red Hat Text",
+     "size": 34,
+     "weight": 700,
+     "color": "#4F7377",
+     "lineHeight": 1.12,
+     "letterSpacing": 6.1,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

@@ -99,7 +99,7 @@ const notificationPrefTypes = (): { type: NotificationType; label: string }[] =>
 function exportFilename(email: string | undefined): string {
   const stamp = new Date().toISOString().slice(0, 10);
   const who = (email ?? "account").replace(/[^a-z0-9]+/gi, "-").toLowerCase();
-  return `hycanvas-export-${who}-${stamp}.json`;
+  return `aidir3-design-export-${who}-${stamp}.json`;
 }
 
 function errMessage(e: unknown, fallback: string): string {

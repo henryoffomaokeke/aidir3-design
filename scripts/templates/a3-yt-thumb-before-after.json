@@ -1,0 +1,262 @@
+{
+ "id": "a3-yt-thumb-before-after",
+ "title": "Before and After Makeover Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "personal"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "before after",
+  "makeover",
+  "home",
+  "renovation",
+  "diy",
+  "interior"
+ ],
+ "styleTags": [
+  "warm",
+  "serif",
+  "editorial"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1995,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "DM Serif Display",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#F3ECE2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 40,
+     "w": 684,
+     "h": 560,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "photo",
+     "x": 576,
+     "y": 56,
+     "w": 652,
+     "h": 528,
+     "shape": "rect",
+     "name": "After photo",
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#E9C9A8",
+        0
+       ],
+       [
+        "#C98E62",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 40,
+     "y": 40,
+     "w": 476,
+     "h": 356,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "photo",
+     "x": 52,
+     "y": 52,
+     "w": 452,
+     "h": 332,
+     "shape": "rect",
+     "name": "Before photo",
+     "fill": "#A9A7A2"
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 52,
+     "w": 176,
+     "h": 56,
+     "fill": "#1A1A1A"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 52,
+     "w": 176,
+     "h": 56,
+     "text": "BEFORE",
+     "family": "DM Sans",
+     "size": 28,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "rect",
+     "x": 1036,
+     "y": 56,
+     "w": 192,
+     "h": 64,
+     "fill": "#D0603A"
+    },
+    {
+     "kind": "text",
+     "x": 1036,
+     "y": 56,
+     "w": 192,
+     "h": 64,
+     "text": "AFTER",
+     "family": "DM Sans",
+     "size": 32,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 3
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 380,
+       "y": 412,
+       "cOut": {
+        "x": 392,
+        "y": 462
+       }
+      },
+      {
+       "x": 520,
+       "y": 466,
+       "cIn": {
+        "x": 450,
+        "y": 474
+       }
+      }
+     ],
+     "stroke": "#D0603A",
+     "strokeWidth": 12,
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       550,
+       462
+      ],
+      [
+       512,
+       440
+      ],
+      [
+       514,
+       492
+      ]
+     ],
+     "closed": true,
+     "fill": "#D0603A"
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 478,
+     "w": 510,
+     "h": 90,
+     "text": "$800 Rental",
+     "family": "DM Serif Display",
+     "size": 80,
+     "weight": 400,
+     "color": "#1E3A2F",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 556,
+     "w": 510,
+     "h": 120,
+     "text": "Makeover",
+     "family": "DM Serif Display",
+     "size": 112,
+     "weight": 400,
+     "color": "#D0603A",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 576,
+     "y": 622,
+     "w": 652,
+     "h": 50,
+     "text": "No drilling  ·  3 weekends  ·  landlord approved",
+     "family": "DM Sans",
+     "size": 26,
+     "weight": 600,
+     "color": "#1E3A2F",
+     "lineHeight": 1,
+     "align": "right",
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Left tag",
+   "hint": "BEFORE, DAY 1 ..."
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Right tag",
+   "hint": "AFTER, DAY 21 ..."
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Headline line 1",
+   "hint": "Two words"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Headline line 2",
+   "hint": "One word"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Detail line",
+   "hint": "Three short facts"
+  }
+ ]
+}

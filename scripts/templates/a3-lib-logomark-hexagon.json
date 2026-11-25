@@ -1,0 +1,166 @@
+{
+ "id": "a3-lib-logomark-hexagon",
+ "title": "Gym Hexagon Logo",
+ "categories": [
+  "branding",
+  "marketing"
+ ],
+ "tags": [
+  "logo",
+  "gym",
+  "fitness",
+  "bold"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#151515",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      [
+       500,
+       180
+      ],
+      [
+       621.24,
+       255
+      ],
+      [
+       621.24,
+       405
+      ],
+      [
+       500,
+       480
+      ],
+      [
+       378.76,
+       405
+      ],
+      [
+       378.76,
+       255
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF5A1F",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       500,
+       212
+      ],
+      [
+       595.26,
+       271
+      ],
+      [
+       595.26,
+       389
+      ],
+      [
+       500,
+       448
+      ],
+      [
+       404.74,
+       389
+      ],
+      [
+       404.74,
+       271
+      ]
+     ],
+     "closed": true,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 4,
+     "join": "miter",
+     "name": "Shape"
+    },
+    {
+     "kind": "icon",
+     "icon": "bolt",
+     "x": 445,
+     "y": 275,
+     "w": 110,
+     "h": 110,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 553,
+     "w": 800,
+     "h": 110,
+     "text": "Ironhouse",
+     "family": "Anton",
+     "size": 92,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 674.6,
+     "w": 800,
+     "h": 36,
+     "text": "Strength & conditioning",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 500,
+     "color": "#A3A3A3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

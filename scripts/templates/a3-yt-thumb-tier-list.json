@@ -1,0 +1,429 @@
+{
+ "id": "a3-yt-thumb-tier-list",
+ "title": "Tier List YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "social",
+  "technology"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "tier list",
+  "ranking",
+  "review",
+  "keyboards",
+  "gaming",
+  "products"
+ ],
+ "styleTags": [
+  "dark",
+  "bold",
+  "colourful rows"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": -1988,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Barlow Condensed",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Barlow",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Thumbnail",
+   "bg": "#0F0F10",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 36,
+     "w": 760,
+     "h": 120,
+     "fill": "#1D1D20"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 36,
+     "w": 120,
+     "h": 120,
+     "fill": "#FF5C5C"
+    },
+    {
+     "kind": "text",
+     "x": 36,
+     "y": 36,
+     "w": 120,
+     "h": 120,
+     "text": "S",
+     "family": "Barlow Condensed",
+     "size": 84,
+     "weight": 800,
+     "color": "#0F0F10",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "photo",
+     "x": 170,
+     "y": 47,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "S tier item 1",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 282,
+     "y": 47,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "S tier item 2",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 165,
+     "w": 760,
+     "h": 120,
+     "fill": "#1D1D20"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 165,
+     "w": 120,
+     "h": 120,
+     "fill": "#FF9F43"
+    },
+    {
+     "kind": "text",
+     "x": 36,
+     "y": 165,
+     "w": 120,
+     "h": 120,
+     "text": "A",
+     "family": "Barlow Condensed",
+     "size": 84,
+     "weight": 800,
+     "color": "#0F0F10",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "photo",
+     "x": 170,
+     "y": 176,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "A tier item 1",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 282,
+     "y": 176,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "A tier item 2",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 394,
+     "y": 176,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "A tier item 3",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 294,
+     "w": 760,
+     "h": 120,
+     "fill": "#1D1D20"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 294,
+     "w": 120,
+     "h": 120,
+     "fill": "#FFD84D"
+    },
+    {
+     "kind": "text",
+     "x": 36,
+     "y": 294,
+     "w": 120,
+     "h": 120,
+     "text": "B",
+     "family": "Barlow Condensed",
+     "size": 84,
+     "weight": 800,
+     "color": "#0F0F10",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "photo",
+     "x": 170,
+     "y": 305,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "B tier item 1",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 282,
+     "y": 305,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "B tier item 2",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 394,
+     "y": 305,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "B tier item 3",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 506,
+     "y": 305,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "B tier item 4",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 423,
+     "w": 760,
+     "h": 120,
+     "fill": "#1D1D20"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 423,
+     "w": 120,
+     "h": 120,
+     "fill": "#7ED957"
+    },
+    {
+     "kind": "text",
+     "x": 36,
+     "y": 423,
+     "w": 120,
+     "h": 120,
+     "text": "C",
+     "family": "Barlow Condensed",
+     "size": 84,
+     "weight": 800,
+     "color": "#0F0F10",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "photo",
+     "x": 170,
+     "y": 434,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "C tier item 1",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "photo",
+     "x": 282,
+     "y": 434,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "C tier item 2",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 552,
+     "w": 760,
+     "h": 120,
+     "fill": "#1D1D20"
+    },
+    {
+     "kind": "rect",
+     "x": 36,
+     "y": 552,
+     "w": 120,
+     "h": 120,
+     "fill": "#5DADE2"
+    },
+    {
+     "kind": "text",
+     "x": 36,
+     "y": 552,
+     "w": 120,
+     "h": 120,
+     "text": "D",
+     "family": "Barlow Condensed",
+     "size": 84,
+     "weight": 800,
+     "color": "#0F0F10",
+     "lineHeight": 1,
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "photo",
+     "x": 170,
+     "y": 563,
+     "w": 98,
+     "h": 98,
+     "shape": "rect",
+     "radius": 8,
+     "name": "D tier item 1",
+     "fill": "#33333A"
+    },
+    {
+     "kind": "text",
+     "x": 836,
+     "y": 40,
+     "w": 408,
+     "h": 110,
+     "text": "RANKING",
+     "family": "Barlow Condensed",
+     "size": 112,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 830,
+     "y": 140,
+     "w": 408,
+     "h": 280,
+     "text": "37",
+     "family": "Barlow Condensed",
+     "size": 300,
+     "weight": 800,
+     "color": "#FFD84D",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 836,
+     "y": 428,
+     "w": 408,
+     "h": 110,
+     "text": "KEYBOARDS",
+     "family": "Barlow Condensed",
+     "size": 98,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 836,
+     "y": 562,
+     "w": 120,
+     "h": 8,
+     "fill": "#FFD84D"
+    },
+    {
+     "kind": "text",
+     "x": 836,
+     "y": 590,
+     "w": 408,
+     "h": 90,
+     "text": "Every board under $100,\nworst to best",
+     "family": "Barlow",
+     "size": 30,
+     "weight": 600,
+     "color": "#9A9AA3",
+     "lineHeight": 1.25
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Headline top",
+   "hint": "One word, caps"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Big number",
+   "hint": "Two or three digits"
+  },
+  {
+   "node": "p0-n29",
+   "kind": "text",
+   "label": "Headline bottom",
+   "hint": "One word, up to 9 letters"
+  },
+  {
+   "node": "p0-n31",
+   "kind": "text",
+   "label": "Subline",
+   "hint": "Two short lines"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Top tier label",
+   "hint": "S, or a word like GOAT"
+  }
+ ]
+}

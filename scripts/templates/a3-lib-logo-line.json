@@ -1,0 +1,117 @@
+{
+ "id": "a3-lib-logo-line",
+ "title": "Stillwater Therapy: Minimal Line Logo",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "mental health & therapy",
+  "minimal line logo",
+  "health & wellness",
+  "therapy",
+  "mental health"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1600,
+  800
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Red Hat Text",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E1A3D",
+   "nodes": [
+    {
+     "kind": "icon",
+     "icon": "bulb",
+     "x": 754,
+     "y": 124,
+     "w": 93,
+     "h": 93,
+     "color": "#F2C14E"
+    },
+    {
+     "kind": "rect",
+     "x": 349,
+     "y": 261,
+     "w": 902,
+     "h": 3,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 160,
+     "y": 287.7,
+     "w": 1280,
+     "h": 228,
+     "text": "Stillwater\nTherapy",
+     "family": "Red Hat Text",
+     "size": 98,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 21.6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 349,
+     "y": 580,
+     "w": 902,
+     "h": 3,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 352,
+     "y": 619,
+     "w": 896,
+     "h": 49,
+     "text": "Mental health & therapy",
+     "family": "Albert Sans",
+     "size": 40,
+     "weight": 700,
+     "color": "#AAB4D6",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 7.2,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

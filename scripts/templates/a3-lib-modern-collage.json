@@ -1,0 +1,430 @@
+{
+ "id": "a3-lib-modern-collage",
+ "title": "Farm & Agriculture: Mixed-mask Collage",
+ "categories": [
+  "flyers",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "farm",
+  "agriculture",
+  "farming",
+  "organic",
+  "produce",
+  "flyer",
+  "mixed-mask collage"
+ ],
+ "styleTags": [
+  "dark",
+  "collage",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Epilogue",
+   "weight": 900
+  },
+  {
+   "role": "body",
+   "family": "Host Grotesk",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#10231B",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 89,
+     "y": 176,
+     "w": 546,
+     "h": 709,
+     "shape": "rect",
+     "fill": "#3A413E",
+     "name": "Photo: fresh vegetables farm harvest",
+     "image": {
+      "asset": "tplph-ov-437a82c6-decd-4798-9983-41ba8423631e",
+      "url": "/api/v1/templates/photos/ov/437a82c6-decd-4798-9983-41ba8423631e.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Garden Vegetables",
+       "author": "Foodie Girl",
+       "url": "https://stocksnap.io/photo/garden-vegetables-HCHMQXGY4S",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Garden Vegetables",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       87.5,
+       174.5
+      ],
+      [
+       362,
+       174.5
+      ],
+      {
+       "x": 362,
+       "y": 176,
+       "cOut": {
+        "x": 211.22,
+        "y": 176
+       }
+      },
+      {
+       "x": 89,
+       "y": 449,
+       "cIn": {
+        "x": 89,
+        "y": 298.22
+       }
+      },
+      [
+       87.5,
+       449
+      ]
+     ],
+     "closed": true,
+     "fill": "#10231B",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       636.5,
+       174.5
+      ],
+      [
+       362,
+       174.5
+      ],
+      {
+       "x": 362,
+       "y": 176,
+       "cOut": {
+        "x": 512.78,
+        "y": 176
+       }
+      },
+      {
+       "x": 635,
+       "y": 449,
+       "cIn": {
+        "x": 635,
+        "y": 298.22
+       }
+      },
+      [
+       636.5,
+       449
+      ]
+     ],
+     "closed": true,
+     "fill": "#10231B",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "photo",
+     "x": 633,
+     "y": 213,
+     "w": 518,
+     "h": 518,
+     "shape": "ellipse",
+     "fill": "#3A413E",
+     "name": "Photo: farmer in green field",
+     "image": {
+      "asset": "tplph-ov-82e545f3-47cd-4f41-9028-0b745eb56eae",
+      "url": "/api/v1/templates/photos/ov/82e545f3-47cd-4f41-9028-0b745eb56eae.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Farming Fields",
+       "author": "World Travel Adventures",
+       "url": "https://stocksnap.io/photo/farming-fields-OGUY6JXNBC",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Farming Fields",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "photo",
+     "x": 715,
+     "y": 756,
+     "w": 436,
+     "h": 300,
+     "shape": "ellipse",
+     "fill": "#3A413E",
+     "name": "Photo: free range chickens farm",
+     "image": {
+      "asset": "tplph-ov-a9a10790-0948-4b10-97ba-02c30ffa0416",
+      "url": "/api/v1/templates/photos/ov/a9a10790-0948-4b10-97ba-02c30ffa0416.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Free range hen farm, chicken",
+       "author": "U.S. Department of Agriculture",
+       "url": "https://www.rawpixel.com/image/8731894/photo-image-public-domain-animal",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Free range hen farm, chicken",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 641,
+       "y": 126,
+       "cIn": {
+        "x": 636.92,
+        "y": 174.96
+       },
+       "cOut": {
+        "x": 645.08,
+        "y": 174.96
+       }
+      },
+      {
+       "x": 709,
+       "y": 194,
+       "cIn": {
+        "x": 660.04,
+        "y": 189.92
+       },
+       "cOut": {
+        "x": 660.04,
+        "y": 198.08
+       }
+      },
+      {
+       "x": 641,
+       "y": 262,
+       "cIn": {
+        "x": 645.08,
+        "y": 213.04
+       },
+       "cOut": {
+        "x": 636.92,
+        "y": 213.04
+       }
+      },
+      {
+       "x": 573,
+       "y": 194,
+       "cIn": {
+        "x": 621.96,
+        "y": 198.08
+       },
+       "cOut": {
+        "x": 621.96,
+        "y": 189.92
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#D8B45A",
+     "name": "Sparkle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 584.46,
+       "y": 832,
+       "cOut": {
+        "x": 597.84,
+        "y": 796.16
+       }
+      },
+      {
+       "x": 624.6,
+       "y": 832,
+       "cIn": {
+        "x": 611.22,
+        "y": 796.16
+       },
+       "cOut": {
+        "x": 637.98,
+        "y": 867.84
+       }
+      },
+      {
+       "x": 664.74,
+       "y": 832,
+       "cIn": {
+        "x": 651.36,
+        "y": 867.84
+       },
+       "cOut": {
+        "x": 678.12,
+        "y": 796.16
+       }
+      },
+      {
+       "x": 704.88,
+       "y": 832,
+       "cIn": {
+        "x": 691.5,
+        "y": 796.16
+       },
+       "cOut": {
+        "x": 718.26,
+        "y": 867.84
+       }
+      },
+      {
+       "x": 745.02,
+       "y": 832,
+       "cIn": {
+        "x": 731.64,
+        "y": 867.84
+       },
+       "cOut": {
+        "x": 758.4,
+        "y": 796.16
+       }
+      },
+      {
+       "x": 798.54,
+       "y": 832,
+       "cIn": {
+        "x": 771.78,
+        "y": 796.16
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#3F7A5C",
+     "strokeWidth": 10,
+     "cap": "round",
+     "join": "round",
+     "name": "Squiggle"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 77,
+     "w": 287,
+     "h": 59,
+     "fill": "#D8B45A",
+     "radius": 29.5,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 70.7,
+     "w": 287,
+     "h": 59,
+     "text": "Farm fresh",
+     "family": "Host Grotesk",
+     "size": 27,
+     "weight": 700,
+     "color": "#10231B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1086.5,
+     "w": 1062,
+     "h": 285,
+     "text": "Organic and local",
+     "family": "Epilogue",
+     "size": 137,
+     "weight": 900,
+     "color": "#F5EFDC",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1411.4,
+     "w": 1062,
+     "h": 109,
+     "text": "Organic vegetables, eggs and poultry delivered fresh every week. Bulk orders welcome.",
+     "family": "Host Grotesk",
+     "size": 37,
+     "weight": 400,
+     "color": "#B7C2B2",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1576,
+     "w": 339,
+     "h": 88,
+     "fill": "#F5EFDC",
+     "radius": 44,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1567.9,
+     "w": 339,
+     "h": 88,
+     "text": "Order fresh",
+     "family": "Host Grotesk",
+     "size": 35,
+     "weight": 700,
+     "color": "#10231B",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 105 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

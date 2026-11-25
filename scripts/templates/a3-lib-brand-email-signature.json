@@ -1,0 +1,251 @@
+{
+ "id": "a3-lib-brand-email-signature",
+ "title": "BasketGo: Email Signature",
+ "categories": [
+  "branding"
+ ],
+ "tags": [
+  "logo",
+  "brand kit",
+  "branding",
+  "grocery delivery",
+  "geometric pattern logo",
+  "sale & offers",
+  "grocery",
+  "delivery"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1200,
+  300
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FF7A00",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 57,
+     "y": 67,
+     "w": 71,
+     "h": 71,
+     "stroke": "#1A0E00",
+     "strokeWidth": 13.5
+    },
+    {
+     "kind": "rect",
+     "x": 145,
+     "y": 60,
+     "w": 85,
+     "h": 85,
+     "fill": "#FFF1DB",
+     "radius": 10.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 50,
+     "y": 155,
+     "w": 85,
+     "h": 85,
+     "fill": "#FFF1DB"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       187.5,
+       155
+      ],
+      [
+       230,
+       240
+      ],
+      [
+       145,
+       240
+      ]
+     ],
+     "closed": true,
+     "fill": "#1A0E00",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 265,
+     "y": 45,
+     "w": 3,
+     "h": 210,
+     "fill": "#1A0E00",
+     "opacity": 0.6
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 29.6,
+     "w": 860,
+     "h": 56,
+     "text": "Zainab Bello",
+     "family": "Archivo Black",
+     "size": 46,
+     "weight": 400,
+     "color": "#1A0E00",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 300,
+     "y": 95.4,
+     "w": 860,
+     "h": 26,
+     "text": "Client Partner  ·  BasketGo",
+     "family": "DM Sans",
+     "size": 21,
+     "weight": 700,
+     "color": "#1A0E00",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 300,
+     "y": 155,
+     "w": 22,
+     "h": 22,
+     "color": "#1A0E00"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 143.6,
+     "w": 386,
+     "h": 35,
+     "text": "+234 808 555 5414",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 300,
+     "y": 199,
+     "w": 22,
+     "h": 22,
+     "color": "#1A0E00"
+    },
+    {
+     "kind": "text",
+     "x": 334,
+     "y": 187.6,
+     "w": 386,
+     "h": 35,
+     "text": "basketgo.ng",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 740,
+     "y": 155,
+     "w": 22,
+     "h": 22,
+     "color": "#1A0E00"
+    },
+    {
+     "kind": "text",
+     "x": 774,
+     "y": 143.6,
+     "w": 386,
+     "h": 35,
+     "text": "zainab@basketgo.ng",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 740,
+     "y": 199,
+     "w": 22,
+     "h": 22,
+     "color": "#1A0E00"
+    },
+    {
+     "kind": "text",
+     "x": 774,
+     "y": 187.6,
+     "w": 386,
+     "h": 35,
+     "text": "@basketgo",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 500,
+     "color": "#1A0E00",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

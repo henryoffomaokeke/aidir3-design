@@ -1,0 +1,830 @@
+{
+ "id": "a3-lib-promo-wave",
+ "title": "Spotless Cleaning Promo Flyer: Wave Split Dark",
+ "categories": [
+  "flyers",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "promo",
+  "promo flyer",
+  "business flyer",
+  "cleaning",
+  "home",
+  "services",
+  "flyer",
+  "wave split dark"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 1754,
+     "fill": "#121212",
+     "name": "Page"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       0,
+       0
+      ],
+      {
+       "x": 768.8,
+       "y": 0,
+       "cOut": {
+        "x": 868,
+        "y": 245.5
+       }
+      },
+      {
+       "x": 644.8,
+       "y": 736.5,
+       "cIn": {
+        "x": 520.8,
+        "y": 491
+       },
+       "cOut": {
+        "x": 694.4,
+        "y": 864.16
+       }
+      },
+      {
+       "x": 582.8,
+       "y": 982,
+       "cIn": {
+        "x": 582.8,
+        "y": 982
+       }
+      },
+      [
+       0,
+       982
+      ]
+     ],
+     "closed": true,
+     "fill": "#D7141C",
+     "name": "Brand wave"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 620,
+     "h": 526,
+     "fill": "#FFFFFF",
+     "opacity": 0.02,
+     "name": "Dot texture"
+    },
+    {
+     "kind": "ellipse",
+     "x": 37,
+     "y": 376,
+     "w": 546,
+     "h": 546,
+     "fill": "#FFD23F",
+     "opacity": 0.35,
+     "name": "Glow"
+    },
+    {
+     "kind": "photo",
+     "x": 159,
+     "y": 160,
+     "w": 302,
+     "h": 877,
+     "shape": "rect",
+     "fill": "#E14637",
+     "name": "Cut-out person (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-71eafc7f-9102-466b-b90d-b62e178d6762",
+      "url": "/api/v1/templates/photos/cutouts/71eafc7f-9102-466b-b90d-b62e178d6762.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Young Man",
+       "author": "Kristin Hardwick",
+       "url": "https://stocksnap.io/photo/young-man-DC75ZJVABT",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     }
+    },
+    {
+     "kind": "icon",
+     "icon": "droplet",
+     "x": 48,
+     "y": 69,
+     "w": 136,
+     "h": 136,
+     "color": "#FFD23F"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 0,
+       "y": 1000.08,
+       "cOut": {
+        "x": 310,
+        "y": 929.93
+       }
+      },
+      {
+       "x": 806,
+       "y": 859.08,
+       "cIn": {
+        "x": 496,
+        "y": 946.77
+       },
+       "cOut": {
+        "x": 1116,
+        "y": 771.39
+       }
+      },
+      {
+       "x": 1240,
+       "y": 859.08,
+       "cIn": {
+        "x": 1116,
+        "y": 824
+       }
+      },
+      [
+       1240,
+       1579.02
+      ],
+      [
+       0,
+       1579.02
+      ]
+     ],
+     "closed": true,
+     "fill": "#FDF1F1",
+     "name": "Details band"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1579,
+     "w": 1240,
+     "h": 175,
+     "fill": "#D7141C",
+     "name": "Footer"
+    },
+    {
+     "kind": "rect",
+     "x": 658,
+     "y": 69,
+     "w": 95,
+     "h": 95,
+     "fill": "#D7141C",
+     "radius": 27,
+     "name": "Logo mark"
+    },
+    {
+     "kind": "icon",
+     "icon": "sparkles",
+     "x": 677,
+     "y": 88,
+     "w": 57,
+     "h": 57,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 778,
+     "y": 62.3,
+     "w": 417,
+     "h": 95,
+     "text": "SPOTLESS CLEANING",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 655,
+     "y": 205.7,
+     "w": 544,
+     "h": 83,
+     "text": "PROFESSIONAL",
+     "family": "Figtree",
+     "size": 52,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.02,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 633,
+     "y": 314,
+     "w": 607,
+     "h": 146,
+     "fill": "#D7141C",
+     "name": "Highlight bar"
+    },
+    {
+     "kind": "text",
+     "x": 655,
+     "y": 302.2,
+     "w": 544,
+     "h": 146,
+     "text": "CLEANING",
+     "family": "Figtree",
+     "size": 79,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 655,
+     "y": 470.4,
+     "w": 544,
+     "h": 87,
+     "text": "FOR HOMES & OFFICES",
+     "family": "Figtree",
+     "size": 41,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.02,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 655,
+     "y": 575.2,
+     "w": 544,
+     "h": 144,
+     "text": "Deep cleaning, post-construction and fumigation.",
+     "family": "Figtree",
+     "size": 36,
+     "weight": 500,
+     "color": "#CBCBCB",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 93,
+     "y": 648,
+     "w": 459,
+     "h": 459,
+     "fill": "#121212",
+     "name": "Badge"
+    },
+    {
+     "kind": "ellipse",
+     "x": 121,
+     "y": 675,
+     "w": 404,
+     "h": 404,
+     "stroke": "#FFD23F",
+     "strokeWidth": 7,
+     "name": "Badge ring"
+    },
+    {
+     "kind": "text",
+     "x": 162,
+     "y": 775.1,
+     "w": 199,
+     "h": 175,
+     "text": "20",
+     "family": "Figtree",
+     "size": 119,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 0.95
+    },
+    {
+     "kind": "text",
+     "x": 367,
+     "y": 776.5,
+     "w": 122,
+     "h": 88,
+     "text": "%",
+     "family": "Figtree",
+     "size": 90,
+     "weight": 800,
+     "color": "#FFD23F",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 367,
+     "y": 871,
+     "w": 122,
+     "h": 88,
+     "text": "OFF",
+     "family": "Figtree",
+     "size": 47,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       29,
+       1042
+      ],
+      [
+       616,
+       1042
+      ],
+      [
+       580.78,
+       1081
+      ],
+      [
+       616,
+       1120
+      ],
+      [
+       29,
+       1120
+      ],
+      [
+       64.22,
+       1081
+      ]
+     ],
+     "closed": true,
+     "fill": "#121212",
+     "name": "Ribbon"
+    },
+    {
+     "kind": "text",
+     "x": 87,
+     "y": 1033.9,
+     "w": 470,
+     "h": 78,
+     "text": "FIRST BOOKING",
+     "family": "Figtree",
+     "size": 36,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 655,
+     "y": 934,
+     "w": 72,
+     "h": 72,
+     "fill": "#D7141C",
+     "name": "Check chip"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704.33,
+       960
+      ],
+      [
+       686,
+       978.33
+      ],
+      [
+       677.67,
+       970
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (check)"
+    },
+    {
+     "kind": "text",
+     "x": 754,
+     "y": 911.8,
+     "w": 445,
+     "h": 98,
+     "text": "Deep cleaning",
+     "family": "Figtree",
+     "size": 41,
+     "weight": 500,
+     "color": "#121212",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 655,
+     "y": 1049,
+     "w": 72,
+     "h": 72,
+     "fill": "#D7141C",
+     "name": "Check chip"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704.33,
+       1075
+      ],
+      [
+       686,
+       1093.33
+      ],
+      [
+       677.67,
+       1085
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (check)"
+    },
+    {
+     "kind": "text",
+     "x": 754,
+     "y": 1027.7,
+     "w": 445,
+     "h": 98,
+     "text": "Post-construction",
+     "family": "Figtree",
+     "size": 37,
+     "weight": 500,
+     "color": "#121212",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 655,
+     "y": 1164,
+     "w": 72,
+     "h": 72,
+     "fill": "#D7141C",
+     "name": "Check chip"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704.33,
+       1189
+      ],
+      [
+       686,
+       1207.33
+      ],
+      [
+       677.67,
+       1199
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (check)"
+    },
+    {
+     "kind": "text",
+     "x": 754,
+     "y": 1141.8,
+     "w": 445,
+     "h": 98,
+     "text": "Fumigation",
+     "family": "Figtree",
+     "size": 41,
+     "weight": 500,
+     "color": "#121212",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 655,
+     "y": 1278,
+     "w": 72,
+     "h": 72,
+     "fill": "#D7141C",
+     "name": "Check chip"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       704.33,
+       1304
+      ],
+      [
+       686,
+       1322.33
+      ],
+      [
+       677.67,
+       1314
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.8,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (check)"
+    },
+    {
+     "kind": "text",
+     "x": 754,
+     "y": 1255.8,
+     "w": 445,
+     "h": 98,
+     "text": "Office contracts",
+     "family": "Figtree",
+     "size": 41,
+     "weight": 500,
+     "color": "#121212",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 655,
+     "y": 1393,
+     "w": 72,
+     "h": 72,
+     "fill": "#D7141C",
+     "name": "Check chip"
+    },
+    {
+     "kind": "icon",
+     "icon": "user",
+     "x": 671,
+     "y": 1409,
+     "w": 40,
+     "h": 40,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 754,
+     "y": 1370.8,
+     "w": 445,
+     "h": 98,
+     "text": "Trained staff",
+     "family": "Figtree",
+     "size": 41,
+     "weight": 500,
+     "color": "#121212",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 171,
+     "y": 1150,
+     "w": 278,
+     "h": 278,
+     "fill": "#FFFFFF",
+     "radius": 20,
+     "name": "QR card"
+    },
+    {
+     "kind": "photo",
+     "x": 186,
+     "y": 1165,
+     "w": 248,
+     "h": 248,
+     "shape": "rect",
+     "radius": 14.9,
+     "fill": "#FFFFFF",
+     "name": "QR code"
+    },
+    {
+     "kind": "text",
+     "x": 149,
+     "y": 1432.4,
+     "w": 322,
+     "h": 47,
+     "text": "SCAN TO REGISTER",
+     "family": "Figtree",
+     "size": 25,
+     "weight": 700,
+     "color": "#121212",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 69,
+     "y": 1494.4,
+     "w": 1102,
+     "h": 55,
+     "text": "Call / WhatsApp: 0803 000 3773  ·  18 Ring Road, Independence Layout, Enugu",
+     "family": "Figtree",
+     "size": 25,
+     "weight": 500,
+     "color": "#121212",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "ellipse",
+     "x": 69,
+     "y": 1623,
+     "w": 88,
+     "h": 88,
+     "fill": "#121212",
+     "name": "instagram icon"
+    },
+    {
+     "kind": "icon",
+     "icon": "camera",
+     "x": 90,
+     "y": 1644,
+     "w": 46,
+     "h": 46,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 176,
+     "y": 1623,
+     "w": 88,
+     "h": 88,
+     "fill": "#121212",
+     "name": "facebook icon"
+    },
+    {
+     "kind": "icon",
+     "icon": "thumb-up",
+     "x": 197,
+     "y": 1644,
+     "w": 46,
+     "h": 46,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 284,
+     "y": 1623,
+     "w": 88,
+     "h": 88,
+     "fill": "#121212",
+     "name": "linkedin icon"
+    },
+    {
+     "kind": "icon",
+     "icon": "briefcase",
+     "x": 305,
+     "y": 1644,
+     "w": 46,
+     "h": 46,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 391,
+     "y": 1623,
+     "w": 88,
+     "h": 88,
+     "fill": "#121212",
+     "name": "youtube icon"
+    },
+    {
+     "kind": "icon",
+     "icon": "player-play",
+     "x": 412,
+     "y": 1644,
+     "w": 46,
+     "h": 46,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 548,
+     "y": 1618,
+     "w": 623,
+     "h": 98,
+     "fill": "#FFFFFF",
+     "radius": 49,
+     "name": "Website bar"
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 576,
+     "y": 1639,
+     "w": 55,
+     "h": 55,
+     "color": "#121212"
+    },
+    {
+     "kind": "text",
+     "x": 646,
+     "y": 1610.8,
+     "w": 500,
+     "h": 98,
+     "text": "www.spotlesscleaning.ng",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#121212",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

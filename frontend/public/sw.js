@@ -133,7 +133,7 @@ self.addEventListener("push", (event) => {
   } catch {
     payload = {};
   }
-  const title = payload.title || "HyCanvas";
+  const title = payload.title || "aidir3 Design";
   const body = payload.body || "You have a new notification.";
   const url = payload.url || "/";
   const options = {

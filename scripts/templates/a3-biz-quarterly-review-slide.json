@@ -1,0 +1,742 @@
+{
+ "id": "a3-biz-quarterly-review-slide",
+ "title": "Quarterly Business Review Slide",
+ "categories": [
+  "business",
+  "presentations"
+ ],
+ "tags": [
+  "qbr",
+  "quarterly review",
+  "kpi",
+  "charts",
+  "summary slide",
+  "board",
+  "results"
+ ],
+ "styleTags": [
+  "charcoal",
+  "gold",
+  "data"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -936,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Sora",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "QBR summary",
+   "bg": "#F3F2EE",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 600,
+     "h": 1080,
+     "fill": "#1B1C20"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 76,
+     "w": 20,
+     "h": 20,
+     "fill": "#D4A72C",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 106,
+     "y": 74,
+     "w": 360,
+     "h": 26,
+     "text": "Oakhollow Software",
+     "family": "Inter",
+     "size": 19,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 168,
+     "w": 456,
+     "h": 24,
+     "text": "Quarterly business review",
+     "family": "Inter",
+     "size": 17,
+     "weight": 600,
+     "color": "#D4A72C",
+     "letterSpacing": 3.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 204,
+     "w": 456,
+     "h": 150,
+     "text": "Q3 FY26\nin summary",
+     "family": "Sora",
+     "size": 66,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": -1.2,
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 384,
+     "w": 456,
+     "h": 28,
+     "text": "Quarter ended 30 September 2026",
+     "family": "Inter",
+     "size": 21,
+     "weight": 400,
+     "color": "#A6A9B0"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 456,
+     "w": 456,
+     "h": 152,
+     "fill": "#27292F",
+     "radius": 16,
+     "stroke": "#3A3D45",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 480,
+     "w": 4,
+     "h": 104,
+     "fill": "#D4A72C"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 480,
+     "w": 300,
+     "h": 22,
+     "text": "Revenue",
+     "family": "Inter",
+     "size": 16,
+     "weight": 600,
+     "color": "#A6A9B0",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 512,
+     "w": 270,
+     "h": 72,
+     "text": "$12.9M",
+     "family": "Sora",
+     "size": 58,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": -1,
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#D4A72C",
+     "points": [
+      [
+       350,
+       555
+      ],
+      [
+       358,
+       542
+      ],
+      [
+       366,
+       555
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 374,
+     "y": 536,
+     "w": 138,
+     "h": 26,
+     "text": "13% on Q2",
+     "family": "Inter",
+     "size": 18,
+     "weight": 600,
+     "color": "#D4A72C"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 626,
+     "w": 456,
+     "h": 152,
+     "fill": "#27292F",
+     "radius": 16,
+     "stroke": "#3A3D45",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 650,
+     "w": 4,
+     "h": 104,
+     "fill": "#D4A72C"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 650,
+     "w": 300,
+     "h": 22,
+     "text": "Net new ARR",
+     "family": "Inter",
+     "size": 16,
+     "weight": 600,
+     "color": "#A6A9B0",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 682,
+     "w": 270,
+     "h": 72,
+     "text": "$3.4M",
+     "family": "Sora",
+     "size": 58,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": -1,
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#D4A72C",
+     "points": [
+      [
+       350,
+       725
+      ],
+      [
+       358,
+       712
+      ],
+      [
+       366,
+       725
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 374,
+     "y": 706,
+     "w": 138,
+     "h": 26,
+     "text": "113% of plan",
+     "family": "Inter",
+     "size": 18,
+     "weight": 600,
+     "color": "#D4A72C"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 796,
+     "w": 456,
+     "h": 152,
+     "fill": "#27292F",
+     "radius": 16,
+     "stroke": "#3A3D45",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 820,
+     "w": 4,
+     "h": 104,
+     "fill": "#F08A6B"
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 820,
+     "w": 300,
+     "h": 22,
+     "text": "Gross retention",
+     "family": "Inter",
+     "size": 16,
+     "weight": 600,
+     "color": "#A6A9B0",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 102,
+     "y": 852,
+     "w": 270,
+     "h": 72,
+     "text": "94.2%",
+     "family": "Sora",
+     "size": 58,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "letterSpacing": -1,
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#F08A6B",
+     "points": [
+      [
+       350,
+       882
+      ],
+      [
+       366,
+       882
+      ],
+      [
+       358,
+       895
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 374,
+     "y": 876,
+     "w": 138,
+     "h": 26,
+     "text": "0.6 pts on Q2",
+     "family": "Inter",
+     "size": 18,
+     "weight": 600,
+     "color": "#F08A6B"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 986,
+     "w": 456,
+     "h": 20,
+     "text": "Confidential · Slide 2 of 14",
+     "family": "Inter",
+     "size": 15,
+     "weight": 400,
+     "color": "#7D8088",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "rect",
+     "x": 664,
+     "y": 76,
+     "w": 576,
+     "h": 500,
+     "fill": "#FFFFFF",
+     "radius": 18,
+     "stroke": "#DEDCD4",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 700,
+     "y": 106,
+     "w": 416,
+     "h": 34,
+     "text": "Revenue by quarter",
+     "family": "Sora",
+     "size": 26,
+     "weight": 600,
+     "color": "#1B1C20"
+    },
+    {
+     "kind": "text",
+     "x": 1104,
+     "y": 112,
+     "w": 100,
+     "h": 24,
+     "text": "$M",
+     "family": "Inter",
+     "size": 18,
+     "weight": 500,
+     "color": "#55585F",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "name": "Revenue by quarter",
+     "x": 686,
+     "y": 160,
+     "w": 532,
+     "h": 396,
+     "chartType": "bar",
+     "categories": [
+      "Q4 FY25",
+      "Q1 FY26",
+      "Q2 FY26",
+      "Q3 FY26"
+     ],
+     "series": [
+      {
+       "name": "Revenue",
+       "values": [
+        9.8,
+        10.6,
+        11.4,
+        12.9
+       ],
+       "color": "#CFA02B"
+      }
+     ],
+     "fontSize": 19,
+     "legend": false,
+     "valueLabels": true
+    },
+    {
+     "kind": "rect",
+     "x": 1268,
+     "y": 76,
+     "w": 576,
+     "h": 500,
+     "fill": "#FFFFFF",
+     "radius": 18,
+     "stroke": "#DEDCD4",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 106,
+     "w": 416,
+     "h": 34,
+     "text": "Open pipeline by stage",
+     "family": "Sora",
+     "size": 26,
+     "weight": 600,
+     "color": "#1B1C20"
+    },
+    {
+     "kind": "text",
+     "x": 1708,
+     "y": 112,
+     "w": 100,
+     "h": 24,
+     "text": "$M",
+     "family": "Inter",
+     "size": 18,
+     "weight": 500,
+     "color": "#55585F",
+     "align": "right"
+    },
+    {
+     "kind": "chart",
+     "name": "Open pipeline by stage",
+     "x": 1290,
+     "y": 160,
+     "w": 532,
+     "h": 396,
+     "chartType": "bar",
+     "categories": [
+      "Qualified",
+      "Discovery",
+      "Proposal",
+      "Contract",
+      "Commit"
+     ],
+     "series": [
+      {
+       "name": "Pipeline",
+       "values": [
+        18.4,
+        12.1,
+        8.6,
+        5.2,
+        3.9
+       ],
+       "color": "#2E3037"
+      }
+     ],
+     "fontSize": 19,
+     "legend": false,
+     "valueLabels": true
+    },
+    {
+     "kind": "text",
+     "x": 664,
+     "y": 624,
+     "w": 300,
+     "h": 36,
+     "text": "Highlights",
+     "family": "Sora",
+     "size": 28,
+     "weight": 700,
+     "color": "#1B1C20"
+    },
+    {
+     "kind": "rect",
+     "x": 664,
+     "y": 674,
+     "w": 576,
+     "h": 2,
+     "fill": "#1B1C20"
+    },
+    {
+     "kind": "icon",
+     "x": 664,
+     "y": 705,
+     "w": 30,
+     "h": 30,
+     "icon": "circle-check",
+     "color": "#9A7410"
+    },
+    {
+     "kind": "text",
+     "x": 714,
+     "y": 702,
+     "w": 516,
+     "h": 72,
+     "text": "Closed nine enterprise deals, two of them above $1M a year",
+     "family": "Inter",
+     "size": 25,
+     "weight": 500,
+     "color": "#1B1C20",
+     "lineHeight": 1.36
+    },
+    {
+     "kind": "rect",
+     "x": 714,
+     "y": 790,
+     "w": 526,
+     "h": 1,
+     "fill": "#DEDCD4"
+    },
+    {
+     "kind": "icon",
+     "x": 664,
+     "y": 813,
+     "w": 30,
+     "h": 30,
+     "icon": "circle-check",
+     "color": "#9A7410"
+    },
+    {
+     "kind": "text",
+     "x": 714,
+     "y": 810,
+     "w": 516,
+     "h": 72,
+     "text": "Launched usage-based pricing across North America",
+     "family": "Inter",
+     "size": 25,
+     "weight": 500,
+     "color": "#1B1C20",
+     "lineHeight": 1.36
+    },
+    {
+     "kind": "rect",
+     "x": 714,
+     "y": 898,
+     "w": 526,
+     "h": 1,
+     "fill": "#DEDCD4"
+    },
+    {
+     "kind": "icon",
+     "x": 664,
+     "y": 921,
+     "w": 30,
+     "h": 30,
+     "icon": "circle-check",
+     "color": "#9A7410"
+    },
+    {
+     "kind": "text",
+     "x": 714,
+     "y": 918,
+     "w": 516,
+     "h": 72,
+     "text": "Support satisfaction rose to 4.7 from 4.4",
+     "family": "Inter",
+     "size": 25,
+     "weight": 500,
+     "color": "#1B1C20",
+     "lineHeight": 1.36
+    },
+    {
+     "kind": "text",
+     "x": 1268,
+     "y": 624,
+     "w": 300,
+     "h": 36,
+     "text": "Risks",
+     "family": "Sora",
+     "size": 28,
+     "weight": 700,
+     "color": "#1B1C20"
+    },
+    {
+     "kind": "rect",
+     "x": 1268,
+     "y": 674,
+     "w": 576,
+     "h": 2,
+     "fill": "#1B1C20"
+    },
+    {
+     "kind": "icon",
+     "x": 1268,
+     "y": 705,
+     "w": 30,
+     "h": 30,
+     "icon": "alert-triangle",
+     "color": "#B4482B"
+    },
+    {
+     "kind": "text",
+     "x": 1318,
+     "y": 702,
+     "w": 516,
+     "h": 72,
+     "text": "Q4 pipeline coverage stands at 2.6x against a target of 3x",
+     "family": "Inter",
+     "size": 25,
+     "weight": 500,
+     "color": "#1B1C20",
+     "lineHeight": 1.36
+    },
+    {
+     "kind": "rect",
+     "x": 1318,
+     "y": 790,
+     "w": 526,
+     "h": 1,
+     "fill": "#DEDCD4"
+    },
+    {
+     "kind": "icon",
+     "x": 1268,
+     "y": 813,
+     "w": 30,
+     "h": 30,
+     "icon": "alert-triangle",
+     "color": "#B4482B"
+    },
+    {
+     "kind": "text",
+     "x": 1318,
+     "y": 810,
+     "w": 516,
+     "h": 72,
+     "text": "EMEA churn has risen since the March price increase",
+     "family": "Inter",
+     "size": 25,
+     "weight": 500,
+     "color": "#1B1C20",
+     "lineHeight": 1.36
+    },
+    {
+     "kind": "rect",
+     "x": 1318,
+     "y": 898,
+     "w": 526,
+     "h": 1,
+     "fill": "#DEDCD4"
+    },
+    {
+     "kind": "icon",
+     "x": 1268,
+     "y": 921,
+     "w": 30,
+     "h": 30,
+     "icon": "alert-triangle",
+     "color": "#B4482B"
+    },
+    {
+     "kind": "text",
+     "x": 1318,
+     "y": 918,
+     "w": 516,
+     "h": 72,
+     "text": "Two senior sales roles are still unfilled",
+     "family": "Inter",
+     "size": 25,
+     "weight": 500,
+     "color": "#1B1C20",
+     "lineHeight": 1.36
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Slide title",
+   "hint": "Two short lines"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Period",
+   "hint": "Quarter end date"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "First KPI",
+   "hint": "e.g. $12.9M"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Second KPI",
+   "hint": "e.g. $3.4M"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Third KPI",
+   "hint": "e.g. 94.2%"
+  },
+  {
+   "node": "p0-n36",
+   "kind": "text",
+   "label": "Top highlight",
+   "hint": "One sentence, up to 60 characters"
+  }
+ ]
+}

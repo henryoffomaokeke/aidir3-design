@@ -1,0 +1,392 @@
+{
+ "id": "a3-lib-wide-split-circle",
+ "title": "Community Event Post",
+ "categories": [
+  "events",
+  "social"
+ ],
+ "tags": [
+  "event",
+  "facebook",
+  "workshop",
+  "community",
+  "facebook post",
+  "events"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1200,
+  630
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "DM Serif Display",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FDF1EA",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 642,
+     "y": 45,
+     "w": 540,
+     "h": 540,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "photo",
+     "x": 672,
+     "y": 75,
+     "w": 480,
+     "h": 480,
+     "shape": "ellipse",
+     "fill": "#B0818F",
+     "name": "Photo: hands shaping clay on pottery wheel"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1032,
+     "y": 40,
+     "w": 110,
+     "h": 110,
+     "stroke": "#9CC3FF",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "ellipse",
+     "x": 1030,
+     "y": 520,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1052,
+     "y": 520,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1074,
+     "y": 520,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1096,
+     "y": 520,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 520,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1030,
+     "y": 542,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1052,
+     "y": 542,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1074,
+     "y": 542,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1096,
+     "y": 542,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 542,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1030,
+     "y": 564,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1052,
+     "y": 564,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1074,
+     "y": 564,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1096,
+     "y": 564,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 1118,
+     "y": 564,
+     "w": 7,
+     "h": 7,
+     "fill": "#2B2135",
+     "opacity": 0.35
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 56,
+     "w": 44,
+     "h": 44,
+     "fill": "#FF7AA2"
+    },
+    {
+     "kind": "icon",
+     "icon": "palette",
+     "x": 67,
+     "y": 67,
+     "w": 22,
+     "h": 22,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 51.3,
+     "w": 471,
+     "h": 44,
+     "text": "Crafted Lagos",
+     "family": "DM Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#2B2135",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 119.8,
+     "w": 528,
+     "h": 23,
+     "text": "Sat 7 Dec · 11am",
+     "family": "DM Sans",
+     "size": 18,
+     "weight": 700,
+     "color": "#FF7AA2",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 149.7,
+     "w": 528,
+     "h": 123,
+     "text": "Pottery & paint workshop",
+     "family": "DM Serif Display",
+     "size": 58,
+     "weight": 400,
+     "color": "#2B2135",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 290.5,
+     "w": 528,
+     "h": 61,
+     "text": "Two hours, all materials included, take your creation home.",
+     "family": "DM Sans",
+     "size": 21,
+     "weight": 400,
+     "color": "#7A6E85",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 56,
+     "y": 514,
+     "w": 250,
+     "h": 60,
+     "fill": "#FF7AA2",
+     "radius": 30
+    },
+    {
+     "kind": "text",
+     "x": 77,
+     "y": 509.6,
+     "w": 196,
+     "h": 60,
+     "text": "Book a spot",
+     "family": "DM Sans",
+     "size": 19,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       273.79,
+       544.5
+      ],
+      [
+       287.21,
+       544.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       280.5,
+       537.79
+      ],
+      [
+       287.21,
+       544.5
+      ],
+      [
+       280.5,
+       551.21
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "text",
+     "x": 326,
+     "y": 510,
+     "w": 258,
+     "h": 60,
+     "text": "₦18,000 per person",
+     "family": "DM Sans",
+     "size": 17,
+     "weight": 500,
+     "color": "#7A6E85",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 75 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

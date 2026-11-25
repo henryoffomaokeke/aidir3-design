@@ -1,0 +1,269 @@
+{
+ "id": "a3-lib-logomark-emblem",
+ "title": "Real Estate Emblem Logo",
+ "categories": [
+  "branding",
+  "business"
+ ],
+ "tags": [
+  "logo",
+  "real estate",
+  "emblem",
+  "navy"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1000,
+  1000
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E1A3D",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 170,
+     "y": 170,
+     "w": 660,
+     "h": 660,
+     "stroke": "#F2C14E",
+     "strokeWidth": 10
+    },
+    {
+     "kind": "ellipse",
+     "x": 205,
+     "y": 205,
+     "w": 590,
+     "h": 590,
+     "stroke": "#F2C14E",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "icon",
+     "icon": "home",
+     "x": 440,
+     "y": 250,
+     "w": 120,
+     "h": 120,
+     "color": "#F2C14E"
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 394.3,
+     "w": 560,
+     "h": 100,
+     "text": "Oak & Stone",
+     "family": "Playfair Display",
+     "size": 68,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 320,
+     "y": 520,
+     "w": 360,
+     "h": 3,
+     "fill": "#F2C14E"
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 534.4,
+     "w": 560,
+     "h": 40,
+     "text": "Homes · Lagos",
+     "family": "Albert Sans",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       390,
+       640
+      ],
+      [
+       395.29,
+       652.72
+      ],
+      [
+       409.02,
+       653.82
+      ],
+      [
+       398.56,
+       662.78
+      ],
+      [
+       401.76,
+       676.18
+      ],
+      [
+       390,
+       669
+      ],
+      [
+       378.24,
+       676.18
+      ],
+      [
+       381.44,
+       662.78
+      ],
+      [
+       370.98,
+       653.82
+      ],
+      [
+       384.71,
+       652.72
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       500,
+       650
+      ],
+      [
+       505.29,
+       662.72
+      ],
+      [
+       519.02,
+       663.82
+      ],
+      [
+       508.56,
+       672.78
+      ],
+      [
+       511.76,
+       686.18
+      ],
+      [
+       500,
+       679
+      ],
+      [
+       488.24,
+       686.18
+      ],
+      [
+       491.44,
+       672.78
+      ],
+      [
+       480.98,
+       663.82
+      ],
+      [
+       494.71,
+       662.72
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       610,
+       640
+      ],
+      [
+       615.29,
+       652.72
+      ],
+      [
+       629.02,
+       653.82
+      ],
+      [
+       618.56,
+       662.78
+      ],
+      [
+       621.76,
+       676.18
+      ],
+      [
+       610,
+       669
+      ],
+      [
+       598.24,
+       676.18
+      ],
+      [
+       601.44,
+       662.78
+      ],
+      [
+       590.98,
+       653.82
+      ],
+      [
+       604.71,
+       652.72
+      ]
+     ],
+     "closed": true,
+     "fill": "#F2C14E",
+     "name": "Shape"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

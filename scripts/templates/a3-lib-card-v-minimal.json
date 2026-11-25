@@ -1,0 +1,243 @@
+{
+ "id": "a3-lib-card-v-minimal",
+ "title": "The Palm Hotel: Business Card Vertical (Vertical Minimal)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card vertical",
+  "vertical minimal",
+  "hospitality jobs",
+  "hiring"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  600,
+  1050
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Libre Baskerville",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Work Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F6E9DE",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 560,
+     "y": 0,
+     "w": 40,
+     "h": 1050,
+     "fill": "#C4572F"
+    },
+    {
+     "kind": "ellipse",
+     "x": 64,
+     "y": 64,
+     "w": 38,
+     "h": 38,
+     "stroke": "#C4572F",
+     "strokeWidth": 7.2
+    },
+    {
+     "kind": "rect",
+     "x": 111,
+     "y": 60,
+     "w": 45,
+     "h": 45,
+     "fill": "#E9B48A",
+     "radius": 5.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 60,
+     "y": 111,
+     "w": 45,
+     "h": 45,
+     "fill": "#3A2218"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       133.5,
+       111
+      ],
+      [
+       156,
+       156
+      ],
+      [
+       111,
+       156
+      ]
+     ],
+     "closed": true,
+     "fill": "#C4572F",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 169.5,
+     "w": 470,
+     "h": 32,
+     "text": "The Palm Hotel",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 700,
+     "color": "#3A2218",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 508.1,
+     "w": 480,
+     "h": 149,
+     "text": "Halima\nYusuf",
+     "family": "Libre Baskerville",
+     "size": 68,
+     "weight": 600,
+     "color": "#3A2218",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 674.9,
+     "w": 480,
+     "h": 23,
+     "text": "OPERATIONS LEAD",
+     "family": "Work Sans",
+     "size": 19,
+     "weight": 700,
+     "color": "#C4572F",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.4,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 60,
+     "y": 839,
+     "w": 30,
+     "h": 30,
+     "color": "#C4572F"
+    },
+    {
+     "kind": "text",
+     "x": 107,
+     "y": 824.9,
+     "w": 434,
+     "h": 48,
+     "text": "+234 802 555 9045",
+     "family": "Work Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#3A2218",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 60,
+     "y": 899,
+     "w": 30,
+     "h": 30,
+     "color": "#C4572F"
+    },
+    {
+     "kind": "text",
+     "x": 107,
+     "y": 884.9,
+     "w": 434,
+     "h": 48,
+     "text": "halima@thepalm.ng",
+     "family": "Work Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#3A2218",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 60,
+     "y": 959,
+     "w": 30,
+     "h": 30,
+     "color": "#C4572F"
+    },
+    {
+     "kind": "text",
+     "x": 107,
+     "y": 944.9,
+     "w": 434,
+     "h": 48,
+     "text": "thepalm.ng",
+     "family": "Work Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#3A2218",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

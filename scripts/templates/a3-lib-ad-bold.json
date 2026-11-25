@@ -1,0 +1,420 @@
+{
+ "id": "a3-lib-ad-bold",
+ "title": "Hiring Display Ad",
+ "categories": [
+  "hr",
+  "marketing"
+ ],
+ "tags": [
+  "ad",
+  "display",
+  "hiring",
+  "jobs",
+  "display ad 300×250"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  600,
+  500
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bebas Neue",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFFFFF",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 340,
+     "y": 20,
+     "w": 240,
+     "h": 240,
+     "fill": "#60A5FA",
+     "opacity": 0.35
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       499.13,
+       48.32
+      ],
+      [
+       504.19,
+       75.4
+      ],
+      [
+       530.59,
+       83.26
+      ],
+      [
+       506.4,
+       96.44
+      ],
+      [
+       507.08,
+       123.98
+      ],
+      [
+       487.07,
+       105.05
+      ],
+      [
+       461.08,
+       114.21
+      ],
+      [
+       472.91,
+       89.32
+      ],
+      [
+       456.17,
+       67.44
+      ],
+      [
+       483.49,
+       71
+      ]
+     ],
+     "closed": true,
+     "fill": "#1D4ED8",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 32,
+     "y": 420,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 52,
+     "y": 420,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 72,
+     "y": 420,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 92,
+     "y": 420,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 112,
+     "y": 420,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 132,
+     "y": 420,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 32,
+     "y": 440,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 52,
+     "y": 440,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 72,
+     "y": 440,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 92,
+     "y": 440,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 112,
+     "y": 440,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 132,
+     "y": 440,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 32,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 52,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 72,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 92,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 112,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "ellipse",
+     "x": 132,
+     "y": 460,
+     "w": 6,
+     "h": 6,
+     "fill": "#1D4ED8",
+     "opacity": 0.5
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 26.2,
+     "w": 300,
+     "h": 30,
+     "text": "aidir3 Jobs",
+     "family": "Inter",
+     "size": 18,
+     "weight": 800,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 28,
+     "y": 57.5,
+     "w": 544,
+     "h": 150,
+     "text": "1,200+",
+     "family": "Bebas Neue",
+     "size": 150,
+     "weight": 400,
+     "color": "#1D4ED8",
+     "vAlign": "middle",
+     "lineHeight": 0.9
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 236,
+     "w": 536,
+     "h": 96,
+     "text": "Remote tech jobs added today",
+     "family": "Bebas Neue",
+     "size": 40,
+     "weight": 400,
+     "color": "#0B1F3A",
+     "vAlign": "middle",
+     "lineHeight": 1.05,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 32,
+     "y": 341.2,
+     "w": 536,
+     "h": 30,
+     "text": "Remote · English · Tech roles worldwide",
+     "family": "Inter",
+     "size": 18,
+     "weight": 600,
+     "color": "#5B6B82",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 318,
+     "y": 408,
+     "w": 250,
+     "h": 60,
+     "fill": "#0B1F3A",
+     "radius": 30
+    },
+    {
+     "kind": "text",
+     "x": 339,
+     "y": 404.2,
+     "w": 196,
+     "h": 60,
+     "text": "Browse jobs",
+     "family": "Inter",
+     "size": 18,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       535.79,
+       438.5
+      ],
+      [
+       549.21,
+       438.5
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       542.5,
+       431.79
+      ],
+      [
+       549.21,
+       438.5
+      ],
+      [
+       542.5,
+       445.21
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2.4,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

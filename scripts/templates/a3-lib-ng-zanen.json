@@ -1,0 +1,2525 @@
+{
+ "id": "a3-lib-ng-zanen",
+ "title": "Hausa Naming Ceremony (suna): Arewa Zanen Frame",
+ "categories": [
+  "nigeria",
+  "celebrations",
+  "personal",
+  "print"
+ ],
+ "tags": [
+  "suna",
+  "bikin suna",
+  "hausa naming ceremony",
+  "naming ceremony",
+  "aqiqah",
+  "hausa",
+  "arewa",
+  "northern nigeria"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0D3236",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1500,
+     "h": 2100,
+     "fill": "#0D3236"
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 1380,
+     "h": 1980,
+     "fill": "#E0B66A",
+     "opacity": 0.06
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       187,
+       122
+      ],
+      [
+       154,
+       67
+      ],
+      [
+       220,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       187,
+       1978
+      ],
+      [
+       220,
+       2033
+      ],
+      [
+       154,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       253,
+       122
+      ],
+      [
+       220,
+       67
+      ],
+      [
+       286,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       253,
+       1978
+      ],
+      [
+       286,
+       2033
+      ],
+      [
+       220,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       122
+      ],
+      [
+       287,
+       67
+      ],
+      [
+       353,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       319,
+       1978
+      ],
+      [
+       352,
+       2033
+      ],
+      [
+       286,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       386,
+       122
+      ],
+      [
+       353,
+       67
+      ],
+      [
+       419,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       386,
+       1978
+      ],
+      [
+       419,
+       2033
+      ],
+      [
+       353,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       452,
+       122
+      ],
+      [
+       419,
+       67
+      ],
+      [
+       485,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       452,
+       1978
+      ],
+      [
+       485,
+       2033
+      ],
+      [
+       419,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       518,
+       122
+      ],
+      [
+       485,
+       67
+      ],
+      [
+       551,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       518,
+       1978
+      ],
+      [
+       551,
+       2033
+      ],
+      [
+       485,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       585,
+       122
+      ],
+      [
+       552,
+       67
+      ],
+      [
+       618,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       584,
+       1978
+      ],
+      [
+       617,
+       2033
+      ],
+      [
+       551,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       651,
+       122
+      ],
+      [
+       618,
+       67
+      ],
+      [
+       684,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       651,
+       1978
+      ],
+      [
+       684,
+       2033
+      ],
+      [
+       618,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       717,
+       122
+      ],
+      [
+       684,
+       67
+      ],
+      [
+       750,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       717,
+       1978
+      ],
+      [
+       750,
+       2033
+      ],
+      [
+       684,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       783,
+       122
+      ],
+      [
+       750,
+       67
+      ],
+      [
+       816,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       783,
+       1978
+      ],
+      [
+       816,
+       2033
+      ],
+      [
+       750,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       849,
+       122
+      ],
+      [
+       816,
+       67
+      ],
+      [
+       882,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       849,
+       1978
+      ],
+      [
+       882,
+       2033
+      ],
+      [
+       816,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       916,
+       122
+      ],
+      [
+       883,
+       67
+      ],
+      [
+       949,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       915,
+       1978
+      ],
+      [
+       948,
+       2033
+      ],
+      [
+       882,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       982,
+       122
+      ],
+      [
+       949,
+       67
+      ],
+      [
+       1015,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       982,
+       1978
+      ],
+      [
+       1015,
+       2033
+      ],
+      [
+       949,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1048,
+       122
+      ],
+      [
+       1015,
+       67
+      ],
+      [
+       1081,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1048,
+       1978
+      ],
+      [
+       1081,
+       2033
+      ],
+      [
+       1015,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1114,
+       122
+      ],
+      [
+       1081,
+       67
+      ],
+      [
+       1147,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1114,
+       1978
+      ],
+      [
+       1147,
+       2033
+      ],
+      [
+       1081,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1181,
+       122
+      ],
+      [
+       1148,
+       67
+      ],
+      [
+       1214,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1180,
+       1978
+      ],
+      [
+       1213,
+       2033
+      ],
+      [
+       1147,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1247,
+       122
+      ],
+      [
+       1214,
+       67
+      ],
+      [
+       1280,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1247,
+       1978
+      ],
+      [
+       1280,
+       2033
+      ],
+      [
+       1214,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1313,
+       122
+      ],
+      [
+       1280,
+       67
+      ],
+      [
+       1346,
+       67
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1313,
+       1978
+      ],
+      [
+       1346,
+       2033
+      ],
+      [
+       1280,
+       2033
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       189
+      ],
+      [
+       67,
+       222
+      ],
+      [
+       67,
+       156
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       189
+      ],
+      [
+       1433,
+       156
+      ],
+      [
+       1433,
+       222
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       255
+      ],
+      [
+       67,
+       288
+      ],
+      [
+       67,
+       222
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       255
+      ],
+      [
+       1433,
+       222
+      ],
+      [
+       1433,
+       288
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       321
+      ],
+      [
+       67,
+       354
+      ],
+      [
+       67,
+       288
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       321
+      ],
+      [
+       1433,
+       288
+      ],
+      [
+       1433,
+       354
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       387
+      ],
+      [
+       67,
+       420
+      ],
+      [
+       67,
+       354
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       388
+      ],
+      [
+       1433,
+       355
+      ],
+      [
+       1433,
+       421
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       454
+      ],
+      [
+       67,
+       487
+      ],
+      [
+       67,
+       421
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       454
+      ],
+      [
+       1433,
+       421
+      ],
+      [
+       1433,
+       487
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       520
+      ],
+      [
+       67,
+       553
+      ],
+      [
+       67,
+       487
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       520
+      ],
+      [
+       1433,
+       487
+      ],
+      [
+       1433,
+       553
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       586
+      ],
+      [
+       67,
+       619
+      ],
+      [
+       67,
+       553
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       586
+      ],
+      [
+       1433,
+       553
+      ],
+      [
+       1433,
+       619
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       652
+      ],
+      [
+       67,
+       685
+      ],
+      [
+       67,
+       619
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       653
+      ],
+      [
+       1433,
+       620
+      ],
+      [
+       1433,
+       686
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       719
+      ],
+      [
+       67,
+       752
+      ],
+      [
+       67,
+       686
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       719
+      ],
+      [
+       1433,
+       686
+      ],
+      [
+       1433,
+       752
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       785
+      ],
+      [
+       67,
+       818
+      ],
+      [
+       67,
+       752
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       785
+      ],
+      [
+       1433,
+       752
+      ],
+      [
+       1433,
+       818
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       851
+      ],
+      [
+       67,
+       884
+      ],
+      [
+       67,
+       818
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       851
+      ],
+      [
+       1433,
+       818
+      ],
+      [
+       1433,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       917
+      ],
+      [
+       67,
+       950
+      ],
+      [
+       67,
+       884
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       918
+      ],
+      [
+       1433,
+       885
+      ],
+      [
+       1433,
+       951
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       984
+      ],
+      [
+       67,
+       1017
+      ],
+      [
+       67,
+       951
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       984
+      ],
+      [
+       1433,
+       951
+      ],
+      [
+       1433,
+       1017
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1050
+      ],
+      [
+       67,
+       1083
+      ],
+      [
+       67,
+       1017
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1050
+      ],
+      [
+       1433,
+       1017
+      ],
+      [
+       1433,
+       1083
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1116
+      ],
+      [
+       67,
+       1149
+      ],
+      [
+       67,
+       1083
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1116
+      ],
+      [
+       1433,
+       1083
+      ],
+      [
+       1433,
+       1149
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1182
+      ],
+      [
+       67,
+       1215
+      ],
+      [
+       67,
+       1149
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1183
+      ],
+      [
+       1433,
+       1150
+      ],
+      [
+       1433,
+       1216
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1249
+      ],
+      [
+       67,
+       1282
+      ],
+      [
+       67,
+       1216
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1249
+      ],
+      [
+       1433,
+       1216
+      ],
+      [
+       1433,
+       1282
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1315
+      ],
+      [
+       67,
+       1348
+      ],
+      [
+       67,
+       1282
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1315
+      ],
+      [
+       1433,
+       1282
+      ],
+      [
+       1433,
+       1348
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1381
+      ],
+      [
+       67,
+       1414
+      ],
+      [
+       67,
+       1348
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1381
+      ],
+      [
+       1433,
+       1348
+      ],
+      [
+       1433,
+       1414
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1447
+      ],
+      [
+       67,
+       1480
+      ],
+      [
+       67,
+       1414
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1448
+      ],
+      [
+       1433,
+       1415
+      ],
+      [
+       1433,
+       1481
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1514
+      ],
+      [
+       67,
+       1547
+      ],
+      [
+       67,
+       1481
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1514
+      ],
+      [
+       1433,
+       1481
+      ],
+      [
+       1433,
+       1547
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1580
+      ],
+      [
+       67,
+       1613
+      ],
+      [
+       67,
+       1547
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1580
+      ],
+      [
+       1433,
+       1547
+      ],
+      [
+       1433,
+       1613
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1646
+      ],
+      [
+       67,
+       1679
+      ],
+      [
+       67,
+       1613
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1646
+      ],
+      [
+       1433,
+       1613
+      ],
+      [
+       1433,
+       1679
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1712
+      ],
+      [
+       67,
+       1745
+      ],
+      [
+       67,
+       1679
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1713
+      ],
+      [
+       1433,
+       1680
+      ],
+      [
+       1433,
+       1746
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1779
+      ],
+      [
+       67,
+       1812
+      ],
+      [
+       67,
+       1746
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1779
+      ],
+      [
+       1433,
+       1746
+      ],
+      [
+       1433,
+       1812
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1845
+      ],
+      [
+       67,
+       1878
+      ],
+      [
+       67,
+       1812
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1845
+      ],
+      [
+       1433,
+       1812
+      ],
+      [
+       1433,
+       1878
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       122,
+       1911
+      ],
+      [
+       67,
+       1944
+      ],
+      [
+       67,
+       1878
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1378,
+       1911
+      ],
+      [
+       1433,
+       1878
+      ],
+      [
+       1433,
+       1944
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 1380,
+     "h": 1980,
+     "stroke": "#E0B66A",
+     "strokeWidth": 9
+    },
+    {
+     "kind": "rect",
+     "x": 132,
+     "y": 132,
+     "w": 1236,
+     "h": 1836,
+     "stroke": "#E0B66A",
+     "strokeWidth": 4.5
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 60,
+     "w": 72,
+     "h": 72,
+     "fill": "#0D3236"
+    },
+    {
+     "kind": "rect",
+     "x": 76,
+     "y": 76,
+     "w": 40,
+     "h": 40,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       96,
+       68
+      ],
+      [
+       124,
+       96
+      ],
+      [
+       96,
+       124
+      ],
+      [
+       68,
+       96
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 88,
+     "y": 88,
+     "w": 16,
+     "h": 16,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "rect",
+     "x": 1368,
+     "y": 60,
+     "w": 72,
+     "h": 72,
+     "fill": "#0D3236"
+    },
+    {
+     "kind": "rect",
+     "x": 1384,
+     "y": 76,
+     "w": 40,
+     "h": 40,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1404,
+       68
+      ],
+      [
+       1432,
+       96
+      ],
+      [
+       1404,
+       124
+      ],
+      [
+       1376,
+       96
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1396,
+     "y": 88,
+     "w": 16,
+     "h": 16,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 1968,
+     "w": 72,
+     "h": 72,
+     "fill": "#0D3236"
+    },
+    {
+     "kind": "rect",
+     "x": 76,
+     "y": 1984,
+     "w": 40,
+     "h": 40,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       96,
+       1976
+      ],
+      [
+       124,
+       2004
+      ],
+      [
+       96,
+       2032
+      ],
+      [
+       68,
+       2004
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 88,
+     "y": 1996,
+     "w": 16,
+     "h": 16,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "rect",
+     "x": 1368,
+     "y": 1968,
+     "w": 72,
+     "h": 72,
+     "fill": "#0D3236"
+    },
+    {
+     "kind": "rect",
+     "x": 1384,
+     "y": 1984,
+     "w": 40,
+     "h": 40,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1404,
+       1976
+      ],
+      [
+       1432,
+       2004
+      ],
+      [
+       1404,
+       2032
+      ],
+      [
+       1376,
+       2004
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1396,
+     "y": 1996,
+     "w": 16,
+     "h": 16,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       159,
+       159
+      ],
+      [
+       1341,
+       159
+      ],
+      [
+       1341,
+       1941
+      ],
+      [
+       159,
+       1941
+      ]
+     ],
+     "closed": true,
+     "stroke": "#E0B66A",
+     "strokeWidth": 2.3,
+     "dash": [
+      12,
+      12
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.45,
+     "name": "Shape"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 750.5,
+       "y": 257,
+       "cIn": {
+        "x": 695.55,
+        "y": 257
+       },
+       "cOut": {
+        "x": 805.45,
+        "y": 257
+       }
+      },
+      {
+       "x": 850,
+       "y": 356.5,
+       "cIn": {
+        "x": 850,
+        "y": 301.55
+       },
+       "cOut": {
+        "x": 850,
+        "y": 411.45
+       }
+      },
+      {
+       "x": 750.5,
+       "y": 456,
+       "cIn": {
+        "x": 805.45,
+        "y": 456
+       },
+       "cOut": {
+        "x": 695.55,
+        "y": 456
+       }
+      },
+      {
+       "x": 651,
+       "y": 356.5,
+       "cIn": {
+        "x": 651,
+        "y": 411.45
+       },
+       "cOut": {
+        "x": 651,
+        "y": 301.55
+       }
+      }
+     ],
+     "closed": true,
+     "stroke": "#E0B66A",
+     "strokeWidth": 2.4,
+     "dash": [
+      6,
+      6
+     ],
+     "cap": "butt",
+     "join": "miter",
+     "opacity": 0.45,
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 700,
+     "y": 267,
+     "w": 99,
+     "h": 99,
+     "stroke": "#E0B66A",
+     "strokeWidth": 7
+    },
+    {
+     "kind": "ellipse",
+     "x": 700,
+     "y": 346,
+     "w": 99,
+     "h": 99,
+     "stroke": "#E0B66A",
+     "strokeWidth": 7
+    },
+    {
+     "kind": "ellipse",
+     "x": 661,
+     "y": 307,
+     "w": 99,
+     "h": 99,
+     "stroke": "#E0B66A",
+     "strokeWidth": 7
+    },
+    {
+     "kind": "ellipse",
+     "x": 740,
+     "y": 307,
+     "w": 99,
+     "h": 99,
+     "stroke": "#E0B66A",
+     "strokeWidth": 7
+    },
+    {
+     "kind": "rect",
+     "x": 732,
+     "y": 338,
+     "w": 37,
+     "h": 37,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       750,
+       330
+      ],
+      [
+       776,
+       356
+      ],
+      [
+       750,
+       382
+      ],
+      [
+       724,
+       356
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 507.6,
+     "w": 1020,
+     "h": 45,
+     "text": "Bikin Suna · Naming",
+     "family": "Albert Sans",
+     "size": 35,
+     "weight": 700,
+     "color": "#E0B66A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 9,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 579.1,
+     "w": 1020,
+     "h": 66,
+     "text": "Mallam & Malama Yusuf Garba",
+     "family": "Albert Sans",
+     "size": 45,
+     "weight": 400,
+     "color": "#F6EAD3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 664.7,
+     "w": 1020,
+     "h": 113,
+     "text": "with gratitude to Allah, invite you to\nthe naming of their son",
+     "family": "Albert Sans",
+     "size": 39,
+     "weight": 400,
+     "color": "#B5C7C2",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 787.8,
+     "w": 1020,
+     "h": 409,
+     "text": "Muhammad\nYusuf",
+     "family": "Cormorant Garamond",
+     "size": 176,
+     "weight": 600,
+     "color": "#E0B66A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 1242.7,
+     "w": 1020,
+     "h": 100,
+     "text": "Naming Ceremony",
+     "family": "Playfair Display",
+     "size": 84,
+     "weight": 700,
+     "color": "#F6EAD3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 435,
+     "y": 1396,
+     "w": 292,
+     "h": 4,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       749.5,
+       1387
+      ],
+      [
+       761,
+       1398.5
+      ],
+      [
+       749.5,
+       1410
+      ],
+      [
+       738,
+       1398.5
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0B66A",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 773,
+     "y": 1396,
+     "w": 292,
+     "h": 4,
+     "fill": "#E0B66A"
+    },
+    {
+     "kind": "rect",
+     "x": 260,
+     "y": 1455,
+     "w": 300,
+     "h": 3,
+     "fill": "#E0B66A",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 260,
+     "y": 1626,
+     "w": 300,
+     "h": 3,
+     "fill": "#E0B66A",
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 252,
+     "y": 1509.3,
+     "w": 317,
+     "h": 47,
+     "text": "Saturday",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#F6EAD3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 580,
+     "y": 1438.5,
+     "w": 340,
+     "h": 162,
+     "text": "17",
+     "family": "DM Serif Display",
+     "size": 150,
+     "weight": 400,
+     "color": "#F6EAD3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 940,
+     "y": 1455,
+     "w": 300,
+     "h": 3,
+     "fill": "#E0B66A",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 940,
+     "y": 1626,
+     "w": 300,
+     "h": 3,
+     "fill": "#E0B66A",
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 932,
+     "y": 1488.3,
+     "w": 317,
+     "h": 90,
+     "text": "January\n2026",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#F6EAD3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 1647.3,
+     "w": 1020,
+     "h": 47,
+     "text": "7:00 AM",
+     "family": "Albert Sans",
+     "size": 36,
+     "weight": 700,
+     "color": "#E0B66A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 1701.7,
+     "w": 1020,
+     "h": 61,
+     "text": "Garba Residence, Hotoro, Kano",
+     "family": "Albert Sans",
+     "size": 42,
+     "weight": 400,
+     "color": "#F6EAD3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "text",
+     "x": 240,
+     "y": 1797.7,
+     "w": 1020,
+     "h": 45,
+     "text": "Enquiries: 0803 000 1192",
+     "family": "Albert Sans",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0B66A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3,
+     "letterSpacing": 3,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n121",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n122",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n119",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n134",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  },
+  {
+   "node": "p0-n120",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 75 characters"
+  }
+ ]
+}

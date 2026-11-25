@@ -1,0 +1,240 @@
+{
+ "id": "a3-lib-card-v-luxe",
+ "title": "Sharp Lines Barbers: Business Card Vertical (Vertical Luxe)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card vertical",
+  "vertical luxe",
+  "barbershop",
+  "beauty & fashion"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  600,
+  1050
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Albert Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#111111",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 28,
+     "y": 28,
+     "w": 544,
+     "h": 994,
+     "stroke": "#C9A45C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 42,
+     "y": 42,
+     "w": 516,
+     "h": 966,
+     "stroke": "#C9A45C",
+     "strokeWidth": 1,
+     "opacity": 0.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 254,
+     "y": 124,
+     "w": 39,
+     "h": 39,
+     "stroke": "#C9A45C",
+     "strokeWidth": 7.5
+    },
+    {
+     "kind": "rect",
+     "x": 303,
+     "y": 120,
+     "w": 47,
+     "h": 47,
+     "fill": "#8C6D3A",
+     "radius": 5.6
+    },
+    {
+     "kind": "ellipse",
+     "x": 250,
+     "y": 173,
+     "w": 47,
+     "h": 47,
+     "fill": "#F5EFE3"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       326.5,
+       173
+      ],
+      [
+       350,
+       220
+      ],
+      [
+       303,
+       220
+      ]
+     ],
+     "closed": true,
+     "fill": "#C9A45C",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 292.5,
+     "w": 500,
+     "h": 63,
+     "text": "Zainab Bello",
+     "family": "Playfair Display",
+     "size": 52,
+     "weight": 700,
+     "color": "#F5EFE3",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 367.2,
+     "w": 500,
+     "h": 23,
+     "text": "FOUNDER & CEO",
+     "family": "Albert Sans",
+     "size": 19,
+     "weight": 700,
+     "color": "#C9A45C",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 240,
+     "y": 424,
+     "w": 120,
+     "h": 2,
+     "fill": "#C9A45C"
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 469.6,
+     "w": 500,
+     "h": 27,
+     "text": "+234 800 555 2296",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F5EFE3",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 519.6,
+     "w": 500,
+     "h": 27,
+     "text": "zainab@sharplines.ng",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F5EFE3",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 50,
+     "y": 569.6,
+     "w": 500,
+     "h": 27,
+     "text": "sharplines.ng",
+     "family": "Albert Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#9B927F",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 916.6,
+     "w": 480,
+     "h": 21,
+     "text": "SHARP LINES BARBERS",
+     "family": "Albert Sans",
+     "size": 17,
+     "weight": 700,
+     "color": "#C9A45C",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 6.8,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

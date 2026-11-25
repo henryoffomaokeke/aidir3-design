@@ -32,6 +32,10 @@ export function WorkspaceAiPanel({ workspaceId, canEdit }: { workspaceId: string
   // re-enter a key that was never the problem.
   const [health, setHealth] = useState<{ ok: boolean; blocked?: boolean; detail?: string } | null>(null);
   const [testing, setTesting] = useState(false);
+  // aidir3 fork: whether the instance's built-in AI is available here. It
+  // serves this workspace while no provider of its own is connected (and
+  // stands in when the connected one fails).
+  const [builtin, setBuiltin] = useState<string | null>(null);
 
   const [loading, setLoading] = useState(true);
   const [loadedFor, setLoadedFor] = useState<string | null>(null);
@@ -75,12 +79,16 @@ export function WorkspaceAiPanel({ workspaceId, canEdit }: { workspaceId: string
     if (!workspaceId) return;
     let cancelled = false;
     void (async () => {
-      const [cfg, list] = await Promise.all([
+      const [cfg, list, eff] = await Promise.all([
         oc.getAiConfig(workspaceId).catch(() => null),
         oc.aiProviders().catch(() => [] as AiProviderPreset[]),
+        oc.getAiEffective(workspaceId).catch(() => null),
       ]);
       if (cancelled) return;
       setConfig(cfg);
+      // Named by its model family ("Grok"), else by its preset's label.
+      const b = eff?.builtin?.hasKey ? eff.builtin : null;
+      setBuiltin(b ? (b.provider === "xai" ? "Grok" : (list ?? []).find((p) => p.id === b.provider)?.label ?? b.provider) : null);
       setPresets(list ?? []);
       setLoadedFor(workspaceId);
       setHealth(null);
@@ -122,7 +130,7 @@ export function WorkspaceAiPanel({ workspaceId, canEdit }: { workspaceId: string
             <span
               className={`h-2 w-2 shrink-0 rounded-full ${
                 !connected
-                  ? "bg-neutral-300"
+                  ? builtin ? "bg-emerald-500" : "bg-neutral-300"
                   : health?.ok
                     ? "bg-emerald-500"
                     : health?.blocked
@@ -138,7 +146,7 @@ export function WorkspaceAiPanel({ workspaceId, canEdit }: { workspaceId: string
               {loading
                 ? tr("dashboard.loading")
                 : !connected
-                  ? tr("dashboard.no_ai_provider_connected")
+                  ? builtin ? tr("dashboard.builtin_ai_in_use", { provider: builtin }) : tr("dashboard.no_ai_provider_connected")
                   : health?.ok
                     ? tr("dashboard.ai_working_provider", { provider: providerLabel })
                     : health?.blocked
@@ -182,6 +190,12 @@ export function WorkspaceAiPanel({ workspaceId, canEdit }: { workspaceId: string
           }`}
         >
           {health.detail}
+        </p>
+      )}
+
+      {!loading && !connected && builtin && (
+        <p className="mb-3 rounded-lg border border-emerald-200 bg-emerald-50 px-3 py-2 text-xs text-emerald-800">
+          {tr("dashboard.builtin_ai_hint", { provider: builtin })}
         </p>
       )}
 

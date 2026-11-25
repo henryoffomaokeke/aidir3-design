@@ -1,0 +1,232 @@
+{
+ "id": "a3-lib-premium-luxe",
+ "title": "Wine & Drinks Lounge: Luxe Frame",
+ "categories": [
+  "events",
+  "print"
+ ],
+ "tags": [
+  "lounge",
+  "wine",
+  "cocktails",
+  "bar",
+  "nightlife",
+  "drinks",
+  "invitation",
+  "luxe"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF1F2",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 50,
+     "y": 50,
+     "w": 1400,
+     "h": 2000,
+     "stroke": "#E11D48",
+     "strokeWidth": 3,
+     "opacity": 0.75
+    },
+    {
+     "kind": "rect",
+     "x": 69,
+     "y": 69,
+     "w": 1361,
+     "h": 1961,
+     "stroke": "#E11D48",
+     "strokeWidth": 1,
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 387,
+     "y": 174,
+     "w": 111,
+     "h": 2,
+     "fill": "#E11D48"
+    },
+    {
+     "kind": "rect",
+     "x": 1002,
+     "y": 174,
+     "w": 111,
+     "h": 2,
+     "fill": "#E11D48"
+    },
+    {
+     "kind": "text",
+     "x": 380,
+     "y": 142.4,
+     "w": 740,
+     "h": 50,
+     "text": "FRIDAY NIGHTS",
+     "family": "Onest",
+     "size": 31,
+     "weight": 700,
+     "color": "#E11D48",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 10,
+     "upper": true
+    },
+    {
+     "kind": "photo",
+     "x": 396,
+     "y": 264,
+     "w": 709,
+     "h": 958,
+     "shape": "ellipse",
+     "fill": "#D9D4D4",
+     "name": "Photo: wine glasses bar"
+    },
+    {
+     "kind": "ellipse",
+     "x": 396,
+     "y": 264,
+     "w": 709,
+     "h": 958,
+     "stroke": "#E11D48",
+     "strokeWidth": 4,
+     "name": "Photo border"
+    },
+    {
+     "kind": "icon",
+     "icon": "sparkles",
+     "x": 725,
+     "y": 1236,
+     "w": 50,
+     "h": 50,
+     "color": "#E11D48"
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1281,
+     "w": 1234,
+     "h": 282,
+     "text": "Wine, jazz & good company",
+     "family": "EB Garamond",
+     "size": 133,
+     "weight": 600,
+     "color": "#3F1D25",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "rect",
+     "x": 694,
+     "y": 1621,
+     "w": 111,
+     "h": 2,
+     "fill": "#E11D48"
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1644.6,
+     "w": 1234,
+     "h": 117,
+     "text": "Curated wines, signature cocktails and live jazz every Friday in a cosy Victoria Island lounge. 18+ only.",
+     "family": "Onest",
+     "size": 39,
+     "weight": 400,
+     "color": "#8B5E66",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1810.9,
+     "w": 1234,
+     "h": 56,
+     "text": "RESERVE A TABLE  →",
+     "family": "Onest",
+     "size": 33,
+     "weight": 700,
+     "color": "#E11D48",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6
+    },
+    {
+     "kind": "text",
+     "x": 133,
+     "y": 1914.4,
+     "w": 1234,
+     "h": 47,
+     "text": "amberroom.ng",
+     "family": "Onest",
+     "size": 31,
+     "weight": 600,
+     "color": "#8B5E66",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 130 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

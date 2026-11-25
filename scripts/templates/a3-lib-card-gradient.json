@@ -1,0 +1,416 @@
+{
+ "id": "a3-lib-card-gradient",
+ "title": "Adire House: Business Card Front (Gradient)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "gradient",
+  "fashion boutique",
+  "beauty & fashion"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#E11D48",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1050,
+     "h": 600,
+     "fill": {
+      "angle": 108,
+      "stops": [
+       [
+        "#E11D48",
+        0
+       ],
+       [
+        "#3F1D25",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 50,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 850,
+     "y": 50,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 880,
+     "y": 50,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 910,
+     "y": 50,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 940,
+     "y": 50,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 50,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 850,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 880,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 910,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 940,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 80,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 110,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 850,
+     "y": 110,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 880,
+     "y": 110,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 910,
+     "y": 110,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 940,
+     "y": 110,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 110,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 820,
+     "y": 140,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 850,
+     "y": 140,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 880,
+     "y": 140,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 910,
+     "y": 140,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 940,
+     "y": 140,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 970,
+     "y": 140,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF",
+     "opacity": 0.3
+    },
+    {
+     "kind": "rect",
+     "x": 138,
+     "y": 68,
+     "w": 93,
+     "h": 93,
+     "fill": "#FFFFFF",
+     "radius": 22.3
+    },
+    {
+     "kind": "text",
+     "x": 138,
+     "y": 62.1,
+     "w": 93,
+     "h": 93,
+     "text": "AH",
+     "family": "EB Garamond",
+     "size": 44,
+     "weight": 600,
+     "color": "#E11D48",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "ellipse",
+     "x": 212,
+     "y": 142,
+     "w": 16,
+     "h": 16,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 259,
+     "y": 67.5,
+     "w": 321,
+     "h": 53,
+     "text": "Adire House",
+     "family": "EB Garamond",
+     "size": 44,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 259,
+     "y": 134.1,
+     "w": 321,
+     "h": 17,
+     "text": "Fashion boutique",
+     "family": "Red Hat Text",
+     "size": 14,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 316.5,
+     "w": 700,
+     "h": 68,
+     "text": "Zainab Bello",
+     "family": "Cormorant Garamond",
+     "size": 56,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 401.9,
+     "w": 700,
+     "h": 25,
+     "text": "HEAD OF SALES",
+     "family": "Red Hat Text",
+     "size": 20,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 60,
+     "y": 515.7,
+     "w": 900,
+     "h": 26,
+     "text": "adirehouse.shop   ·   +234 806 555 9062",
+     "family": "Red Hat Text",
+     "size": 21,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "lineHeight": 1.12
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n30",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n28",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n32",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n31",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n29",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

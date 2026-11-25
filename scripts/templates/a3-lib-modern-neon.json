@@ -1,0 +1,742 @@
+{
+ "id": "a3-lib-modern-neon",
+ "title": "Barbershop: Neon Tech",
+ "categories": [
+  "flyers",
+  "marketing",
+  "print"
+ ],
+ "tags": [
+  "barber",
+  "haircut",
+  "grooming",
+  "men",
+  "fade",
+  "flyer",
+  "neon tech",
+  "beauty & fashion"
+ ],
+ "styleTags": [
+  "dark",
+  "neon"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Space Grotesk",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0D0D0D",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 1754,
+     "fill": "#0D0D0D",
+     "name": "Night"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 74,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 148,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 222,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 296,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 370,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 444,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 518,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 592,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 666,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 740,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 814,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 888,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 962,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1036,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1110,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 1184,
+     "y": 0,
+     "w": 3.7,
+     "h": 1754,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 74,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 148,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 222,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 296,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 370,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 444,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 518,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 592,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 666,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 740,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 814,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 888,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 962,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1036,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1110,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1184,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1258,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1332,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1406,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1480,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1554,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1628,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1702,
+     "w": 1240,
+     "h": 3.7,
+     "fill": "#C8FF00",
+     "opacity": 0.1,
+     "name": "Pattern (grid)"
+    },
+    {
+     "kind": "ellipse",
+     "x": 372,
+     "y": -357,
+     "w": 1364,
+     "h": 1240,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#4E6208",
+        0
+       ],
+       [
+        "#465709",
+        0.1
+       ],
+       [
+        "#3E4D0A",
+        0.2
+       ],
+       [
+        "#36420A",
+        0.3
+       ],
+       [
+        "#2E380B",
+        0.4
+       ],
+       [
+        "#282F0B",
+        0.5
+       ],
+       [
+        "#23290B",
+        0.59
+       ],
+       [
+        "#1D220C",
+        0.69
+       ],
+       [
+        "#181B0C",
+        0.79
+       ],
+       [
+        "#12140D",
+        0.89
+       ],
+       [
+        "#0D0D0D",
+        0.99
+       ],
+       [
+        "#0D0D0D",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Soft light",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       89,
+       74.52
+      ],
+      [
+       492.56,
+       74.52
+      ],
+      [
+       620,
+       118.8
+      ],
+      [
+       1151,
+       118.8
+      ]
+     ],
+     "closed": false,
+     "stroke": "#C8FF00",
+     "strokeWidth": 5,
+     "cap": "round",
+     "join": "round",
+     "name": "Neon line"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       89,
+       1556.2
+      ],
+      [
+       747.44,
+       1556.2
+      ],
+      [
+       896.12,
+       1457.8
+      ],
+      [
+       1151,
+       1457.8
+      ]
+     ],
+     "closed": false,
+     "stroke": "#7B61FF",
+     "strokeWidth": 5,
+     "cap": "round",
+     "join": "round",
+     "name": "Neon line"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 264,
+     "w": 359,
+     "h": 59,
+     "fill": "#C8FF00",
+     "radius": 29.5,
+     "opacity": 0.12,
+     "name": "Tag"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 264,
+     "w": 359,
+     "h": 59,
+     "radius": 29.5,
+     "stroke": "#C8FF00",
+     "strokeWidth": 2,
+     "opacity": 0.7,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 258.3,
+     "w": 359,
+     "h": 59,
+     "text": "Sharp Lines Barbers",
+     "family": "Inter",
+     "size": 27,
+     "weight": 700,
+     "color": "#F4F6FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 378.9,
+     "w": 1062,
+     "h": 39,
+     "text": "// Fresh cuts daily",
+     "family": "Inter",
+     "size": 29,
+     "weight": 700,
+     "color": "#C8FF00",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 421.4,
+     "w": 1062,
+     "h": 573,
+     "text": "Your weekly fresh cut",
+     "family": "Space Grotesk",
+     "size": 186,
+     "weight": 700,
+     "color": "#F4F6FF",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1042.2,
+     "w": 1062,
+     "h": 109,
+     "text": "Skin fades, beard sculpting and hot towel shaves. Walk in or book online.",
+     "family": "Inter",
+     "size": 37,
+     "weight": 400,
+     "color": "#F4F6FF",
+     "vAlign": "middle",
+     "lineHeight": 1.42,
+     "opacity": 0.78
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1206,
+     "w": 323,
+     "h": 88,
+     "radius": 44,
+     "stroke": "#C8FF00",
+     "strokeWidth": 3,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1198.6,
+     "w": 323,
+     "h": 88,
+     "text": "Book a cut",
+     "family": "Inter",
+     "size": 35,
+     "weight": 700,
+     "color": "#F4F6FF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1306.7,
+     "w": 1062,
+     "h": 42,
+     "text": "sharplines.ng",
+     "family": "Inter",
+     "size": 30,
+     "weight": 700,
+     "color": "#F4F6FF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1,
+     "opacity": 0.78
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n49",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n50",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 90 characters"
+  },
+  {
+   "node": "p0-n52",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n53",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n48",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

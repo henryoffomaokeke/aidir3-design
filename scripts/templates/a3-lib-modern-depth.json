@@ -1,0 +1,273 @@
+{
+ "id": "a3-lib-modern-depth",
+ "title": "Children's Day: 3D Layered Depth",
+ "categories": [
+  "celebrations",
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "childrens day",
+  "may 27",
+  "kids",
+  "children",
+  "celebration",
+  "instagram portrait",
+  "3d layered depth",
+  "kids & family"
+ ],
+ "styleTags": [
+  "dark",
+  "3d depth",
+  "photo"
+ ],
+ "size": [
+  1080,
+  1350
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B0B10",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -490.3,
+     "y": -557.8,
+     "w": 2060.7,
+     "h": 2060.7,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#1F1F23",
+        0
+       ],
+       [
+        "#0B0B10",
+        0.84
+       ],
+       [
+        "#0B0B10",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 279,
+     "y": 82,
+     "w": 605,
+     "h": 540,
+     "rotation": 8,
+     "fill": "#B388FF",
+     "radius": 39,
+     "name": "Back card"
+    },
+    {
+     "kind": "rect",
+     "x": 216,
+     "y": 148,
+     "w": 605,
+     "h": 540,
+     "rotation": -5,
+     "fill": "#C3CAD8",
+     "radius": 39,
+     "name": "Middle card"
+    },
+    {
+     "kind": "photo",
+     "x": 238,
+     "y": 121,
+     "w": 605,
+     "h": 540,
+     "shape": "rect",
+     "radius": 39,
+     "fill": "#ADAFB4",
+     "name": "Photo: happy african children",
+     "image": {
+      "asset": "tplph-ov-d7f8b4a7-359c-48cf-a459-1cc4df59e64a",
+      "url": "/api/v1/templates/photos/ov/d7f8b4a7-359c-48cf-a459-1cc4df59e64a.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Happy African children running -",
+       "url": "https://www.rawpixel.com/image/6111408/photo-image-public-domain-kid-people",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Happy African children running -",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 92,
+     "y": 445,
+     "w": 162,
+     "h": 162,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#DDC9FF",
+        0
+       ],
+       [
+        "#B388FF",
+        0.67
+       ],
+       [
+        "#9471D4",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Sphere"
+    },
+    {
+     "kind": "ellipse",
+     "x": 880,
+     "y": 116,
+     "w": 97,
+     "h": 97,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#E4E7ED",
+        0
+       ],
+       [
+        "#C3CAD8",
+        0.67
+       ],
+       [
+        "#A2A7B3",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Sphere"
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 843.4,
+     "w": 924,
+     "h": 34,
+     "text": "27th May",
+     "family": "Figtree",
+     "size": 25,
+     "weight": 700,
+     "color": "#C3CAD8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 887.2,
+     "w": 924,
+     "h": 129,
+     "text": "Let them play",
+     "family": "Figtree",
+     "size": 119,
+     "weight": 800,
+     "color": "#F5F6FA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 78,
+     "y": 1050.5,
+     "w": 924,
+     "h": 94,
+     "text": "Celebrating every child's laughter, curiosity and big dreams. Happy Children's Day!",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 400,
+     "color": "#9DA3B4",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 1193,
+     "w": 361,
+     "h": 75,
+     "fill": "#F5F6FA",
+     "radius": 37.5,
+     "name": "Button"
+    },
+    {
+     "kind": "text",
+     "x": 360,
+     "y": 1186.3,
+     "w": 361,
+     "h": 75,
+     "text": "Celebrate them",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 700,
+     "color": "#0B0B10",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 100 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

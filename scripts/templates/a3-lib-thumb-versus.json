@@ -1,0 +1,238 @@
+{
+ "id": "a3-lib-thumb-versus",
+ "title": "Versus Comparison",
+ "categories": [
+  "thumbnails",
+  "technology",
+  "social"
+ ],
+ "tags": [
+  "youtube",
+  "thumbnail",
+  "versus",
+  "review",
+  "youtube thumbnail",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "dark",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F2F2F0",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 0,
+     "y": 0,
+     "w": 640,
+     "h": 720,
+     "shape": "rect",
+     "fill": "#2F3239",
+     "name": "Photo: silver smartphone on desk",
+     "image": {
+      "asset": "tplph-ov-fb872b95-26e4-4299-a274-047d26c21461",
+      "url": "/api/v1/templates/photos/ov/fb872b95-26e4-4299-a274-047d26c21461.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Black Coffee MacBook Desk",
+       "url": "https://www.rawpixel.com/image/5966700/black-coffee-macbook-desk",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Black Coffee MacBook Desk",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "photo",
+     "x": 640,
+     "y": 0,
+     "w": 640,
+     "h": 720,
+     "shape": "rect",
+     "fill": "#2F3239",
+     "name": "Photo: black android smartphone in hand",
+     "image": {
+      "asset": "tplph-ov-9be35fa7-b1f1-4e74-8b18-9b6debfcfc3c",
+      "url": "/api/v1/templates/photos/ov/9be35fa7-b1f1-4e74-8b18-9b6debfcfc3c.jpg",
+      "mime": "image/jpeg",
+      "license": "cc0",
+      "credit": {
+       "title": "Smartphone Web Data Analytics",
+       "url": "https://www.rawpixel.com/image/5968603/smartphone-web-data-analytics",
+       "licenseLabel": "CC0"
+      },
+      "name": "Photo: Smartphone Web Data Analytics",
+      "fit": "cover"
+     }
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 640,
+     "h": 720,
+     "fill": "#1D4ED8",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 640,
+     "y": 0,
+     "w": 640,
+     "h": 720,
+     "fill": "#FF5A1F",
+     "opacity": 0.35
+    },
+    {
+     "kind": "rect",
+     "x": 632,
+     "y": 0,
+     "w": 16,
+     "h": 720,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 40,
+     "y": 40,
+     "w": 520,
+     "h": 124,
+     "fill": "#1D4ED8",
+     "radius": 12,
+     "name": "Highlight"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 38.1,
+     "w": 496,
+     "h": 100,
+     "text": "iPhone",
+     "family": "Anton",
+     "size": 92,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 720,
+     "y": 40,
+     "w": 520,
+     "h": 124,
+     "fill": "#FF5A1F",
+     "radius": 12,
+     "name": "Highlight"
+    },
+    {
+     "kind": "text",
+     "x": 732,
+     "y": 38.1,
+     "w": 496,
+     "h": 100,
+     "text": "Pixel",
+     "family": "Anton",
+     "size": 92,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 530,
+     "y": 250,
+     "w": 220,
+     "h": 220,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 530,
+     "y": 242.4,
+     "w": 220,
+     "h": 220,
+     "text": "VS",
+     "family": "Anton",
+     "size": 100,
+     "weight": 400,
+     "color": "#0A0A0A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 570,
+     "w": 1280,
+     "h": 150,
+     "fill": "#000000",
+     "opacity": 0.75
+    },
+    {
+     "kind": "text",
+     "x": 40,
+     "y": 560.3,
+     "w": 1200,
+     "h": 150,
+     "text": "Which camera wins in 2027?",
+     "family": "Anton",
+     "size": 64,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

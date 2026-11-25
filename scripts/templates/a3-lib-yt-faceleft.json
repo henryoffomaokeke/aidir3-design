@@ -1,0 +1,939 @@
+{
+ "id": "a3-lib-yt-faceleft",
+ "title": "Generator & Inverter Care: Face Left, Big Headline YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "business",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "generator & inverter care",
+  "generator",
+  "inverter",
+  "nigeria"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FF2E93",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 46,
+      "stops": [
+       [
+        "#FF2E93",
+        0
+       ],
+       [
+        "#FF8FC7",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       2880,
+       360
+      ],
+      [
+       2841,
+       805
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       2726,
+       1236
+      ],
+      [
+       2537,
+       1640
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       2281,
+       2006
+      ],
+      [
+       1966,
+       2321
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       1600,
+       2577
+      ],
+      [
+       1196,
+       2766
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       765,
+       2881
+      ],
+      [
+       320,
+       2920
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -125,
+       2881
+      ],
+      [
+       -556,
+       2766
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -960,
+       2577
+      ],
+      [
+       -1326,
+       2321
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -1641,
+       2006
+      ],
+      [
+       -1897,
+       1640
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -2086,
+       1236
+      ],
+      [
+       -2201,
+       805
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -2240,
+       360
+      ],
+      [
+       -2201,
+       -85
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -2086,
+       -516
+      ],
+      [
+       -1897,
+       -920
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -1641,
+       -1286
+      ],
+      [
+       -1326,
+       -1601
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -960,
+       -1857
+      ],
+      [
+       -556,
+       -2046
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       -125,
+       -2161
+      ],
+      [
+       320,
+       -2200
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       765,
+       -2161
+      ],
+      [
+       1196,
+       -2046
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       1600,
+       -1857
+      ],
+      [
+       1966,
+       -1601
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       2281,
+       -1286
+      ],
+      [
+       2537,
+       -920
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       320,
+       360
+      ],
+      [
+       2726,
+       -516
+      ],
+      [
+       2841,
+       -85
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFFFFF",
+     "opacity": 0.16,
+     "name": "Burst rays",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": -18,
+     "y": 9,
+     "w": 702,
+     "h": 702,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": -9,
+     "y": 18,
+     "w": 684,
+     "h": 684,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 0,
+     "y": 27,
+     "w": 666,
+     "h": 666,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 9,
+     "y": 36,
+     "w": 648,
+     "h": 648,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 18,
+     "y": 45,
+     "w": 630,
+     "h": 630,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 27,
+     "y": 54,
+     "w": 612,
+     "h": 612,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 36,
+     "y": 63,
+     "w": 594,
+     "h": 594,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 45,
+     "y": 72,
+     "w": 576,
+     "h": 576,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 54,
+     "y": 81,
+     "w": 558,
+     "h": 558,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 63,
+     "y": 90,
+     "w": 540,
+     "h": 540,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 72,
+     "y": 99,
+     "w": 522,
+     "h": 522,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 81,
+     "y": 108,
+     "w": 504,
+     "h": 504,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 90,
+     "y": 117,
+     "w": 486,
+     "h": 486,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 99,
+     "y": 126,
+     "w": 468,
+     "h": 468,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 108,
+     "y": 135,
+     "w": 450,
+     "h": 450,
+     "fill": "#FFFFFF",
+     "opacity": 0.01,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 117,
+     "y": 144,
+     "w": 432,
+     "h": 432,
+     "fill": "#FFFFFF",
+     "opacity": 0.02,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 126,
+     "y": 153,
+     "w": 414,
+     "h": 414,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 135,
+     "y": 162,
+     "w": 396,
+     "h": 396,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 144,
+     "y": 171,
+     "w": 378,
+     "h": 378,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 153,
+     "y": 180,
+     "w": 360,
+     "h": 360,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 162,
+     "y": 189,
+     "w": 342,
+     "h": 342,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 171,
+     "y": 198,
+     "w": 324,
+     "h": 324,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 180,
+     "y": 207,
+     "w": 306,
+     "h": 306,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 189,
+     "y": 216,
+     "w": 288,
+     "h": 288,
+     "fill": "#FFFFFF",
+     "opacity": 0.03,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 198,
+     "y": 225,
+     "w": 270,
+     "h": 270,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 207,
+     "y": 234,
+     "w": 252,
+     "h": 252,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 216,
+     "y": 243,
+     "w": 234,
+     "h": 234,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 225,
+     "y": 252,
+     "w": 216,
+     "h": 216,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 234,
+     "y": 261,
+     "w": 198,
+     "h": 198,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 243,
+     "y": 270,
+     "w": 180,
+     "h": 180,
+     "fill": "#FFFFFF",
+     "opacity": 0.04,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 252,
+     "y": 279,
+     "w": 162,
+     "h": 162,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 261,
+     "y": 288,
+     "w": 144,
+     "h": 144,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 270,
+     "y": 297,
+     "w": 126,
+     "h": 126,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 279,
+     "y": 306,
+     "w": 108,
+     "h": 108,
+     "fill": "#FFFFFF",
+     "opacity": 0.05,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 288,
+     "y": 315,
+     "w": 90,
+     "h": 90,
+     "fill": "#FFFFFF",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 297,
+     "y": 324,
+     "w": 72,
+     "h": 72,
+     "fill": "#FFFFFF",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 306,
+     "y": 333,
+     "w": 54,
+     "h": 54,
+     "fill": "#FFFFFF",
+     "opacity": 0.06,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 315,
+     "y": 342,
+     "w": 36,
+     "h": 36,
+     "fill": "#FFFFFF",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "ellipse",
+     "x": 324,
+     "y": 351,
+     "w": 18,
+     "h": 18,
+     "fill": "#FFFFFF",
+     "opacity": 0.07,
+     "name": "Spotlight"
+    },
+    {
+     "kind": "photo",
+     "x": 112,
+     "y": -5,
+     "w": 441,
+     "h": 763,
+     "shape": "rect",
+     "fill": "#ED8ABA",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-63a01bc9-270c-4f69-a652-0dadf6d2a77c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/63a01bc9-270c-4f69-a652-0dadf6d2a77c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Female Doctor",
+       "author": "Direct Media",
+       "url": "https://stocksnap.io/photo/female-doctor-WINC1QDMT4",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 670,
+     "y": 47,
+     "w": 566,
+     "h": 409,
+     "rotation": 3,
+     "fill": "#111111",
+     "radius": 25,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 591.5,
+     "y": 59.2,
+     "w": 583,
+     "h": 349,
+     "text": "GEN",
+     "family": "Anton",
+     "size": 311,
+     "weight": 400,
+     "color": "#FFF200",
+     "align": "right",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 577.9,
+     "y": 464.9,
+     "w": 633,
+     "h": 101,
+     "text": "WON'T START?",
+     "family": "Anton",
+     "size": 90,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "align": "right",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n60",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n61",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  }
+ ]
+}

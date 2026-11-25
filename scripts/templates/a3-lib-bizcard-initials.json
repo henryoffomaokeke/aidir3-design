@@ -1,0 +1,227 @@
+{
+ "id": "a3-lib-bizcard-initials",
+ "title": "Designer Card: Initials",
+ "categories": [
+  "branding",
+  "personal",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "designer",
+  "creative",
+  "orange",
+  "personal"
+ ],
+ "styleTags": [
+  "light"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo Black",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FFF6F0",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      [
+       845,
+       200
+      ],
+      [
+       1050,
+       600
+      ],
+      [
+       640,
+       600
+      ]
+     ],
+     "closed": true,
+     "fill": "#FF5A1F",
+     "opacity": 0.95,
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 600,
+     "y": 3.5,
+     "w": 420,
+     "h": 240,
+     "text": "IN",
+     "family": "Archivo Black",
+     "size": 220,
+     "weight": 400,
+     "color": "#151515",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "opacity": 0.03
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 54.9,
+     "w": 500,
+     "h": 34,
+     "text": "Studio Ifeoma",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 700,
+     "color": "#FF5A1F",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 140.4,
+     "w": 560,
+     "h": 70,
+     "text": "Ifeoma Nwosu",
+     "family": "Archivo Black",
+     "size": 58,
+     "weight": 400,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 216.4,
+     "w": 560,
+     "h": 36,
+     "text": "Brand & product designer",
+     "family": "DM Sans",
+     "size": 24,
+     "weight": 500,
+     "color": "#6B6460",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 70,
+     "y": 338,
+     "w": 26,
+     "h": 26,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 324.9,
+     "w": 500,
+     "h": 42,
+     "text": "+234 816 777 1234",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 70,
+     "y": 388,
+     "w": 26,
+     "h": 26,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 374.9,
+     "w": 500,
+     "h": 42,
+     "text": "hello@studioifeoma.com",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 70,
+     "y": 438,
+     "w": 26,
+     "h": 26,
+     "color": "#FF5A1F"
+    },
+    {
+     "kind": "text",
+     "x": 110,
+     "y": 424.9,
+     "w": 500,
+     "h": 42,
+     "text": "studioifeoma.com",
+     "family": "DM Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#151515",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

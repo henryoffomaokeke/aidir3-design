@@ -1,0 +1,517 @@
+{
+ "id": "a3-lib-modern-menu",
+ "title": "Auto Repair & Car Wash: Modern Menu",
+ "categories": [
+  "business",
+  "print"
+ ],
+ "tags": [
+  "car wash",
+  "mechanic",
+  "auto repair",
+  "car service",
+  "detailing",
+  "menu",
+  "modern menu",
+  "automotive"
+ ],
+ "styleTags": [
+  "dark",
+  "editorial",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "DM Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0E0E0E",
+   "nodes": [
+    {
+     "kind": "photo",
+     "x": 89,
+     "y": 89,
+     "w": 1062,
+     "h": 526,
+     "shape": "rect",
+     "radius": 50,
+     "fill": "#DCDEE1",
+     "name": "Photo: car wash foam"
+    },
+    {
+     "kind": "ellipse",
+     "x": 939,
+     "y": 432,
+     "w": 236,
+     "h": 236,
+     "rotation": 8,
+     "fill": "#D4B483",
+     "name": "Sticker"
+    },
+    {
+     "kind": "text",
+     "x": 962.8,
+     "y": 484.5,
+     "w": 151,
+     "h": 151,
+     "text": "₦5,000",
+     "family": "Instrument Serif",
+     "size": 33,
+     "weight": 400,
+     "color": "#0E0E0E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 666.2,
+     "w": 864,
+     "h": 39,
+     "text": "Car care",
+     "family": "DM Sans",
+     "size": 29,
+     "weight": 700,
+     "color": "#D4B483",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 717.2,
+     "w": 864,
+     "h": 271,
+     "text": "Service you can trust",
+     "family": "Instrument Serif",
+     "size": 130,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1040,
+     "w": 1062,
+     "h": 526,
+     "fill": "#1B1B1B",
+     "radius": 37,
+     "name": "Table"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1040,
+     "w": 743.4,
+     "h": 87.7,
+     "fill": "#F3EFE6",
+     "name": "Table header"
+    },
+    {
+     "kind": "rect",
+     "x": 832.4,
+     "y": 1040,
+     "w": 318.6,
+     "h": 87.7,
+     "fill": "#F3EFE6",
+     "name": "Table header"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1215.3,
+     "w": 743.4,
+     "h": 87.7,
+     "fill": "#D4B483",
+     "opacity": 0.08,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 832.4,
+     "y": 1215.3,
+     "w": 318.6,
+     "h": 87.7,
+     "fill": "#D4B483",
+     "opacity": 0.08,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1390.7,
+     "w": 743.4,
+     "h": 87.7,
+     "fill": "#D4B483",
+     "opacity": 0.08,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 832.4,
+     "y": 1390.7,
+     "w": 318.6,
+     "h": 87.7,
+     "fill": "#D4B483",
+     "opacity": 0.08,
+     "name": "Table row"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1039.5,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1127.2,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1214.8,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1302.5,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1390.2,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1477.8,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 89,
+     "y": 1565.5,
+     "w": 1062,
+     "h": 1,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 88.5,
+     "y": 1040,
+     "w": 1,
+     "h": 526,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 831.9,
+     "y": 1040,
+     "w": 1,
+     "h": 526,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "rect",
+     "x": 1150.5,
+     "y": 1040,
+     "w": 1,
+     "h": 526,
+     "fill": "#F3EFE6",
+     "opacity": 0.1,
+     "name": "Table rule"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 1061.6,
+     "w": 679.4,
+     "h": 23.7,
+     "text": "Item",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 700,
+     "color": "#0E0E0E",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table heading"
+    },
+    {
+     "kind": "text",
+     "x": 864.4,
+     "y": 1061.6,
+     "w": 254.6,
+     "h": 23.7,
+     "text": "Price",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 700,
+     "color": "#0E0E0E",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table heading"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 1149.3,
+     "w": 679.4,
+     "h": 23.7,
+     "text": "Exterior wash",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 864.4,
+     "y": 1149.3,
+     "w": 254.6,
+     "h": 23.7,
+     "text": "₦5,000",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 1237,
+     "w": 679.4,
+     "h": 23.7,
+     "text": "Full wash + vacuum",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 864.4,
+     "y": 1237,
+     "w": 254.6,
+     "h": 23.7,
+     "text": "₦8,000",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 1324.6,
+     "w": 679.4,
+     "h": 23.7,
+     "text": "Full detailing",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 864.4,
+     "y": 1324.6,
+     "w": 254.6,
+     "h": 23.7,
+     "text": "₦45,000",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 1412.3,
+     "w": 679.4,
+     "h": 23.7,
+     "text": "Oil service",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 864.4,
+     "y": 1412.3,
+     "w": 254.6,
+     "h": 23.7,
+     "text": "₦35,000",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 121,
+     "y": 1500,
+     "w": 679.4,
+     "h": 23.7,
+     "text": "Diagnostics",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 864.4,
+     "y": 1500,
+     "w": 254.6,
+     "h": 23.7,
+     "text": "₦15,000",
+     "family": "DM Sans",
+     "size": 40,
+     "weight": 400,
+     "color": "#F3EFE6",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "name": "Table cell"
+    },
+    {
+     "kind": "text",
+     "x": 89,
+     "y": 1596,
+     "w": 1062,
+     "h": 62,
+     "text": "Open daily 7am–7pm  ·  shineauto.ng",
+     "family": "DM Sans",
+     "size": 30,
+     "weight": 500,
+     "color": "#A8A296",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n23",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

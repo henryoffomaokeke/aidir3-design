@@ -233,7 +233,7 @@ export function WebsiteDialog({
                     onChange={(e) => patchSite({ title: e.target.value })}
                   />
                 </Field>
-                <Field label={tr("editor.slug")} hint=".hycanvas.site (hosting deferred)">
+                <Field label={tr("editor.slug")} hint=".design.aidir3.com (hosting deferred)">
                   <div className="flex items-center gap-1">
                     <input
                       className={`${INPUT_CLS} flex-1`}
@@ -241,7 +241,7 @@ export function WebsiteDialog({
                       onChange={(e) => patchSite({ slug: e.target.value })}
                       onBlur={(e) => patchSite({ slug: kebab(e.target.value) || "site" })}
                     />
-                    <span className="shrink-0 text-xs text-neutral-400">.hycanvas.site</span>
+                    <span className="shrink-0 text-xs text-neutral-400">.design.aidir3.com</span>
                   </div>
                 </Field>
                 <Field label={tr("editor.password_protect")} hint="serving-layer gate; deferred">

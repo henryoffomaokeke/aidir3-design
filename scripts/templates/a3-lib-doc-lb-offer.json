@@ -1,0 +1,216 @@
+{
+ "id": "a3-lib-doc-lb-offer",
+ "title": "Clean Water Charity: Offer Ad",
+ "categories": [
+  "business",
+  "marketing"
+ ],
+ "tags": [
+  "clean water",
+  "borehole",
+  "charity",
+  "wash",
+  "donate",
+  "nonprofit",
+  "leaderboard ad 728×90",
+  "offer ad"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1456,
+  180
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "EB Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EAFBFB",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 380,
+     "h": 180,
+     "fill": "#00A8A8"
+    },
+    {
+     "kind": "ellipse",
+     "x": 350,
+     "y": 60,
+     "w": 60,
+     "h": 60,
+     "fill": "#00A8A8"
+    },
+    {
+     "kind": "text",
+     "x": 20,
+     "y": -1.3,
+     "w": 340,
+     "h": 108,
+     "text": "2×",
+     "family": "EB Garamond",
+     "size": 100,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1,
+     "bleed": true
+    },
+    {
+     "kind": "text",
+     "x": 20,
+     "y": 120.1,
+     "w": 340,
+     "h": 30,
+     "text": "YOUR GIFT DOUBLED",
+     "family": "Onest",
+     "size": 24,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 420,
+     "y": 16,
+     "w": 706,
+     "h": 62,
+     "text": "One well, one village",
+     "family": "EB Garamond",
+     "size": 56,
+     "weight": 600,
+     "color": "#0F2E33",
+     "vAlign": "middle",
+     "lineHeight": 1.02
+    },
+    {
+     "kind": "text",
+     "x": 420,
+     "y": 90.1,
+     "w": 706,
+     "h": 30,
+     "text": "Code WATER2X · Until 31 March",
+     "family": "Onest",
+     "size": 24,
+     "weight": 600,
+     "color": "#00A8A8",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 1166,
+     "y": 50,
+     "w": 250,
+     "h": 80,
+     "fill": "#00A8A8",
+     "radius": 40
+    },
+    {
+     "kind": "text",
+     "x": 1194,
+     "y": 43.4,
+     "w": 178,
+     "h": 80,
+     "text": "Fund a well",
+     "family": "Onest",
+     "size": 27,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1373.25,
+       90
+      ],
+      [
+       1390.75,
+       90
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.1,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1382,
+       81.25
+      ],
+      [
+       1390.75,
+       90
+      ],
+      [
+       1382,
+       98.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3.1,
+     "cap": "round",
+     "join": "round",
+     "name": "Icon (arrow-right)"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 35 characters"
+  }
+ ]
+}

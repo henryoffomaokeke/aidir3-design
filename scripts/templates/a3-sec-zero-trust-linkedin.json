@@ -1,0 +1,571 @@
+{
+ "id": "a3-sec-zero-trust-linkedin",
+ "title": "Zero Trust Principles LinkedIn Post",
+ "categories": [
+  "security",
+  "social",
+  "marketing"
+ ],
+ "tags": [
+  "cybersecurity",
+  "zero trust",
+  "linkedin",
+  "social post",
+  "principles",
+  "diagram",
+  "identity"
+ ],
+ "styleTags": [
+  "bold",
+  "blue",
+  "diagram"
+ ],
+ "size": [
+  1200,
+  627
+ ],
+ "rank": -955,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bricolage Grotesque",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Instrument Sans",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Post",
+   "bg": "#1B36D8",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 50,
+     "w": 560,
+     "h": 26,
+     "text": "Zero trust in three principles",
+     "family": "Instrument Sans",
+     "size": 19,
+     "weight": 700,
+     "color": "#FFD84A",
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 86,
+     "w": 600,
+     "h": 176,
+     "text": "Never trust.\nAlways verify.",
+     "family": "Bricolage Grotesque",
+     "size": 80,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 296,
+     "w": 52,
+     "h": 52,
+     "fill": "#FFD84A"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 296,
+     "w": 52,
+     "h": 52,
+     "text": "1",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 800,
+     "color": "#0D1C80",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 292,
+     "w": 480,
+     "h": 36,
+     "text": "Verify explicitly",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 329,
+     "w": 480,
+     "h": 26,
+     "text": "Every user, device and request.",
+     "family": "Instrument Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#CBD5FF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 376,
+     "w": 52,
+     "h": 52,
+     "fill": "#FFD84A"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 376,
+     "w": 52,
+     "h": 52,
+     "text": "2",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 800,
+     "color": "#0D1C80",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 372,
+     "w": 480,
+     "h": 36,
+     "text": "Use least privilege",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 409,
+     "w": 480,
+     "h": 26,
+     "text": "Just enough access, just in time.",
+     "family": "Instrument Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#CBD5FF"
+    },
+    {
+     "kind": "ellipse",
+     "x": 56,
+     "y": 456,
+     "w": 52,
+     "h": 52,
+     "fill": "#FFD84A"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 456,
+     "w": 52,
+     "h": 52,
+     "text": "3",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 800,
+     "color": "#0D1C80",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 452,
+     "w": 480,
+     "h": 36,
+     "text": "Assume breach",
+     "family": "Bricolage Grotesque",
+     "size": 30,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 126,
+     "y": 489,
+     "w": 480,
+     "h": 26,
+     "text": "Segment, log and contain.",
+     "family": "Instrument Sans",
+     "size": 20,
+     "weight": 400,
+     "color": "#CBD5FF"
+    },
+    {
+     "kind": "text",
+     "x": 56,
+     "y": 556,
+     "w": 560,
+     "h": 24,
+     "text": "Vireo Cloud Security  ·  vireocloud.example/zero-trust",
+     "family": "Instrument Sans",
+     "size": 17,
+     "weight": 500,
+     "color": "#CBD5FF"
+    },
+    {
+     "kind": "rect",
+     "x": 664,
+     "y": 50,
+     "w": 480,
+     "h": 527,
+     "fill": "#1228AC",
+     "radius": 28
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 774,
+       "y": 139.5,
+       "cOut": {
+        "x": 844,
+        "y": 139.5
+       }
+      },
+      {
+       "x": 856,
+       "y": 289.5,
+       "cIn": {
+        "x": 786,
+        "y": 289.5
+       }
+      }
+     ],
+     "stroke": "#CBD5FF",
+     "strokeWidth": 3,
+     "dash": [
+      3,
+      9
+     ],
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 774,
+       "y": 289.5,
+       "cOut": {
+        "x": 844,
+        "y": 289.5
+       }
+      },
+      {
+       "x": 856,
+       "y": 289.5,
+       "cIn": {
+        "x": 786,
+        "y": 289.5
+       }
+      }
+     ],
+     "stroke": "#CBD5FF",
+     "strokeWidth": 3,
+     "dash": [
+      3,
+      9
+     ],
+     "cap": "round"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 774,
+       "y": 439.5,
+       "cOut": {
+        "x": 844,
+        "y": 439.5
+       }
+      },
+      {
+       "x": 856,
+       "y": 289.5,
+       "cIn": {
+        "x": 786,
+        "y": 289.5
+       }
+      }
+     ],
+     "stroke": "#CBD5FF",
+     "strokeWidth": 3,
+     "dash": [
+      3,
+      9
+     ],
+     "cap": "round"
+    },
+    {
+     "kind": "ellipse",
+     "x": 696,
+     "y": 101.5,
+     "w": 76,
+     "h": 76,
+     "fill": "#1228AC",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "icon",
+     "x": 715,
+     "y": 120.5,
+     "w": 38,
+     "h": 38,
+     "icon": "user",
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 664,
+     "y": 185.5,
+     "w": 140,
+     "h": 22,
+     "text": "Identity",
+     "family": "Instrument Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 696,
+     "y": 251.5,
+     "w": 76,
+     "h": 76,
+     "fill": "#1228AC",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "icon",
+     "x": 715,
+     "y": 270.5,
+     "w": 38,
+     "h": 38,
+     "icon": "device-desktop",
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 664,
+     "y": 335.5,
+     "w": 140,
+     "h": 22,
+     "text": "Device",
+     "family": "Instrument Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 696,
+     "y": 401.5,
+     "w": 76,
+     "h": 76,
+     "fill": "#1228AC",
+     "stroke": "#FFFFFF",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "icon",
+     "x": 715,
+     "y": 420.5,
+     "w": 38,
+     "h": 38,
+     "icon": "world",
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 664,
+     "y": 485.5,
+     "w": 140,
+     "h": 22,
+     "text": "Network",
+     "family": "Instrument Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 982,
+     "y": 287.5,
+     "w": 40,
+     "h": 4,
+     "fill": "#FFD84A"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1018,
+       278.5
+      ],
+      [
+       1036,
+       289.5
+      ],
+      [
+       1018,
+       300.5
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD84A"
+    },
+    {
+     "kind": "ellipse",
+     "x": 844,
+     "y": 211.5,
+     "w": 156,
+     "h": 156,
+     "stroke": "#FFD84A",
+     "strokeWidth": 2,
+     "opacity": 0.45
+    },
+    {
+     "kind": "ellipse",
+     "x": 860,
+     "y": 227.5,
+     "w": 124,
+     "h": 124,
+     "fill": "#FFD84A"
+    },
+    {
+     "kind": "icon",
+     "x": 891,
+     "y": 258.5,
+     "w": 62,
+     "h": 62,
+     "icon": "lock",
+     "color": "#0D1C80"
+    },
+    {
+     "kind": "text",
+     "x": 832,
+     "y": 377.5,
+     "w": 180,
+     "h": 22,
+     "text": "Policy check",
+     "family": "Instrument Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#FFD84A",
+     "align": "center",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 1040,
+     "y": 253.5,
+     "w": 72,
+     "h": 72,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "x": 1058,
+     "y": 271.5,
+     "w": 36,
+     "h": 36,
+     "icon": "database",
+     "color": "#1B36D8"
+    },
+    {
+     "kind": "text",
+     "x": 1016,
+     "y": 335.5,
+     "w": 120,
+     "h": 44,
+     "text": "Apps\nand data",
+     "family": "Instrument Sans",
+     "size": 16,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "align": "center",
+     "letterSpacing": 2,
+     "upper": true,
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 692,
+     "y": 533,
+     "w": 424,
+     "h": 24,
+     "text": "No request is trusted because of where it comes from.",
+     "family": "Instrument Sans",
+     "size": 16.5,
+     "weight": 400,
+     "color": "#CBD5FF",
+     "align": "center"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Two short lines, up to 14 characters each"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Principle 1",
+   "hint": "Up to 22 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Principle 2",
+   "hint": "Up to 22 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Principle 3",
+   "hint": "Up to 22 characters"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Brand line",
+   "hint": "Company name and link"
+  }
+ ]
+}

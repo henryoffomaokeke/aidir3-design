@@ -1,0 +1,721 @@
+{
+ "id": "a3-lib-cert-luxe",
+ "title": "Good Citizenship Award: Dark Luxe",
+ "categories": [
+  "certificates"
+ ],
+ "tags": [
+  "certificate",
+  "award",
+  "school",
+  "academic",
+  "education",
+  "student",
+  "good",
+  "citizenship"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  2000,
+  1414
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#F6FBF7",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 2000,
+     "h": 1414,
+     "fill": "#0D2B1D"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 2000,
+     "h": 1414,
+     "fill": {
+      "angle": 125,
+      "stops": [
+       [
+        "#1C382B",
+        0
+       ],
+       [
+        "#143124",
+        0.25
+       ],
+       [
+        "#0D2B1D",
+        0.5
+       ],
+       [
+        "#0B2619",
+        0.75
+       ],
+       [
+        "#0A2016",
+        1
+       ]
+      ]
+     },
+     "name": "Fade"
+    },
+    {
+     "kind": "rect",
+     "x": 70,
+     "y": 70,
+     "w": 1860,
+     "h": 1274,
+     "stroke": "#FFC94A",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "rect",
+     "x": 86,
+     "y": 86,
+     "w": 1828,
+     "h": 1242,
+     "stroke": "#FFC94A",
+     "strokeWidth": 2,
+     "opacity": 0.4
+    },
+    {
+     "kind": "ellipse",
+     "x": 930,
+     "y": 120,
+     "w": 140,
+     "h": 140,
+     "stroke": "#FFC94A",
+     "strokeWidth": 4
+    },
+    {
+     "kind": "text",
+     "x": 940,
+     "y": 138.8,
+     "w": 120,
+     "h": 80,
+     "text": "RC",
+     "family": "Cormorant Garamond",
+     "size": 62,
+     "weight": 600,
+     "color": "#FFC94A",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 346.5,
+     "w": 1560,
+     "h": 34,
+     "text": "ROYAL CREST ACADEMY",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 700,
+     "color": "#FFC94A",
+     "align": "center",
+     "lineHeight": 1.2,
+     "letterSpacing": 5
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 410.2,
+     "w": 1560,
+     "h": 109,
+     "text": "GOOD CITIZENSHIP AWARD",
+     "family": "Cormorant Garamond",
+     "size": 96,
+     "weight": 600,
+     "color": "#F7F3EA",
+     "align": "center",
+     "lineHeight": 1.05,
+     "letterSpacing": 3
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 577.8,
+     "w": 1560,
+     "h": 40,
+     "text": "This certificate is proudly presented to",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 400,
+     "color": "#B9B2A4",
+     "align": "center",
+     "lineHeight": 1.25
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 608,
+     "w": 1560,
+     "h": 173,
+     "text": "Emeka Nnamdi",
+     "family": "Cormorant Garamond",
+     "size": 140,
+     "weight": 600,
+     "color": "#FFC94A",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 660,
+     "y": 860,
+     "w": 680,
+     "h": 3,
+     "fill": "#FFC94A"
+    },
+    {
+     "kind": "text",
+     "x": 220,
+     "y": 900.4,
+     "w": 1560,
+     "h": 48,
+     "text": "for honesty, respect and leading the school's clean-up and recycling club.",
+     "family": "Figtree",
+     "size": 31,
+     "weight": 400,
+     "color": "#F7F3EA",
+     "align": "center",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 1019.5,
+     "w": 420,
+     "h": 78,
+     "text": "G. Ibe",
+     "family": "Instrument Serif",
+     "size": 60,
+     "weight": 400,
+     "color": "#F7F3EA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 180,
+     "y": 1123,
+     "w": 420,
+     "h": 3,
+     "fill": "#FFC94A"
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 1128.7,
+     "w": 420,
+     "h": 35,
+     "text": "Grace Ibe",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#F7F3EA",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 180,
+     "y": 1166.3,
+     "w": 420,
+     "h": 30,
+     "text": "Principal",
+     "family": "Figtree",
+     "size": 23,
+     "weight": 400,
+     "color": "#B9B2A4",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 1019.5,
+     "w": 420,
+     "h": 78,
+     "text": "F. Adisa",
+     "family": "Instrument Serif",
+     "size": 60,
+     "weight": 400,
+     "color": "#F7F3EA",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 1400,
+     "y": 1123,
+     "w": 420,
+     "h": 3,
+     "fill": "#FFC94A"
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 1128.7,
+     "w": 420,
+     "h": 35,
+     "text": "Femi Adisa",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#F7F3EA",
+     "align": "center",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1400,
+     "y": 1166.3,
+     "w": 420,
+     "h": 30,
+     "text": "Club Patron",
+     "family": "Figtree",
+     "size": 23,
+     "weight": 400,
+     "color": "#B9B2A4",
+     "align": "center",
+     "lineHeight": 1.2
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1000,
+       1035
+      ],
+      [
+       1003.53,
+       1090.14
+      ],
+      [
+       1015.64,
+       1036.23
+      ],
+      [
+       1010.51,
+       1091.24
+      ],
+      [
+       1030.9,
+       1039.89
+      ],
+      [
+       1017.22,
+       1093.43
+      ],
+      [
+       1045.4,
+       1045.9
+      ],
+      [
+       1023.51,
+       1096.63
+      ],
+      [
+       1058.78,
+       1054.1
+      ],
+      [
+       1029.23,
+       1100.78
+      ],
+      [
+       1070.71,
+       1064.29
+      ],
+      [
+       1034.22,
+       1105.77
+      ],
+      [
+       1080.9,
+       1076.22
+      ],
+      [
+       1038.37,
+       1111.49
+      ],
+      [
+       1089.1,
+       1089.6
+      ],
+      [
+       1041.57,
+       1117.78
+      ],
+      [
+       1095.11,
+       1104.1
+      ],
+      [
+       1043.76,
+       1124.49
+      ],
+      [
+       1098.77,
+       1119.36
+      ],
+      [
+       1044.86,
+       1131.47
+      ],
+      [
+       1100,
+       1135
+      ],
+      [
+       1044.86,
+       1138.53
+      ],
+      [
+       1098.77,
+       1150.64
+      ],
+      [
+       1043.76,
+       1145.51
+      ],
+      [
+       1095.11,
+       1165.9
+      ],
+      [
+       1041.57,
+       1152.22
+      ],
+      [
+       1089.1,
+       1180.4
+      ],
+      [
+       1038.37,
+       1158.51
+      ],
+      [
+       1080.9,
+       1193.78
+      ],
+      [
+       1034.22,
+       1164.23
+      ],
+      [
+       1070.71,
+       1205.71
+      ],
+      [
+       1029.23,
+       1169.22
+      ],
+      [
+       1058.78,
+       1215.9
+      ],
+      [
+       1023.51,
+       1173.37
+      ],
+      [
+       1045.4,
+       1224.1
+      ],
+      [
+       1017.22,
+       1176.57
+      ],
+      [
+       1030.9,
+       1230.11
+      ],
+      [
+       1010.51,
+       1178.76
+      ],
+      [
+       1015.64,
+       1233.77
+      ],
+      [
+       1003.53,
+       1179.86
+      ],
+      [
+       1000,
+       1235
+      ],
+      [
+       996.47,
+       1179.86
+      ],
+      [
+       984.36,
+       1233.77
+      ],
+      [
+       989.49,
+       1178.76
+      ],
+      [
+       969.1,
+       1230.11
+      ],
+      [
+       982.78,
+       1176.57
+      ],
+      [
+       954.6,
+       1224.1
+      ],
+      [
+       976.49,
+       1173.37
+      ],
+      [
+       941.22,
+       1215.9
+      ],
+      [
+       970.77,
+       1169.22
+      ],
+      [
+       929.29,
+       1205.71
+      ],
+      [
+       965.78,
+       1164.23
+      ],
+      [
+       919.1,
+       1193.78
+      ],
+      [
+       961.63,
+       1158.51
+      ],
+      [
+       910.9,
+       1180.4
+      ],
+      [
+       958.43,
+       1152.22
+      ],
+      [
+       904.89,
+       1165.9
+      ],
+      [
+       956.24,
+       1145.51
+      ],
+      [
+       901.23,
+       1150.64
+      ],
+      [
+       955.14,
+       1138.53
+      ],
+      [
+       900,
+       1135
+      ],
+      [
+       955.14,
+       1131.47
+      ],
+      [
+       901.23,
+       1119.36
+      ],
+      [
+       956.24,
+       1124.49
+      ],
+      [
+       904.89,
+       1104.1
+      ],
+      [
+       958.43,
+       1117.78
+      ],
+      [
+       910.9,
+       1089.6
+      ],
+      [
+       961.63,
+       1111.49
+      ],
+      [
+       919.1,
+       1076.22
+      ],
+      [
+       965.78,
+       1105.77
+      ],
+      [
+       929.29,
+       1064.29
+      ],
+      [
+       970.77,
+       1100.78
+      ],
+      [
+       941.22,
+       1054.1
+      ],
+      [
+       976.49,
+       1096.63
+      ],
+      [
+       954.6,
+       1045.9
+      ],
+      [
+       982.78,
+       1093.43
+      ],
+      [
+       969.1,
+       1039.89
+      ],
+      [
+       989.49,
+       1091.24
+      ],
+      [
+       984.36,
+       1036.23
+      ],
+      [
+       996.47,
+       1090.14
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFC94A",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 920,
+     "y": 1055,
+     "w": 160,
+     "h": 160,
+     "fill": "#FFC94A",
+     "stroke": "#0D2B1D",
+     "strokeWidth": 3
+    },
+    {
+     "kind": "ellipse",
+     "x": 930,
+     "y": 1065,
+     "w": 140,
+     "h": 140,
+     "stroke": "#0D2B1D",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 930,
+     "y": 1086.1,
+     "w": 140,
+     "h": 88,
+     "text": "Good\ncitizen",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#0D2B1D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 170,
+     "y": 1269.1,
+     "w": 1660,
+     "h": 28,
+     "text": "Certificate No. ACD-2027-8163  ·  4 November 2026",
+     "family": "Figtree",
+     "size": 22,
+     "weight": 500,
+     "color": "#B9B2A4",
+     "align": "center",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 90 characters"
+  }
+ ]
+}

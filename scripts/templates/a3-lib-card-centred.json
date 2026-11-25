@@ -1,0 +1,167 @@
+{
+ "id": "a3-lib-card-centred",
+ "title": "Atelier Lagos Academy: Business Card Front (Centred Logo)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "centred logo",
+  "fashion design school",
+  "education"
+ ],
+ "styleTags": [
+  "colourful"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Plus Jakarta Sans",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#B3131B",
+   "nodes": [
+    {
+     "kind": "path",
+     "points": [
+      [
+       477.5,
+       82
+      ],
+      [
+       520,
+       167
+      ],
+      [
+       435,
+       167
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFD400",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 537,
+     "y": 89,
+     "w": 71,
+     "h": 71,
+     "stroke": "#14080A",
+     "strokeWidth": 13.6
+    },
+    {
+     "kind": "rect",
+     "x": 435,
+     "y": 178,
+     "w": 85,
+     "h": 85,
+     "fill": "#FFFFFF",
+     "radius": 10.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 530,
+     "y": 178,
+     "w": 85,
+     "h": 85,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "text",
+     "x": 275,
+     "y": 278.5,
+     "w": 500,
+     "h": 96,
+     "text": "Atelier\nLagos Academy",
+     "family": "Plus Jakarta Sans",
+     "size": 41,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 1.6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 345,
+     "y": 390.2,
+     "w": 360,
+     "h": 15,
+     "text": "Fashion design school",
+     "family": "Onest",
+     "size": 12,
+     "weight": 700,
+     "color": "#FFD1D4",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 475,
+     "y": 470,
+     "w": 100,
+     "h": 3,
+     "fill": "#FFD400"
+    },
+    {
+     "kind": "text",
+     "x": 125,
+     "y": 494.9,
+     "w": 800,
+     "h": 27,
+     "text": "0813 909 5656   ·   atelierlagos.academy",
+     "family": "Onest",
+     "size": 22,
+     "weight": 600,
+     "color": "#FFFFFF",
+     "align": "center",
+     "lineHeight": 1.12
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

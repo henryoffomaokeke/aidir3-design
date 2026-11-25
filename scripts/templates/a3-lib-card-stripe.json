@@ -1,0 +1,268 @@
+{
+ "id": "a3-lib-card-stripe",
+ "title": "Sentinel Labs: Business Card Front (Bold Stripe)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card front",
+  "bold stripe",
+  "cybersecurity",
+  "tech & ai"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Public Sans",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Public Sans",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#050505",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 70,
+     "y": 50,
+     "w": 64,
+     "h": 64,
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#00F0FF",
+        0
+       ],
+       [
+        "#FF2BD6",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 74,
+     "y": 54,
+     "w": 55,
+     "h": 55,
+     "stroke": "#050505",
+     "strokeWidth": 2,
+     "opacity": 0.45
+    },
+    {
+     "kind": "icon",
+     "icon": "shield",
+     "x": 87,
+     "y": 67,
+     "w": 31,
+     "h": 31,
+     "color": "#050505"
+    },
+    {
+     "kind": "text",
+     "x": 153,
+     "y": 56.6,
+     "w": 517,
+     "h": 39,
+     "text": "Sentinel Labs",
+     "family": "Unbounded",
+     "size": 32,
+     "weight": 800,
+     "color": "#F5F5F5",
+     "lineHeight": 1.12,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 200,
+     "w": 1050,
+     "h": 170,
+     "fill": "#00F0FF"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 370,
+     "w": 1050,
+     "h": 8,
+     "fill": "#FF2BD6"
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 215.9,
+     "w": 900,
+     "h": 72,
+     "text": "Femi Lawal",
+     "family": "Public Sans",
+     "size": 60,
+     "weight": 700,
+     "color": "#050505",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 70,
+     "y": 310.6,
+     "w": 900,
+     "h": 25,
+     "text": "CLIENT PARTNER",
+     "family": "Public Sans",
+     "size": 20,
+     "weight": 700,
+     "color": "#050505",
+     "lineHeight": 1.12,
+     "letterSpacing": 3.6,
+     "upper": true
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 70,
+     "y": 428,
+     "w": 28,
+     "h": 28,
+     "color": "#00F0FF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 414.9,
+     "w": 407,
+     "h": 45,
+     "text": "+234 807 555 8583",
+     "family": "Public Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F5F5F5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 70,
+     "y": 484,
+     "w": 28,
+     "h": 28,
+     "color": "#00F0FF"
+    },
+    {
+     "kind": "text",
+     "x": 113,
+     "y": 470.9,
+     "w": 407,
+     "h": 45,
+     "text": "sentinel.security",
+     "family": "Public Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F5F5F5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 540,
+     "y": 428,
+     "w": 28,
+     "h": 28,
+     "color": "#00F0FF"
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 414.9,
+     "w": 427,
+     "h": 45,
+     "text": "femi@sentinel.security",
+     "family": "Public Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F5F5F5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "map-pin",
+     "x": 540,
+     "y": 484,
+     "w": 28,
+     "h": 28,
+     "color": "#00F0FF"
+    },
+    {
+     "kind": "text",
+     "x": 583,
+     "y": 470.9,
+     "w": 427,
+     "h": 45,
+     "text": "18 Adeola Odeku St, Lagos",
+     "family": "Public Sans",
+     "size": 22,
+     "weight": 500,
+     "color": "#F5F5F5",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n13",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 30 characters"
+  }
+ ]
+}

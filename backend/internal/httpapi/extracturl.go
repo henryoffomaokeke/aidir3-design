@@ -60,7 +60,7 @@ func dataFetchHandler() http.HandlerFunc {
 		ctx, cancel := context.WithTimeout(r.Context(), extractTimeout)
 		defer cancel()
 		res, err := fetchVetted(ctx, body.URL,
-			"HyCanvas-Data/1.0 (+live chart binding)",
+			"design-studio-data/1.0 (+live chart binding)",
 			"text/csv, text/tab-separated-values, application/json, text/plain;q=0.9")
 		if err != nil {
 			problemWithCode(w, r, http.StatusUnprocessableEntity, "Unprocessable Entity", err.Error(), "data_fetch_failed")
@@ -189,7 +189,7 @@ func extractURLHandler() http.HandlerFunc {
 		}
 		ctx, cancel := context.WithTimeout(r.Context(), extractTimeout)
 		defer cancel()
-		res, err := fetchVetted(ctx, body.URL, "HyCanvas-Ingest/1.0 (+deck import)", "text/html, text/plain;q=0.9")
+		res, err := fetchVetted(ctx, body.URL, "design-studio-ingest/1.0 (+deck import)", "text/html, text/plain;q=0.9")
 		if err != nil {
 			problemWithCode(w, r, http.StatusUnprocessableEntity, "Unprocessable Entity", err.Error(), "url_extract_failed")
 			return

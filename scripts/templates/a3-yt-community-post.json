@@ -1,0 +1,355 @@
+{
+ "id": "a3-yt-community-post",
+ "title": "YouTube Community Poll Post",
+ "categories": [
+  "social",
+  "marketing"
+ ],
+ "tags": [
+  "youtube",
+  "community post",
+  "poll",
+  "vote",
+  "audience",
+  "next video",
+  "square",
+  "engagement"
+ ],
+ "styleTags": [
+  "friendly",
+  "lilac",
+  "coral accent"
+ ],
+ "size": [
+  1080,
+  1080
+ ],
+ "rank": -1998,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "display",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Post",
+   "bg": "#EEE8FF",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 80,
+     "w": 220,
+     "h": 52,
+     "radius": 26,
+     "fill": "#24124F"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 80,
+     "w": 220,
+     "h": 52,
+     "text": "YOU PICK",
+     "family": "Figtree",
+     "size": 24,
+     "weight": 800,
+     "color": "#EEE8FF",
+     "lineHeight": 1.1,
+     "align": "center",
+     "vAlign": "middle",
+     "letterSpacing": 4
+    },
+    {
+     "kind": "text",
+     "x": 320,
+     "y": 80,
+     "w": 600,
+     "h": 52,
+     "text": "Poll closes Friday 18:00",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 600,
+     "color": "#6B5C99",
+     "lineHeight": 1.1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 80,
+     "y": 168,
+     "w": 920,
+     "h": 250,
+     "text": "Which build should\nI film next?",
+     "family": "Figtree",
+     "size": 92,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.04,
+     "letterSpacing": -2
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 450,
+     "w": 920,
+     "h": 124,
+     "radius": 24,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 450,
+     "w": 665,
+     "h": 124,
+     "radius": 24,
+     "fill": "#FF6B5A"
+    },
+    {
+     "kind": "photo",
+     "x": 94,
+     "y": 464,
+     "w": 96,
+     "h": 96,
+     "shape": "rect",
+     "radius": 16,
+     "name": "Option 1 thumbnail",
+     "fill": "#FFB3A8"
+    },
+    {
+     "kind": "text",
+     "x": 216,
+     "y": 450,
+     "w": 620,
+     "h": 124,
+     "text": "Tiny house trailer",
+     "family": "Figtree",
+     "size": 38,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 450,
+     "w": 156,
+     "h": 124,
+     "text": "46%",
+     "family": "Figtree",
+     "size": 46,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 600,
+     "w": 920,
+     "h": 124,
+     "radius": 24,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 600,
+     "w": 528,
+     "h": 124,
+     "radius": 24,
+     "fill": "#CFC2FA"
+    },
+    {
+     "kind": "photo",
+     "x": 94,
+     "y": 614,
+     "w": 96,
+     "h": 96,
+     "shape": "rect",
+     "radius": 16,
+     "name": "Option 2 thumbnail",
+     "fill": "#E3DBFF"
+    },
+    {
+     "kind": "text",
+     "x": 216,
+     "y": 600,
+     "w": 620,
+     "h": 124,
+     "text": "Solar e-bike conversion",
+     "family": "Figtree",
+     "size": 38,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 600,
+     "w": 156,
+     "h": 124,
+     "text": "34%",
+     "family": "Figtree",
+     "size": 46,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 750,
+     "w": 920,
+     "h": 124,
+     "radius": 24,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 750,
+     "w": 368,
+     "h": 124,
+     "radius": 24,
+     "fill": "#CFC2FA"
+    },
+    {
+     "kind": "photo",
+     "x": 94,
+     "y": 764,
+     "w": 96,
+     "h": 96,
+     "shape": "rect",
+     "radius": 16,
+     "name": "Option 3 thumbnail",
+     "fill": "#E3DBFF"
+    },
+    {
+     "kind": "text",
+     "x": 216,
+     "y": 750,
+     "w": 620,
+     "h": 124,
+     "text": "Rooftop greenhouse",
+     "family": "Figtree",
+     "size": 38,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 820,
+     "y": 750,
+     "w": 156,
+     "h": 124,
+     "text": "20%",
+     "family": "Figtree",
+     "size": 46,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 80,
+     "y": 924,
+     "w": 920,
+     "h": 2,
+     "fill": "#CFC2FA"
+    },
+    {
+     "kind": "photo",
+     "x": 80,
+     "y": 950,
+     "w": 64,
+     "h": 64,
+     "shape": "ellipse",
+     "name": "Channel avatar",
+     "fill": "#CFC2FA"
+    },
+    {
+     "kind": "text",
+     "x": 164,
+     "y": 950,
+     "w": 520,
+     "h": 64,
+     "text": "Hollow Pine Builds",
+     "family": "Figtree",
+     "size": 30,
+     "weight": 800,
+     "color": "#24124F",
+     "lineHeight": 1.1,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 600,
+     "y": 950,
+     "w": 400,
+     "h": 64,
+     "text": "2,418 votes so far",
+     "family": "Figtree",
+     "size": 26,
+     "weight": 600,
+     "color": "#6B5C99",
+     "lineHeight": 1.1,
+     "align": "right",
+     "vAlign": "middle"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Question",
+   "hint": "Two short lines"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Option 1",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Option 2",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Option 3",
+   "hint": "Up to 24 characters"
+  },
+  {
+   "node": "p0-n21",
+   "kind": "text",
+   "label": "Channel name",
+   "hint": "Your channel"
+  }
+ ]
+}

@@ -41,7 +41,7 @@ describe.each(FULL)("catalog %s", (tag) => {
 
   it("keeps brand names and key chords as authored", () => {
     // The brand survives inside a translated sentence, letter for letter.
-    expect(translate("settings.how_the_hycanvas_interface_looks_on_this_dev")).toContain("HyCanvas");
+    expect(translate("settings.how_the_hycanvas_interface_looks_on_this_dev")).toContain("aidir3 Design");
     expect(translate("app.ctrl")).toBe("Ctrl");
   });
 });

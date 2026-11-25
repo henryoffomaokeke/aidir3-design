@@ -1,0 +1,227 @@
+{
+ "id": "a3-lib-modern-thumb",
+ "title": "Pet Adoption & Rescue: Bold Thumbnail",
+ "categories": [
+  "personal",
+  "social"
+ ],
+ "tags": [
+  "pet adoption",
+  "adopt",
+  "rescue",
+  "shelter",
+  "adopt dont shop",
+  "pets",
+  "x post",
+  "bold thumbnail"
+ ],
+ "styleTags": [
+  "dark",
+  "bold type",
+  "photo"
+ ],
+ "size": [
+  1600,
+  900
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Anton",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#FDF6E3",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": -104.5,
+     "y": -819.5,
+     "w": 2449,
+     "h": 2449,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#622F1C",
+        0
+       ],
+       [
+        "#0E0E0E",
+        0.75
+       ],
+       [
+        "#0E0E0E",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "ellipse",
+     "x": 730,
+     "y": 50,
+     "w": 855,
+     "h": 855,
+     "fill": "#FF6B35",
+     "name": "Ring",
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 743,
+     "y": 63,
+     "w": 828,
+     "h": 828,
+     "shape": "ellipse",
+     "fill": "#A4715E",
+     "name": "Photo: shelter dog adoption"
+    },
+    {
+     "kind": "ellipse",
+     "x": 743,
+     "y": 63,
+     "w": 828,
+     "h": 828,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 9,
+     "name": "Photo border"
+    },
+    {
+     "kind": "text",
+     "x": 65,
+     "y": 192.4,
+     "w": 642,
+     "h": 551,
+     "text": "Give a pet a home",
+     "family": "Anton",
+     "size": 188,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 0.95,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 65,
+     "y": 65,
+     "w": 608,
+     "h": 79,
+     "fill": "#FF6B35",
+     "radius": 39.5,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 65,
+     "y": 57.4,
+     "w": 608,
+     "h": 79,
+     "text": "Adopt, don't shop",
+     "family": "Inter",
+     "size": 36,
+     "weight": 800,
+     "color": "#111111",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 663.59,
+       "y": 767.5,
+       "cOut": {
+        "x": 716.53,
+        "y": 778.75
+       }
+      },
+      {
+       "x": 822.41,
+       "y": 722.5,
+       "cIn": {
+        "x": 769.47,
+        "y": 756.25
+       }
+      }
+     ],
+     "closed": false,
+     "stroke": "#FF6B35",
+     "strokeWidth": 11,
+     "cap": "round",
+     "join": "round",
+     "name": "Arrow"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       822.41,
+       722.5
+      ],
+      [
+       792.76,
+       715.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF6B35",
+     "strokeWidth": 11,
+     "cap": "round",
+     "join": "round",
+     "name": "Arrow"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       822.41,
+       722.5
+      ],
+      [
+       811.82,
+       751.75
+      ]
+     ],
+     "closed": false,
+     "stroke": "#FF6B35",
+     "strokeWidth": 11,
+     "cap": "round",
+     "join": "round",
+     "name": "Arrow"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

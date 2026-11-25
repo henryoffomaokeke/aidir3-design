@@ -45,7 +45,7 @@ import {
   List,
   Users,
   Moon,
-  Sun, Sparkles, Wand2, Paperclip, Loader2, X, Palette, Menu } from "lucide-react";
+  Sun, Sparkles, Wand2, Paperclip, Loader2, X, Palette, Menu, Code2 } from "lucide-react";
 import type { dialTones as aiDialTones } from "@hc/aistudio/dist/outlineEdit";
 import { useMediaQuery } from "@/lib/useMediaQuery";
 import { hycAccept, importedTitle, readFileText } from "@/lib/hycFilePicker";
@@ -65,6 +65,7 @@ import { PromptHost } from "@/components/ui/PromptHost";
 import { Spinner } from "@/components/ui/Spinner";
 import { dashboardPath, type DashboardView } from "./views";
 import { DesignThumb } from "./DesignThumb";
+import { VariationCountButton, VariationGrid, useVariationSummary } from "./TemplateVariations";
 import { BulkCreateModal } from "./BulkCreateModal";
 import { MembersPanel } from "./MembersPanel";
 import { ApiKeysPanel } from "./ApiKeysPanel";
@@ -76,6 +77,8 @@ import { HeroArt, EmptyArt, RailArt } from "@/components/ui/CanvasBackdrop";
 import { attachableAccept, extractAiSources, maxAiSources, type AiSource } from "@/lib/aiAttachments";
 import { stageAiSources } from "@/lib/aiRequests";
 import { tr, trOr } from "@/lib/i18n";
+import { aidir3About, aidir3SsoConfig } from "@/lib/aidir3";
+import { Aidir3HomeLogo, Aidir3HomeRailLink } from "@/components/ui/Aidir3HomeLink";
 import { apiCodeMessage, userMessage } from "@/lib/errors";
 import { matchParts, rankByTitle } from "@/lib/searchMatch";
 
@@ -115,9 +118,9 @@ function greetByHour(): string {
 // CSS backgrounds (no DOM, no z-index) so content cards paint cleanly on top.
 const DASH_BACKDROP: React.CSSProperties = {
   backgroundImage: [
-    "radial-gradient(rgba(116,88,232,0.06) 1px, transparent 1px)",
-    "radial-gradient(42rem 28rem at 6% -4%, rgba(124,88,232,0.10), transparent 60%)",
-    "radial-gradient(40rem 30rem at 100% 0%, rgba(47,123,255,0.08), transparent 55%)",
+    "radial-gradient(rgba(166,173,184,0.07) 1px, transparent 1px)",
+    "radial-gradient(42rem 28rem at 6% -4%, rgba(255,90,31,0.07), transparent 60%)",
+    "radial-gradient(40rem 30rem at 100% 0%, rgba(255,174,107,0.05), transparent 55%)",
   ].join(", "),
   backgroundSize: "24px 24px, auto, auto",
   backgroundRepeat: "repeat, no-repeat, no-repeat",
@@ -237,7 +240,7 @@ export function DashboardApp({ view }: { view: DashboardView }) {
   // Stamped with the workspace it describes, so a switch invalidates it by
   // derivation rather than a reset written during render or in an effect body.
   // `personal` is set when the caller's own key serves this workspace (#47).
-  const [aiState, setAiState] = useState<{ ws: string; connected: boolean; label: string; personal: boolean; personalAllowed: boolean } | null>(null);
+  const [aiState, setAiState] = useState<{ ws: string; connected: boolean; label: string; personal: boolean; personalAllowed: boolean; builtin?: boolean } | null>(null);
   const aiReady = aiState && aiState.ws === activeWorkspaceId ? aiState : null;
 
   // Best-effort and non-blocking: nothing on this page waits for it, and a
@@ -255,9 +258,12 @@ export function DashboardApp({ view }: { view: DashboardView }) {
       setAiState({
         ws,
         connected: eff.source !== "none" && !!cfg?.hasKey,
-        label: presets.find((pr) => pr.id === cfg?.provider)?.label ?? cfg?.provider ?? "",
+        // aidir3 fork: the built-in AI is named by its model family ("Grok").
+        label: eff.source === "builtin" && cfg?.provider === "xai" ? "Grok" : presets.find((pr) => pr.id === cfg?.provider)?.label ?? cfg?.provider ?? "",
         personal: eff.source === "personal",
         personalAllowed: eff.personalKeysAllowed,
+        // aidir3 fork: the instance's built-in AI serves this workspace.
+        builtin: eff.source === "builtin",
       });
     });
     return () => { cancelled = true; };
@@ -365,6 +371,10 @@ export function DashboardApp({ view }: { view: DashboardView }) {
   // Template gallery filters.
   const [tplCategory, setTplCategory] = useState<string | null>(null);
   const [tplCollection, setTplCollection] = useState<string | null>(null);
+  // Variations of the ported library: a search over them, and the design whose variations are open.
+  const [tplQuery, setTplQuery] = useState("");
+  const [variationBase, setVariationBase] = useState<{ id: string; title: string } | null>(null);
+  const variationSummary = useVariationSummary();
   const [pptxTemplateOpen, setPptxTemplateOpen] = useState(false); // F40 E13
   const [tplRefresh, setTplRefresh] = useState(0); // bump to re-fetch the template shelf
   const [collections, setCollections] = useState<TemplateCollectionSummary[]>([]);
@@ -484,6 +494,14 @@ export function DashboardApp({ view }: { view: DashboardView }) {
   const filteredTemplates = tplCategory
     ? templates.filter((t) => (t.categories ?? []).includes(tplCategory))
     : templates;
+  // Variation counts per design, and the ported designs that are not built-in
+  // templates themselves (shown by their first variation so every variation
+  // can be reached by browsing, not only by search).
+  const variationCounts = new Map((variationSummary?.bases ?? []).map((b) => [b.baseId, b]));
+  const templateIds = new Set(templates.map((t) => t.id));
+  const libraryOnlyDesigns = tplCollection ? [] : (variationSummary?.bases ?? []).filter((b) => !templateIds.has(b.baseId));
+  const tplSearch = tplQuery.trim();
+  const searchedTemplates = tplSearch ? rankByTitle(filteredTemplates, tplSearch) : filteredTemplates;
   // Recents sort (client-side): last edited or name. Shared by Home + Favorites.
   const bySort = (a: HomeItem, b: HomeItem) =>
     sortBy === "name" ? a.title.localeCompare(b.title) : new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime();
@@ -676,7 +694,7 @@ export function DashboardApp({ view }: { view: DashboardView }) {
     void createDesign(f.w, f.h, f.label, f.kind);
   }
 
-  async function applyTemplate(t: TemplateSummary) {
+  async function applyTemplate(t: Pick<TemplateSummary, "id">) {
     if (!activeWorkspaceId) return;
     setBusy(true);
     try {
@@ -835,7 +853,8 @@ export function DashboardApp({ view }: { view: DashboardView }) {
         {railIcons ? (
           <>
             <div className="mb-4 flex justify-center">
-              <LogoMark size={30} />
+              {/* aidir3 fork: the logo goes back to the main website. */}
+              <Aidir3HomeLogo><LogoMark size={30} /></Aidir3HomeLogo>
             </div>
             <button
               type="button"
@@ -860,7 +879,7 @@ export function DashboardApp({ view }: { view: DashboardView }) {
         ) : (
           <>
             <div className="mb-6 flex items-center justify-between px-1">
-              <Logo size={32} />
+              <Aidir3HomeLogo><Logo size={32} /></Aidir3HomeLogo>
               <button
                 type="button"
                 onClick={() => (isNarrow ? setDrawerOpen(false) : toggleRail(true))}
@@ -892,6 +911,9 @@ export function DashboardApp({ view }: { view: DashboardView }) {
           <RailItem icon={Palette} label={tr("dashboard.brand_kits")} active={view === "brands"} collapsed={railIcons} onClick={() => navTo("brands")} />
           <RailItem icon={Users} label={tr("dashboard.members")} active={view === "members"} collapsed={railIcons} onClick={() => navTo("members")} />
           <RailItem icon={Trash2} label={tr("dashboard.trash")} active={view === "trash"} collapsed={railIcons} onClick={() => navTo("trash")} />
+          {/* aidir3 fork: back to the main website. */}
+          <div className="my-2 border-t border-neutral-200" />
+          <Aidir3HomeRailLink collapsed={!!railIcons} />
         </nav>
 
         {/* Storage meter pinned to the rail's bottom corner. */}
@@ -1109,10 +1131,10 @@ export function DashboardApp({ view }: { view: DashboardView }) {
                     {aiReady && (aiReady.connected ? (
                       <span
                         className="hidden items-center gap-1.5 text-[11px] text-neutral-500 sm:flex"
-                        title={aiReady.personal ? tr("dashboard.generates_with_your_provider", { provider: aiReady.label }) : tr("dashboard.this_workspace_generates_with_provider", { provider: aiReady.label })}
+                        title={aiReady.builtin ? tr("dashboard.builtin_ai_title", { provider: aiReady.label }) : aiReady.personal ? tr("dashboard.generates_with_your_provider", { provider: aiReady.label }) : tr("dashboard.this_workspace_generates_with_provider", { provider: aiReady.label })}
                       >
                         <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
-                        {aiReady.personal ? tr("dashboard.your_provider_label", { provider: aiReady.label }) : aiReady.label}
+                        {aiReady.builtin ? tr("dashboard.builtin_ai_label", { provider: aiReady.label }) : aiReady.personal ? tr("dashboard.your_provider_label", { provider: aiReady.label }) : aiReady.label}
                       </span>
                     ) : (
                       // Not a blocker: the brief is held through provider setup
@@ -1339,16 +1361,46 @@ export function DashboardApp({ view }: { view: DashboardView }) {
                       onClick={() => setTplCategory(c)}
                       className={`rounded-lg border px-3 py-1 text-sm capitalize transition ${tplCategory === c ? "border-brand-200 bg-brand-50 text-brand-ink" : "border-neutral-200 bg-surface text-neutral-600 hover:bg-neutral-50"}`}
                     >
-                      {c}
+                      {/* aidir3 fork: toolkit categories carry a proper label (DevOps, HR & hiring). */}
+                      {trOr(`dashboard.tplcat_${c}`, c)}
                     </button>
                   ))}
                 </div>
               )}
-              {filteredTemplates.length === 0 ? (
+              <div className="mb-4 flex flex-wrap items-center gap-3">
+                <input
+                  type="search"
+                  value={tplQuery}
+                  onChange={(e) => {
+                    setTplQuery(e.target.value);
+                    setVariationBase(null);
+                  }}
+                  placeholder={tr("dashboard.search_templates_and_variations")}
+                  aria-label={tr("dashboard.search_templates_and_variations")}
+                  className="h-9 w-full max-w-sm rounded-lg border border-neutral-200 bg-surface px-3 text-sm text-neutral-800 outline-none focus:border-brand-400"
+                />
+                {variationSummary && (
+                  <span className="text-xs text-neutral-500">
+                    {tr("dashboard.n_designs_n_variations", { designs: (templates.length + libraryOnlyDesigns.length).toLocaleString(), variations: variationSummary.total.toLocaleString() })}
+                  </span>
+                )}
+              </div>
+              {variationBase ? (
+                <div>
+                  <div className="mb-3 flex items-center gap-3">
+                    <button type="button" onClick={() => setVariationBase(null)} className="rounded-lg border border-neutral-200 bg-surface px-3 py-1 text-sm text-neutral-600 hover:bg-neutral-50">
+                      {tr("dashboard.back_to_designs")}
+                    </button>
+                    <h3 className="min-w-0 truncate text-sm font-semibold text-neutral-700">{tr("dashboard.variations_of", { title: variationBase.title })}</h3>
+                  </div>
+                  <VariationGrid filter={{ base: variationBase.id, category: tplCategory ?? undefined }} onUse={(id) => void applyTemplate({ id })} busy={busy} />
+                </div>
+              ) : searchedTemplates.length === 0 && !tplSearch ? (
                 <EmptyState message={tr("dashboard.no_templates_yet_open_a_design_and_use_save")} />
               ) : (
+                <>
                 <ul className="grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
-                  {filteredTemplates.map((t) => (
+                  {searchedTemplates.map((t) => (
                     <li key={t.id} className="group relative rounded-2xl border border-neutral-200 bg-surface shadow-sm transition hover:shadow-md">
                       <button
                         onClick={() => void applyTemplate(t)}
@@ -1364,6 +1416,11 @@ export function DashboardApp({ view }: { view: DashboardView }) {
                         </div>
                         <div className="truncate px-3 py-2.5 text-sm font-semibold text-neutral-800">{t.title}</div>
                       </button>
+                      {(variationCounts.get(t.id)?.count ?? 0) > 1 && (
+                        <div className="px-3 pb-2.5">
+                          <VariationCountButton count={variationCounts.get(t.id)!.count} onOpen={() => setVariationBase({ id: t.id, title: t.title })} />
+                        </div>
+                      )}
                       <button
                         onClick={() => void downloadTemplateHyc(t)}
                         title={tr("dashboard.download_as_hyc_file")}
@@ -1375,6 +1432,35 @@ export function DashboardApp({ view }: { view: DashboardView }) {
                     </li>
                   ))}
                 </ul>
+                {!tplSearch && libraryOnlyDesigns.length > 0 && (
+                  <>
+                    <h3 className="mb-3 mt-8 text-sm font-bold uppercase tracking-wide text-neutral-400">{tr("dashboard.more_designs_from_the_library")}</h3>
+                    <ul className="grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+                      {libraryOnlyDesigns.map((b) => (
+                        <li key={b.baseId} className="rounded-2xl border border-neutral-200 bg-surface shadow-sm transition hover:shadow-md">
+                          <button type="button" onClick={() => void applyTemplate({ id: b.sample })} disabled={busy} title={tr("dashboard.use_this_template")} className="block w-full text-start disabled:opacity-60">
+                            <div className="relative aspect-[4/3] overflow-hidden rounded-t-2xl bg-neutral-100">
+                              <DesignThumb templateId={b.sample} />
+                            </div>
+                            <div className="truncate px-3 py-2.5 text-sm font-semibold text-neutral-800">{b.title}</div>
+                          </button>
+                          {b.count > 1 && (
+                            <div className="px-3 pb-2.5">
+                              <VariationCountButton count={b.count} onOpen={() => setVariationBase({ id: b.baseId, title: b.title })} />
+                            </div>
+                          )}
+                        </li>
+                      ))}
+                    </ul>
+                  </>
+                )}
+                {tplSearch && (
+                  <>
+                    <h3 className="mb-3 mt-8 text-sm font-bold uppercase tracking-wide text-neutral-400">{tr("dashboard.matching_variations")}</h3>
+                    <VariationGrid filter={{ q: tplSearch, category: tplCategory ?? undefined }} onUse={(id) => void applyTemplate({ id })} busy={busy} />
+                  </>
+                )}
+                </>
               )}
             </section>
           )}
@@ -1768,6 +1854,22 @@ function UserMenu({ user, onSettings, onSignOut }: { user: { name?: string | nul
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
   useOutsideClose(ref, open, () => setOpen(false));
+  // aidir3 fork: the AGPL source-code offer (shown when the server names it).
+  const [sourceUrl, setSourceUrl] = useState("");
+  // aidir3 fork: the account's profile lives on aidir3.com.
+  const [profileUrl, setProfileUrl] = useState("");
+  useEffect(() => {
+    let cancelled = false;
+    void aidir3About().then((a) => {
+      if (!cancelled) setSourceUrl(a.sourceUrl ?? "");
+    });
+    void aidir3SsoConfig().then((c) => {
+      if (!cancelled) setProfileUrl(c.enabled ? (c.profileUrl ?? "") : "");
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
   return (
     <div className="relative" ref={ref}>
       <button onClick={() => setOpen((o) => !o)} aria-label={tr("dashboard.account")} className="oc-gradient grid h-8 w-8 place-items-center rounded-full text-sm font-bold text-white">
@@ -1780,7 +1882,17 @@ function UserMenu({ user, onSettings, onSignOut }: { user: { name?: string | nul
             <div className="truncate text-xs text-neutral-500">{user?.email}</div>
           </div>
           <div className="my-1 border-t border-neutral-100" />
+          {profileUrl && (
+            <a href={profileUrl} className="flex w-full items-center gap-2.5 rounded-lg px-2.5 py-2 text-start text-sm text-neutral-700 hover:bg-neutral-100">
+              <Users size={16} /> {tr("dashboard.aidir3_profile")}
+            </a>
+          )}
           <ThemeMenuItem />
+          {sourceUrl && (
+            <a href={sourceUrl} target="_blank" rel="noreferrer" className="flex w-full items-center gap-2.5 rounded-lg px-2.5 py-2 text-start text-sm text-neutral-700 hover:bg-neutral-100">
+              <Code2 size={16} /> {tr("dashboard.source_code")} <span className="ms-auto text-xs text-neutral-400">AGPL-3.0</span>
+            </a>
+          )}
           <button onClick={() => { setOpen(false); onSettings(); }} className="flex w-full items-center gap-2.5 rounded-lg px-2.5 py-2 text-start text-sm text-neutral-700 hover:bg-neutral-100"><Settings size={15} className="text-neutral-400" /> {tr("dashboard.settings")}</button>
           <button onClick={() => { setOpen(false); onSignOut(); }} className="flex w-full items-center gap-2.5 rounded-lg px-2.5 py-2 text-start text-sm text-neutral-700 hover:bg-neutral-100"><LogOut size={15} className="text-neutral-400" /> {tr("dashboard.sign_out")}</button>
         </div>

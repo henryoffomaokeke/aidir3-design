@@ -1,0 +1,1612 @@
+{
+ "id": "a3-hr-org-chart-slide",
+ "title": "Organisation Chart Slide",
+ "categories": [
+  "hr",
+  "presentations",
+  "business"
+ ],
+ "tags": [
+  "org chart",
+  "organisation chart",
+  "team structure",
+  "reporting lines",
+  "leadership",
+  "people team",
+  "slide"
+ ],
+ "styleTags": [
+  "light",
+  "diagram",
+  "green"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -939,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Host Grotesk",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Host Grotesk",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Geist Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Org chart",
+   "bg": "#F3F1EC",
+   "nodes": [
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 66,
+     "w": 700,
+     "h": 22,
+     "text": "Organisation chart  ·  January 2027",
+     "family": "Geist Mono",
+     "size": 16,
+     "weight": 500,
+     "color": "#157F5F",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 96,
+     "w": 800,
+     "h": 70,
+     "text": "Product and Engineering",
+     "family": "Host Grotesk",
+     "size": 56,
+     "weight": 800,
+     "color": "#1E2126",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "rect",
+     "x": 1518,
+     "y": 76,
+     "w": 1,
+     "h": 72,
+     "fill": "#C8CED4"
+    },
+    {
+     "kind": "text",
+     "x": 1354,
+     "y": 68,
+     "w": 130,
+     "h": 52,
+     "text": "78",
+     "family": "Host Grotesk",
+     "size": 44,
+     "weight": 800,
+     "color": "#1E2126",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1354,
+     "y": 124,
+     "w": 130,
+     "h": 24,
+     "text": "people",
+     "family": "Host Grotesk",
+     "size": 17,
+     "weight": 400,
+     "color": "#646B73",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 1688,
+     "y": 76,
+     "w": 1,
+     "h": 72,
+     "fill": "#C8CED4"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 68,
+     "w": 130,
+     "h": 52,
+     "text": "12",
+     "family": "Host Grotesk",
+     "size": 44,
+     "weight": 800,
+     "color": "#1E2126",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 124,
+     "w": 130,
+     "h": 24,
+     "text": "teams",
+     "family": "Host Grotesk",
+     "size": 17,
+     "weight": 400,
+     "color": "#646B73",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1694,
+     "y": 68,
+     "w": 130,
+     "h": 52,
+     "text": "2",
+     "family": "Host Grotesk",
+     "size": 44,
+     "weight": 800,
+     "color": "#157F5F",
+     "align": "right"
+    },
+    {
+     "kind": "text",
+     "x": 1694,
+     "y": 124,
+     "w": 130,
+     "h": 24,
+     "text": "open roles",
+     "family": "Host Grotesk",
+     "size": 17,
+     "weight": 400,
+     "color": "#646B73",
+     "align": "right"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       960,
+       332
+      ],
+      [
+       960,
+       371
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       297,
+       410
+      ],
+      [
+       297,
+       371
+      ],
+      [
+       1623,
+       371
+      ],
+      [
+       1623,
+       410
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       739,
+       371
+      ],
+      [
+       739,
+       410
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1181,
+       371
+      ],
+      [
+       1181,
+       410
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "rect",
+     "x": 734,
+     "y": 204,
+     "w": 452,
+     "h": 128,
+     "fill": "#1E2126",
+     "radius": 18
+    },
+    {
+     "kind": "photo",
+     "x": 756,
+     "y": 224,
+     "w": 88,
+     "h": 88,
+     "shape": "ellipse",
+     "fill": "#3B424B",
+     "name": "Portrait: Adaeze Obi"
+    },
+    {
+     "kind": "text",
+     "x": 866,
+     "y": 232,
+     "w": 300,
+     "h": 40,
+     "text": "Adaeze Obi",
+     "family": "Host Grotesk",
+     "size": 31,
+     "weight": 800,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 866,
+     "y": 276,
+     "w": 300,
+     "h": 28,
+     "text": "Chief Technology Officer",
+     "family": "Host Grotesk",
+     "size": 20,
+     "weight": 400,
+     "color": "#C8CED4"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       126,
+       534
+      ],
+      [
+       126,
+       614
+      ],
+      [
+       160,
+       614
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       126,
+       534
+      ],
+      [
+       126,
+       732
+      ],
+      [
+       160,
+       732
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       126,
+       534
+      ],
+      [
+       126,
+       850
+      ],
+      [
+       160,
+       850
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 410,
+     "w": 402,
+     "h": 124,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 114,
+     "y": 410,
+     "w": 366,
+     "h": 5,
+     "fill": "#157F5F",
+     "radius": 2
+    },
+    {
+     "kind": "photo",
+     "x": 118,
+     "y": 434,
+     "w": 76,
+     "h": 76,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Marcus Lindqvist"
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 432,
+     "w": 272,
+     "h": 32,
+     "text": "Marcus Lindqvist",
+     "family": "Host Grotesk",
+     "size": 25,
+     "weight": 800,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 466,
+     "w": 272,
+     "h": 24,
+     "text": "VP Engineering",
+     "family": "Host Grotesk",
+     "size": 18,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "text",
+     "x": 212,
+     "y": 496,
+     "w": 272,
+     "h": 20,
+     "text": "38 people  ·  5 teams",
+     "family": "Geist Mono",
+     "size": 13.5,
+     "weight": 500,
+     "color": "#157F5F"
+    },
+    {
+     "kind": "rect",
+     "x": 160,
+     "y": 564,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 178,
+     "y": 583,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Chidi Okeke"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 586,
+     "w": 230,
+     "h": 28,
+     "text": "Chidi Okeke",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 617,
+     "w": 234,
+     "h": 24,
+     "text": "Platform Engineering",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "rect",
+     "x": 160,
+     "y": 682,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 178,
+     "y": 701,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Hannah Weiss"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 704,
+     "w": 230,
+     "h": 28,
+     "text": "Hannah Weiss",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 735,
+     "w": 234,
+     "h": 24,
+     "text": "Web and Mobile",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#E4F2EB",
+     "stroke": "#157F5F",
+     "strokeWidth": 2,
+     "dash": [
+      9,
+      7
+     ],
+     "name": "Open role card",
+     "points": [
+      {
+       "x": 174,
+       "y": 800,
+       "cIn": {
+        "x": 166.2678,
+        "y": 800
+       }
+      },
+      {
+       "x": 484,
+       "y": 800,
+       "cOut": {
+        "x": 491.7322,
+        "y": 800
+       }
+      },
+      {
+       "x": 498,
+       "y": 814,
+       "cIn": {
+        "x": 498,
+        "y": 806.2678
+       }
+      },
+      {
+       "x": 498,
+       "y": 886,
+       "cOut": {
+        "x": 498,
+        "y": 893.7322
+       }
+      },
+      {
+       "x": 484,
+       "y": 900,
+       "cIn": {
+        "x": 491.7322,
+        "y": 900
+       }
+      },
+      {
+       "x": 174,
+       "y": 900,
+       "cOut": {
+        "x": 166.2678,
+        "y": 900
+       }
+      },
+      {
+       "x": 160,
+       "y": 886,
+       "cIn": {
+        "x": 160,
+        "y": 893.7322
+       }
+      },
+      {
+       "x": 160,
+       "y": 814,
+       "cOut": {
+        "x": 160,
+        "y": 806.2678
+       }
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 178,
+     "y": 819,
+     "w": 62,
+     "h": 62,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "x": 195,
+     "y": 836,
+     "w": 28,
+     "h": 28,
+     "icon": "search",
+     "color": "#157F5F"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 822,
+     "w": 230,
+     "h": 28,
+     "text": "Open role",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#157F5F"
+    },
+    {
+     "kind": "text",
+     "x": 256,
+     "y": 853,
+     "w": 234,
+     "h": 24,
+     "text": "Payments Engineering Lead",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       568,
+       534
+      ],
+      [
+       568,
+       614
+      ],
+      [
+       602,
+       614
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       568,
+       534
+      ],
+      [
+       568,
+       732
+      ],
+      [
+       602,
+       732
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       568,
+       534
+      ],
+      [
+       568,
+       850
+      ],
+      [
+       602,
+       850
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "rect",
+     "x": 538,
+     "y": 410,
+     "w": 402,
+     "h": 124,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 556,
+     "y": 410,
+     "w": 366,
+     "h": 5,
+     "fill": "#157F5F",
+     "radius": 2
+    },
+    {
+     "kind": "photo",
+     "x": 560,
+     "y": 434,
+     "w": 76,
+     "h": 76,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Sofia Marchetti"
+    },
+    {
+     "kind": "text",
+     "x": 654,
+     "y": 432,
+     "w": 272,
+     "h": 32,
+     "text": "Sofia Marchetti",
+     "family": "Host Grotesk",
+     "size": 25,
+     "weight": 800,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 654,
+     "y": 466,
+     "w": 272,
+     "h": 24,
+     "text": "VP Product",
+     "family": "Host Grotesk",
+     "size": 18,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "text",
+     "x": 654,
+     "y": 496,
+     "w": 272,
+     "h": 20,
+     "text": "14 people  ·  3 teams",
+     "family": "Geist Mono",
+     "size": 13.5,
+     "weight": 500,
+     "color": "#157F5F"
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 564,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 620,
+     "y": 583,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Arjun Patel"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 586,
+     "w": 230,
+     "h": 28,
+     "text": "Arjun Patel",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 617,
+     "w": 234,
+     "h": 24,
+     "text": "Group PM, Growth",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 682,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 620,
+     "y": 701,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Mei Lin Chen"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 704,
+     "w": 230,
+     "h": 28,
+     "text": "Mei Lin Chen",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 735,
+     "w": 234,
+     "h": 24,
+     "text": "Group PM, Core Product",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "rect",
+     "x": 602,
+     "y": 800,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 620,
+     "y": 819,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Tom Gallagher"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 822,
+     "w": 230,
+     "h": 28,
+     "text": "Tom Gallagher",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 698,
+     "y": 853,
+     "w": 234,
+     "h": 24,
+     "text": "Product Operations",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1010,
+       534
+      ],
+      [
+       1010,
+       614
+      ],
+      [
+       1044,
+       614
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1010,
+       534
+      ],
+      [
+       1010,
+       732
+      ],
+      [
+       1044,
+       732
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1010,
+       534
+      ],
+      [
+       1010,
+       850
+      ],
+      [
+       1044,
+       850
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "rect",
+     "x": 980,
+     "y": 410,
+     "w": 402,
+     "h": 124,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 998,
+     "y": 410,
+     "w": 366,
+     "h": 5,
+     "fill": "#157F5F",
+     "radius": 2
+    },
+    {
+     "kind": "photo",
+     "x": 1002,
+     "y": 434,
+     "w": 76,
+     "h": 76,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Kenji Watanabe"
+    },
+    {
+     "kind": "text",
+     "x": 1096,
+     "y": 432,
+     "w": 272,
+     "h": 32,
+     "text": "Kenji Watanabe",
+     "family": "Host Grotesk",
+     "size": 25,
+     "weight": 800,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1096,
+     "y": 466,
+     "w": 272,
+     "h": 24,
+     "text": "Head of Design",
+     "family": "Host Grotesk",
+     "size": 18,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "text",
+     "x": 1096,
+     "y": 496,
+     "w": 272,
+     "h": 20,
+     "text": "9 people  ·  2 teams",
+     "family": "Geist Mono",
+     "size": 13.5,
+     "weight": 500,
+     "color": "#157F5F"
+    },
+    {
+     "kind": "rect",
+     "x": 1044,
+     "y": 564,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 1062,
+     "y": 583,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Lucía Romero"
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 586,
+     "w": 230,
+     "h": 28,
+     "text": "Lucía Romero",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 617,
+     "w": 234,
+     "h": 24,
+     "text": "Design Systems",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "rect",
+     "x": 1044,
+     "y": 682,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 1062,
+     "y": 701,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Yusuf Demir"
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 704,
+     "w": 230,
+     "h": 28,
+     "text": "Yusuf Demir",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 735,
+     "w": 234,
+     "h": 24,
+     "text": "User Research",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "rect",
+     "x": 1044,
+     "y": 800,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 1062,
+     "y": 819,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Beatrice Nilsson"
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 822,
+     "w": 230,
+     "h": 28,
+     "text": "Beatrice Nilsson",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1140,
+     "y": 853,
+     "w": 234,
+     "h": 24,
+     "text": "Content Design",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1452,
+       534
+      ],
+      [
+       1452,
+       614
+      ],
+      [
+       1486,
+       614
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1452,
+       534
+      ],
+      [
+       1452,
+       732
+      ],
+      [
+       1486,
+       732
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1452,
+       534
+      ],
+      [
+       1452,
+       850
+      ],
+      [
+       1486,
+       850
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "rect",
+     "x": 1422,
+     "y": 410,
+     "w": 402,
+     "h": 124,
+     "fill": "#FFFFFF",
+     "radius": 16,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "rect",
+     "x": 1440,
+     "y": 410,
+     "w": 366,
+     "h": 5,
+     "fill": "#157F5F",
+     "radius": 2
+    },
+    {
+     "kind": "photo",
+     "x": 1444,
+     "y": 434,
+     "w": 76,
+     "h": 76,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Fatima Al-Sayed"
+    },
+    {
+     "kind": "text",
+     "x": 1538,
+     "y": 432,
+     "w": 272,
+     "h": 32,
+     "text": "Fatima Al-Sayed",
+     "family": "Host Grotesk",
+     "size": 25,
+     "weight": 800,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1538,
+     "y": 466,
+     "w": 272,
+     "h": 24,
+     "text": "Head of Data",
+     "family": "Host Grotesk",
+     "size": 18,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "text",
+     "x": 1538,
+     "y": 496,
+     "w": 272,
+     "h": 20,
+     "text": "16 people  ·  2 teams",
+     "family": "Geist Mono",
+     "size": 13.5,
+     "weight": 500,
+     "color": "#157F5F"
+    },
+    {
+     "kind": "rect",
+     "x": 1486,
+     "y": 564,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 1504,
+     "y": 583,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Samuel Adeleke"
+    },
+    {
+     "kind": "text",
+     "x": 1582,
+     "y": 586,
+     "w": 230,
+     "h": 28,
+     "text": "Samuel Adeleke",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1582,
+     "y": 617,
+     "w": 234,
+     "h": 24,
+     "text": "Data Engineering",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "rect",
+     "x": 1486,
+     "y": 682,
+     "w": 338,
+     "h": 100,
+     "fill": "#FFFFFF",
+     "radius": 14,
+     "stroke": "#E0DCD3",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "photo",
+     "x": 1504,
+     "y": 701,
+     "w": 62,
+     "h": 62,
+     "shape": "ellipse",
+     "fill": "#D8DCD7",
+     "name": "Portrait: Ines Carvalho"
+    },
+    {
+     "kind": "text",
+     "x": 1582,
+     "y": 704,
+     "w": 230,
+     "h": 28,
+     "text": "Ines Carvalho",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 1582,
+     "y": 735,
+     "w": 234,
+     "h": 24,
+     "text": "Analytics",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#E4F2EB",
+     "stroke": "#157F5F",
+     "strokeWidth": 2,
+     "dash": [
+      9,
+      7
+     ],
+     "name": "Open role card",
+     "points": [
+      {
+       "x": 1500,
+       "y": 800,
+       "cIn": {
+        "x": 1492.2678,
+        "y": 800
+       }
+      },
+      {
+       "x": 1810,
+       "y": 800,
+       "cOut": {
+        "x": 1817.7322,
+        "y": 800
+       }
+      },
+      {
+       "x": 1824,
+       "y": 814,
+       "cIn": {
+        "x": 1824,
+        "y": 806.2678
+       }
+      },
+      {
+       "x": 1824,
+       "y": 886,
+       "cOut": {
+        "x": 1824,
+        "y": 893.7322
+       }
+      },
+      {
+       "x": 1810,
+       "y": 900,
+       "cIn": {
+        "x": 1817.7322,
+        "y": 900
+       }
+      },
+      {
+       "x": 1500,
+       "y": 900,
+       "cOut": {
+        "x": 1492.2678,
+        "y": 900
+       }
+      },
+      {
+       "x": 1486,
+       "y": 886,
+       "cIn": {
+        "x": 1486,
+        "y": 893.7322
+       }
+      },
+      {
+       "x": 1486,
+       "y": 814,
+       "cOut": {
+        "x": 1486,
+        "y": 806.2678
+       }
+      }
+     ]
+    },
+    {
+     "kind": "ellipse",
+     "x": 1504,
+     "y": 819,
+     "w": 62,
+     "h": 62,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "x": 1521,
+     "y": 836,
+     "w": 28,
+     "h": 28,
+     "icon": "search",
+     "color": "#157F5F"
+    },
+    {
+     "kind": "text",
+     "x": 1582,
+     "y": 822,
+     "w": 230,
+     "h": 28,
+     "text": "Open role",
+     "family": "Host Grotesk",
+     "size": 21,
+     "weight": 600,
+     "color": "#157F5F"
+    },
+    {
+     "kind": "text",
+     "x": 1582,
+     "y": 853,
+     "w": 234,
+     "h": 24,
+     "text": "Machine Learning Lead",
+     "family": "Host Grotesk",
+     "size": 16,
+     "weight": 400,
+     "color": "#1E2126"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 968,
+     "w": 800,
+     "h": 22,
+     "text": "Brightwater  ·  People team  ·  Updated 4 January 2027",
+     "family": "Geist Mono",
+     "size": 14,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1432,
+       978
+      ],
+      [
+       1472,
+       978
+      ]
+     ],
+     "stroke": "#AEB2B7",
+     "strokeWidth": 2,
+     "cap": "butt",
+     "name": "Connector"
+    },
+    {
+     "kind": "text",
+     "x": 1484,
+     "y": 967,
+     "w": 110,
+     "h": 22,
+     "text": "Reports to",
+     "family": "Host Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#646B73"
+    },
+    {
+     "kind": "path",
+     "closed": true,
+     "fill": "#E4F2EB",
+     "stroke": "#157F5F",
+     "strokeWidth": 2,
+     "dash": [
+      5,
+      4
+     ],
+     "points": [
+      [
+       1616,
+       969
+      ],
+      [
+       1652,
+       969
+      ],
+      [
+       1652,
+       987
+      ],
+      [
+       1616,
+       987
+      ]
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1664,
+     "y": 967,
+     "w": 160,
+     "h": 22,
+     "text": "Open role, hiring now",
+     "family": "Host Grotesk",
+     "size": 15,
+     "weight": 400,
+     "color": "#646B73"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Department or company",
+   "hint": "Up to 26 characters"
+  },
+  {
+   "node": "p0-n16",
+   "kind": "text",
+   "label": "Top leader",
+   "hint": "Full name"
+  },
+  {
+   "node": "p0-n17",
+   "kind": "text",
+   "label": "Top leader's role",
+   "hint": "Up to 28 characters"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "First lead",
+   "hint": "Full name"
+  },
+  {
+   "node": "p0-n46",
+   "kind": "text",
+   "label": "Second lead",
+   "hint": "Full name"
+  }
+ ]
+}

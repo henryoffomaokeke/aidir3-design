@@ -42,7 +42,7 @@ describe("the shipped Hindi catalog", () => {
     // A Hindi keyboard still prints Ctrl; a brand is a name, not a word.
     expect(translate("app.ctrl")).toBe("Ctrl");
     // The brand survives inside a translated sentence, letter for letter.
-    expect(translate("settings.how_the_hycanvas_interface_looks_on_this_dev")).toContain("HyCanvas");
+    expect(translate("settings.how_the_hycanvas_interface_looks_on_this_dev")).toContain("aidir3 Design");
   });
 
   it("keeps technical defaults byte-identical", () => {

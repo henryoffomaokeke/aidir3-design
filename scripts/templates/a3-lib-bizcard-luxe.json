@@ -1,0 +1,223 @@
+{
+ "id": "a3-lib-bizcard-luxe",
+ "title": "Luxury Gold Card",
+ "categories": [
+  "branding",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "luxury",
+  "gold",
+  "lawyer",
+  "business"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#111111",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 30,
+     "y": 30,
+     "w": 990,
+     "h": 540,
+     "stroke": "#C9A45C",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "rect",
+     "x": 44,
+     "y": 44,
+     "w": 962,
+     "h": 512,
+     "stroke": "#C9A45C",
+     "strokeWidth": 1,
+     "opacity": 0.4
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       525,
+       74
+      ],
+      [
+       531.36,
+       87.64
+      ],
+      [
+       545,
+       94
+      ],
+      [
+       531.36,
+       100.36
+      ],
+      [
+       525,
+       114
+      ],
+      [
+       518.64,
+       100.36
+      ],
+      [
+       505,
+       94
+      ],
+      [
+       518.64,
+       87.64
+      ]
+     ],
+     "closed": true,
+     "fill": "#C9A45C",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 134.1,
+     "w": 850,
+     "h": 76,
+     "text": "Adaeze Nwankwo",
+     "family": "Cormorant Garamond",
+     "size": 62,
+     "weight": 600,
+     "color": "#F5EFE3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 231.1,
+     "w": 850,
+     "h": 34,
+     "text": "Barrister & Solicitor",
+     "family": "Red Hat Text",
+     "size": 22,
+     "weight": 600,
+     "color": "#C9A45C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 445,
+     "y": 300,
+     "w": 160,
+     "h": 2,
+     "fill": "#C9A45C"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 335.1,
+     "w": 850,
+     "h": 36,
+     "text": "+234 802 111 2233   ·   adaeze@nwankwolaw.ng",
+     "family": "Red Hat Text",
+     "size": 22,
+     "weight": 400,
+     "color": "#F5EFE3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 379.1,
+     "w": 850,
+     "h": 36,
+     "text": "nwankwolaw.ng",
+     "family": "Red Hat Text",
+     "size": 22,
+     "weight": 400,
+     "color": "#9B927F",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 466,
+     "w": 850,
+     "h": 30,
+     "text": "Nwankwo & Partners",
+     "family": "Red Hat Text",
+     "size": 18,
+     "weight": 700,
+     "color": "#C9A45C",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 8,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n6",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 55 characters"
+  },
+  {
+   "node": "p0-n7",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

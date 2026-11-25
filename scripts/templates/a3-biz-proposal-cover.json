@@ -1,0 +1,687 @@
+{
+ "id": "a3-biz-proposal-cover",
+ "title": "Proposal / RFP Response Cover",
+ "categories": [
+  "business",
+  "print"
+ ],
+ "tags": [
+  "proposal",
+  "rfp response",
+  "tender",
+  "cover page",
+  "bid",
+  "consulting",
+  "a4"
+ ],
+ "styleTags": [
+  "asymmetric",
+  "petrol",
+  "modern"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -954,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Bricolage Grotesque",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Geist",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Geist Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Cover",
+   "bg": "#F0EADE",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 272,
+     "h": 1123,
+     "fill": "#0C4A57"
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 56,
+     "w": 22,
+     "h": 22,
+     "fill": "#E2603C",
+     "radius": 4
+    },
+    {
+     "kind": "rect",
+     "x": 63,
+     "y": 56,
+     "w": 11,
+     "h": 11,
+     "fill": "#0C4A57"
+    },
+    {
+     "kind": "text",
+     "x": 84,
+     "y": 57,
+     "w": 170,
+     "h": 20,
+     "text": "Sable Ridge",
+     "family": "Bricolage Grotesque",
+     "size": 16,
+     "weight": 700,
+     "color": "#F0EADE"
+    },
+    {
+     "kind": "path",
+     "name": "Back ridge",
+     "closed": true,
+     "fill": "#17616F",
+     "points": [
+      [
+       0,
+       548
+      ],
+      [
+       64,
+       452
+      ],
+      [
+       112,
+       512
+      ],
+      [
+       196,
+       372
+      ],
+      [
+       266,
+       448
+      ],
+      [
+       266,
+       1123
+      ],
+      [
+       0,
+       1123
+      ]
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Front ridge",
+     "closed": true,
+     "fill": "#083841",
+     "points": [
+      [
+       0,
+       716
+      ],
+      [
+       58,
+       648
+      ],
+      [
+       124,
+       734
+      ],
+      [
+       208,
+       604
+      ],
+      [
+       266,
+       664
+      ],
+      [
+       266,
+       1123
+      ],
+      [
+       0,
+       1123
+      ]
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 266,
+     "y": 0,
+     "w": 6,
+     "h": 1123,
+     "fill": "#E2603C"
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 846,
+     "w": 162,
+     "h": 1,
+     "fill": "#24606C"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 858,
+     "w": 170,
+     "h": 14,
+     "text": "Reference",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#9CC3CA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 874,
+     "w": 170,
+     "h": 16,
+     "text": "SR-P-26-0412",
+     "family": "Geist Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#F0EADE"
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 898,
+     "w": 162,
+     "h": 1,
+     "fill": "#24606C"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 910,
+     "w": 170,
+     "h": 14,
+     "text": "Issued",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#9CC3CA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 926,
+     "w": 170,
+     "h": 16,
+     "text": "12 November 2026",
+     "family": "Geist Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#F0EADE"
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 950,
+     "w": 162,
+     "h": 1,
+     "fill": "#24606C"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 962,
+     "w": 170,
+     "h": 14,
+     "text": "Valid until",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#9CC3CA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 978,
+     "w": 170,
+     "h": 16,
+     "text": "11 February 2027",
+     "family": "Geist Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#F0EADE"
+    },
+    {
+     "kind": "rect",
+     "x": 52,
+     "y": 1002,
+     "w": 162,
+     "h": 1,
+     "fill": "#24606C"
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 1014,
+     "w": 170,
+     "h": 14,
+     "text": "Version",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#9CC3CA",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 52,
+     "y": 1030,
+     "w": 170,
+     "h": 16,
+     "text": "1.0 · Final",
+     "family": "Geist Mono",
+     "size": 12,
+     "weight": 500,
+     "color": "#F0EADE"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 62,
+     "w": 240,
+     "h": 14,
+     "text": "Response to RFP-2026-117",
+     "family": "Geist Mono",
+     "size": 10,
+     "weight": 500,
+     "color": "#B9441F",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 562,
+     "y": 54,
+     "w": 172,
+     "h": 26,
+     "radius": 4,
+     "stroke": "#10262C",
+     "strokeWidth": 1
+    },
+    {
+     "kind": "text",
+     "x": 562,
+     "y": 54,
+     "w": 172,
+     "h": 26,
+     "text": "Commercial in confidence",
+     "family": "Geist Mono",
+     "size": 8.5,
+     "weight": 500,
+     "color": "#10262C",
+     "align": "center",
+     "letterSpacing": 0.8,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 244,
+     "w": 410,
+     "h": 108,
+     "text": "Claims Platform\nModernisation",
+     "family": "Bricolage Grotesque",
+     "size": 48,
+     "weight": 700,
+     "color": "#10262C",
+     "letterSpacing": -1,
+     "lineHeight": 1.06
+    },
+    {
+     "kind": "rect",
+     "x": 324,
+     "y": 368,
+     "w": 56,
+     "h": 5,
+     "fill": "#E2603C"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 394,
+     "w": 396,
+     "h": 72,
+     "text": "A fixed-price programme to retire the legacy claims system, migrate 4.2 million policies and run the new platform for three years.",
+     "family": "Geist",
+     "size": 14.5,
+     "weight": 400,
+     "color": "#4B5F64",
+     "lineHeight": 1.55
+    },
+    {
+     "kind": "rect",
+     "x": 324,
+     "y": 508,
+     "w": 410,
+     "h": 1,
+     "fill": "#D3CABA"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 524,
+     "w": 130,
+     "h": 14,
+     "text": "Duration",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#7E8E90",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 542,
+     "w": 132,
+     "h": 22,
+     "text": "18 months",
+     "family": "Bricolage Grotesque",
+     "size": 16,
+     "weight": 600,
+     "color": "#10262C"
+    },
+    {
+     "kind": "text",
+     "x": 461,
+     "y": 524,
+     "w": 130,
+     "h": 14,
+     "text": "Team",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#7E8E90",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 461,
+     "y": 542,
+     "w": 132,
+     "h": 22,
+     "text": "24 specialists",
+     "family": "Bricolage Grotesque",
+     "size": 16,
+     "weight": 600,
+     "color": "#10262C"
+    },
+    {
+     "kind": "text",
+     "x": 598,
+     "y": 524,
+     "w": 130,
+     "h": 14,
+     "text": "Commercial model",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#7E8E90",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 598,
+     "y": 542,
+     "w": 132,
+     "h": 22,
+     "text": "Fixed price",
+     "family": "Bricolage Grotesque",
+     "size": 16,
+     "weight": 600,
+     "color": "#10262C"
+    },
+    {
+     "kind": "rect",
+     "x": 324,
+     "y": 582,
+     "w": 410,
+     "h": 1,
+     "fill": "#D3CABA"
+    },
+    {
+     "kind": "rect",
+     "x": 324,
+     "y": 668,
+     "w": 193,
+     "h": 2,
+     "fill": "#10262C"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 684,
+     "w": 193,
+     "h": 14,
+     "text": "Prepared for",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#B9441F",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 708,
+     "w": 193,
+     "h": 48,
+     "text": "Castellan Insurance\nGroup",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 700,
+     "color": "#10262C",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 768,
+     "w": 193,
+     "h": 18,
+     "text": "Ruth Abernathy",
+     "family": "Geist",
+     "size": 13,
+     "weight": 600,
+     "color": "#10262C"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 787,
+     "w": 193,
+     "h": 16,
+     "text": "Head of Technology Procurement",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B5F64"
+    },
+    {
+     "kind": "text",
+     "x": 324,
+     "y": 814,
+     "w": 193,
+     "h": 36,
+     "text": "40 Quay Street\nBristol BS1 4QA",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B5F64",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 541,
+     "y": 668,
+     "w": 193,
+     "h": 2,
+     "fill": "#10262C"
+    },
+    {
+     "kind": "text",
+     "x": 541,
+     "y": 684,
+     "w": 193,
+     "h": 14,
+     "text": "Prepared by",
+     "family": "Geist Mono",
+     "size": 9.5,
+     "weight": 500,
+     "color": "#B9441F",
+     "letterSpacing": 1.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 541,
+     "y": 708,
+     "w": 193,
+     "h": 48,
+     "text": "Sable Ridge\nConsulting",
+     "family": "Bricolage Grotesque",
+     "size": 19,
+     "weight": 700,
+     "color": "#10262C",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 541,
+     "y": 768,
+     "w": 193,
+     "h": 18,
+     "text": "Devika Rao",
+     "family": "Geist",
+     "size": 13,
+     "weight": 600,
+     "color": "#10262C"
+    },
+    {
+     "kind": "text",
+     "x": 541,
+     "y": 787,
+     "w": 193,
+     "h": 16,
+     "text": "Engagement Partner",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B5F64"
+    },
+    {
+     "kind": "text",
+     "x": 541,
+     "y": 814,
+     "w": 193,
+     "h": 36,
+     "text": "devika.rao@sableridge.example\n+44 20 7946 0321",
+     "family": "Geist",
+     "size": 11.5,
+     "weight": 400,
+     "color": "#4B5F64",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 324,
+     "y": 972,
+     "w": 410,
+     "h": 1,
+     "fill": "#D3CABA"
+    },
+    {
+     "kind": "icon",
+     "x": 324,
+     "y": 990,
+     "w": 15,
+     "h": 15,
+     "icon": "lock",
+     "color": "#7E8E90"
+    },
+    {
+     "kind": "text",
+     "x": 350,
+     "y": 988,
+     "w": 384,
+     "h": 54,
+     "text": "This document contains information proprietary to Sable Ridge Consulting. It is provided to Castellan Insurance Group solely to evaluate this proposal and may not be shared outside the evaluation team.",
+     "family": "Geist",
+     "size": 10.5,
+     "weight": 400,
+     "color": "#4B5F64",
+     "lineHeight": 1.55
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Proposal title",
+   "hint": "Two lines, up to 15 characters each"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Scope summary",
+   "hint": "One sentence on what is proposed"
+  },
+  {
+   "node": "p0-n35",
+   "kind": "text",
+   "label": "Prepared for",
+   "hint": "Client organisation"
+  },
+  {
+   "node": "p0-n41",
+   "kind": "text",
+   "label": "Prepared by",
+   "hint": "Your organisation"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Reference number",
+   "hint": "Your proposal reference"
+  },
+  {
+   "node": "p0-n15",
+   "kind": "text",
+   "label": "Valid until",
+   "hint": "Date the offer expires"
+  }
+ ]
+}

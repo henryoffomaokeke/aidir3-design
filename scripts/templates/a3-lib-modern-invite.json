@@ -1,0 +1,355 @@
+{
+ "id": "a3-lib-modern-invite",
+ "title": "Sweet 16: Arch Invitation",
+ "categories": [
+  "celebrations",
+  "personal",
+  "print",
+  "events"
+ ],
+ "tags": [
+  "sweet 16",
+  "sweet sixteen",
+  "teen birthday",
+  "16th birthday",
+  "party",
+  "invitation",
+  "arch invitation",
+  "kids & family"
+ ],
+ "styleTags": [
+  "dark",
+  "luxury",
+  "photo"
+ ],
+ "size": [
+  1500,
+  2100
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Instrument Serif",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#2A0F18",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 51,
+     "y": 51,
+     "w": 1398,
+     "h": 1998,
+     "stroke": "#E0A96D",
+     "strokeWidth": 3,
+     "opacity": 0.6,
+     "name": "Frame"
+    },
+    {
+     "kind": "text",
+     "x": 456,
+     "y": 113.5,
+     "w": 588,
+     "h": 130,
+     "text": "SWEET SIXTEEN",
+     "family": "Inter",
+     "size": 45,
+     "weight": 700,
+     "color": "#E0A96D",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 12
+    },
+    {
+     "kind": "rect",
+     "x": 351,
+     "y": 309,
+     "w": 798,
+     "h": 804,
+     "radius": 399,
+     "stroke": "#E0A96D",
+     "strokeWidth": 5,
+     "name": "Arch line"
+    },
+    {
+     "kind": "photo",
+     "x": 375,
+     "y": 333,
+     "w": 750,
+     "h": 756,
+     "shape": "rect",
+     "fill": "#41383B",
+     "name": "Photo: teen birthday party"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       373.5,
+       331.5
+      ],
+      [
+       750,
+       331.5
+      ],
+      {
+       "x": 750,
+       "y": 333,
+       "cOut": {
+        "x": 542.89,
+        "y": 333
+       }
+      },
+      {
+       "x": 375,
+       "y": 708,
+       "cIn": {
+        "x": 375,
+        "y": 500.89
+       }
+      },
+      [
+       373.5,
+       708
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A0F18",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1126.5,
+       331.5
+      ],
+      [
+       750,
+       331.5
+      ],
+      {
+       "x": 750,
+       "y": 333,
+       "cOut": {
+        "x": 957.11,
+        "y": 333
+       }
+      },
+      {
+       "x": 1125,
+       "y": 708,
+       "cIn": {
+        "x": 1125,
+        "y": 500.89
+       }
+      },
+      [
+       1126.5,
+       708
+      ]
+     ],
+     "closed": true,
+     "fill": "#2A0F18",
+     "name": "Arch corner (matches the background)"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 315,
+       "y": 484,
+       "cIn": {
+        "x": 312.3,
+        "y": 516.4
+       },
+       "cOut": {
+        "x": 317.7,
+        "y": 516.4
+       }
+      },
+      {
+       "x": 360,
+       "y": 529,
+       "cIn": {
+        "x": 327.6,
+        "y": 526.3
+       },
+       "cOut": {
+        "x": 327.6,
+        "y": 531.7
+       }
+      },
+      {
+       "x": 315,
+       "y": 574,
+       "cIn": {
+        "x": 317.7,
+        "y": 541.6
+       },
+       "cOut": {
+        "x": 312.3,
+        "y": 541.6
+       }
+      },
+      {
+       "x": 270,
+       "y": 529,
+       "cIn": {
+        "x": 302.4,
+        "y": 531.7
+       },
+       "cOut": {
+        "x": 302.4,
+        "y": 526.3
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#E0A96D",
+     "name": "Sparkle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      {
+       "x": 1188,
+       "y": 787,
+       "cIn": {
+        "x": 1186.02,
+        "y": 810.76
+       },
+       "cOut": {
+        "x": 1189.98,
+        "y": 810.76
+       }
+      },
+      {
+       "x": 1221,
+       "y": 820,
+       "cIn": {
+        "x": 1197.24,
+        "y": 818.02
+       },
+       "cOut": {
+        "x": 1197.24,
+        "y": 821.98
+       }
+      },
+      {
+       "x": 1188,
+       "y": 853,
+       "cIn": {
+        "x": 1189.98,
+        "y": 829.24
+       },
+       "cOut": {
+        "x": 1186.02,
+        "y": 829.24
+       }
+      },
+      {
+       "x": 1155,
+       "y": 820,
+       "cIn": {
+        "x": 1178.76,
+        "y": 821.98
+       },
+       "cOut": {
+        "x": 1178.76,
+        "y": 818.02
+       }
+      }
+     ],
+     "closed": true,
+     "fill": "#E0A96D",
+     "name": "Sparkle"
+    },
+    {
+     "kind": "text",
+     "x": 153,
+     "y": 1206.6,
+     "w": 1194,
+     "h": 389,
+     "text": "Sixteen and shining",
+     "family": "Instrument Serif",
+     "size": 180,
+     "weight": 400,
+     "color": "#FBEEE8",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.04
+    },
+    {
+     "kind": "text",
+     "x": 153,
+     "y": 1651.4,
+     "w": 1194,
+     "h": 132,
+     "text": "Pink carpet, DJ, photo booth and dancing. Come dressed to shine for Temi's sweet sixteen.",
+     "family": "Inter",
+     "size": 45,
+     "weight": 400,
+     "color": "#C9A8AE",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.42
+    },
+    {
+     "kind": "text",
+     "x": 153,
+     "y": 1814.4,
+     "w": 1194,
+     "h": 50,
+     "text": "09 Aug · Saturday · 5:00 PM · Glow Lounge, Ikoyi",
+     "family": "Inter",
+     "size": 36,
+     "weight": 700,
+     "color": "#C9A8AE",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 1
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n1",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 110 characters"
+  },
+  {
+   "node": "p0-n10",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 60 characters"
+  }
+ ]
+}

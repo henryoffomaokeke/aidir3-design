@@ -1,0 +1,1000 @@
+{
+ "id": "a3-sec-soc-weekly-metrics",
+ "title": "SOC Weekly Metrics Dashboard",
+ "categories": [
+  "security",
+  "presentations",
+  "technology"
+ ],
+ "tags": [
+  "cybersecurity",
+  "soc",
+  "security operations",
+  "metrics",
+  "dashboard",
+  "kpi",
+  "weekly report",
+  "charts"
+ ],
+ "styleTags": [
+  "dark",
+  "console",
+  "data"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -973,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Geist",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Geist",
+   "weight": 400
+  },
+  {
+   "role": "data",
+   "family": "Geist Mono",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Weekly metrics",
+   "bg": "#0A1011",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 72,
+     "y": 71,
+     "w": 14,
+     "h": 14,
+     "fill": "#10B981"
+    },
+    {
+     "kind": "text",
+     "x": 100,
+     "y": 64,
+     "w": 700,
+     "h": 28,
+     "text": "Corvane Bank  ·  Security operations centre",
+     "family": "Geist Mono",
+     "size": 19,
+     "weight": 500,
+     "color": "#10B981",
+     "letterSpacing": 2.5,
+     "upper": true,
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 72,
+     "y": 102,
+     "w": 1100,
+     "h": 60,
+     "text": "Weekly metrics, week 47",
+     "family": "Geist",
+     "size": 50,
+     "weight": 600,
+     "color": "#E8F0EE",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 1248,
+     "y": 84,
+     "w": 600,
+     "h": 24,
+     "text": "Reporting period",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#8FA5A1",
+     "align": "right",
+     "letterSpacing": 2.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1248,
+     "y": 116,
+     "w": 600,
+     "h": 40,
+     "text": "16 to 22 November 2026",
+     "family": "Geist",
+     "size": 30,
+     "weight": 500,
+     "color": "#E8F0EE",
+     "align": "right"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 192,
+     "w": 426,
+     "h": 204,
+     "fill": "#121B1C",
+     "radius": 14,
+     "stroke": "#223032",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 192,
+     "w": 6,
+     "h": 204,
+     "fill": "#223032"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 216,
+     "w": 370,
+     "h": 24,
+     "text": "Alerts triaged",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 500,
+     "color": "#8FA5A1",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 248,
+     "w": 370,
+     "h": 92,
+     "text": "4,812",
+     "family": "Geist",
+     "size": 80,
+     "weight": 600,
+     "color": "#E8F0EE",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       104,
+       361
+      ],
+      [
+       118,
+       361
+      ],
+      [
+       111,
+       375
+      ]
+     ],
+     "closed": true,
+     "fill": "#10B981"
+    },
+    {
+     "kind": "text",
+     "x": 128,
+     "y": 350,
+     "w": 346,
+     "h": 28,
+     "text": "9% fewer than week 46",
+     "family": "Geist",
+     "size": 20,
+     "weight": 400,
+     "color": "#10B981",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 522,
+     "y": 192,
+     "w": 426,
+     "h": 204,
+     "fill": "#121B1C",
+     "radius": 14,
+     "stroke": "#223032",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 522,
+     "y": 192,
+     "w": 6,
+     "h": 204,
+     "fill": "#223032"
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 216,
+     "w": 370,
+     "h": 24,
+     "text": "Incidents opened",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 500,
+     "color": "#8FA5A1",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 554,
+     "y": 248,
+     "w": 370,
+     "h": 92,
+     "text": "38",
+     "family": "Geist",
+     "size": 80,
+     "weight": 600,
+     "color": "#E8F0EE",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       554,
+       375
+      ],
+      [
+       568,
+       375
+      ],
+      [
+       561,
+       361
+      ]
+     ],
+     "closed": true,
+     "fill": "#F59E0B"
+    },
+    {
+     "kind": "text",
+     "x": 578,
+     "y": 350,
+     "w": 346,
+     "h": 28,
+     "text": "6 more than week 46",
+     "family": "Geist",
+     "size": 20,
+     "weight": 400,
+     "color": "#F59E0B",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 972,
+     "y": 192,
+     "w": 426,
+     "h": 204,
+     "fill": "#121B1C",
+     "radius": 14,
+     "stroke": "#223032",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 972,
+     "y": 192,
+     "w": 6,
+     "h": 204,
+     "fill": "#223032"
+    },
+    {
+     "kind": "text",
+     "x": 1004,
+     "y": 216,
+     "w": 370,
+     "h": 24,
+     "text": "Mean time to respond",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 500,
+     "color": "#8FA5A1",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1004,
+     "y": 248,
+     "w": 370,
+     "h": 92,
+     "text": "27 min",
+     "family": "Geist",
+     "size": 80,
+     "weight": 600,
+     "color": "#E8F0EE",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1004,
+       361
+      ],
+      [
+       1018,
+       361
+      ],
+      [
+       1011,
+       375
+      ]
+     ],
+     "closed": true,
+     "fill": "#10B981"
+    },
+    {
+     "kind": "text",
+     "x": 1028,
+     "y": 350,
+     "w": 346,
+     "h": 28,
+     "text": "8 minutes faster",
+     "family": "Geist",
+     "size": 20,
+     "weight": 400,
+     "color": "#10B981",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1422,
+     "y": 192,
+     "w": 426,
+     "h": 204,
+     "fill": "#121B1C",
+     "radius": 14,
+     "stroke": "#223032",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 1422,
+     "y": 192,
+     "w": 6,
+     "h": 204,
+     "fill": "#EF4444"
+    },
+    {
+     "kind": "text",
+     "x": 1454,
+     "y": 216,
+     "w": 370,
+     "h": 24,
+     "text": "Critical incidents open",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 500,
+     "color": "#8FA5A1",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 1454,
+     "y": 248,
+     "w": 370,
+     "h": 92,
+     "text": "2",
+     "family": "Geist",
+     "size": 80,
+     "weight": 600,
+     "color": "#EF4444",
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1454,
+       375
+      ],
+      [
+       1468,
+       375
+      ],
+      [
+       1461,
+       361
+      ]
+     ],
+     "closed": true,
+     "fill": "#EF4444"
+    },
+    {
+     "kind": "text",
+     "x": 1478,
+     "y": 350,
+     "w": 346,
+     "h": 28,
+     "text": "Target is zero after 24 hours",
+     "family": "Geist",
+     "size": 20,
+     "weight": 400,
+     "color": "#EF4444",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 420,
+     "w": 576,
+     "h": 460,
+     "fill": "#E4EBE8",
+     "radius": 14
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 446,
+     "w": 512,
+     "h": 32,
+     "text": "Alerts by severity",
+     "family": "Geist",
+     "size": 26,
+     "weight": 600,
+     "color": "#0E1718"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 482,
+     "w": 512,
+     "h": 22,
+     "text": "Per day, all sources",
+     "family": "Geist Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "chart",
+     "name": "Alerts by severity",
+     "x": 86,
+     "y": 516,
+     "w": 548,
+     "h": 352,
+     "chartType": "barStacked",
+     "categories": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+     ],
+     "fontSize": 20,
+     "legend": true,
+     "valueLabels": false,
+     "series": [
+      {
+       "name": "Low",
+       "values": [
+        414,
+        536,
+        487,
+        440,
+        398,
+        189,
+        157
+       ],
+       "color": "#B4C2BF"
+      },
+      {
+       "name": "Medium",
+       "values": [
+        240,
+        354,
+        285,
+        253,
+        228,
+        107,
+        85
+       ],
+       "color": "#5B7FA6"
+      },
+      {
+       "name": "High",
+       "values": [
+        83,
+        157,
+        103,
+        80,
+        77,
+        29,
+        25
+       ],
+       "color": "#F59E0B"
+      },
+      {
+       "name": "Critical",
+       "values": [
+        12,
+        28,
+        16,
+        11,
+        9,
+        4,
+        5
+       ],
+       "color": "#EF4444"
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 672,
+     "y": 420,
+     "w": 576,
+     "h": 460,
+     "fill": "#E4EBE8",
+     "radius": 14
+    },
+    {
+     "kind": "text",
+     "x": 704,
+     "y": 446,
+     "w": 512,
+     "h": 32,
+     "text": "Mean time to respond",
+     "family": "Geist",
+     "size": 26,
+     "weight": 600,
+     "color": "#0E1718"
+    },
+    {
+     "kind": "text",
+     "x": 704,
+     "y": 482,
+     "w": 512,
+     "h": 22,
+     "text": "Minutes, last eight weeks",
+     "family": "Geist Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "chart",
+     "name": "Mean time to respond",
+     "x": 686,
+     "y": 516,
+     "w": 548,
+     "h": 352,
+     "chartType": "line",
+     "categories": [
+      "W40",
+      "W41",
+      "W42",
+      "W43",
+      "W44",
+      "W45",
+      "W46",
+      "W47"
+     ],
+     "fontSize": 20,
+     "legend": false,
+     "valueLabels": true,
+     "series": [
+      {
+       "name": "Minutes",
+       "values": [
+        45,
+        44,
+        39,
+        42,
+        38,
+        35,
+        34,
+        27
+       ],
+       "color": "#0B8F65"
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 1272,
+     "y": 420,
+     "w": 576,
+     "h": 460,
+     "fill": "#E4EBE8",
+     "radius": 14
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 446,
+     "w": 512,
+     "h": 32,
+     "text": "Incidents by category",
+     "family": "Geist",
+     "size": 26,
+     "weight": 600,
+     "color": "#0E1718"
+    },
+    {
+     "kind": "text",
+     "x": 1304,
+     "y": 482,
+     "w": 512,
+     "h": 22,
+     "text": "38 incidents opened",
+     "family": "Geist Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "chart",
+     "name": "Incidents by category",
+     "x": 1286,
+     "y": 546,
+     "w": 284,
+     "h": 284,
+     "chartType": "donut",
+     "categories": [
+      "Phishing",
+      "Malware",
+      "Account takeover",
+      "Policy violation",
+      "Other"
+     ],
+     "fontSize": 20,
+     "legend": false,
+     "valueLabels": false,
+     "series": [
+      {
+       "name": "Incidents",
+       "values": [
+        16,
+        8,
+        6,
+        5,
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 1286,
+     "y": 652,
+     "w": 284,
+     "h": 50,
+     "text": "38",
+     "family": "Geist",
+     "size": 46,
+     "weight": 600,
+     "color": "#0E1718",
+     "align": "center",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 1286,
+     "y": 702,
+     "w": 284,
+     "h": 22,
+     "text": "incidents",
+     "family": "Geist Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "align": "center",
+     "letterSpacing": 1
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 574,
+     "w": 16,
+     "h": 16,
+     "fill": "#6366F1",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1614,
+     "y": 566,
+     "w": 166,
+     "h": 26,
+     "text": "Phishing",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#0E1718",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1770,
+     "y": 566,
+     "w": 54,
+     "h": 26,
+     "text": "42%",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 603,
+     "w": 238,
+     "h": 1,
+     "fill": "#CBD6D2"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 624,
+     "w": 16,
+     "h": 16,
+     "fill": "#10B981",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1614,
+     "y": 616,
+     "w": 166,
+     "h": 26,
+     "text": "Malware",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#0E1718",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1770,
+     "y": 616,
+     "w": 54,
+     "h": 26,
+     "text": "21%",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 653,
+     "w": 238,
+     "h": 1,
+     "fill": "#CBD6D2"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 674,
+     "w": 16,
+     "h": 16,
+     "fill": "#F59E0B",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1614,
+     "y": 666,
+     "w": 166,
+     "h": 26,
+     "text": "Account takeover",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#0E1718",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1770,
+     "y": 666,
+     "w": 54,
+     "h": 26,
+     "text": "16%",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 703,
+     "w": 238,
+     "h": 1,
+     "fill": "#CBD6D2"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 724,
+     "w": 16,
+     "h": 16,
+     "fill": "#EF4444",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1614,
+     "y": 716,
+     "w": 166,
+     "h": 26,
+     "text": "Policy violation",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#0E1718",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1770,
+     "y": 716,
+     "w": 54,
+     "h": 26,
+     "text": "13%",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 753,
+     "w": 238,
+     "h": 1,
+     "fill": "#CBD6D2"
+    },
+    {
+     "kind": "rect",
+     "x": 1586,
+     "y": 774,
+     "w": 16,
+     "h": 16,
+     "fill": "#3B82F6",
+     "radius": 3
+    },
+    {
+     "kind": "text",
+     "x": 1614,
+     "y": 766,
+     "w": 166,
+     "h": 26,
+     "text": "Other",
+     "family": "Geist",
+     "size": 18,
+     "weight": 500,
+     "color": "#0E1718",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1770,
+     "y": 766,
+     "w": 54,
+     "h": 26,
+     "text": "8%",
+     "family": "Geist Mono",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A5C5A",
+     "align": "right",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 904,
+     "w": 1776,
+     "h": 104,
+     "fill": "#121B1C",
+     "radius": 14,
+     "stroke": "#223032",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "rect",
+     "x": 72,
+     "y": 904,
+     "w": 6,
+     "h": 104,
+     "fill": "#10B981"
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 922,
+     "w": 500,
+     "h": 22,
+     "text": "What changed this week",
+     "family": "Geist Mono",
+     "size": 16,
+     "weight": 500,
+     "color": "#10B981",
+     "letterSpacing": 2.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 104,
+     "y": 952,
+     "w": 1712,
+     "h": 40,
+     "text": "Phishing reports doubled on Tuesday after a payroll-themed campaign; the new auto-quarantine rule closed 61% of them without analyst time.",
+     "family": "Geist",
+     "size": 25,
+     "weight": 400,
+     "color": "#E8F0EE"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Slide title",
+   "hint": "For example: Weekly metrics, week 47"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Reporting period",
+   "hint": "Start and end dates"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Alerts triaged",
+   "hint": "Headline number"
+  },
+  {
+   "node": "p0-n14",
+   "kind": "text",
+   "label": "Incidents opened",
+   "hint": "Headline number"
+  },
+  {
+   "node": "p0-n20",
+   "kind": "text",
+   "label": "Mean time to respond",
+   "hint": "Number and unit"
+  },
+  {
+   "node": "p0-n65",
+   "kind": "text",
+   "label": "What changed this week",
+   "hint": "One sentence, up to 140 characters"
+  }
+ ]
+}

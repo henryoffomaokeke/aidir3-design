@@ -1,0 +1,578 @@
+{
+ "id": "a3-biz-whitepaper-cover",
+ "title": "Whitepaper Cover",
+ "categories": [
+  "business",
+  "print",
+  "marketing"
+ ],
+ "tags": [
+  "whitepaper",
+  "report cover",
+  "research",
+  "editorial",
+  "thought leadership",
+  "cover page",
+  "a4"
+ ],
+ "styleTags": [
+  "editorial",
+  "burgundy",
+  "geometric",
+  "serif"
+ ],
+ "size": [
+  794,
+  1123
+ ],
+ "rank": -990,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Playfair Display",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Hanken Grotesk",
+   "weight": 500
+  }
+ ],
+ "pages": [
+  {
+   "name": "Cover",
+   "bg": "#5A1424",
+   "nodes": [
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#F3E9DB",
+     "points": [
+      [
+       85,
+       72
+      ],
+      {
+       "x": 65,
+       "y": 72,
+       "cOut": {
+        "x": 65,
+        "y": 60.954
+       }
+      },
+      {
+       "x": 85,
+       "y": 52,
+       "cIn": {
+        "x": 73.95400000000001,
+        "y": 52
+       }
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 87,
+     "y": 52,
+     "w": 9,
+     "h": 20,
+     "fill": "#D9A694"
+    },
+    {
+     "kind": "text",
+     "x": 109,
+     "y": 54,
+     "w": 300,
+     "h": 16,
+     "text": "Aldergate Institute",
+     "family": "Hanken Grotesk",
+     "size": 11.5,
+     "weight": 700,
+     "color": "#F3E9DB",
+     "letterSpacing": 2.4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 469,
+     "y": 55,
+     "w": 260,
+     "h": 14,
+     "text": "Research paper · No. 14",
+     "family": "Hanken Grotesk",
+     "size": 10,
+     "weight": 600,
+     "color": "#D9A694",
+     "align": "right",
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#F3E9DB",
+     "points": [
+      [
+       231,
+       282
+      ],
+      {
+       "x": 65,
+       "y": 282,
+       "cOut": {
+        "x": 65,
+        "y": 190.3182
+       }
+      },
+      {
+       "x": 231,
+       "y": 116,
+       "cIn": {
+        "x": 139.3182,
+        "y": 116
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#7C2A3B",
+     "points": [
+      [
+       231,
+       282
+      ],
+      {
+       "x": 231,
+       "y": 116,
+       "cOut": {
+        "x": 322.6818,
+        "y": 116
+       }
+      },
+      {
+       "x": 397,
+       "y": 282,
+       "cIn": {
+        "x": 397,
+        "y": 190.3182
+       }
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 397,
+     "y": 116,
+     "w": 166,
+     "h": 166,
+     "fill": "#410D19"
+    },
+    {
+     "kind": "ellipse",
+     "name": "Motif dot",
+     "x": 445.14,
+     "y": 164.14000000000001,
+     "w": 69.72,
+     "h": 69.72,
+     "fill": "#D9A694"
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#F3E9DB",
+     "points": [
+      [
+       563,
+       282
+      ],
+      {
+       "x": 563,
+       "y": 116,
+       "cOut": {
+        "x": 654.6818,
+        "y": 116
+       }
+      },
+      {
+       "x": 729,
+       "y": 282,
+       "cIn": {
+        "x": 729,
+        "y": 190.3182
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#7C2A3B",
+     "points": [
+      [
+       231,
+       282
+      ],
+      {
+       "x": 231,
+       "y": 448,
+       "cOut": {
+        "x": 139.3182,
+        "y": 448
+       }
+      },
+      {
+       "x": 65,
+       "y": 282,
+       "cIn": {
+        "x": 65,
+        "y": 373.6818
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#F3E9DB",
+     "points": [
+      [
+       231,
+       282
+      ],
+      {
+       "x": 397,
+       "y": 282,
+       "cOut": {
+        "x": 397,
+        "y": 373.6818
+       }
+      },
+      {
+       "x": 231,
+       "y": 448,
+       "cIn": {
+        "x": 322.6818,
+        "y": 448
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#7C2A3B",
+     "points": [
+      [
+       563,
+       282
+      ],
+      {
+       "x": 563,
+       "y": 448,
+       "cOut": {
+        "x": 471.3182,
+        "y": 448
+       }
+      },
+      {
+       "x": 397,
+       "y": 282,
+       "cIn": {
+        "x": 397,
+        "y": 373.6818
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#D9A694",
+     "points": [
+      [
+       563,
+       282
+      ],
+      {
+       "x": 729,
+       "y": 282,
+       "cOut": {
+        "x": 729,
+        "y": 373.6818
+       }
+      },
+      {
+       "x": 563,
+       "y": 448,
+       "cIn": {
+        "x": 654.6818,
+        "y": 448
+       }
+      }
+     ]
+    },
+    {
+     "kind": "rect",
+     "x": 65,
+     "y": 448,
+     "w": 166,
+     "h": 166,
+     "fill": "#7C2A3B"
+    },
+    {
+     "kind": "ellipse",
+     "name": "Motif dot",
+     "x": 113.14000000000001,
+     "y": 496.14,
+     "w": 69.72,
+     "h": 69.72,
+     "fill": "#F3E9DB"
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#410D19",
+     "points": [
+      [
+       397,
+       448
+      ],
+      {
+       "x": 397,
+       "y": 614,
+       "cOut": {
+        "x": 305.3182,
+        "y": 614
+       }
+      },
+      {
+       "x": 231,
+       "y": 448,
+       "cIn": {
+        "x": 231,
+        "y": 539.6818
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#F3E9DB",
+     "points": [
+      [
+       397,
+       448
+      ],
+      {
+       "x": 563,
+       "y": 448,
+       "cOut": {
+        "x": 563,
+        "y": 539.6818
+       }
+      },
+      {
+       "x": 397,
+       "y": 614,
+       "cIn": {
+        "x": 488.6818,
+        "y": 614
+       }
+      }
+     ]
+    },
+    {
+     "kind": "path",
+     "name": "Motif quarter",
+     "closed": true,
+     "fill": "#410D19",
+     "points": [
+      [
+       729,
+       614
+      ],
+      {
+       "x": 563,
+       "y": 614,
+       "cOut": {
+        "x": 563,
+        "y": 522.3182
+       }
+      },
+      {
+       "x": 729,
+       "y": 448,
+       "cIn": {
+        "x": 637.3182,
+        "y": 448
+       }
+      }
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 65,
+     "y": 670,
+     "w": 664,
+     "h": 76,
+     "text": "Buying Intelligence",
+     "family": "Playfair Display",
+     "size": 62,
+     "weight": 600,
+     "color": "#F3E9DB",
+     "letterSpacing": -0.5,
+     "lineHeight": 1.1
+    },
+    {
+     "kind": "text",
+     "x": 65,
+     "y": 760,
+     "w": 560,
+     "h": 64,
+     "text": "How four hundred enterprises evaluate, contract and govern artificial intelligence software",
+     "family": "Playfair Display",
+     "size": 21,
+     "weight": 400,
+     "color": "#E2CDBF",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "rect",
+     "x": 65,
+     "y": 968,
+     "w": 664,
+     "h": 1,
+     "fill": "#D9A694",
+     "opacity": 0.55
+    },
+    {
+     "kind": "text",
+     "x": 65,
+     "y": 988,
+     "w": 200,
+     "h": 14,
+     "text": "Authors",
+     "family": "Hanken Grotesk",
+     "size": 10,
+     "weight": 600,
+     "color": "#D9A694",
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 65,
+     "y": 1008,
+     "w": 250,
+     "h": 60,
+     "text": "Dr Helena Marsh\nOkonkwo Adeyemi\nLucía Ferrand",
+     "family": "Hanken Grotesk",
+     "size": 13,
+     "weight": 500,
+     "color": "#F3E9DB",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 355,
+     "y": 988,
+     "w": 160,
+     "h": 14,
+     "text": "Published",
+     "family": "Hanken Grotesk",
+     "size": 10,
+     "weight": 600,
+     "color": "#D9A694",
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 355,
+     "y": 1008,
+     "w": 170,
+     "h": 40,
+     "text": "November 2026\nSecond edition",
+     "family": "Hanken Grotesk",
+     "size": 13,
+     "weight": 500,
+     "color": "#F3E9DB",
+     "lineHeight": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 535,
+     "y": 988,
+     "w": 194,
+     "h": 14,
+     "text": "Issued by",
+     "family": "Hanken Grotesk",
+     "size": 10,
+     "weight": 600,
+     "color": "#D9A694",
+     "letterSpacing": 2.2,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 535,
+     "y": 1008,
+     "w": 194,
+     "h": 60,
+     "text": "Aldergate Institute for\nProcurement Research\nLondon · Singapore",
+     "family": "Hanken Grotesk",
+     "size": 13,
+     "weight": 500,
+     "color": "#F3E9DB",
+     "lineHeight": 1.5
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n18",
+   "kind": "text",
+   "label": "Title",
+   "hint": "Up to 20 characters on one line"
+  },
+  {
+   "node": "p0-n19",
+   "kind": "text",
+   "label": "Subtitle",
+   "hint": "One sentence, up to 90 characters"
+  },
+  {
+   "node": "p0-n22",
+   "kind": "text",
+   "label": "Authors",
+   "hint": "One name per line"
+  },
+  {
+   "node": "p0-n24",
+   "kind": "text",
+   "label": "Date and edition",
+   "hint": "Month and year"
+  },
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Issuing organisation",
+   "hint": "Name and location"
+  }
+ ]
+}

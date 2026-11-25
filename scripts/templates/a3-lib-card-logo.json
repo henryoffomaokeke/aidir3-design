@@ -1,0 +1,150 @@
+{
+ "id": "a3-lib-card-logo",
+ "title": "FreshMart: Business Card Back (Logo Only)",
+ "categories": [
+  "branding",
+  "print"
+ ],
+ "tags": [
+  "business card",
+  "business cards",
+  "visiting card",
+  "brand kit",
+  "card back",
+  "logo only",
+  "supermarket deals",
+  "sale & offers"
+ ],
+ "styleTags": [
+  "dark"
+ ],
+ "size": [
+  1050,
+  600
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Epilogue",
+   "weight": 900
+  },
+  {
+   "role": "body",
+   "family": "Onest",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#0B2545",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 437,
+     "y": 127,
+     "w": 176,
+     "h": 176,
+     "fill": {
+      "angle": 135,
+      "stops": [
+       [
+        "#2B7FFF",
+        0
+       ],
+       [
+        "#9AD1FF",
+        1
+       ]
+      ]
+     }
+    },
+    {
+     "kind": "ellipse",
+     "x": 449,
+     "y": 139,
+     "w": 151,
+     "h": 151,
+     "stroke": "#FFFFFF",
+     "strokeWidth": 2,
+     "opacity": 0.45
+    },
+    {
+     "kind": "icon",
+     "icon": "shopping-cart",
+     "x": 483,
+     "y": 173,
+     "w": 84,
+     "h": 84,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 275,
+     "y": 316.6,
+     "w": 500,
+     "h": 58,
+     "text": "FreshMart",
+     "family": "Epilogue",
+     "size": 48,
+     "weight": 900,
+     "color": "#F0F7FF",
+     "align": "center",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 345,
+     "y": 392.8,
+     "w": 360,
+     "h": 17,
+     "text": "Supermarket deals",
+     "family": "Onest",
+     "size": 14,
+     "weight": 700,
+     "color": "#F0F7FF",
+     "align": "center",
+     "lineHeight": 1.12,
+     "letterSpacing": 2.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 275,
+     "y": 495.1,
+     "w": 500,
+     "h": 26,
+     "text": "@freshmart",
+     "family": "Onest",
+     "size": 21,
+     "weight": 600,
+     "color": "#F0F7FF",
+     "align": "center",
+     "lineHeight": 1.12
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  }
+ ]
+}

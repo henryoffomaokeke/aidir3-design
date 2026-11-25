@@ -20,6 +20,7 @@ import { Button } from "@/components/ui/Button";
 import { IconButton } from "@/components/ui/IconButton";
 import { Spinner } from "@/components/ui/Spinner";
 import { LogoMark } from "@/components/ui/Logo";
+import { Aidir3HomeLogo } from "@/components/ui/Aidir3HomeLink";
 import { Canvas } from "./Canvas";
 import { EditorFileDropProvider } from "./EditorFileDrop";
 import { ZoomControl } from "./ZoomControl";
@@ -33,6 +34,8 @@ import { NotFoundScreen } from "@/components/ui/NotFound";
 import { SaveAsTemplateDialog } from "./SaveAsTemplateDialog";
 import { PropertiesPanel } from "./PropertiesPanel";
 import { ToolRail } from "./ToolRail";
+// aidir3 fork: the docked pro toolbox.
+import { ProToolbox } from "./toolbox/ProToolbox";
 import { PagesBar, PagePill } from "./PagesBar";
 import { DocumentSurface } from "./DocumentSurface";
 import { PresenceBar } from "./PresenceBar";
@@ -994,7 +997,8 @@ export function EditorApp() {
         </IconButton>
         {/* On a phone every pixel of the bar goes to the title and the
             actions; the back button already identifies where you are. */}
-        {!isPhone && <LogoMark size={28} />}
+        {/* aidir3 fork: the logo goes back to the main website. */}
+        {!isPhone && <Aidir3HomeLogo className="shrink-0"><LogoMark size={28} /></Aidir3HomeLogo>}
         <input
           ref={titleRef}
           defaultValue={title}
@@ -1214,6 +1218,10 @@ export function EditorApp() {
           </main>
         ) : (
         <>
+        {/* aidir3 fork: the pro toolbox docks between the rail and the canvas.
+            Below lg it stays icon-only so the canvas keeps its width; a phone
+            keeps the canvas's own folded tool button instead. */}
+        {!isPhone && <ProToolbox iconsOnly={isCompact} />}
         <main className="relative min-w-0 flex-1">
           <Canvas />
           <PreviewBanner />

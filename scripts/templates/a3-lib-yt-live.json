@@ -1,0 +1,312 @@
+{
+ "id": "a3-lib-yt-live",
+ "title": "East African Vlogs: Breaking / Live YouTube Thumbnail",
+ "categories": [
+  "thumbnails",
+  "marketing",
+  "social"
+ ],
+ "tags": [
+  "youtube thumbnail",
+  "thumbnail",
+  "youtube",
+  "video thumbnail",
+  "east african vlogs",
+  "kenya",
+  "east africa",
+  "travel"
+ ],
+ "styleTags": [
+  "colourful",
+  "photo"
+ ],
+ "size": [
+  1280,
+  720
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Anton",
+   "weight": 400
+  },
+  {
+   "role": "body",
+   "family": "Inter",
+   "weight": 800
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#00263A",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": {
+      "angle": 96,
+      "stops": [
+       [
+        "#00263A",
+        0
+       ],
+       [
+        "#0096C7",
+        1
+       ]
+      ]
+     },
+     "name": "Background"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1280,
+     "h": 720,
+     "fill": "#FFFFFF",
+     "opacity": 0.02,
+     "name": "Lines"
+    },
+    {
+     "kind": "ellipse",
+     "x": 515,
+     "y": -108,
+     "w": 864,
+     "h": 864,
+     "fill": {
+      "angle": 0,
+      "stops": [
+       [
+        "#6DC0D4",
+        0
+       ],
+       [
+        "#60B4CA",
+        0.1
+       ],
+       [
+        "#52A8BF",
+        0.2
+       ],
+       [
+        "#459BB5",
+        0.3
+       ],
+       [
+        "#378FAA",
+        0.4
+       ],
+       [
+        "#2A83A0",
+        0.5
+       ],
+       [
+        "#227C9A",
+        0.6
+       ],
+       [
+        "#1B7594",
+        0.7
+       ],
+       [
+        "#146F8F",
+        0.8
+       ],
+       [
+        "#0D6889",
+        0.9
+       ],
+       [
+        "#056183",
+        1
+       ]
+      ],
+      "radial": true
+     },
+     "name": "Spotlight",
+     "bleed": true
+    },
+    {
+     "kind": "photo",
+     "x": 765,
+     "y": 36,
+     "w": 416,
+     "h": 720,
+     "shape": "rect",
+     "fill": "#3F8FA9",
+     "name": "Face cut-out (transparent PNG)",
+     "image": {
+      "asset": "tplph-cut-faces-63a01bc9-270c-4f69-a652-0dadf6d2a77c-o",
+      "url": "/api/v1/templates/photos/cutouts/faces/63a01bc9-270c-4f69-a652-0dadf6d2a77c-o.webp",
+      "mime": "image/webp",
+      "license": "cc0",
+      "credit": {
+       "title": "Female Doctor",
+       "author": "Direct Media",
+       "url": "https://stocksnap.io/photo/female-doctor-WINC1QDMT4",
+       "licenseLabel": "CC0"
+      },
+      "fit": "contain",
+      "name": "Cut-out person",
+      "noFill": true
+     },
+     "bleed": true
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 35,
+     "w": 344,
+     "h": 73,
+     "fill": "#E0002B",
+     "radius": 13,
+     "stroke": "#000000",
+     "strokeWidth": 4,
+     "name": "Tag"
+    },
+    {
+     "kind": "text",
+     "x": 75,
+     "y": 25.9,
+     "w": 310,
+     "h": 73,
+     "text": "BREAKING",
+     "family": "Inter",
+     "size": 43,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 533,
+     "w": 896,
+     "h": 94,
+     "fill": "#E0002B",
+     "name": "Lower third"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 626,
+     "w": 896,
+     "h": 58,
+     "fill": "#FFFFFF",
+     "name": "Ticker"
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 524.8,
+     "w": 780,
+     "h": 94,
+     "text": "EAST AFRICAN VLOGS",
+     "family": "Inter",
+     "size": 39,
+     "weight": 800,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 620.9,
+     "w": 780,
+     "h": 58,
+     "text": "5,895 M · SUMMIT",
+     "family": "Inter",
+     "size": 24,
+     "weight": 800,
+     "color": "#111111",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 58,
+     "y": 121,
+     "w": 510,
+     "h": 176,
+     "fill": "#FCBF49",
+     "radius": 11,
+     "name": "Highlight box"
+    },
+    {
+     "kind": "text",
+     "x": 79,
+     "y": 121.1,
+     "w": 747,
+     "h": 151,
+     "text": "NAIROBI",
+     "family": "Anton",
+     "size": 134,
+     "weight": 400,
+     "color": "#0B0B0B",
+     "lineHeight": 1.04,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 58,
+     "y": 290.7,
+     "w": 768,
+     "h": 202,
+     "text": "ON $20",
+     "family": "Anton",
+     "size": 180,
+     "weight": 400,
+     "color": "#FFFFFF",
+     "lineHeight": 1.04,
+     "upper": true
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n12",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n11",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n9",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

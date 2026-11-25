@@ -1,0 +1,1535 @@
+{
+ "id": "a3-lib-ng-prog-classic",
+ "title": "18th Birthday Party: Programme (gold Frame)",
+ "categories": [
+  "nigeria",
+  "celebrations",
+  "personal",
+  "print"
+ ],
+ "tags": [
+  "18th birthday",
+  "eighteenth birthday",
+  "coming of age",
+  "birthday party",
+  "birthday invitation",
+  "party",
+  "celebration",
+  "owambe"
+ ],
+ "styleTags": [
+  "dark",
+  "multi-page"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Cormorant Garamond",
+   "weight": 600
+  },
+  {
+   "role": "body",
+   "family": "Red Hat Text",
+   "weight": 400
+  }
+ ],
+ "pages": [
+  {
+   "name": "Cover",
+   "bg": "#121110",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 1754,
+     "fill": "#121110"
+    },
+    {
+     "kind": "rect",
+     "x": 45,
+     "y": 45,
+     "w": 1151,
+     "h": 1665,
+     "stroke": "#E0C48E",
+     "strokeWidth": 3.7
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 1111,
+     "h": 1625,
+     "stroke": "#E0C48E",
+     "strokeWidth": 1.7,
+     "opacity": 0.55
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       87
+      ],
+      [
+       107,
+       97
+      ],
+      [
+       97,
+       107
+      ],
+      [
+       87,
+       97
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 1089,
+     "y": 64,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 1168,
+     "y": 64,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1143,
+       87
+      ],
+      [
+       1153,
+       97
+      ],
+      [
+       1143,
+       107
+      ],
+      [
+       1133,
+       97
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1682,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1603,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       1647
+      ],
+      [
+       107,
+       1657
+      ],
+      [
+       97,
+       1667
+      ],
+      [
+       87,
+       1657
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 1089,
+     "y": 1682,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 1168,
+     "y": 1603,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1143,
+       1647
+      ],
+      [
+       1153,
+       1657
+      ],
+      [
+       1143,
+       1667
+      ],
+      [
+       1133,
+       1657
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 608,
+     "y": 482,
+     "w": 186,
+     "h": 68,
+     "rotation": -160,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 597,
+     "y": 475,
+     "w": 186,
+     "h": 68,
+     "rotation": -136.67,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 589,
+     "y": 463,
+     "w": 209,
+     "h": 68,
+     "rotation": -113.33,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 586,
+     "y": 450,
+     "w": 227,
+     "h": 68,
+     "rotation": -90,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 589,
+     "y": 436,
+     "w": 209,
+     "h": 68,
+     "rotation": -66.67,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 597,
+     "y": 425,
+     "w": 186,
+     "h": 68,
+     "rotation": -43.33,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 608,
+     "y": 418,
+     "w": 186,
+     "h": 68,
+     "rotation": -20,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.7
+    },
+    {
+     "kind": "ellipse",
+     "x": 590,
+     "y": 420,
+     "w": 59,
+     "h": 59,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 3.2
+    },
+    {
+     "kind": "ellipse",
+     "x": 608,
+     "y": 437,
+     "w": 25,
+     "h": 25,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 525.8,
+     "w": 928,
+     "h": 43,
+     "text": "Finally eighteen",
+     "family": "Red Hat Text",
+     "size": 33,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 8,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 606.5,
+     "w": 928,
+     "h": 63,
+     "text": "Mr & Mrs Akinwale",
+     "family": "Red Hat Text",
+     "size": 43,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.38
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 666.4,
+     "w": 928,
+     "h": 203,
+     "text": "Teniola",
+     "family": "Cormorant Garamond",
+     "size": 169,
+     "weight": 600,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.12
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 913.8,
+     "w": 928,
+     "h": 185,
+     "text": "18th Birthday\nParty",
+     "family": "DM Serif Display",
+     "size": 81,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.1,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 1165,
+     "w": 238,
+     "h": 3,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       620,
+       1156
+      ],
+      [
+       631,
+       1167
+      ],
+      [
+       620,
+       1178
+      ],
+      [
+       609,
+       1167
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 642,
+     "y": 1165,
+     "w": 238,
+     "h": 3,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 175,
+     "y": 1234,
+     "w": 270,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 175,
+     "y": 1399,
+     "w": 270,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 167,
+     "y": 1286.4,
+     "w": 287,
+     "h": 45,
+     "text": "Saturday",
+     "family": "Red Hat Text",
+     "size": 35,
+     "weight": 700,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 465,
+     "y": 1217.4,
+     "w": 309,
+     "h": 156,
+     "text": "13",
+     "family": "DM Serif Display",
+     "size": 144,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1
+    },
+    {
+     "kind": "rect",
+     "x": 794,
+     "y": 1234,
+     "w": 270,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "rect",
+     "x": 794,
+     "y": 1399,
+     "w": 270,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.8
+    },
+    {
+     "kind": "text",
+     "x": 786,
+     "y": 1265.4,
+     "w": 287,
+     "h": 87,
+     "text": "June\n2026",
+     "family": "Red Hat Text",
+     "size": 35,
+     "weight": 700,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 6,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 1427.4,
+     "w": 928,
+     "h": 45,
+     "text": "6:00 PM",
+     "family": "Red Hat Text",
+     "size": 35,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 1479.1,
+     "w": 928,
+     "h": 58,
+     "text": "Skyline Hall, Victoria Island, Lagos",
+     "family": "Red Hat Text",
+     "size": 40,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    }
+   ]
+  },
+  {
+   "name": "Order of events",
+   "bg": "#121110",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 1754,
+     "fill": "#121110"
+    },
+    {
+     "kind": "rect",
+     "x": 45,
+     "y": 45,
+     "w": 1151,
+     "h": 1665,
+     "stroke": "#E0C48E",
+     "strokeWidth": 3.7
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 1111,
+     "h": 1625,
+     "stroke": "#E0C48E",
+     "strokeWidth": 1.7,
+     "opacity": 0.55
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       87
+      ],
+      [
+       107,
+       97
+      ],
+      [
+       97,
+       107
+      ],
+      [
+       87,
+       97
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 1089,
+     "y": 64,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 1168,
+     "y": 64,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1143,
+       87
+      ],
+      [
+       1153,
+       97
+      ],
+      [
+       1143,
+       107
+      ],
+      [
+       1133,
+       97
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1682,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1603,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       1647
+      ],
+      [
+       107,
+       1657
+      ],
+      [
+       97,
+       1667
+      ],
+      [
+       87,
+       1657
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 1089,
+     "y": 1682,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 1168,
+     "y": 1603,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1143,
+       1647
+      ],
+      [
+       1153,
+       1657
+      ],
+      [
+       1143,
+       1667
+      ],
+      [
+       1133,
+       1657
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 276.5,
+     "w": 928,
+     "h": 133,
+     "text": "Order of Events",
+     "family": "Cormorant Garamond",
+     "size": 108,
+     "weight": 600,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 444,
+     "w": 928,
+     "h": 52,
+     "text": "Teniola",
+     "family": "DM Serif Display",
+     "size": 40,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2,
+     "letterSpacing": 4,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 515.4,
+     "w": 928,
+     "h": 41,
+     "text": "18th Birthday Party · Saturday, 13 June 2026",
+     "family": "Red Hat Text",
+     "size": 29,
+     "weight": 600,
+     "color": "#B8AA91",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 384,
+     "y": 597,
+     "w": 214,
+     "h": 3,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       619.5,
+       588
+      ],
+      [
+       630,
+       598.5
+      ],
+      [
+       619.5,
+       609
+      ],
+      [
+       609,
+       598.5
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 641,
+     "y": 597,
+     "w": 214,
+     "h": 3,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 655.3,
+     "w": 223,
+     "h": 43,
+     "text": "4:00 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 652.4,
+     "w": 678,
+     "h": 54,
+     "text": "Arrival of guests",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 156,
+     "y": 745,
+     "w": 928,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 758.3,
+     "w": 223,
+     "h": 43,
+     "text": "4:30 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 755.4,
+     "w": 678,
+     "h": 54,
+     "text": "Opening prayer",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 156,
+     "y": 848,
+     "w": 928,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 862.3,
+     "w": 223,
+     "h": 43,
+     "text": "5:00 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 859.4,
+     "w": 678,
+     "h": 54,
+     "text": "Entrance of the celebrants",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 156,
+     "y": 952,
+     "w": 928,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 965.3,
+     "w": 223,
+     "h": 43,
+     "text": "5:30 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 962.4,
+     "w": 678,
+     "h": 54,
+     "text": "Toasts and speeches",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 156,
+     "y": 1055,
+     "w": 928,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 1068.3,
+     "w": 223,
+     "h": 43,
+     "text": "6:00 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 1065.4,
+     "w": 678,
+     "h": 54,
+     "text": "Dinner is served",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 156,
+     "y": 1158,
+     "w": 928,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 1172.3,
+     "w": 223,
+     "h": 43,
+     "text": "7:00 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 1169.4,
+     "w": 678,
+     "h": 54,
+     "text": "Dance floor opens",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "rect",
+     "x": 156,
+     "y": 1262,
+     "w": 928,
+     "h": 2,
+     "fill": "#E0C48E",
+     "opacity": 0.35
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 1275.3,
+     "w": 223,
+     "h": 43,
+     "text": "9:00 PM",
+     "family": "Red Hat Text",
+     "size": 32,
+     "weight": 700,
+     "color": "#E0C48E",
+     "lineHeight": 1.25,
+     "letterSpacing": 1,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 406,
+     "y": 1272.4,
+     "w": 678,
+     "h": 54,
+     "text": "Vote of thanks",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "lineHeight": 1.3
+    },
+    {
+     "kind": "text",
+     "x": 156,
+     "y": 1399.7,
+     "w": 928,
+     "h": 42,
+     "text": "RSVP: 0809 000 5517",
+     "family": "Red Hat Text",
+     "size": 29,
+     "weight": 400,
+     "color": "#B8AA91",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.35
+    }
+   ]
+  },
+  {
+   "name": "Thank you",
+   "bg": "#121110",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 0,
+     "w": 1240,
+     "h": 1754,
+     "fill": "#121110"
+    },
+    {
+     "kind": "rect",
+     "x": 45,
+     "y": 45,
+     "w": 1151,
+     "h": 1665,
+     "stroke": "#E0C48E",
+     "strokeWidth": 3.7
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 1111,
+     "h": 1625,
+     "stroke": "#E0C48E",
+     "strokeWidth": 1.7,
+     "opacity": 0.55
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 64,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       87
+      ],
+      [
+       107,
+       97
+      ],
+      [
+       97,
+       107
+      ],
+      [
+       87,
+       97
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 1089,
+     "y": 64,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 1168,
+     "y": 64,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1143,
+       87
+      ],
+      [
+       1153,
+       97
+      ],
+      [
+       1143,
+       107
+      ],
+      [
+       1133,
+       97
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1682,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 64,
+     "y": 1603,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       97,
+       1647
+      ],
+      [
+       107,
+       1657
+      ],
+      [
+       97,
+       1667
+      ],
+      [
+       87,
+       1657
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 1089,
+     "y": 1682,
+     "w": 87,
+     "h": 7,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "rect",
+     "x": 1168,
+     "y": 1603,
+     "w": 7,
+     "h": 87,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1143,
+       1647
+      ],
+      [
+       1153,
+       1657
+      ],
+      [
+       1143,
+       1667
+      ],
+      [
+       1133,
+       1657
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "ellipse",
+     "x": 611,
+     "y": 593,
+     "w": 138,
+     "h": 50,
+     "rotation": -160,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 603,
+     "y": 588,
+     "w": 138,
+     "h": 50,
+     "rotation": -136.67,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 597,
+     "y": 579,
+     "w": 154,
+     "h": 50,
+     "rotation": -113.33,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 595,
+     "y": 569,
+     "w": 168,
+     "h": 50,
+     "rotation": -90,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 597,
+     "y": 559,
+     "w": 154,
+     "h": 50,
+     "rotation": -66.67,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 603,
+     "y": 551,
+     "w": 138,
+     "h": 50,
+     "rotation": -43.33,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 611,
+     "y": 546,
+     "w": 138,
+     "h": 50,
+     "rotation": -20,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "ellipse",
+     "x": 598,
+     "y": 547,
+     "w": 44,
+     "h": 44,
+     "fill": "#E0C48E",
+     "stroke": "#121110",
+     "strokeWidth": 2.3
+    },
+    {
+     "kind": "ellipse",
+     "x": 611,
+     "y": 560,
+     "w": 18,
+     "h": 18,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 601.9,
+     "w": 952,
+     "h": 208,
+     "text": "Thank you",
+     "family": "Cormorant Garamond",
+     "size": 169,
+     "weight": 600,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 867.5,
+     "w": 952,
+     "h": 117,
+     "text": "Thank you for celebrating with us. Your\npresence is the greatest gift.",
+     "family": "Red Hat Text",
+     "size": 39,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 384,
+     "y": 1073,
+     "w": 215,
+     "h": 3,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       620.5,
+       1064
+      ],
+      [
+       631,
+       1074.5
+      ],
+      [
+       620.5,
+       1085
+      ],
+      [
+       610,
+       1074.5
+      ]
+     ],
+     "closed": true,
+     "fill": "#E0C48E",
+     "name": "Shape"
+    },
+    {
+     "kind": "rect",
+     "x": 641,
+     "y": 1073,
+     "w": 215,
+     "h": 3,
+     "fill": "#E0C48E"
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 1138.5,
+     "w": 952,
+     "h": 49,
+     "text": "Dress code: lilac & silver",
+     "family": "Red Hat Text",
+     "size": 33,
+     "weight": 600,
+     "color": "#B8AA91",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.4
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 1223.3,
+     "w": 952,
+     "h": 43,
+     "text": "RSVP: 0809 000 5517",
+     "family": "Red Hat Text",
+     "size": 30,
+     "weight": 700,
+     "color": "#E0C48E",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.35,
+     "letterSpacing": 3,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 144,
+     "y": 1298,
+     "w": 952,
+     "h": 57,
+     "text": "#Teniola26",
+     "family": "DM Serif Display",
+     "size": 44,
+     "weight": 400,
+     "color": "#F5E9D3",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.2
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n26",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 10 characters"
+  },
+  {
+   "node": "p0-n27",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n25",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 25 characters"
+  },
+  {
+   "node": "p0-n39",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 45 characters"
+  },
+  {
+   "node": "p0-n33",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 10 characters"
+  }
+ ]
+}

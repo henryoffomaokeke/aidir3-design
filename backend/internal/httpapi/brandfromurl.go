@@ -383,7 +383,7 @@ func brandFromURLHandler(studio *aistudio.Service, acct *accounts.Service) http.
 		}
 		ctx, cancel := context.WithTimeout(r.Context(), extractTimeout)
 		defer cancel()
-		res, err := fetchVetted(ctx, body.URL, "HyCanvas-Brand/1.0 (+brand kit draft)", "text/html")
+		res, err := fetchVetted(ctx, body.URL, "design-studio-brand/1.0 (+brand kit draft)", "text/html")
 		if err != nil {
 			// Computed detail (the SSRF gate's own reason); one code.
 			problemWithCode(w, r, http.StatusUnprocessableEntity, "Unprocessable Entity", err.Error(), "brand_from_url_failed")

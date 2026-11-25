@@ -29,19 +29,19 @@ func TestEnvBoolDefaultsAndOverrides(t *testing.T) {
 }
 
 func TestLoadAuthPolicyDefaultsPreserveBehavior(t *testing.T) {
-	// With nothing set, every method except magic-link signup is on, matching the
-	// behavior before the feature existed.
+	// With nothing set, password and OIDC sign-in are on. aidir3 fork: emailed
+	// sign-in links are off by default (upstream has the login half on).
 	t.Setenv("DATABASE_URL", "postgres://x") // satisfy the required check
 	c, err := Load()
 	if err != nil {
 		t.Fatalf("Load: %v", err)
 	}
 	p := c.Auth
-	if !(p.PasswordLogin && p.PasswordSignup && p.MagicLinkLogin && p.OidcLogin && p.OidcSignup) {
-		t.Errorf("default policy should have those five on: %+v", p)
+	if !(p.PasswordLogin && p.PasswordSignup && p.OidcLogin && p.OidcSignup) {
+		t.Errorf("default policy should have those four on: %+v", p)
 	}
-	if p.MagicLinkSignup {
-		t.Error("magic-link signup should default off (new behavior)")
+	if p.MagicLinkLogin || p.MagicLinkSignup {
+		t.Errorf("emailed sign-in links should default off in this fork: %+v", p)
 	}
 }
 

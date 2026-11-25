@@ -23,7 +23,7 @@ func mountAccount(api chi.Router, svc *accountdata.Service, acct *accounts.Servi
 			problemWithCode(w, r, http.StatusInternalServerError, "Internal Server Error", "could not export account", "could_not_export_account")
 			return
 		}
-		w.Header().Set("Content-Disposition", `attachment; filename="hycanvas-account.json"`)
+		w.Header().Set("Content-Disposition", `attachment; filename="aidir3-design-account.json"`)
 		writeJSON(w, http.StatusOK, bundle)
 	})
 

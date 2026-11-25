@@ -1,0 +1,516 @@
+{
+ "id": "a3-lib-flyer-services",
+ "title": "Business Services Flyer",
+ "categories": [
+  "flyers",
+  "business",
+  "print"
+ ],
+ "tags": [
+  "services",
+  "business",
+  "cleaning",
+  "flyer"
+ ],
+ "styleTags": [
+  "light",
+  "photo"
+ ],
+ "size": [
+  1240,
+  1754
+ ],
+ "rank": 60,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Figtree",
+   "weight": 800
+  },
+  {
+   "role": "body",
+   "family": "Figtree",
+   "weight": 700
+  }
+ ],
+ "pages": [
+  {
+   "name": "Page 1",
+   "bg": "#EFFAF5",
+   "nodes": [
+    {
+     "kind": "ellipse",
+     "x": 92,
+     "y": 92,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "sparkles",
+     "x": 111,
+     "y": 111,
+     "w": 36,
+     "h": 36,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 187,
+     "y": 84.4,
+     "w": 548,
+     "h": 73,
+     "text": "SparkleFresh Cleaning",
+     "family": "Figtree",
+     "size": 34,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 735,
+     "y": 84.8,
+     "w": 413,
+     "h": 73,
+     "text": "0803 555 0142",
+     "family": "Figtree",
+     "size": 32,
+     "weight": 700,
+     "color": "#14B87A",
+     "align": "right",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 214.1,
+     "w": 1056,
+     "h": 327,
+     "text": "Spotless homes\n& offices,\nevery time",
+     "family": "Figtree",
+     "size": 106,
+     "weight": 800,
+     "color": "#123026",
+     "lineHeight": 1
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 569,
+     "w": 1056,
+     "h": 95,
+     "text": "Vetted, insured cleaners across Lagos. Book in 60 seconds, pay after the job.",
+     "family": "Figtree",
+     "size": 34,
+     "weight": 400,
+     "color": "#557566",
+     "lineHeight": 1.35
+    },
+    {
+     "kind": "photo",
+     "x": 92,
+     "y": 716,
+     "w": 1056,
+     "h": 264,
+     "shape": "rect",
+     "radius": 32,
+     "fill": "#DDE6E2",
+     "name": "Photo: professional cleaner cleaning bright modern apartment"
+    },
+    {
+     "kind": "ellipse",
+     "x": 895,
+     "y": 751,
+     "w": 218,
+     "h": 218,
+     "fill": "#FFD166"
+    },
+    {
+     "kind": "text",
+     "x": 895,
+     "y": 744.1,
+     "w": 218,
+     "h": 218,
+     "text": "Since\n2016",
+     "family": "Figtree",
+     "size": 34,
+     "weight": 800,
+     "color": "#123026",
+     "align": "center",
+     "vAlign": "middle",
+     "lineHeight": 1.05
+    },
+    {
+     "kind": "text",
+     "x": 92,
+     "y": 1019.7,
+     "w": 1056,
+     "h": 46,
+     "text": "What we do",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 700,
+     "color": "#14B87A",
+     "vAlign": "middle",
+     "lineHeight": 1.15,
+     "letterSpacing": 5,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 92,
+     "y": 1090,
+     "w": 337,
+     "h": 207,
+     "fill": "#FFFFFF",
+     "radius": 25
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 1118,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "home",
+     "x": 136,
+     "y": 1134,
+     "w": 41,
+     "h": 41,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 1198.5,
+     "w": 282,
+     "h": 80,
+     "text": "Home deep clean",
+     "family": "Figtree",
+     "size": 29,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 1090,
+     "w": 337,
+     "h": 207,
+     "fill": "#FFFFFF",
+     "radius": 25
+    },
+    {
+     "kind": "ellipse",
+     "x": 479,
+     "y": 1118,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "home-2",
+     "x": 496,
+     "y": 1134,
+     "w": 41,
+     "h": 41,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 480,
+     "y": 1198.5,
+     "w": 282,
+     "h": 80,
+     "text": "Office cleaning",
+     "family": "Figtree",
+     "size": 29,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 811,
+     "y": 1090,
+     "w": 337,
+     "h": 207,
+     "fill": "#FFFFFF",
+     "radius": 25
+    },
+    {
+     "kind": "ellipse",
+     "x": 839,
+     "y": 1118,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "bed",
+     "x": 855,
+     "y": 1134,
+     "w": 41,
+     "h": 41,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 839,
+     "y": 1198.5,
+     "w": 282,
+     "h": 80,
+     "text": "Upholstery & rugs",
+     "family": "Figtree",
+     "size": 29,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 92,
+     "y": 1320,
+     "w": 337,
+     "h": 207,
+     "fill": "#FFFFFF",
+     "radius": 25
+    },
+    {
+     "kind": "ellipse",
+     "x": 120,
+     "y": 1348,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "droplet",
+     "x": 136,
+     "y": 1364,
+     "w": 41,
+     "h": 41,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 120,
+     "y": 1428.5,
+     "w": 282,
+     "h": 80,
+     "text": "Laundry & ironing",
+     "family": "Figtree",
+     "size": 29,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 452,
+     "y": 1320,
+     "w": 337,
+     "h": 207,
+     "fill": "#FFFFFF",
+     "radius": 25
+    },
+    {
+     "kind": "ellipse",
+     "x": 479,
+     "y": 1348,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "key",
+     "x": 496,
+     "y": 1364,
+     "w": 41,
+     "h": 41,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 480,
+     "y": 1428.5,
+     "w": 282,
+     "h": 80,
+     "text": "Move-in /\nmove-out",
+     "family": "Figtree",
+     "size": 29,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 811,
+     "y": 1320,
+     "w": 337,
+     "h": 207,
+     "fill": "#FFFFFF",
+     "radius": 25
+    },
+    {
+     "kind": "ellipse",
+     "x": 839,
+     "y": 1348,
+     "w": 73,
+     "h": 73,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "calendar",
+     "x": 855,
+     "y": 1364,
+     "w": 41,
+     "h": 41,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 839,
+     "y": 1428.5,
+     "w": 282,
+     "h": 80,
+     "text": "Weekly plans",
+     "family": "Figtree",
+     "size": 29,
+     "weight": 700,
+     "color": "#123026",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1582,
+     "w": 1240,
+     "h": 172,
+     "fill": "#14B87A"
+    },
+    {
+     "kind": "icon",
+     "icon": "phone",
+     "x": 92,
+     "y": 1648,
+     "w": 40,
+     "h": 40,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 154,
+     "y": 1629.7,
+     "w": 279,
+     "h": 64,
+     "text": "0803 555 0142",
+     "family": "Figtree",
+     "size": 28,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "mail",
+     "x": 444,
+     "y": 1648,
+     "w": 40,
+     "h": 40,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 506,
+     "y": 1630.8,
+     "w": 279,
+     "h": 64,
+     "text": "hi@sparklefresh.ng",
+     "family": "Figtree",
+     "size": 23,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "icon",
+     "icon": "world",
+     "x": 796,
+     "y": 1648,
+     "w": 40,
+     "h": 40,
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 858,
+     "y": 1629.9,
+     "w": 279,
+     "h": 64,
+     "text": "sparklefresh.ng",
+     "family": "Figtree",
+     "size": 27,
+     "weight": 500,
+     "color": "#FFFFFF",
+     "vAlign": "middle",
+     "lineHeight": 1.15
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n4",
+   "kind": "text",
+   "label": "Headline",
+   "hint": "Up to 45 characters"
+  },
+  {
+   "node": "p0-n2",
+   "kind": "text",
+   "label": "Subheading",
+   "hint": "Up to 30 characters"
+  },
+  {
+   "node": "p0-n5",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 95 characters"
+  },
+  {
+   "node": "p0-n8",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 15 characters"
+  },
+  {
+   "node": "p0-n3",
+   "kind": "text",
+   "label": "Text",
+   "hint": "Up to 20 characters"
+  }
+ ]
+}

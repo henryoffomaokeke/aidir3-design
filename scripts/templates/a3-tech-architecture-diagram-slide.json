@@ -1,0 +1,1905 @@
+{
+ "id": "a3-tech-architecture-diagram-slide",
+ "title": "AI System Architecture Diagram",
+ "categories": [
+  "technology",
+  "presentations",
+  "business"
+ ],
+ "tags": [
+  "architecture",
+  "diagram",
+  "ai",
+  "system design",
+  "rag",
+  "slide",
+  "engineering"
+ ],
+ "styleTags": [
+  "blueprint",
+  "light",
+  "diagram"
+ ],
+ "size": [
+  1920,
+  1080
+ ],
+ "rank": -971,
+ "created": "2026-11-25T00:00:00.000Z",
+ "typography": [
+  {
+   "role": "heading",
+   "family": "Archivo",
+   "weight": 700
+  },
+  {
+   "role": "body",
+   "family": "Archivo",
+   "weight": 400
+  },
+  {
+   "role": "label",
+   "family": "Red Hat Mono",
+   "weight": 600
+  }
+ ],
+ "pages": [
+  {
+   "name": "Architecture",
+   "bg": "#EEF4FB",
+   "nodes": [
+    {
+     "kind": "rect",
+     "x": 60,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 120,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 180,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 240,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 300,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 360,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 420,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 480,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 600,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 660,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 720,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 780,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 840,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 900,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 960,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1020,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1080,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1140,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1200,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1260,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1320,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1380,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1440,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1500,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1560,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1620,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1680,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1740,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1800,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 1860,
+     "y": 0,
+     "w": 1,
+     "h": 1080,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 60,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 120,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 180,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 240,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 300,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 360,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 420,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 480,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 540,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 600,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 660,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 720,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 780,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 840,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 900,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 960,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "rect",
+     "x": 0,
+     "y": 1020,
+     "w": 1920,
+     "h": 1,
+     "fill": "#E0E9F5"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 56,
+     "w": 900,
+     "h": 24,
+     "text": "Helix Assist · Platform architecture",
+     "family": "Red Hat Mono",
+     "size": 17,
+     "weight": 600,
+     "color": "#1D4ED8",
+     "letterSpacing": 2.5,
+     "upper": true
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 88,
+     "w": 1280,
+     "h": 64,
+     "text": "How a support request flows through the AI stack",
+     "family": "Archivo",
+     "size": 46,
+     "weight": 700,
+     "color": "#0B2545",
+     "lineHeight": 1.15
+    },
+    {
+     "kind": "text",
+     "x": 1404,
+     "y": 60,
+     "w": 420,
+     "h": 60,
+     "text": "Rev 2.3 · 18 Nov 2026\nOwner: Platform engineering",
+     "family": "Red Hat Mono",
+     "size": 16,
+     "weight": 400,
+     "color": "#4A607D",
+     "align": "right",
+     "lineHeight": 1.6
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 192,
+     "w": 280,
+     "h": 22,
+     "spans": [
+      {
+       "text": "01  ",
+       "color": "#1D4ED8"
+      },
+      {
+       "text": "Clients"
+      }
+     ],
+     "family": "Red Hat Mono",
+     "size": 16,
+     "weight": 600,
+     "color": "#4A607D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 224,
+     "w": 280,
+     "h": 2,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 516,
+     "y": 192,
+     "w": 280,
+     "h": 22,
+     "spans": [
+      {
+       "text": "02  ",
+       "color": "#1D4ED8"
+      },
+      {
+       "text": "Edge"
+      }
+     ],
+     "family": "Red Hat Mono",
+     "size": 16,
+     "weight": 600,
+     "color": "#4A607D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 516,
+     "y": 224,
+     "w": 280,
+     "h": 2,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 936,
+     "y": 192,
+     "w": 328,
+     "h": 22,
+     "spans": [
+      {
+       "text": "03  ",
+       "color": "#1D4ED8"
+      },
+      {
+       "text": "Orchestration"
+      }
+     ],
+     "family": "Red Hat Mono",
+     "size": 16,
+     "weight": 600,
+     "color": "#4A607D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 936,
+     "y": 224,
+     "w": 328,
+     "h": 2,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 1404,
+     "y": 192,
+     "w": 420,
+     "h": 22,
+     "spans": [
+      {
+       "text": "04  ",
+       "color": "#1D4ED8"
+      },
+      {
+       "text": "Models, data and tools"
+      }
+     ],
+     "family": "Red Hat Mono",
+     "size": 16,
+     "weight": 600,
+     "color": "#4A607D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "rect",
+     "x": 1404,
+     "y": 224,
+     "w": 420,
+     "h": 2,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       376,
+       322
+      ],
+      [
+       446,
+       322
+      ],
+      [
+       446,
+       512
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       376,
+       702
+      ],
+      [
+       446,
+       702
+      ],
+      [
+       446,
+       512
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       376,
+       512
+      ],
+      [
+       502,
+       512
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       516,
+       512
+      ],
+      [
+       499,
+       503
+      ],
+      [
+       499,
+       521
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "ellipse",
+     "x": 440,
+     "y": 506,
+     "w": 12,
+     "h": 12,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 452,
+     "y": 478,
+     "w": 60,
+     "h": 22,
+     "text": "HTTPS",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#4A607D",
+     "align": "center"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       796,
+       512
+      ],
+      [
+       922,
+       512
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       936,
+       512
+      ],
+      [
+       919,
+       503
+      ],
+      [
+       919,
+       521
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 796,
+     "y": 478,
+     "w": 140,
+     "h": 22,
+     "text": "gRPC",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#4A607D",
+     "align": "center"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1264,
+       512
+      ],
+      [
+       1390,
+       512
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1404,
+       512
+      ],
+      [
+       1387,
+       503
+      ],
+      [
+       1387,
+       521
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1334,
+       512
+      ],
+      [
+       1334,
+       322
+      ],
+      [
+       1390,
+       322
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1404,
+       322
+      ],
+      [
+       1387,
+       313
+      ],
+      [
+       1387,
+       331
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1334,
+       512
+      ],
+      [
+       1334,
+       702
+      ],
+      [
+       1390,
+       702
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1404,
+       702
+      ],
+      [
+       1387,
+       693
+      ],
+      [
+       1387,
+       711
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "ellipse",
+     "x": 1328,
+     "y": 506,
+     "w": 12,
+     "h": 12,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 1338,
+     "y": 288,
+     "w": 62,
+     "h": 22,
+     "text": "LLM",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#4A607D",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 1338,
+     "y": 478,
+     "w": 62,
+     "h": 22,
+     "text": "RAG",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#4A607D",
+     "align": "center"
+    },
+    {
+     "kind": "text",
+     "x": 1338,
+     "y": 668,
+     "w": 62,
+     "h": 22,
+     "text": "MCP",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#4A607D",
+     "align": "center"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       656,
+       637
+      ],
+      [
+       656,
+       812
+      ]
+     ],
+     "stroke": "#D97706",
+     "strokeWidth": 2.5,
+     "cap": "butt",
+     "dash": [
+      9,
+      7
+     ]
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       656,
+       828
+      ],
+      [
+       647,
+       811
+      ],
+      [
+       665,
+       811
+      ]
+     ],
+     "closed": true,
+     "fill": "#D97706"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1100,
+       657
+      ],
+      [
+       1100,
+       812
+      ]
+     ],
+     "stroke": "#D97706",
+     "strokeWidth": 2.5,
+     "cap": "butt",
+     "dash": [
+      9,
+      7
+     ]
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1100,
+       828
+      ],
+      [
+       1091,
+       811
+      ],
+      [
+       1109,
+       811
+      ]
+     ],
+     "closed": true,
+     "fill": "#D97706"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1614,
+       772
+      ],
+      [
+       1614,
+       812
+      ]
+     ],
+     "stroke": "#D97706",
+     "strokeWidth": 2.5,
+     "cap": "butt",
+     "dash": [
+      9,
+      7
+     ]
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       1614,
+       828
+      ],
+      [
+       1605,
+       811
+      ],
+      [
+       1623,
+       811
+      ]
+     ],
+     "closed": true,
+     "fill": "#D97706"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 252,
+     "w": 280,
+     "h": 140,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 118,
+     "y": 302,
+     "w": 40,
+     "h": 40,
+     "icon": "device-desktop",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 174,
+     "y": 284,
+     "w": 196,
+     "h": 34,
+     "text": "Web app",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 174,
+     "y": 324,
+     "w": 198,
+     "h": 26,
+     "text": "Browser, SSE streaming",
+     "family": "Archivo",
+     "size": 16,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 442,
+     "w": 280,
+     "h": 140,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 118,
+     "y": 492,
+     "w": 40,
+     "h": 40,
+     "icon": "device-mobile",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 174,
+     "y": 474,
+     "w": 196,
+     "h": 34,
+     "text": "Mobile SDK",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 174,
+     "y": 514,
+     "w": 198,
+     "h": 26,
+     "text": "Native, offline queue",
+     "family": "Archivo",
+     "size": 16,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 96,
+     "y": 632,
+     "w": 280,
+     "h": 140,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 118,
+     "y": 682,
+     "w": 40,
+     "h": 40,
+     "icon": "message",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 174,
+     "y": 664,
+     "w": 196,
+     "h": 34,
+     "text": "Chat channels",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 174,
+     "y": 704,
+     "w": 198,
+     "h": 26,
+     "text": "Workspace chat bots",
+     "family": "Archivo",
+     "size": 16,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 516,
+     "y": 387,
+     "w": 280,
+     "h": 250,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 540,
+     "y": 409,
+     "w": 38,
+     "h": 38,
+     "icon": "shield",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 540,
+     "y": 451,
+     "w": 240,
+     "h": 36,
+     "text": "API gateway",
+     "family": "Archivo",
+     "size": 26,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 503,
+     "w": 232,
+     "h": 2,
+     "fill": "#DBEAFE"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 531,
+     "w": 8,
+     "h": 8,
+     "fill": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 519,
+     "w": 220,
+     "h": 28,
+     "text": "OIDC authentication",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 565,
+     "w": 8,
+     "h": 8,
+     "fill": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 553,
+     "w": 220,
+     "h": 28,
+     "text": "Per-tenant rate limits",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 540,
+     "y": 599,
+     "w": 8,
+     "h": 8,
+     "fill": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 560,
+     "y": 587,
+     "w": 220,
+     "h": 28,
+     "text": "PII redaction",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 936,
+     "y": 367,
+     "w": 328,
+     "h": 290,
+     "fill": "#1D4ED8",
+     "radius": 12
+    },
+    {
+     "kind": "icon",
+     "x": 962,
+     "y": 391,
+     "w": 40,
+     "h": 40,
+     "icon": "sparkles",
+     "color": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 962,
+     "y": 435,
+     "w": 290,
+     "h": 38,
+     "text": "Agent orchestrator",
+     "family": "Archivo",
+     "size": 27,
+     "weight": 700,
+     "color": "#FFFFFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 962,
+     "y": 489,
+     "w": 276,
+     "h": 2,
+     "fill": "#5B82EA"
+    },
+    {
+     "kind": "rect",
+     "x": 962,
+     "y": 517,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 982,
+     "y": 505,
+     "w": 270,
+     "h": 28,
+     "text": "Plans and tracks each step",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#E3ECFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 962,
+     "y": 551,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 982,
+     "y": 539,
+     "w": 270,
+     "h": 28,
+     "text": "Keeps session memory",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#E3ECFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 962,
+     "y": 585,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 982,
+     "y": 573,
+     "w": 270,
+     "h": 28,
+     "text": "Applies guardrails",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#E3ECFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 962,
+     "y": 619,
+     "w": 8,
+     "h": 8,
+     "fill": "#FFFFFF"
+    },
+    {
+     "kind": "text",
+     "x": 982,
+     "y": 607,
+     "w": 270,
+     "h": 28,
+     "text": "Streams the answer back",
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#E3ECFF",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1404,
+     "y": 252,
+     "w": 420,
+     "h": 140,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 1428,
+     "y": 302,
+     "w": 40,
+     "h": 40,
+     "icon": "compass",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 1486,
+     "y": 268,
+     "w": 320,
+     "h": 34,
+     "text": "Model router",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1486,
+     "y": 306,
+     "w": 326,
+     "h": 56,
+     "text": "Picks a model by task, cost and\nlatency; self-hosted fallback",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A607D",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 1404,
+     "y": 442,
+     "w": 420,
+     "h": 140,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 1428,
+     "y": 492,
+     "w": 40,
+     "h": 40,
+     "icon": "database",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 1486,
+     "y": 458,
+     "w": 320,
+     "h": 34,
+     "text": "Vector store",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1486,
+     "y": 496,
+     "w": 326,
+     "h": 56,
+     "text": "4.2M document chunks, hybrid\nsearch, top 8 re-ranked",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A607D",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "rect",
+     "x": 1404,
+     "y": 632,
+     "w": 420,
+     "h": 140,
+     "fill": "#FFFFFF",
+     "radius": 12,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "icon",
+     "x": 1428,
+     "y": 682,
+     "w": 40,
+     "h": 40,
+     "icon": "puzzle",
+     "color": "#1D4ED8"
+    },
+    {
+     "kind": "text",
+     "x": 1486,
+     "y": 648,
+     "w": 320,
+     "h": 34,
+     "text": "Tool servers",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 1486,
+     "y": 686,
+     "w": 326,
+     "h": 56,
+     "text": "MCP: CRM, billing, order lookup;\nwrites need approval",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#4A607D",
+     "lineHeight": 1.45
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       516,
+       828
+      ],
+      [
+       1824,
+       828
+      ],
+      [
+       1824,
+       928
+      ],
+      [
+       516,
+       928
+      ]
+     ],
+     "closed": true,
+     "fill": "#FFF6E5",
+     "stroke": "#D97706",
+     "strokeWidth": 2,
+     "dash": [
+      10,
+      8
+     ],
+     "cap": "butt"
+    },
+    {
+     "kind": "icon",
+     "x": 540,
+     "y": 858,
+     "w": 40,
+     "h": 40,
+     "icon": "eye",
+     "color": "#D97706"
+    },
+    {
+     "kind": "text",
+     "x": 594,
+     "y": 842,
+     "w": 280,
+     "h": 36,
+     "text": "Observability",
+     "family": "Archivo",
+     "size": 25,
+     "weight": 700,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 594,
+     "y": 880,
+     "w": 290,
+     "h": 26,
+     "text": "Every hop emits telemetry",
+     "family": "Archivo",
+     "size": 16,
+     "weight": 400,
+     "color": "#4A607D",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 912,
+     "y": 850,
+     "w": 282,
+     "h": 56,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E9B565",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 912,
+     "y": 847,
+     "w": 282,
+     "h": 56,
+     "spans": [
+      {
+       "text": "Traces  ",
+       "weight": 700,
+       "color": "#0B2545"
+      },
+      {
+       "text": "OpenTelemetry",
+       "color": "#4A607D"
+      }
+     ],
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#0B2545",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1210,
+     "y": 850,
+     "w": 282,
+     "h": 56,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E9B565",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 1210,
+     "y": 847,
+     "w": 282,
+     "h": 56,
+     "spans": [
+      {
+       "text": "Evals  ",
+       "weight": 700,
+       "color": "#0B2545"
+      },
+      {
+       "text": "nightly regression",
+       "color": "#4A607D"
+      }
+     ],
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#0B2545",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 1508,
+     "y": 850,
+     "w": 282,
+     "h": 56,
+     "fill": "#FFFFFF",
+     "radius": 8,
+     "stroke": "#E9B565",
+     "strokeWidth": 1.5
+    },
+    {
+     "kind": "text",
+     "x": 1508,
+     "y": 847,
+     "w": 282,
+     "h": 56,
+     "spans": [
+      {
+       "text": "Cost  ",
+       "weight": 700,
+       "color": "#0B2545"
+      },
+      {
+       "text": "tokens per tenant",
+       "color": "#4A607D"
+      }
+     ],
+     "family": "Archivo",
+     "size": 18,
+     "weight": 400,
+     "color": "#0B2545",
+     "align": "center",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "text",
+     "x": 96,
+     "y": 828,
+     "w": 280,
+     "h": 20,
+     "text": "Legend",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 600,
+     "color": "#4A607D",
+     "letterSpacing": 2,
+     "upper": true
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       96,
+       872
+      ],
+      [
+       136,
+       872
+      ]
+     ],
+     "stroke": "#0B2545",
+     "strokeWidth": 3,
+     "cap": "butt"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       152,
+       872
+      ],
+      [
+       135,
+       863
+      ],
+      [
+       135,
+       881
+      ]
+     ],
+     "closed": true,
+     "fill": "#0B2545"
+    },
+    {
+     "kind": "text",
+     "x": 172,
+     "y": 856,
+     "w": 200,
+     "h": 26,
+     "text": "Request path",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "path",
+     "points": [
+      [
+       96,
+       904
+      ],
+      [
+       152,
+       904
+      ]
+     ],
+     "stroke": "#D97706",
+     "strokeWidth": 2.5,
+     "cap": "butt",
+     "dash": [
+      9,
+      7
+     ]
+    },
+    {
+     "kind": "text",
+     "x": 172,
+     "y": 888,
+     "w": 200,
+     "h": 26,
+     "text": "Telemetry",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 98,
+     "y": 926,
+     "w": 52,
+     "h": 20,
+     "fill": "#1D4ED8",
+     "radius": 4
+    },
+    {
+     "kind": "text",
+     "x": 172,
+     "y": 920,
+     "w": 200,
+     "h": 26,
+     "text": "Core service",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 98,
+     "y": 958,
+     "w": 52,
+     "h": 20,
+     "fill": "#FFFFFF",
+     "radius": 4,
+     "stroke": "#0B2545",
+     "strokeWidth": 2
+    },
+    {
+     "kind": "text",
+     "x": 172,
+     "y": 952,
+     "w": 200,
+     "h": 26,
+     "text": "Platform component",
+     "family": "Archivo",
+     "size": 17,
+     "weight": 400,
+     "color": "#0B2545",
+     "vAlign": "middle"
+    },
+    {
+     "kind": "rect",
+     "x": 516,
+     "y": 968,
+     "w": 1308,
+     "h": 1,
+     "fill": "#C7D6EA"
+    },
+    {
+     "kind": "text",
+     "x": 516,
+     "y": 984,
+     "w": 1000,
+     "h": 22,
+     "text": "Latency budget: p95 end to end 2.4 s   ·   Availability target 99.95%   ·   Data residency: EU",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#4A607D"
+    },
+    {
+     "kind": "text",
+     "x": 1524,
+     "y": 984,
+     "w": 300,
+     "h": 22,
+     "text": "Internal · Page 4",
+     "family": "Red Hat Mono",
+     "size": 15,
+     "weight": 400,
+     "color": "#4A607D",
+     "align": "right"
+    }
+   ]
+  }
+ ],
+ "fillable": [
+  {
+   "node": "p0-n48",
+   "kind": "text",
+   "label": "Kicker",
+   "hint": "Product and document type"
+  },
+  {
+   "node": "p0-n49",
+   "kind": "text",
+   "label": "Slide title",
+   "hint": "Up to 50 characters"
+  },
+  {
+   "node": "p0-n98",
+   "kind": "text",
+   "label": "Gateway box title",
+   "hint": "Up to 16 characters"
+  },
+  {
+   "node": "p0-n108",
+   "kind": "text",
+   "label": "Core service title",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n120",
+   "kind": "text",
+   "label": "Model router title",
+   "hint": "Up to 20 characters"
+  },
+  {
+   "node": "p0-n151",
+   "kind": "text",
+   "label": "Footer note",
+   "hint": "Key service targets"
+  }
+ ]
+}

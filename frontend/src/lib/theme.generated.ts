@@ -2,31 +2,31 @@
 // Edit colors in src/theme.config.mjs, then run `npm run gen:theme`.
 
 export const brand = {
-  "50": "#FBEFF7",
-  "100": "#F6DDEE",
-  "200": "#EDBBDC",
-  "300": "#E195C7",
-  "400": "#CF67A8",
-  "500": "#B73E88",
-  "600": "#9B2C72",
-  "700": "#7E2059",
-  "800": "#681A49",
-  "900": "#54163B",
-  "950": "#3E1030",
+  "50": "#FFF4EE",
+  "100": "#FFE8DC",
+  "200": "#FFD3BD",
+  "300": "#FFB894",
+  "400": "#FF9A66",
+  "500": "#FF7A3D",
+  "600": "#FF5A1F",
+  "700": "#C2410C",
+  "800": "#9A3412",
+  "900": "#7C2D12",
+  "950": "#431407",
 } as const;
 
 export const accent = {
-  "50": "#FCEAF4",
-  "100": "#FAD5E9",
-  "200": "#F4AFD3",
-  "300": "#EE8FC2",
-  "400": "#E07AB8",
-  "500": "#D6409A",
-  "600": "#B82F80",
-  "700": "#8E2563",
-  "800": "#6B1C4A",
-  "900": "#4F1537",
-  "950": "#350D24",
+  "50": "#FFF7ED",
+  "100": "#FFEDD5",
+  "200": "#FED7AA",
+  "300": "#FDBA74",
+  "400": "#FFAE6B",
+  "500": "#FB923C",
+  "600": "#F97316",
+  "700": "#C2410C",
+  "800": "#9A3412",
+  "900": "#7C2D12",
+  "950": "#431407",
 } as const;
 
 /** Editor canvas overlay colors (React-rendered SVG/CSS overlays; the engine
